@@ -3,7 +3,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="📡 REKLAMA" tvg-logo="https://suzukantv.at.ua/LOGO/suzustv-icon.ico",DILSHOD TV
 https://v2.catcast.tv/videos/ch38963/110220220628_125335/video.mp4
-#EXTINF:-1 group-title="📡 REKLAMA" tvg-logo="https://i.postimg.cc/tJKncYS4/dilshod-tv-xizmati.jpg",Men siz bilan 👍
+#EXTINF:-1 group-title="📡 REKLAMA" tvg-logo="https://i.postimg.cc/tJKncYS4/dilshod-tv-xizmati.jpg",Doimo siz bilan 👍
 https://files.catbox.moe/uaqbv7.mp4
 #EXTINF:-1 group-title="📡 REKLAMA" tvg-logo="https://i.postimg.cc/Hn04bq9r/44444383-68abe79051cfd.jpg",Tel: 88-704-93-87
 http://rafail1982.uz/nexo2.mp4
@@ -79,10 +79,10 @@ https://stream8.cinerama.uz/1017/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg",Ruxsor TV HD
 https://stream8.cinerama.uz/4008/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://cdn.splay.uz/media/tv_channels/220.png" ,Qiziq TV
-https://stream8.cinerama.uz/1291/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/09-2025/8855.jpg", Retro TV 
-https://stream8.cinerama.uz/1290/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://cdn.splay.uz/media/tv_channels/220.png" ,Qiziq TV boshqa
+https://s7.iptv-24.net/1291/index.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/09-2025/8855.jpg", Retro TV boshqa
+https://s7.iptv-24.net/1290/index.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//91c58d573e4a8e351e68a0ebcbe724ab-q-500x500.jpeg", ITV Cinema HD
 https://stream8.cinerama.uz/4000/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//27d9324713264f6d8c4cc6986cf4ae86-q-500x500.jpeg", ITV Music HD
