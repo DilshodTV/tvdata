@@ -3281,6 +3281,22 @@ http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
 http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",BCU Stars HD
 http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺", PG_Premium_HD
+http://hls127.freeott.top:8080/PG_Premium_HD/mono.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺", PG_Premiere_HD
+http://hls127.freeott.top:8080/PG_Premiere_HD/mono.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺", PG_Paradise_HD
+http://hls127.freeott.top:8080/PG_Paradise_HD/mono.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺", PG_Thriller_HD
+http://hls127.freeott.top:8080/PG_Thriller_HD/mono.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺", PG_Paradox_HD
+http://hls127.freeott.top:8080/PG_Paradox_HD/mono.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺", PG_USSR_HD
+http://hls127.freeott.top:8080/PG_USSR_HD/mono.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺",PG_VHS_HD 
+http://hls127.freeott.top:8080/PG_VHS_HD/mono.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺", PG_Insomnia_HD
+http://hls127.freeott.top:8080/PG_Insomnia_HD/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",MM Скорость HD
 http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",MM Translation HD
