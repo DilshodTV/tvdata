@@ -326,6 +326,8 @@ http://31.192.249.68:8080/0.m3u8
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/balapan.png",Balapan International
 https://qazaqstantv-stream.qazcdn.com/international/balapan/playlist.m3u8
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.imgur.com/o0eevnb.png",Zarok TV Sorani
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.postimg.cc/XvYC4Ff4/Screenshot-1.jpg",Salem Alem KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Nick JR Mult KZ
