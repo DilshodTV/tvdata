@@ -3148,25 +3148,21 @@ http://timeshift.arpinet.am/237/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/kino-premium-hd-orig.png",Премиальное HD
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/ostrosujetnoe-hd-orig.png",Остросюжетное HD
-
+http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/904/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/hit-hd-orig.png",Хит HD
 http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",Наш Киномир
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/kion-hit-hd.png",KION Хит HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",Кинозалы
-
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/uzhasy-hd.png",Кинозалы Ужасы HD
-
+http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20211/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",Киносат
-
+https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="blokbaster-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/blokbaster-hd-orig.png",Блокбастер HD
-
+http://cdn.kubteltv.workers.dev/?ID=219
 #EXTINF:-1 group-title="KINO_TV 📺"  tvg-name="romance" tvg-logo="https://iptvx.one/picons/romance.png",Romance
-
+https://kino.zunotv.workers.dev/romance_hd/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/suspense-hd.png",Suspense HD
-
+https://kino.zunotv.workers.dev/suspense_hd/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",Киносезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",Epic Drama
