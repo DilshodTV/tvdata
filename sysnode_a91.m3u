@@ -118,7 +118,7 @@ https://s7.iptv-24.net/1204/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿",Gold TV
 https://s7.iptv-24.net/4007/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg",Farg'ona MTRK
-http://s8.rafail1982.uz/1458/tracks-v1a1/mono.m3u8
+https://s7.iptv-24.net/1458/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//595b563167b272fbeb4caff0c27a1581-q-500x500.jpeg", Andijon MTRK
 https://s7.iptv-24.net/1457/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//05d8f97e2f2b552b2fea0b05a78c42b9-q-500x500.jpeg", Namangan MTRK
@@ -146,16 +146,16 @@ https://s7.iptv-24.net/1459/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//95e6300e134acd2a9f037ce3c3887158-q-500x500.jpeg", Navoiy MTRK
 https://s7.iptv-24.net/1460/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//a0534f66a3cce9a795ff7027b1a23c94-q-500x500.jpeg",Surxondaryo MTRK
-http://s8.rafail1982.uz/1463/tracks-v1a1/mono.m3u8
+https://s7.iptv-24.net/1463/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/03/25//2930662a99d6931a690adbfe650f5e49-q-500x500.jpeg", Denov TV
 https://stream9.itv.uz/t/pMpAGyvvk_Dzc29N8RZCFw/e/1759837272/1499/tracks-v1a1/timeshift_rel-2473.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿"tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//52d247a1c7a06b96f9092d614b939f7c-q-500x500.jpeg",Qashqadaryo MTRK
 https://s7.iptv-24.net/1461/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/30//4a675cfc1ca9fc523519e8154c67f3a4-q-500x500.jpeg" group-title="Uzbekistan_TV 🇺🇿",Nasaf TV UZ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://s8.rafail1982.uz/2025/tracks-v1a1/mono.m3u8
+https://s7.iptv-24.net/2025/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://m3u.usite.pro/tv/xor.jpeg",Xorazm MTRK
-http://s8.rafail1982.uz/1464/tracks-v1a1/mono.m3u8
+https://s7.iptv-24.net/1464/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg", 8TV
 https://s7.iptv-24.net/1496/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/18//4d3cca95cc849ef5cb15e9a397316622-q-500x500.jpeg", TTV Musiqa
@@ -165,7 +165,7 @@ https://s7.iptv-24.net/1494/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/18//9421425ce5dc3385aac7fd42c2273223-q-500x500.jpeg", TTV Кино
 https://s7.iptv-24.net/1486/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://m3u.usite.pro/tv/qaraqal.webp",Qaraqalpaqstan MTRK
-http://s8.rafail1982.uz/1467/tracks-v1a1/mono.m3u8
+https://s7.iptv-24.net/1467/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//bffc77f6b96e90ba72634340afe2d28f-q-500x500.jpeg",Amudaryo TV
 https://s7.iptv-24.net/1491/playlist.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//5e1500c4d1b9595a50ad350cee8cd647-q-500x500.jpeg", Ellikqala ТV
@@ -5659,5 +5659,4 @@ http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://hitfm.kg/wp-content/uploads/2022/09/img_20220905_191604_973-e1662955893461.png",Хит FM
 http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://www.prfm.ru/logo/mayak-logo.png",Радио Маяк
-
 
