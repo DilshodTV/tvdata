@@ -3,7 +3,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="📡 REKLAMA" tvg-logo="https://suzukantv.at.ua/LOGO/suzustv-icon.ico",DILSHOD TV
 https://v2.catcast.tv/videos/ch38963/110220220628_125335/video.mp4
-#EXTINF:-1 group-title="📡 REKLAMA" tvg-logo="https://i.postimg.cc/tJKncYS4/dilshod-tv-xizmati.jpg",Doimo siz bilan 👍
+#EXTINF:-1 group-title="📡 REKLAMA" tvg-logo="https://i.postimg.cc/tJKncYS4/dilshod-tv-xizmati.jpg",Doim siz bilan 👍
 https://files.catbox.moe/uaqbv7.mp4
 #EXTINF:-1 group-title="📡 REKLAMA" tvg-logo="https://i.postimg.cc/Hn04bq9r/44444383-68abe79051cfd.jpg",Tel: 88-704-93-87
 http://rafail1982.uz/nexo2.mp4
@@ -197,7 +197,7 @@ https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://raw.githubusercontent.com/unixlinuxgeek/logos/main/iptv/MTRK.png",МТРК Петропавл
 https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-id="621" tvg-name="Ала-тоо 24" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/6211.jpg",Ала-тоо 24
-http://live.mediabaytv.workers.dev/?ID=621
+
 #EXTINF:0 group-title="Kazakistan_TV 🇰🇿" tvg-id="atameken-business" tvg-logo="https://iptvx.one/picons/atameken-business.png",Atameken Business
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿"  tvg-logo="https://s9.vcdn.biz/static/f/2293960041/image.jpg",КТК KZ
@@ -217,13 +217,13 @@ https://tvcdn01.oktv.kz/tv/mir/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/tvoyo-tv-kz.png",Твоё ТВ KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://tvtvtv.ru/icons/tv1_kg.png",TV 1 KG (Бишкек)
-http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.ibb.co/3y8rPhPS/image-17.png",312 КИНО HD
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.ibb.co/3y8rPhPS/image-17.png",312 Сериал
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://www.lyngsat.com/logo/tv/mm/manas-tv-kg.png",Manas TV KZ HD
-http://212.42.111.152:8080/hls/manas.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/5kanal-karaganda.png",5 канал (Караганда)
 
 #EXTINF:0 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/7kanal-kz.png",7 канал
@@ -363,7 +363,7 @@ https://stream.qazcdn.net/ex6r514/silkwaycinema/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://veranzo.ru/other/icons/Silk Way.png",Silk Way TV KZ
 https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿"  tvg-logo="https://iptvx.one/picons/silkway.png",Silk Way KG
-http://pop3.akamaized.net/SilkwayKyrgyz.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://cdn02.qazaqstan.tv/350x/regional/logo-web-mult.png",Qazaqstan Mult
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://qaztv.kz/api/v1/media/channel_logos/Logo_Ulttyq_Oner_v3eL7Bp.png",Ulttyq Oner SD
@@ -412,7 +412,7 @@ https://otv.wotom.net/ksk/stream.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶",Мульт HD
 https://s7.iptv-24.net/1246/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶",Мультиландия
-https://s7.iptv-24.net/1440/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Multik_TV 🐶",Мама
 https://s7.iptv-24.net/1244/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶",Ani
@@ -433,13 +433,10 @@ https://live20.bozztv.com/giatvplayout7/ushba79/tracks-v1a1/mono.ts.m3u8
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶"  tvg-logo="https://static.hdrezka.ac/i/2025/8/13/o6316743c5fbfwx92y17j.jpg",Mr Bean Animé
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
-#EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="https://i.imgur.com/B29D2s1.png",Cartoonito
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://88.216.112.114/Cartoonito/index.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶",Уникум
 https://s7.iptv-24.net/1033/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶",Капитан Фантастика HD
-https://stream2.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+https://s7.iptv-24.net/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="http://rafail1982.uz/logo/Детский мир.png" ,Детский мир
 
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="http://rafail1982.uz/logo/1HD.png",О!
@@ -451,7 +448,6 @@ http://158.160.149.81:8080/269/index.m3u8
 
 #EXTINF:-1 group-title="Multik_TV 🐶", 2x2
 http://176.118.197.101/2x2/index.m3u8
-
 #EXTINF:-1 group-title="Multik_TV 🐶",Baby Time
 
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="http://i.imgur.com/abh8ZBA.png",Multimania
@@ -487,10 +483,10 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 https://v2.catcast.tv/content/34251/index.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Мамонтёнок ТВ
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Multik_TV 🐶",CPS Anime HD
-http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶",CPS Cartoon HD
 http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
+#EXTINF:-1 group-title="Multik_TV 🐶",CPS Anime HD
+http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶", BOX Anime HD
 http://hls127.freeott.top:8080/box_anime_hd/video.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="https://s.rbk.ru/v1_companies_s3/media/trademarks/17a7591c-5efa-4867-a4a9-99f58ebe3155.jpg",Мульт музыка
@@ -938,7 +934,7 @@ https://mults.info/mp4/rovno_v_3_15.mp4
 https://mults.info/mp4/tri_drovoseka.mp4
 #EXTINF:-1 tvg-name="45.Жирафа и очки" tvg-logo="https://images.vfl.ru/ii/1620122564/af151fa7/34321684.jpg" group-title="Multik_TV 🐶",💽45.Жирафа и очки
 https://mults.info/mp4/zhirafa_i_ochki.mp4
-#EXTINF:-1 tvg-name="47.Огневушка-поскакушка" tvg-logo="https://images.vfl.ru/ii/1620122564/af151fa7/34321684.jpg" group-title="Multik_TV 🐶",💽47.Огневушка-поскакушка
+#EXTINF:-1 tvg-name="47.Огневушка-поскакушка" tvg-logo="https://images.vfl.ru/ii/1620122564/af151fa7/34321684.jpg" group-title="Multik_TV 🐶",💽47.Огневушка поскакушка
 https://mults.info/mp4/ognevushka_poskakushka.mp4
 #EXTINF:-1 tvg-name="48.Веселый огород" tvg-logo="https://images.vfl.ru/ii/1620122564/af151fa7/34321684.jpg" group-title="Multik_TV 🐶",💽48.Веселый огород
 https://mults.info/mp4/veselyi_ogorod.mp4
@@ -1883,7 +1879,7 @@ http://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Светлое ТВ
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Da Vinci
-https://s7.iptv-24.net/1231/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Epic HD
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="https://iptvx.one/picons/lapki-live.png",Лапки Live
@@ -1919,11 +1915,11 @@ https://a3569457567-s70378.cdn.ngenix.net/history/1/index.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://s06.wsbof.com:8080/streams/h2-hd.png",History 2 HD
 https://a3569457567-s70378.cdn.ngenix.net/history_2/1/index.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Viasat History
-https://s7.iptv-24.net/1046/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Viasat Explore
-https://s7.iptv-24.net/1045/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Viasat Nature HD
-https://s7.iptv-24.net/1228/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Dunyo_TV 🌎",NAT GEO WILD
 https://s7.iptv-24.net/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",National Geographic
@@ -1939,7 +1935,7 @@ http://dmitry-tv.ddns.net/hls/CH_CGTN_DOCUMENTARYHD720.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Travel HD
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="https://i.imgur.com/AlpdXC4.png",Travel+Adventure 
-https://telluri.ru/video/tr-and/964.m3u8
+
 #EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://rafail1982.uz/logo/Глазами туриста HD.png",Глазами туриста 
 https://s7.iptv-24.net/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",DocuBox
@@ -1981,7 +1977,7 @@ http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Deutsche Welle
 https://s7.iptv-24.net/1418/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Terra HD
-https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
+
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Приключения 
 https://s7.iptv-24.net/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Загородный
@@ -2012,8 +2008,6 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Доктор
 https://s7.iptv-24.net/1409/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg__JjYC2k2Ix74SUNvE3hvsBpmWE1NxsBRDydRDPnfESNlWHmXeeuPrgd-SiUSAfJlFZD3g8lcJghyphenhyphentyJYC9ywUFSpNxiFIZMVMOx13gOpJs7_sdOOaqMjYZcx3aDAbpJikdQE-5vWsbw/s1600/Fuel+logo+April+2011.png",Fuel TV (RU)
-https://s7.iptv-24.net/1280/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Драйв
 https://s7.iptv-24.net/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Инсайт ТВ HD
@@ -2025,7 +2019,7 @@ https://s7.iptv-24.net/1430/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Первый автомобильный
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Curiosity Stream HD
-https://telluri.ru/video/vod/994.m3u8
+
 #EXTINF:-1 group-title="Dunyo_TV 🌎",The Explorers HD
 
 
@@ -2043,7 +2037,7 @@ http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Планета
-https://s7.iptv-24.net/1049/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Страна HD
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
@@ -2065,12 +2059,8 @@ http://43a94a5e.amazzin.pw/iptv/ECGM77FWEMMA46/10027/index.m3u8
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 1 HD
 https://s7.iptv-24.net/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/11/28//cd455bf9d26fe6786d1c7db4fd8bf351-q-500x500.jpeg",Setanta Sports 1 boshqa
-https://s7.iptv-24.net/7263/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 2 HD
-https://s7.iptv-24.net/7264/index.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/11/28//5170b24fea2735ad4fbf3f1df1b16f15-q-500x500.jpeg",Setanta Sports 2 boshqa
-https://s7.iptv-24.net/7264/index.m3u8
+https://s7.iptv-24.net/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta 2 HD GEO
 http://94.43.1.138:8081/setanta2/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-plus-ua-hd-orig.png",Setanta Sports 1 UA HD
