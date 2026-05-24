@@ -2059,6 +2059,8 @@ http://43a94a5e.amazzin.pw/iptv/ECGM77FWEMMA46/10027/index.m3u8
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 1 HD
 https://s7.iptv-24.net/1263/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆",Setanta 1 Eski
+https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 2 HD
 https://s7.iptv-24.net/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta 2 HD GEO
