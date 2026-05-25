@@ -2982,10 +2982,10 @@ https://s7.iptv-24.net/1234/tracks-v1a1/mono.m3u8
 https://s7.iptv-24.net/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",Индия
 http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://rafail1982.uz/logo/Дорама.png",Дорама HD
-https://s7.iptv-24.net/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",Bollywood
 https://s7.iptv-24.net/1444/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://rafail1982.uz/logo/Дорама.png",Дорама HD
+https://s7.iptv-24.net/1273/tracks-v1a1/mono.m3u
 #EXTINF:0 group-title="KINO_TV 📺",START World
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:0 group-title="KINO_TV 📺",START Air
