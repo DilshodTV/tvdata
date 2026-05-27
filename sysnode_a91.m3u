@@ -2063,6 +2063,10 @@ http://185.57.68.33/110/mpegts
 https://s7.iptv-24.net/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 2 HD
 https://s7.iptv-24.net/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-plus-ua-hd-orig.png",Setanta Sports 1 RU HD
+http://dmi3y-tv.online/hls/CH_SETANTA_SPORTS1HD.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-plus-ua-hd-orig.png",Setanta Sports 2 RU HD
+http://dmi3y-tv.online/hls/CH_SETANTA_SPORTS2HD.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-plus-ua-hd-orig.png",Setanta Sports 1 UA HD
 http://178.63.98.119:8000/play/a01m/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-plus-ua-hd-orig.png",Setanta Sports 2 UA HD
@@ -2982,10 +2986,10 @@ https://s7.iptv-24.net/1234/tracks-v1a1/mono.m3u8
 https://s7.iptv-24.net/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",Индия
 http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://rafail1982.uz/logo/Дорама.png",Дорама HD
+https://s7.iptv-24.net/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",Bollywood
 https://s7.iptv-24.net/1444/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://rafail1982.uz/logo/Дорама.png",Дорама HD
-https://s7.iptv-24.net/1273/tracks-v1a1/mono.m3u
 #EXTINF:0 group-title="KINO_TV 📺",START World
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:0 group-title="KINO_TV 📺",START Air
