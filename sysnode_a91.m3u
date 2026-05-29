@@ -3469,8 +3469,6 @@ http://kinowalk.hopto.org/kinomania_stream_live
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/19135223/avatar?change_time=1735603928&croped=1&mh=140&mw=140",Первый ряд HD
 http://kinowalk.hopto.org/perviryad_live
-#EXTINF:-1 group-title="KINO_TV 📺",Осторожно Модерн 2
-http://kinowalk.hopto.org/ostorozhnomodern2_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/romantichnoe-hd.png",Романтичное HD
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/love-story-hd.png",Лавстори HD
@@ -3542,20 +3540,28 @@ https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 28
 https://live20.bozztv.com/giatvplayout7/ushba-films-c/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 29
-https://live20.bozztv.com/giatvplayout7/ushba-films-b/tracks-v1a1/mono.m3u8
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-b/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 30
 https://live20.bozztv.com/giatvplayout7/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 31
-https://live20.bozztv.com/giatvplayout7/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 32
 https://live20.bozztv.com/giatvplayout7/ushba27/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 33
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 32
 https://live20.bozztv.com/giatvplayout7/ushba-films-w/index.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 33
+https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 34
-https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 35
-https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 36
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-b/index.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 37
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 38
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 39
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 40
 https://v2.catcast.tv/content/40381/index.m3u8
 
 
@@ -3793,6 +3799,8 @@ https://live20.bozztv.com/giatvplayout7/ushba8/tracks-v1a1/mono.m3u8
 https://live20.bozztv.com/giatvplayout7/ushba45/index.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Шоу Бенни Хилла
 https://live20.bozztv.com/giatvplayout7/ushba62/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kofe_TV ☕️",Осторожно Модерн 2
+http://kinowalk.hopto.org/ostorozhnomodern2_live
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://pbs.twimg.com/profile_images/1115297431149793280/BCKW849r_400x400.png",Приколы 1
 https://live20.bozztv.com/giatvplayout7/ushba11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://pbs.twimg.com/profile_images/1115297431149793280/BCKW849r_400x400.png",Приколы 2
@@ -3949,6 +3957,8 @@ https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
 http://31.43.48.248:7000/ch54/video.m3u8
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",ICTV
 https://live20.bozztv.com/giatvplayout7/ushba5/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",Star Cinema
 http://31.43.48.248:7000/ch56/video.m3u8
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",ТЕТ
