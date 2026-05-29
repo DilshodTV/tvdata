@@ -3868,9 +3868,6 @@ http://stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="http://rafail1982.uz/logo/camera.png",Аэропорт Дюссельдорфа 5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://stream-5gw.1000eyes.de:1935/cupertino/dused0c.stream/playlist.m3u8
-#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="http://rafail1982.uz/logo/camera.png",Аэропорт Кельн/Бонн 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://stream-5gw.1000eyes.de/cupertino/cgn06B1E8.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://goodgame.ru/files/avatars/av_202377_lx1M.png",Gameplay 🎮
 https://live20.bozztv.com/giatvplayout7/ushba31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://goodgame.ru/files/avatars/av_334622_zJV1.jpg",Gameplay 🎮трейлеры
@@ -3878,7 +3875,7 @@ https://live20.bozztv.com/giatvplayout7/ushba44/index.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://goodgame.ru/files/avatars/av_334622_zJV1.jpg",PartizaNka tv
 http://kinowalk.hopto.org/partizanka_tv_live
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://goodgame.ru/files/avatars/av_334622_zJV1.jpg",Эра VHS
-http://kinowalk.hopto.org/era_vhs_live
+
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://images.live.vkvideo.ru/user/12784987/avatar?change_time=1685724547&croped=1&mh=140&mw=140",Bars Play HD
 http://kinowalk.hopto.org/toxa_stream_live
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://i.pinimg.com/474x/3a/40/6f/3a406f84c92551699149b64d291c28cd.jpg",E TV
