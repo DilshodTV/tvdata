@@ -3823,6 +3823,9 @@ https://live20.bozztv.com/giatvplayout7/ushba67/tracks-v1a1/mono.m3u8
 http://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://imgcdn.stablediffusionweb.com/2024/9/23/d96ad22a-17b4-421a-881d-d1a1002f3935.jpg",Мода 9
 http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Ai Video
+https://live20.bozztv.com/giatvplayout7/ushba-aivideo/index.m3u8
+
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://iconape.com/wp-content/png_logo_vector/fashion-tv.png",Fashion Channel
 https://live20.bozztv.com/giatvplayout7/ushba19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fashion_TV_logo_2017.svg/1200px-Fashion_TV_logo_2017.svg.png",Fashion TV
