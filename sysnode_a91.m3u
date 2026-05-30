@@ -2422,12 +2422,14 @@ https://s7.iptv-24.net/1025/tracks-v1a1/mono.m3u8
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://rafail1982.uz/logo/ТВЦ International.png",ТВЦ International
 https://s7.iptv-24.net/1281/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://s06.wsbof.com:8080/streams/tv3-plus-2.png",ТВ3
-
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://s06.wsbof.com:8080/streams/tv3-plus-2.png",ТВ3 HD
+http://tchaikovsky.af-stream.com:8080/s/tlaqw0av/tv3-hd/video.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://s06.wsbof.com:8080/streams/tv3-plus-2.png",ТВ3 (+2)
-
+http://tchaikovsky.af-stream.com:8080/s/tlaqw0av/tv3-plus-2/video.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://s06.wsbof.com:8080/streams/tv3-plus-4.png" ,ТВ3 (+4)
-
+http://tchaikovsky.af-stream.com:8080/s/tlaqw0av/tv3-plus-4/video.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://s06.wsbof.com:8080/streams/tv3-plus-4.png" ,ТВ3 (+7)
+http://tchaikovsky.af-stream.com:8080/s/tlaqw0av/tv3-plus-7/video.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/tv3-int.png",ТВ3 International
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.imgur.com/0Tu5lte.png",Рен ТВ
