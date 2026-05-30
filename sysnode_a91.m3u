@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG"
 #EXTM3U max-conn="2" url-tvg="http://tchaikovsky.af-stream.com:8080/epg.xml.gz" catchup-type="shift" 
 
+
 #EXTM3U
 #EXTINF:-1 group-title="📡 REKLAMA" tvg-logo="https://suzukantv.at.ua/LOGO/suzustv-icon.ico",DILSHOD TV
 https://v2.catcast.tv/videos/ch38963/110220220628_125335/video.mp4
@@ -8,8 +9,6 @@ https://v2.catcast.tv/videos/ch38963/110220220628_125335/video.mp4
 https://files.catbox.moe/uaqbv7.mp4
 #EXTINF:-1 group-title="📡 REKLAMA" tvg-logo="https://i.postimg.cc/Hn04bq9r/44444383-68abe79051cfd.jpg",Tel: 88-704-93-87
 http://rafail1982.uz/nexo2.mp4
-
-
 
 
 
@@ -2431,11 +2430,6 @@ http://tchaikovsky.af-stream.com:8080/s/tlaqw0av/tv3-plus-2/video.m3u8
 http://tchaikovsky.af-stream.com:8080/s/tlaqw0av/tv3-plus-4/video.m3u8
 #EXTINF:0 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://af-play.com/storage/images/pack_logos/cc2fef6085094bae4d2b1a435a356ab3.png",ТВ3 (+7)
 http://tchaikovsky.af-stream.com:8080/s/tlaqw0av/tv3-plus-7/video.m3u8
-#EXTINF:0 group-title="Rossiya_TV 🇷🇺" tvg-id="tv3-plus-7" tvg-logo="https://af-play.com/storage/images/pack_logos/cc2fef6085094bae4d2b1a435a356ab3.png" tvg-rec="7" catchup-days="7",ТВ3 (+8)
-#EXTGRP:Россия +7ч
-http://tchaikovsky.af-stream.com:8080/s/tlaqw0av/tv3-plus-7/video.m3u8
-
-
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/tv3-int.png",ТВ3 International
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.imgur.com/0Tu5lte.png",Рен ТВ
