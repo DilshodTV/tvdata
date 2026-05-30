@@ -3905,12 +3905,11 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w16
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" ,Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://epg.it999.ru/img/2294.png",БелРос
-https://live3.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾",Гродно+
 
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾",ТВ3
-#EXTVLCOPT:http-user-agent=HTTP User-Agent
-http://86.57.209.210/TB-3/index.m3u8
+
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾",RIMEX TV
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾",СТВ Беларусь HD
