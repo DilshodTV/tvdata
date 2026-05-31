@@ -2060,7 +2060,7 @@ http://tv.woobl.ru/match_igra_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/175/logo_256_1658736830.png" ,Матч! Боец HD
 http://tv.woobl.ru/match_boets_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Премьер HD
-
+http://tv.woobl.ru/match_premier_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Футбол 1 HD
 #EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://43a94a5e.amazzin.pw/iptv/ECGM77FWEMMA46/10015/index.m3u8
