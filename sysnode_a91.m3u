@@ -2059,7 +2059,7 @@ http://cdn.kubteltv.workers.dev/?ID=113
 http://tv.woobl.ru/match_igra_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/175/logo_256_1658736830.png" ,Матч! Боец HD
 http://tv.woobl.ru/match_boets_hd/video.m3u8?token=woobliptvz
-#EXTINF:-1 group-title="Sport_TV 🏆",Матч! Премьер HD
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://resizer.mail.ru/p/0ab78b28-a6c9-57d0-b916-a2ed5087938f/dpr:200/AQACn5AMOTec-rtEvUr-wi67RlR5-mBzuBjkFfygTrRZ6xwOrS5EZQ6fPQDp-XunvAj4PmAzEU2dlKsSpQwhRpETRkU.png", Матч! Премьер HD
 http://tv.woobl.ru/match_premier_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Футбол 1 HD
 #EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
