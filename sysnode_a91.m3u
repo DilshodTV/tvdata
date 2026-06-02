@@ -2089,7 +2089,7 @@ https://s7.iptv-24.net/1264/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-ua-hd-orig.png",Setanta Sports UA HD
 
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/L5mKP5KG/setanta-georgia-logo-png-seeklogo-373606.png", Setanta 1 Georgia
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/L5mKP5KG/setanta-georgia-logo-png-seeklogo-373606.png", Setanta 1 Gretsiya
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/megogo-sport-ua-hd.png",MEGOGO Спорт HD
