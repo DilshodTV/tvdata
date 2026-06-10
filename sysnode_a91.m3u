@@ -2143,7 +2143,7 @@ https://s7.iptv-24.net/1028/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL Prime.png" group-title="Sport_TV 🏆",KHL Prime
 https://fs.uplink.kz/khl_prime/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/500p/69/39/silhouette-of-a-tennis-player14-vector-52166939.jpg" group-title="Sport_TV 🏆",Tennis Channel
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/association-of-tennis-professionals-atp-logo-png_seeklogo-302162.png" group-title="Sport_TV 🏆",Tennis Channel
 https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Мир баскетбола
 
