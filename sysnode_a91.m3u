@@ -2139,18 +2139,20 @@ https://s7.iptv-24.net/1226/tracks-v1a1/mono.m3u8
 http://tv.woobl.ru/udar_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Sport_TV 🏆",КХЛ HD Хокей
 https://s7.iptv-24.net/1028/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆",Хоккейный
-
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://tv.kubtel.ru/tv_icon/HockeyHD.png",Хоккей ТВ
+http://cdn.kubteltv.workers.dev/?ID=405
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL Prime.png" group-title="Sport_TV 🏆",KHL Prime
-https://fs.uplink.kz/khl_prime/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/006/673/245/non_2x/tennis-line-icon-vector.jpg" group-title="Sport_TV 🏆",Tennis Channel
+http://bde.online24.pm/play/177/16419D145D0E706/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.freevector.com/uploads/vector/preview/13819/FreeVector-Tennis-Vector.jpg" group-title="Sport_TV 🏆",Tennis Channel
 https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://pptt.fun/epglogo/nologo-2tv.png", Tennis+
+http://bde.online24.pm/play/1889/16419D145D0E706/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Мир баскетбола
-
+http://bde.online24.pm/play/8831/16419D145D0E706/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10145/logo_256_1660807386.png", Старт Триумф HD
 http://tv.woobl.ru/start_triumf_hd/video.m3u8?token=woobliptvz
 #EXTINF:-1 group-title="Sport_TV 🏆",Конный мир Отлар
-
+http://bde.online24.pm/play/394/16419D145D0E706/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Horse TV Отлар
 https://hnc-free-viewlift.amagi.tv/playlist720_lp.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Trace Sport Stars
