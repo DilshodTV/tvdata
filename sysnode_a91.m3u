@@ -289,8 +289,6 @@ http://212.42.117.34:8080/hls/OshTV.m3u8
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/q-kino-alem.png",Кино сериал KZ
 
-#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://avatars.mds.yandex.net/i?id=084cc4deeac956ae39641a7f5c989171869c2528-12933346-images-thumbs&n=13", УТРК Жалал-Абад 
-http://80.72.179.162:8086/0.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://otv.server-img.lfstrm.tv/images/channel_logos/logo_662ba40f1302670cb5b24357.png?width=340&height=192&quality=93", TV 15 
 http://213.109.64.248:8086/0.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.postimg.cc/T1PT1dqh/IMG-20260418-185205-100.jpg", Регион ТВ KG
