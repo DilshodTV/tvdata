@@ -2456,11 +2456,13 @@ http://185.78.112.47:8077/tv3/index.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/REN_TV_logo_2015.svg/500px-REN_TV_logo_2015.svg.png",Рен ТВ
 http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://s06.wsbof.com:8080/streams/rentv-plus-2.png",РЕН ТВ (+2)
-
+http://de1.plist.link:3355/FGfpnUmovVu4371/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP2mTVmzBj3SXTskZh_cyHprOwrDKQd6MxXzQduAIAgci.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://s06.wsbof.com:8080/streams/rentv-plus-4.png",РЕН ТВ (+4)
-
+http://de1.plist.link:3355/FGfpnUmovVu31059/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP3nAjyU8ODjmwgwWiWFIG07FLskcyWWer0V8aHMdAcRY.tg6457680141
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://s06.wsbof.com:8080/streams/rentv-plus-7.png",РЕН ТВ (+6)
+http://de1.plist.link:3355/FGfpnUmovVu0401/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dPxgjZ1r6hmsCZie2WqKeHia3B2BcadWpazk3xGHfpXjs.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://s06.wsbof.com:8080/streams/rentv-plus-7.png",РЕН ТВ (+7)
-
+http://de1.plist.link:3355/FGfpnUmovVu32809/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP5n-wE4WQEbYxFhDL21ibf97RyYm-jwl7JRwSlXfw_VR.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.imgur.com/gBjk9oF.png",РЕН ТВ International
 
 #EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Rossiya_TV 🇷🇺" ,Суббота
@@ -3025,6 +3027,7 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://epg.it999.ru/img/2478.png",Хузур ТВ
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -5697,6 +5700,8 @@ http://oriat.mediabay.uz/oriatdono.m3u8
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",Oriat FM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://dono.rafail1982.uz:8000/fm
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/29//0037cd43fd5dcbe388e783bd9e4f67f4-q-500x500.jpeg", Iqbol FM (Radio UZ) (VPN)
+http://oriat.mediabay.uz:8012/ikbol
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",MARKAZ FM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 http://mediamarkaz.com:8000/radiomarkaz
@@ -5705,13 +5710,23 @@ http://mediamarkaz.com:8000/radiomarkaz
 https://stream.zeno.fm/64ox9cg1w0quv 
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png", SUPER uz FM (UZ)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://stream.zeno.fm/b7ye4q0k3zhvv 
+https://stream.zeno.fm/b7ye4q0k3zhvv
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://au.radio.net/300/lautfm-music-fm.png?version=d8aac954ef52af86cf70c97a7e20fd2f7c904625", Music FM (Radio UZ)
+https://stream-176.zeno.fm/8ablr30ahycuv?n=fflzkt8c7pnpx7e71bdh
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",Yangi Radio FM (УЗ) 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://stream.zeno.fm/f2aawo8h0qguv
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/08/26//9089e09bfe47782c76bf2c98f3e5c72d-q-500x500.jpeg", Biz FM (Radio UZ)
+https://fm.bizfm.uz:8443/128
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/08/25//f1307d5df1872ff847fc8591c56dda5c-q-500x500.jpeg", Grand FM (Radio UZ)
+https://str1.tvcom.uz/RADIO-GRAND/shoutcast
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",Khalifa FM (UZ) 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://stream.zeno.fm/y8gdyaatxhhvv 
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/08/28//1aeb7567f3f28c5442c6f39e810f8734-q-500x500.jpeg", Retro FM (Radio UZ)
+https://classicfm.uz:8444/retrofm.ogg
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/08/28//e7d7d5d7fdc9003c3670e0d05022e420-q-500x500.jpeg", Classic FM (Radio UZ)
+https://classicfm.uz:8444/classic.ogg
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",RMPlay UZ (UZ) 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://stream.zeno.fm/jnkkmrfelsytv 
@@ -5720,7 +5735,13 @@ https://stream.zeno.fm/jnkkmrfelsytv
 http://s1.muz.uz:9000/alo_low 
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/27//71c9d7b00e8732279f9b45b1906f746f-q-500x500.jpeg", Радио Узбегим Таронаси (УЗ) 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://fm101.uz:9943/fm101_low.aac 
+https://fm101.uz:9943/fm101_low.aac
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://dfm.tj/default_artwork.png", Diyor FM (Radio UZ)
+https://c16.radioboss.fm:18234/stream
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://i.postimg.cc/SKkbNgk9/IMG-20260502-132127-245.jpg", Sevimli FM (Radio UZ) (VPN)
+https://st4.mediabay.uz/Poytaxt/PoytaxtUz/tracks-a1/mono.m3u8
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://cdn.iono.fm/files/p2932/logo_2932_20250905_204948_350.jpeg", Smile FM (Radio UZ)
+http://smilefm.uz:8000/live
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://pbs.twimg.com/profile_images/1323301606356619265/ZnPE9iKX_200x200.jpg", Islom uz FM (UZ) 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 http://radio.islom.uz:8000/islomuz 
@@ -5741,7 +5762,9 @@ https://listen5.myradio24.com/seethesea
 https://classicfm.uz:8444/nostalgie.ogg 
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://mediamarkaz.com/assets/css/images/logo-radiomarkaz.png", Радио Марказ ФМ (УЗ) 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-http://navruzfm.uz:9000/navruz_low 
+http://navruzfm.uz:9000/navruz_low
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/RibijRS0TougR3GVk-Liw7Ecg65PddTGQSEYyxt55X4/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMDYzYjYwYzYtM2VhMS00YWFhLTg5NTEtNjFlNDgzZDI3NDZiL2ltYWdlLz91PTE3MDE2OTU2NjMwMDA.webp",Yangi Radio FM (Radio UZ)
+https://stream.zeno.fm/f2aawo8h0qguv
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/02/01//404d9b349d0b2098dd55d1d9e8590af6-q-500x500.jpeg", Hit FM (UZ) 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 http://ns10.jethost.uz:8000/yoshlarovoziaac 
@@ -5750,7 +5773,7 @@ http://ns10.jethost.uz:8000/yoshlarovoziaac
 https://stream.zeno.fm/fwstad5837zuv
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://pcradio.ru/images/stations/61b09c7e67a61.jpg", Jahon Taronalari FM (UZ) 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://stream.zeno.fm/9tihlbuqde6tv 
+https://stream.zeno.fm/9tihlbuqde6tv
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://static-media.streema.com/media/cache/c3/01/c30170851261b7c00f8863158351a84f.png", AxTeD_AD FM (UZ) 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://stream.zeno.fm/gnsnxsq1znhvv 
@@ -5760,6 +5783,8 @@ https://tempradio-live.uz/streamaac
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/28//fe86f2498716bb7b610ad10a3d7f51f5-q-500x500.jpeg", Truck FM (UZ) 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://fm.truckfm.uz:8000/64 
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/MARS-FM.png", Mars FM (Radio UZ)
+https://stream-175.zeno.fm/y8gdyaatxhhvv?n=2tei2nl8hamratwe8pd6
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://topradio.mobi/screen/1696360304-radio-bassted-tashkent-uzbekistan.jpg", BassTeD FM (УЗ) 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://stream.zeno.fm/h6dbebwv0nhvv 
@@ -5769,32 +5794,41 @@ https://rhema-radio.streamguys1.com/rhema-lifefm.mp3
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/exoXZZNr7cfCILQxTDWsas73-xSYOPVQLG7qPK66L2Q/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYmJhNmZkMDYtYWYxMy00YTQ2LThiYzgtYzM4OWJhYTMyYjY4L2ltYWdlLz91PTE3MzExNzc2NDMwMDA.webp", M-Estrada FM (UZ)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://eastrica.uz:8000/uzb
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/_NEWIjWivummfnQZtvYTC87MJBgTPFT0j8QbkBeMCpQ/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMjRlNGVhZWQtN2ZmYi00ZjFjLWExMTgtZmQzMWRhNzNiZjU5L2ltYWdlLz91PTE3NTg2NDY1NTcwMDA.webp",Nova Sound FM (Radio UZ)
+https://stream.zeno.fm/jnkkmrfelsytv
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" radio="true" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-russkoe-radio.png",Русское радио
+http://rusradio.hostingradio.ru/rusradio96.aacp
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" radio="true" tvg-id="vesti-fm" tvg-logo="https://obob.tv/wp-content/uploads/2014/04/vesti.jpg",Вести FM
+http://icecast.vgtrk.cdnvideo.ru/vestifm
 #EXTINF:-1 group-title="FM_Radio 🔌/📻",Радио Центр FM
 https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
 #EXTINF:-1 group-title="FM_Radio 🔌/📻",Радио Спутник
 #EXTVLCOPT:http-user-agent=TiviMate
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" radio="true" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-europa-plus.png",Радио Европа Плюс
+http://europaplus.hostingradio.ru:8014/europaplus320.mp3
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://aistenok-irkutsk.ru/sites/default/files/2020-04/partner-logo-big.jpg",Студия Радио MCM - Иркутск HD
 http://194.143.148.28:8080/MCM/mpegts
 #EXTINF:-1 group-title="FM_Radio 🔌/📻",Радио ТВ Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://top-radio.ru/assets/image/radio/180/sigmaradio.png",Сигма HD радио
 https://lifecam.sigma-ktv.ru/ctv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://goodgame.ru/files/avatars/av_1335346_EofE.jpg",Mega Radio
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/175789.m3u8
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://top-radio.ru/assets/image/radio/180/radiomayak.png",Радио Маяк
+http://icecast.vgtrk.cdnvideo.ru/mayakfm
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://topradio.me/assets/image/radio/180/tosno.jpg",Тосно радио
 https://tosnotv.ru/hlsshare/video.m3u8
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://avtoradio.lv/upload/players/668db02a01d679.69914277.png",Авторадио
 http://ic7.101.ru:8000/v3_1
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://top-radio.com.ru/cover/station/OfRDSdERiTzq9G1zJtZSXLqpk34TXY9zBNzrxhU1.jpg",Дорожное Радио
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" radio="true" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-ultra.png",Ultra FM
+http://nashe1.hostingradio.ru/ultra-64.mp3
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://cdn.telik.top/pic/fm/umor.png",Юмор FM
 http://ic7.101.ru:8000/v5_1
 #EXTINF:-1 group-title="FM_Radio 🔌/📻",Радио Мир
 http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
 #EXTINF:-1 group-title="FM_Radio 🔌/📻",Радио Шансон
-http://chanson.hostingradio.ru:8041/chanson256.mp3
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://static.tildacdn.com/tild6430-6664-4562-a430-636461663766/_1025.PNG",Радио Ваня
 http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://radio7.ru/og.jpeg",Радио на семи холмах
@@ -5807,7 +5841,14 @@ http://dfm.hostingradio.ru/dfm128.mp3
 http://ic7.101.ru:8000/v4_1
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://www.prfm.ru/logo/retro-fm-latvia-logo.png",Ретро FM
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://hitfm.kg/wp-content/uploads/2022/09/seimg_20220905_191604_973-e1662955893461.png",Хит FM
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" radio="true" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rock-fm.png",ROCK-FM
+http://nashe1.hostingradio.ru/rock-64.mp3
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-id="no_epg_radio" tvg-logo="https://cdn-profiles.tunein.com/s81222/images/logoq.png?t=636632815148070000",EHR FM Русские Хиты
+http://stream.ehrhiti.lv:8000/khr.mp3
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-id="no_epg_radio" tvg-logo="https://top-radio.ru/assets/image/radio/180/radio-2000x.png",EHR FM Русские Хиты 2000-х
+http://stream.ehrhiti.lv:8000/Stream_66.mp3
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" radio="true" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-maximum.jpg",Maximum
+http://maximum.hostingradio.ru/maximum96.aacp
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://top-radio.ru/assets/image/radio/180/hit-fm.png",Хит FM
 http://hitfm.hostingradio.ru/hitfm128.mp3
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://www.prfm.ru/logo/mayak-logo.png",Радио Маяк
 
