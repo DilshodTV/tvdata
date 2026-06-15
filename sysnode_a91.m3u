@@ -251,7 +251,7 @@ http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_64507c71071b52869ab93ab3.png" catchup-days="0", Q League HD KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.postimg.cc/RVZGp3Yg/unnamed.jpg",Setanta Qazaqstan 
-
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/2399/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_5f9984549e0766c2417d4076.png",Setanta Sports 1 KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_5f9984649e0766c2417d4079.png" catchup-days="0", Setanta Sports 2 HD KZ
@@ -2094,7 +2094,7 @@ http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6542/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-premium-ua-hd.png",Setanta Sport Premium HD
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-plus-ua-hd-orig.png",Setanta Sports + UA HD
-
+http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/5068/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-ua-hd-orig.png",Setanta Sports UA HD
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/L5mKP5KG/setanta-georgia-logo-png-seeklogo-373606.png", Setanta 1 Gretsiya
@@ -3070,7 +3070,7 @@ https://s7.iptv-24.net/1237/tracks-v1a1/mono.m3u8
 https://s7.iptv-24.net/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://rafail1982.uz/logo/Кинохит.png",Кинохит
 https://s7.iptv-24.net/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺",Киноужас HD
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://de1.plist.link/plepg/img/channels/652.png?69c29495ba022",Киноужас HD
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2056/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://rafail1982.uz/logo/Киносвидание.png",Киносвидание
 https://s7.iptv-24.net/1203/tracks-v1a1/mono.m3u8
