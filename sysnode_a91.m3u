@@ -3091,7 +3091,7 @@ http://cdn.kubteltv.workers.dev/?ID=132
 #EXTINF:-1 tvg-id="371" tvg-logo="http://tv.kubtel.ru/tv_icon/StartWorld.png" group-title="KINO_TV 📺",Start World
 http://cdn.kubteltv.workers.dev/?ID=371
 #EXTINF:0 group-title="KINO_TV 📺",Start Air HD
-
+http://cdn.kubteltv.workers.dev/?ID=372
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/pro-lubov-hd-orig.png",Про Любовь HD
 http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",Кино 24
