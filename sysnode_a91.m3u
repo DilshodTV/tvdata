@@ -2087,9 +2087,9 @@ http://185.57.68.33/110/mpegts
 https://s7.iptv-24.net/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 2 HD
 https://s7.iptv-24.net/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 1 RU HD
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://cdn.biztv.media/2024/04/30/16/34/9dZeMOuzVyhMJ5AZpszFu4mJowk7nLi0_small.webp",Setanta Sports 1 RU HD
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6541/index.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 2 RU HD
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://cdn.biztv.media/2024/04/30/16/34/tyCqQKtv5yvmeT4YU2PCtg7AEdzqeXcm_small.webp",Setanta Sports 2 RU HD
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6542/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-premium-ua-hd.png",Setanta Sport Premium HD
 
