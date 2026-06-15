@@ -5,9 +5,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="📡 REKLAMA" tvg-logo="https://i.pinimg.com/474x/13/41/b7/1341b7874a68cbe2ad790fe2e38f8f0b.jpg?nii=t",DILSHOD TV
 https://v2.catcast.tv/videos/ch38963/110220220628_125335/video.mp4
-#EXTINF:-1 group-title="📡 REKLAMA" tvg-logo="https://w1.pngwing.com/pngs/413/693/png-transparent-business-business-partner-partnership-contract-organization-negotiation-blue-text.png",Lubzavod mahalla
-
-#EXTINF:-1 group-title="📡 REKLAMA" tvg-logo="https://w1.pngwing.com/pngs/413/693/png-transparent-business-business-partner-partnership-contract-organization-negotiation-blue-text.png",Jaloyir mahalla
+#EXTINF:-1 group-title="📡 REKLAMA" tvg-logo="https://w1.pngwing.com/pngs/413/693/png-transparent-business-business-partner-partnership-contract-organization-negotiation-blue-text.png",Jaloyir
 
 #EXTINF:-1 group-title="📡 REKLAMA" tvg-logo="https://i.postimg.cc/tJKncYS4/dilshod-tv-xizmati.jpg",Doim siz bilan 👍
 
@@ -73,6 +71,8 @@ https://s7.iptv-24.net/1014/tracks-v1a1/mono.m3u8
 https://s7.iptv-24.net/1012/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://m3u.usite.pro/tv/my5i.png", MY5 International
 https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/01/15//c78b4b29689e79a2d7e1cd3fefe6300d-q-500x500.jpeg", ZO'R TV
+
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/02/10//0468ff22219c4d1b9cb00666ba2b2e60-q-500x500.jpeg",Zo'r TV HD
 https://s7.iptv-24.net/1016/index.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="http://tv.team/images/chIcons/1793.png",Sevimli TV HD
@@ -510,6 +510,7 @@ http://hls127.freeott.top:8080/box_anime_hd/video.m3u8
 http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="https://vits.tv/images/tvstation/russia/knopka-tv.png",Кнопка ТВ
 http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
+
 
 
 
@@ -1352,7 +1353,7 @@ https://mults.info/mp4/leopold_kot_leopold_vo_sne_i_nayavu.mp4
 https://mults.info/mp4/kot_rybolov.mp4
 #EXTINF:-1 tvg-name="Кот, который умел петь 1988г." tvg-logo="https://images.vfl.ru/ii/1620122564/af151fa7/34321684.jpg" group-title="Multik_TV 🐶",💽Кот, который умел петь 1988г.
 https://mults.info/mp4/kot_kotory_umel_pet.mp4
-#EXTINF:-1 tvg-name="Коок по имени Гав ч.1" tvg-logo="https://images.vfl.ru/ii/1620122564/af151fa7/34321684.jpg" group-title="Multik_TV 🐶",💽Котенок по имени Гав ч.1
+#EXTINF:-1 tvg-name="Котенок по имени Гав ч.1" tvg-logo="https://images.vfl.ru/ii/1620122564/af151fa7/34321684.jpg" group-title="Multik_TV 🐶",💽Котенок по имени Гав ч.1
 https://mults.info/mp4/gav1.mp4
 #EXTINF:-1 tvg-name="Котенок по имени Гав ч.2" tvg-logo="https://images.vfl.ru/ii/1620122564/af151fa7/34321684.jpg" group-title="Multik_TV 🐶",💽Котенок по имени Гав ч.2
 https://mults.info/mp4/gav2.mp4
@@ -2057,6 +2058,7 @@ https://s7.iptv-24.net/1430/tracks-v1a1/mono.m3u8
 
 
 
+
 #EXTM3U
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч ТВ
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
@@ -2250,6 +2252,8 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 
 
 
+
+
 #EXTM3U
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://master-cleanair.ru/images/perviy_hd.png",Первый HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
@@ -2415,10 +2419,14 @@ http://de1.plist.link:3355/FGfpnUmovVu62817/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-
 http://cdn.kubteltv.workers.dev/?ID=35
 #EXTINF:-1 tvg-id="373" tvg-logo="http://tv.kubtel.ru/tv_icon/tntHD.png" group-title="Rossiya_TV 🇷🇺",ТНТ HD
 http://cdn.kubteltv.workers.dev/?ID=373
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",ТНТ (+2)
-
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",ТНТ (+7)
-
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/369.png?69c29495b9dac",ТНТ (+2)
+http://de1.plist.link:3355/FGfpnUmovVu5369/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP_agO0h5kzuLGd2ItmOe-raHVMM5fLf_qa0HvdCC5rEc.tg6457680141
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/370.png?69c29495b9dac",ТНТ (+4)
+http://de1.plist.link:3355/FGfpnUmovVu8370/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP8sE437dTswwVIpIdngtIEP1lHYYzFd1vtRdoRvg3iHN.tg6457680141
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/397.png?69c29495b9dac",ТНТ (+6)
+http://de1.plist.link:3355/FGfpnUmovVu6397/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP4074K225111zupWqQKmjwiHoY2jrcy2I9XnWhZ3mY37.tg6457680141
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/391.png?69c29495b9dac",ТНТ (+7)
+http://de1.plist.link:3355/FGfpnUmovVu9391/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dPylJNMZQKxNtjuczAZfJXiZdbRd6vuRg6fpZw89quT7i.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",ТНТ International (Европа)
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://i121.fastpic.org/big/2023/0104/13/3befecb5970b4f9aa1abd28ea7d38a13.png",ТНТ4 HD
@@ -2442,13 +2450,15 @@ https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://rafail1982.uz/logo/ТВЦ International.png",ТВЦ International
 https://s7.iptv-24.net/1281/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://af-play.com/storage/images/channel_logos/tv3-hd.png",ТВ3
-http://185.78.112.47:8077/tv3/index.m3u8
+http://de1.plist.link:3355/FGfpnUmovVu5024/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxNhHLbESRvYm5HRLPjEbx0j4hG_eoSItmAKMx0FyntKO.tg6457680141
 #EXTINF:0 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://af-play.com/storage/images/pack_logos/7bfd3fcaa0fd446a030335ceec39c8fa.png",ТВ3 (+2)
-
+http://de1.plist.link:3355/FGfpnUmovVu9409/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxAu4iiB9k6AIkKFCP1f43j9hHhTA1fLDOR1TtGV5qY-1.tg6457680141
 #EXTINF:0 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://af-play.com/storage/images/pack_logos/18f189272019e2d79b56be78da5bf4fd.png",ТВ3 (+4)
-
+http://de1.plist.link:3355/FGfpnUmovVu0410/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxGt46aVCJECnt8E9MWTGXUxwfr8_QC9LRbIgm3xy8RTX.tg6457680141
+#EXTINF:0 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/411.png?69c29495ba022",ТВ3 (+6)
+http://de1.plist.link:3355/FGfpnUmovVu8411/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxDJtVIzVKL_0OUN_oZTw6fZYgWW47wZDTrH8O9nP3qPQ.tg6457680141
 #EXTINF:0 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://af-play.com/storage/images/pack_logos/cc2fef6085094bae4d2b1a435a356ab3.png",ТВ3 (+7)
-
+http://de1.plist.link:3355/FGfpnUmovVu62816/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxJymtQbgJu4Cpc4LsrVS9ecjM3R1_Si-Rn-HsDTDNA3P.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/tv3-int.png",ТВ3 International
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/REN_TV_logo_2015.svg/500px-REN_TV_logo_2015.svg.png",Рен ТВ
@@ -3035,7 +3045,6 @@ https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mo
 
 
 
-
 #EXTM3U
 #EXTINF:-1 group-title="KINO_TV 📺",Кино ТВ HD
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
@@ -3167,17 +3176,17 @@ http://hls127.freeott.top:8080/HCTV/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",СТРАХ HD
 
 #EXTINF:-1 group-title="KINO_TV 📺",Scream HD
-
+http://de1.plist.link:3355/FGfpnUmovVu0470/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxBrgdnf0t_WiZXw6j1e1KFOSGS1k8KUrYhJx6pCLqYrw.tg6457680141
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/strashnoe-hd.png",Страх HD
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/shokiruschee-hd-orig.png",Шокирующее HD
-
+http://de1.plist.link:3355/FGfpnUmovVu4134/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxASLZV_WnEeqCcRQdqz-ZkMZICUtWD2uesIZ5zGeXZk3.tg6457680141
 #EXTINF:-1  group-title="KINO_TV 📺" tvg-id="horrortv" ,Horror TV 
 
-#EXTINF:-1 group-title="KINO_TV 📺",Trash HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",SHOT TV HD
-
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://de1.plist.link/plepg/img/channels/730.png?69c29495ba022",Trash HD
+http://de1.plist.link:3355/FGfpnUmovVu4730/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxKFARmaBeVwOnzlZyVeZul1BS4j1dB_0Kje9jvroa54N.tg6457680141
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://de1.plist.link/plepg/img/channels/712.png?69c29495ba022",SHOT TV HD
+http://de1.plist.link:3355/FGfpnUmovVu4712/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxHMOwnDxk5qne1NjqlEKwYmeUgjHDUX6AWWniOZi__-F.tg6457680141
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/flix-snip-hd.png",Flix Snip HD
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00179.png",Fox HD
@@ -3260,7 +3269,7 @@ http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/kion-hit-hd.png",KION Хит HD
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20211/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/kino-premium-hd-orig.png",Премиальное HD
-
+http://de1.plist.link:3355/FGfpnUmovVu4084/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxD6wuLzrGfCRywPqMxOcW6zdyA5kb0ztvLaid_IhMiC5.tg6457680141
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/ostrosujetnoe-hd-orig.png",Остросюжетное HD
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/904/index.m3u8
 #EXTINF:-1 tvg-id="219" tvg-logo="http://tv.kubtel.ru/tv_icon/blokbaster.png" group-title="KINO_TV 📺",Блокбастер HD
@@ -3893,6 +3902,8 @@ https://s6.faylmovi.ru/tarjima_kinolar/Qashqirlar_Makoni_Gladio_480.mp4
 
 
 
+
+
 #EXTM3U
 #EXTINF:-1 group-title="Tarjima_kino 🎥" tvg-logo="https://daxshat.tv/uploads/posts/2025-01/1737018884-1829283388-haker.webp", Xaker
 https://k.kinobor.top/Kino/hacker%202014%20hd.mp4
@@ -3908,8 +3919,6 @@ https://s7.faylmovi.ru/tarjima_kinolar/Soyalar_ovchisi_480.mp4
 https://s6.faylmovi.ru/tarjima_kinolar/20_asr_qizi_480.mp4
 #EXTINF:-1 group-title="Tarjima_kino 🎥" tvg-logo="https://m.rafail1982.uz/logo/1000001669_1775060699.jpg", Vaqt Tuzog'i
 https://kinofayl.faylmovi.ru/4/tarjima_kinolar/VAQT_TUZOGI_480.mp4
-
-
 
 
 
@@ -5674,6 +5683,8 @@ https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://i.postimg.cc/HsvGnLG9/1.jpg",Dancehits 80
 http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 tvg-id="retro-music-cz" tvg-logo="https://iptvx.one/picons/retro-music-cz.png" group-title="Muzika 🎙/🎸" ,Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://e7.pngegg.com/pngimages/377/437/png-clipart-television-channel-c-music-tv-music-television-holding-tv-television-logo-thumbnail.png",В эфире ТВ
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist_w1284330867.m3u8
 #EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://myspirit.tv/wp-content/uploads/2017/01/SpiritLogoFull244x86.png",Spirit TV
