@@ -3071,7 +3071,7 @@ https://s7.iptv-24.net/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://rafail1982.uz/logo/Кинохит.png",Кинохит
 https://s7.iptv-24.net/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://de1.plist.link/plepg/img/channels/652.png?69c29495ba022",Киноужас HD
-http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2056/index.m3u8
+http://cdn.kubteltv.workers.dev/?ID=200
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://rafail1982.uz/logo/Киносвидание.png",Киносвидание
 https://s7.iptv-24.net/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://rafail1982.uz/logo/Киносемья.png",Киносемья
