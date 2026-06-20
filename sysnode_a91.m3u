@@ -243,13 +243,13 @@ http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/q-football-kz.png",Q Football HD 
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://epg.one/img2/5891.png",Q Arena
-
+http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20061/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan Sport
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_5d385e7355153152ba34f5f2.png",Qazsport HD KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_64507c71071b52869ab93ab3.png" catchup-days="0", Q League HD KZ
-
+http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20062/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.postimg.cc/RVZGp3Yg/unnamed.jpg",Setanta Qazaqstan 
 http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/2399/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_5f9984549e0766c2417d4076.png",Setanta Sports 1 KZ
@@ -3944,7 +3944,10 @@ https://s6.faylmovi.ru/tarjima_kinolar/Qashqirlar_Makoni_Falastin_480.mp4
 https://s6.faylmovi.ru/tarjima_kinolar/Qashqirlar_Makoni_Falastin_480.mp4
 #EXTINF:-1 group-title="Qashqirlar_makoni 💽" tvg-logo="https://img.kinochilar.com/uploads/posts/2024-03/1709386107-155809129-dolina-volkov-gladio-kinochilar-com.jpg",Qashqirlar: Gladio
 https://s6.faylmovi.ru/tarjima_kinolar/Qashqirlar_Makoni_Gladio_480.mp4
-
+#EXTINF:-1 tvg-logo="https://playuz.net/uploads/posts/2024-01/qashqirlar-makoni-pusu.webp" group-title="Qashqirlar_makoni 💽",Qashqirlar makoni 220
+https://xmuzon.com/seriallar/Pistirma%20220.mp4
+#EXTINF:-1 tvg-logo="https://playuz.net/uploads/posts/2024-01/qashqirlar-makoni-pusu.webp" group-title="Qashqirlar_makoni 💽",Qashqirlar makoni 1
+https://xmuzon.com/seriallar/Qashqirlar%20makoni%20201.mp4
 
 
 
