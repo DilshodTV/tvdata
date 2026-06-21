@@ -102,9 +102,9 @@ https://s7.iptv-24.net/1212/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/nV1MPQz2/f74bfc6be9137e5219898.jpg",TASIX-Media kino
 https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/W48n7PnJ/Chat-GPT-Image-28-maa-2026-g-00-01-18.png",Dilshod TV 1 kino
-https://kinostream4-asil-tv.hf.space/hls/stream.m3u8
+
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/W48n7PnJ/Chat-GPT-Image-28-maa-2026-g-00-01-18.png",Dilshod TV 2 kino
-https://kinostream4-asil-tv2.hf.space/hls/stream.m3u8
+
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/mediabay1235.png",Mediabay TV
 
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/uzbekmusic.png",Mediabay Music 
