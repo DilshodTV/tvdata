@@ -3095,8 +3095,8 @@ https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mo
 
 
 #EXTM3U
-#EXTINF:-1 group-title="KINO_TV 📺",Кино ТВ HD
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺",Кино ТВ 11
+http://194.152.35.17/kino-tv/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",Еврокино
 http://vod.tuva.ru/eurokino/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://rafail1982.uz/logo/Cinema HD.png",Cinema
