@@ -105,6 +105,8 @@ https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
 https://kinostream4-asil-tv.hf.space/hls/stream.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV 2
 https://kinostream4-asil-tv2.hf.space/hls/stream.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/23//bfa00beb-dafa-447d-bcf7-ff2fa954bf61-q-500x500.jpeg", HAYOT TV
+https://s7.iptv-24.net/1064/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/mediabay1235.png",Mediabay TV
 
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/uzbekmusic.png",Mediabay Music 
