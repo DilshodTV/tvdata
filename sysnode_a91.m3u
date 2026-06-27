@@ -2531,7 +2531,7 @@ http://de1.plist.link:3355/FGfpnUmovVu8411/index.m3u8?token=hjOF3_7BKVCl-sF4bGzX
 #EXTINF:0 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://af-play.com/storage/images/pack_logos/cc2fef6085094bae4d2b1a435a356ab3.png",ТВ3 (+7)
 http://de1.plist.link:3355/FGfpnUmovVu62816/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxJymtQbgJu4Cpc4LsrVS9ecjM3R1_Si-Rn-HsDTDNA3P.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/tv3-int.png",ТВ3 International
-
+http://dmi3y-tv.online/hls/T2/CH_TV3_INTERNATIONAL.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/REN_TV_logo_2015.svg/500px-REN_TV_logo_2015.svg.png",Рен ТВ
 http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://s06.wsbof.com:8080/streams/rentv-plus-2.png",РЕН ТВ (+2)
