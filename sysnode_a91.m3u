@@ -201,7 +201,7 @@ https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://epg.it999.ru/img/2578.png",Хабар 24
 https://s7.iptv-24.net/1408/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://astanatv.kz/cache/imagine/1200/uploads/article/2023/3/1/1677681984370.jpg",Astana TV
-
+http://txpqqciy.megogo.xyz/iptv/5UVGP564T2GFDE/2214/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://imservice.kz/wp-content/uploads/2025/01/LOGO_GREEN_WHITE-01-scaled-2.jpeg",Almaty TV
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://raw.githubusercontent.com/unixlinuxgeek/logos/main/iptv/MTRK.png",МТРК Петропавл
@@ -235,7 +235,7 @@ http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://www.lyngsat.com/logo/tv/mm/manas-tv-kg.png",Manas TV KZ HD
 http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/5kanal-karaganda.png",5 канал (Караганда)
-
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/458MPWD8UEBKE9/2221/index.m3u8
 #EXTINF:0 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/7kanal-kz.png",7 канал
 http://cdntv.online/high/6j95s4drt3/937.m3u8
 #EXTINF:0 group-title="Kazakistan_TV 🇰🇿"tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/31-kanal-kz.png",31 канал KZ
@@ -324,6 +324,8 @@ https://s.qonaevtv.kz/live/qonaev/playlist.m3u8
 
 #EXTINF:0 group-title="Kazakistan_TV 🇰🇿" tvg-id="atyray" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/atyray.png",Atyray
 
+#EXTINF:0 group-title="Kazakistan_TV 🇰🇿",Alatau TV KZ
+http://txpqqciy.megogo.xyz/iptv/5UVGP564T2GFDE/2219/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/saryarqa.png",Saryarqa
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.ibb.co/P9V0532/Captura.png",Semei
@@ -4812,9 +4814,9 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee
 https://live20.bozztv.com/giatvplayout7/ushba61/index.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://toplogos.ru/images/logo-tiktok.png",Тик Ток 2
 https://30a-tv.com/feeds/720p/63.m3u8
-#EXTINF:-1 group-title="Kofe_TV ☕️",Вокзал Вршовице Чешская
+#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="http://rafail1982.uz/logo/camera.png",Вокзал Вршовице Чешская
 http://live.idnes.cz/slow/vrsovice/playlist.m3u8
-#EXTINF:-1 group-title="Kofe_TV ☕️",Аэропорт Чешская
+#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="http://rafail1982.uz/logo/camera.png",Аэропорт Чешская
 http://live.idnes.cz/slow/planespotting/playlist.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="http://rafail1982.uz/logo/camera.png",Аэропорт Дюссельдорфа 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -4822,7 +4824,7 @@ http://stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="http://rafail1982.uz/logo/camera.png",Аэропорт Дюссельдорфа 5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://stream-5gw.1000eyes.de:1935/cupertino/dused0c.stream/playlist.m3u8
-#EXTINF:-1 group-title="Kofe_TV ☕️",Ж/д королевство
+#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="http://rafail1982.uz/logo/camera.png",Ж/д королевство
 http://live.idnes.cz/slow/kralovstvizeleznic/playlist.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://goodgame.ru/files/avatars/av_202377_lx1M.png",Gameplay 🎮
 https://live20.bozztv.com/giatvplayout7/ushba31/tracks-v1a1/mono.m3u8
