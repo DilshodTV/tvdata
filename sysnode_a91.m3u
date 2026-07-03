@@ -2369,8 +2369,18 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 #EXTM3U
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://master-cleanair.ru/images/perviy_hd.png",Первый HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Первый канал (+2)
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2842.png?69c29495b9dac",Первый канал (+2)
 https://s7.iptv-24.net/1019/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2842.png?69c29495b9dac",Первый канал (+4)
+http://de1.plist.link:3355/FGfpnUmovVu1363/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP5lZd5wxmDSpKL6xUvVkc5aDcvdZpCLIlFcCzOx_fIDZ.tg6457680141
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2842.png?69c29495b9dac",Первый канал (+6)
+http://de1.plist.link:3355/FGfpnUmovVu0386/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP2Bx2SR8AEh8dR_eqOI_dxWguZPT4mctOv8X0eBVP0d6.tg6457680141
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2842.png?69c29495b9dac",Первый канал (+7)
+http://de1.plist.link:3355/FGfpnUmovVu92802/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dPwmoRj9UIHNlAFENdt517uEWeSOBYOPqeoUuPwgneF1A.tg6457680141
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2842.png?69c29495b9dac",Первый канал (+8)
+http://de1.plist.link:3355/FGfpnUmovVu5387/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP_XkBesYMorMpB-Wj3GMvgynXvgaqyNrL1lkQMJbVZCw.tg6457680141
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2842.png?69c29495b9dac",Первый канал (+9)
+http://de1.plist.link:3355/FGfpnUmovVu52803/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP7U-31arWxJwQWil3AKC2MiQ7X8nEu3eLuT3mVLmcW_W.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Россия 1 (+1)
