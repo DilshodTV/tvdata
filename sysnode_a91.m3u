@@ -193,7 +193,7 @@ https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://imservice.kz/wp-content/uploads/2025/01/WhatsApp-Image-2022-12-05-at-14.09.19-1-1.jpeg",Qazaqstan HD
-
+http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/2210/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://imservice.kz/wp-content/uploads/2025/01/WhatsApp-Image-2022-12-05-at-14.09.19-1-1.jpeg",Qazaqstan International
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:0 group-title="Kazakistan_TV 🇰🇿" tvg-id="xabar" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar.png",Хабар KZ
@@ -330,16 +330,20 @@ http://txpqqciy.megogo.xyz/iptv/5UVGP564T2GFDE/2219/index.m3u8
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.ibb.co/P9V0532/Captura.png",Semei
 
-#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.imgur.com/X7N3JK4.png",Jambyl
-
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.imgur.com/X7N3JK4.png",Jambyl KZ
+http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/14232/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.imgur.com/pOR3FSR.png",Kókshe
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.imgur.com/9JfLseu.png",Mańǵystaý
 
-#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.imgur.com/xqr1hjN.png",Ontústik
-
-#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/ulytau-kz.png",Ulytau HD
-
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.imgur.com/xqr1hjN.png",Ontustik KZ
+http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/15001/index.m3u8
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/ulytau-kz.png",Ulytau KZ
+http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/14231/index.m3u8
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Ассамблея ТВ KZ
+http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/15004/index.m3u8
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Alatau TV KZ
+http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/2219/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.imgur.com/csKl1z6.png",Aqtobe
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/balapan.png",Balapan TV
@@ -359,19 +363,21 @@ https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.imgur.com/7l1WSDJ.png",Qyzyljar
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.imgur.com/r4BFQpE.png",Qyzylorda
-
-#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/otyrar-tv.png",ОTYRAR
-
+http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/14233/index.m3u8
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/otyrar-tv.png",Otyrar KZ
+http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/14237/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",TURKISTAN TV
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Jetisy HD
 
-#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Ayg'aq TV
-
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Айгак KZ
+http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/15002/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://pbs.twimg.com/profile_images/430308102248726528/TENT1Bjg_400x400.jpeg",Туран ТВ KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://toiduman.kz/images/logo.png",Той Туман ТВ
 
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Aqsham TV KZ
+http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/14223/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/silk-way-cinema.png" ,Silk Way Cinema HD
 https://stream.qazcdn.net/ex6r514/silkwaycinema/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakh-tv.png",Jibek Joly
@@ -402,6 +408,8 @@ https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://liter.kz/cache/imagine/1200/uploads/news/2021/01/07/gimn.jpg",Qazaqstan Music SD
 
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Qadam TV KZ
+http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/15005/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.imgur.com/nHVABXh.png",MuzzOne HD
 https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/show-kz.png",SHOW KZ HD
@@ -2141,6 +2149,10 @@ http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/5068/index.m3u8
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/L5mKP5KG/setanta-georgia-logo-png-seeklogo-373606.png", Setanta 1 Gretsiya
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/L5mKP5KG/setanta-georgia-logo-png-seeklogo-373606.png", Setanta 2 Gretsiya
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/L5mKP5KG/setanta-georgia-logo-png-seeklogo-373606.png", Setanta 3 Gretsiya
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/megogo-sport-ua-hd.png",MEGOGO Спорт HD
 http://471ccec7.tvclub.xyz/iptv/BUYS9YTNABMC25/31612/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Megogo Футбол 1 HD
