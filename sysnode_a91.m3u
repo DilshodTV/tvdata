@@ -197,7 +197,7 @@ http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/2210/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://imservice.kz/wp-content/uploads/2025/01/WhatsApp-Image-2022-12-05-at-14.09.19-1-1.jpeg",Qazaqstan International
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:0 group-title="Kazakistan_TV 🇰🇿" tvg-id="xabar" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar.png",Хабар KZ
-
+https://cdn.ru01.links-tv-channels.org:4443/25095/index.m3u8?token=nRDWPxEVaTznhk
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://epg.it999.ru/img/2578.png",Хабар 24
 https://s7.iptv-24.net/1408/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://astanatv.kz/cache/imagine/1200/uploads/article/2023/3/1/1677681984370.jpg",Astana TV
@@ -213,11 +213,11 @@ https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿"  tvg-logo="https://s9.vcdn.biz/static/f/2293960041/image.jpg",КТК KZ
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%A2%D0%9A.png" catchup-days="0", НТК KZ
-
+https://as01.links-tv-channels.org/20457/index.m3u8?token=nRDWPxEVaTznhk
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.mycdn.me/i?r=BDH3HfPpvmQZZI-uHXH_6LjV3_dv7sxqxMd2lMyWo_xtfkhokwdVFTTq0m4WSSJ6fvA",НТК (Нижнеудинск)
 http://171.22.212.250/NTK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://epg.it999.ru/img/2571.png",Первый канал Евразия
-
+https://as01.links-tv-channels.org/20449/index.m3u8?token=nRDWPxEVaTznhk
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Мир(Казахстан)
 https://tvcdn01.oktv.kz/tv/mir/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/01/29//13d43d954ad361b7e27049f3a00acda4-q-500x500.jpeg",Мир 24 KZ
@@ -2110,10 +2110,8 @@ https://s7.iptv-24.net/1430/tracks-v1a1/mono.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="Sport_TV 🏆",Матч ТВ
-http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч HD
-https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+http://de1.plist.link:3355/FGfpnUmovVu8609/index.m3u8?token=czoewbz_D6R0fNDHJwHzn2kzNCQmiiXAyV0DWvRJ1eJRkquBbqTf4As_TFloY-gQ.tg6457680141
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Планета
 https://s7.iptv-24.net/1243/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Страна HD
@@ -2181,9 +2179,9 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.pinimg.com/originals/1d/ed/56/1ded56de6c3762428deff37bfa0b3b28.jpg",Barcelona TV
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://tricolor-38.ru/KANALY_3/Eurosport-1-HD.png",Eurosport 1 HD
-http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
+http://ottlinks.club/hls/7jic59vkp2tz/38.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://tricolor-38.ru/KANALY_3/Eurosport_2_HD.png",Eurosport 2 HD
-http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
+http://ottlinks.club/hls/7jic59vkp2tz/40.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.imgur.com/ujS6mMo.png",ТВ Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆", Волейбол
@@ -3365,6 +3363,10 @@ https://prosto.zuno-tv.workers.dev/stream/id521/video.m3u8
 https://prosto.zuno-tv.workers.dev/stream/id558/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00557.png",4ever Drama HD
 https://prosto.zuno-tv.workers.dev/stream/id557/video.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺",Kino 1
+http://stream.mcquack.net/395/index.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺",Kino 2
+http://stream.mcquack.net/465/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",Космос ТВ
 
 #EXTINF:-1 group-title="KINO_TV 📺",Novella TV HD
@@ -4802,6 +4804,8 @@ https://live20.bozztv.com/giatvplayout7/ushba46/tracks-v1a1/mono.m3u8
 https://efirtanectv-hls.cdnvideo.ru/hls/61c641b176face0001223636/1080p.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://i.ytimg.com/vi/Tur6ag44Hr8/maxresdefault.jpg",Gags Network
 http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
+#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://i.ytimg.com/vi/Tur6ag44Hr8/maxresdefault.jpg",Gags Network 2
+http://stream.mcquack.net/458/index.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://imgcdn.stablediffusionweb.com/2024/9/23/d96ad22a-17b4-421a-881d-d1a1002f3935.jpg",Мода 1
 https://live20.bozztv.com/giatvplayout7/ushba-t8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://imgcdn.stablediffusionweb.com/2024/9/23/d96ad22a-17b4-421a-881d-d1a1002f3935.jpg",Мода 2
