@@ -3492,6 +3492,8 @@ http://hls127.freeott.top:8080/CPS_Action/video.m3u8
 http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",CPS Drama HD
 http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺",CPS Jackie Chan HD
+http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",CPS Fiction HD
 http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",CPS Fresh HD
