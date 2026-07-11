@@ -2653,10 +2653,14 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 http://dmitry-tv.ddns.net/hls/CH_REDLINE.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Ретро Кинопанорама
 https://live20.bozztv.com/giatvplayout7/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Ретровисион
-https://live20.bozztv.com/giatvplayout7/ushba-rvision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Ретро Мотор
 https://live20.bozztv.com/giatvplayout7/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Ретровисион
+https://live20.bozztv.com/giatvplayout7/ushba-rvision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Ретровисион Movies
+https://lbgo.bozztv.com/07/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Ретровисион Classic
+https://lbgo.bozztv.com/07/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Военный
 https://live20.bozztv.com/giatvplayout7/ushba16/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="353" tvg-logo="http://tv.kubtel.ru/tv_icon/MosfilmHD.png" group-title="Rossiya_TV 🇷🇺",Мосфильм. Золотая коллекция
@@ -3767,83 +3771,58 @@ http://kinowalk.hopto.org/perviryad_live
 
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 1
-https://live20.bozztv.com/giatvplayout7/ushba-films-n/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba82/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 2
-https://live20.bozztv.com/giatvplayout7/ushba-films-b/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 3
-https://live20.bozztv.com/giatvplayout7/ushba24/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 4
-https://live20.bozztv.com/giatvplayout7/ushba-films-h/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-b/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 5
-https://live20.bozztv.com/giatvplayout7/ushba-films-m/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 6
-https://live20.bozztv.com/giatvplayout7/ushba65/index.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 7
-https://live20.bozztv.com/giatvplayout7/ushba26/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 8
-https://live20.bozztv.com/giatvplayout7/ushba-films-e/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 9
-https://live20.bozztv.com/giatvplayout7/ushba-films-f/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 10
-https://live20.bozztv.com/giatvplayout7/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 11
-https://live20.bozztv.com/giatvplayout7/ushba-films-i/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 12
-https://live20.bozztv.com/giatvplayout7/ushba-films-j/index.m3u8
+https://lbgo.bozztv.com/07/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 13
-https://live20.bozztv.com/giatvplayout7/ushba-films-qr/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba64/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 14
-https://live20.bozztv.com/giatvplayout7/ushba-films-uv/tracks-v1a1/mono.m3u8
+https://lbgo.bozztv.com/07/ushba65/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 15
-https://live20.bozztv.com/giatvplayout7/ushba-films-o/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 16
-https://live20.bozztv.com/giatvplayout7/ushba-films-s/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 17
-https://live20.bozztv.com/giatvplayout7/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 18
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 19
 https://live20.bozztv.com/giatvplayout7/ushba64/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 20
-https://live20.bozztv.com/giatvplayout7/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 21
-https://live20.bozztv.com/giatvplayout7/ushba-films-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 22
-https://live20.bozztv.com/giatvplayout7/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 23
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 16
 https://live20.bozztv.com/giatvplayout7/ushba56/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 24
-https://live20.bozztv.com/giatvplayout7/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 25
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 17
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 26
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 18
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 27
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 28
-https://live20.bozztv.com/giatvplayout7/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 29
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 19
+https://live20.bozztv.com/giatvplayout7/ushba65/index.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 20
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-b/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 30
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 21
 https://live20.bozztv.com/giatvplayout7/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 31
-https://live20.bozztv.com/giatvplayout7/ushba27/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 32
-https://live20.bozztv.com/giatvplayout7/ushba-films-w/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 33
-https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 34
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 35
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 22
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 36
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 23
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-b/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 37
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 24
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 38
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 25
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 39
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 26
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -4780,46 +4759,42 @@ https://q.uzbeklar.biz/film/ilonlarvodiysi.mp4
 
 #EXTM3U
 #EXTINF:-1 tvg-id="no_epg" group-title="Kofe_TV ☕️" tvg-logo="https://cf2.ppt-online.org/files2/slide/q/QawGdDELZ6zF4AUJkR9iCylu1jvxHKWM50NoSYtsc/slide-0.jpg",Документалка 1
-https://live20.bozztv.com/giatvplayout7/ushba4/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="no_epg" group-title="Kofe_TV ☕️" tvg-logo="https://cf2.ppt-online.org/files2/slide/q/QawGdDELZ6zF4AUJkR9iCylu1jvxHKWM50NoSYtsc/slide-0.jpg",Документалка 2
-https://live20.bozztv.com/giatvplayout7/ushba38/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="no_epg" group-title="Kofe_TV ☕️" tvg-logo="https://cf2.ppt-online.org/files2/slide/q/QawGdDELZ6zF4AUJkR9iCylu1jvxHKWM50NoSYtsc/slide-0.jpg",Документалка 4
-https://live20.bozztv.com/giatvplayout7/ushba28/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="no_epg" group-title="Kofe_TV ☕️" tvg-logo="https://cf2.ppt-online.org/files2/slide/q/QawGdDELZ6zF4AUJkR9iCylu1jvxHKWM50NoSYtsc/slide-0.jpg",Документалка 5
-https://live20.bozztv.com/giatvplayout7/ushba29/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Kofe_TV ☕️" tvg-logo="https://img.razrisyika.ru/kart/20/1200/76229-eralash-32.jpg",Ералаш
-https://live20.bozztv.com/giatvplayout7/ushba8/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Kofe_TV ☕️",Анекдот ТВ
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Kofe_TV ☕️" tvg-logo="https://s1.afisha.ru/mediastorage/d2/7a/14b61d47e0224a4e92c314b07ad2.jpg",Мистер Бин
-https://live20.bozztv.com/giatvplayout7/ushba45/index.m3u8
+https://lbgo.bozztv.com/07/ushba45/index.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Шоу Бенни Хилла
-https://live20.bozztv.com/giatvplayout7/ushba62/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Kofe_TV ☕️",Осторожно Модерн 2
+https://lbgo.bozztv.com/07/ushba62/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kofe_TV ☕️",Осторожно Модерн
 http://kinowalk.hopto.org/ostorozhnomodern2_live
-#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://pbs.twimg.com/profile_images/1115297431149793280/BCKW849r_400x400.png",Приколы 1
-https://live20.bozztv.com/giatvplayout7/ushba11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://pbs.twimg.com/profile_images/1115297431149793280/BCKW849r_400x400.png",Приколы 2
-https://live20.bozztv.com/giatvplayout7/ushba20/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://pbs.twimg.com/profile_images/1115297431149793280/BCKW849r_400x400.png",Приколы 3
+#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://pbs.twimg.com/profile_images/1115297431149793280/BCKW849r_400x400.png",Приколы
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://www.cableman.ru/themes/custom/initlab_cab/images/click-icon.png",Залепительные ролики
-https://live20.bozztv.com/giatvplayout7/ushba60/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Kofe_TV ☕️",Elektrika TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://previews.123rf.com/images/seamartini/seamartini1610/seamartini161000486/64252995-classic-music-isolated-icon-of-violin-with-bows-framed-by-ribbon-banner-and-stars-musical-concert.jpg",Выставка классического искусства
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://liveam.tv/assets/images/2018/tanci-2018.jpg",Танцы 1
-https://live20.bozztv.com/giatvplayout7/ushba14/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://liveam.tv/assets/images/2018/tanci-2018.jpg",Танцы 2
-https://live20.bozztv.com/giatvplayout7/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://liveam.tv/assets/images/2018/tanci-2018.jpg",Танцы 3
 https://live20.bozztv.com/giatvplayout7/ushba55/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://liveam.tv/assets/images/2018/tanci-2018.jpg",Танцы 4
-https://live20.bozztv.com/giatvplayout7/ushba59/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://liveam.tv/assets/images/2018/tanci-2018.jpg",Танцы 5
+#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://liveam.tv/assets/images/2018/tanci-2018.jpg",Танцы 2
 https://live20.bozztv.com/giatvplayout7/ushba46/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://liveam.tv/assets/images/2018/tanci-2018.jpg",Танцы 3
+
+#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://liveam.tv/assets/images/2018/tanci-2018.jpg",Танцы 4
+
+#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://liveam.tv/assets/images/2018/tanci-2018.jpg",Танцы 5
+
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://liveam.tv/assets/images/2018/tanci-2018.jpg",Танец ТВ
 https://efirtanectv-hls.cdnvideo.ru/hls/61c641b176face0001223636/1080p.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://i.ytimg.com/vi/Tur6ag44Hr8/maxresdefault.jpg",Gags Network
@@ -4843,10 +4818,16 @@ https://live20.bozztv.com/giatvplayout7/ushba-t3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://imgcdn.stablediffusionweb.com/2024/9/23/d96ad22a-17b4-421a-881d-d1a1002f3935.jpg",Мода 8
 https://live20.bozztv.com/giatvplayout7/ushba-aivideo/index.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://imgcdn.stablediffusionweb.com/2024/9/23/d96ad22a-17b4-421a-881d-d1a1002f3935.jpg",Мода 9
-https://live20.bozztv.com/giatvplayout7/ushba-m3/index.m3u8
+https://lbgo.bozztv.com/07/ushba-m1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://imgcdn.stablediffusionweb.com/2024/9/23/d96ad22a-17b4-421a-881d-d1a1002f3935.jpg",Мода 10
-https://live20.bozztv.com/giatvplayout7/ushba-monj/tracks-v1a1/mono.m3u8
+https://live20.bozztv.com/giatvplayout7/ushba-m3/index.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://imgcdn.stablediffusionweb.com/2024/9/23/d96ad22a-17b4-421a-881d-d1a1002f3935.jpg",Мода 11
+https://live20.bozztv.com/giatvplayout7/ushba-monj/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://imgcdn.stablediffusionweb.com/2024/9/23/d96ad22a-17b4-421a-881d-d1a1002f3935.jpg",Мода 12
+https://lbgo.bozztv.com/07/ushba-m6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://imgcdn.stablediffusionweb.com/2024/9/23/d96ad22a-17b4-421a-881d-d1a1002f3935.jpg",Мода 13
+https://lbgo.bozztv.com/07/ushba-m8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://imgcdn.stablediffusionweb.com/2024/9/23/d96ad22a-17b4-421a-881d-d1a1002f3935.jpg",Мода 14
 http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://iconape.com/wp-content/png_logo_vector/fashion-tv.png",Fashion Channel
 https://live20.bozztv.com/giatvplayout7/ushba19/tracks-v1a1/mono.m3u8
