@@ -87,6 +87,8 @@ https://s7.iptv-24.net/1291/tracks-v1a1/mono.m3u8
 https://s7.iptv-24.net/1290/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/05/22//a5395b0b-1448-43da-a622-3a117c37ad78-q-500x500.jpeg", Farovon Yurt
 https://s7.iptv-24.net/1301/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/23//bfa00beb-dafa-447d-bcf7-ff2fa954bf61-q-500x500.jpeg", HAYOT TV
+https://s7.iptv-24.net/1064/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//91c58d573e4a8e351e68a0ebcbe724ab-q-500x500.jpeg", ITV Cinema HD
 https://s7.iptv-24.net/4000/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//27d9324713264f6d8c4cc6986cf4ae86-q-500x500.jpeg", ITV Music HD
@@ -101,22 +103,40 @@ https://s7.iptv-24.net/1212/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/nV1MPQz2/f74bfc6be9137e5219898.jpg",TASIX-Media kino
 https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV 1
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Kino
 https://kinostream4-asil-tv.hf.space/hls/stream.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV 2
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Cinema
 https://kinostream4-asil-tv2.hf.space/hls/stream.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/23//bfa00beb-dafa-447d-bcf7-ff2fa954bf61-q-500x500.jpeg", HAYOT TV
-https://s7.iptv-24.net/1064/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Premiere 1
+https://kinostream3-premiera-1.hf.space/hls/stream.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Premiere 2
+https://kinostream3-premiera-2.hf.space/hls/stream.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV New-Kino
+https://stream-tv-new-kino.hf.space/hls/stream.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Hind-Kino
+https://stream-tv-hind-movie.hf.space/hls/stream.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Jackie Chan
+https://kinostream-jackie-chan.hf.space/hls/stream.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Scott Adkins
+https://scottadkins-stream.hf.space/hls/stream.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Uill Smit
+https://scottadkins-uill-smit.hf.space/hls/stream.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Denzel Vashington
+https://kinostream-denzel.hf.space/hls/stream.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Tony-Jaa
+https://kinostream2-tony-jaa.hf.space/hls/stream.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Jason Statham
+https://kinostream2-jason-statham.hf.space/hls/stream.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/mediabay1235.png",Mediabay TV
 
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/uzbekmusic.png",Mediabay Music 
 
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/01/15//a41db9389954c020a2c2d976a450a61d-q-500x500.jpeg", Cinema UZ
 https://s7.iptv-24.net/1498/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/14//2aad1133ca08fb62b06d06edf1b052b1-q-500x500.jpeg", S Music
-https://s1.iptv-24.net/1476/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/19//2b9d5460c300fafc6cac117e0650b4fd-q-500x500.jpeg",S-Ikbol
 https://s7.iptv-24.net/1282/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/14//2aad1133ca08fb62b06d06edf1b052b1-q-500x500.jpeg", S Music
+https://s1.iptv-24.net/1476/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg", Makon TV
 https://s7.iptv-24.net/1497/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/07/26//3b502b779ef41d61b37bc535bf869f87-q-500x500.jpeg",NTV
