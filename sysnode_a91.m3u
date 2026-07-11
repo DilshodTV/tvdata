@@ -4772,16 +4772,15 @@ https://q.uzbeklar.biz/film/ilonlarvodiysi.mp4
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Kofe_TV ☕️" tvg-logo="https://s1.afisha.ru/mediastorage/d2/7a/14b61d47e0224a4e92c314b07ad2.jpg",Мистер Бин
 https://lbgo.bozztv.com/07/ushba45/index.m3u8
-#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Шоу Бенни Хилла
+#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://i.pinimg.com/736x/7b/24/2c/7b242c9dda311fc05c4ed1347003711c.jpg",Шоу Бенни Хилла
 https://lbgo.bozztv.com/07/ushba62/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Kofe_TV ☕️",Осторожно Модерн
+#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://media.myshows.me/shows/normal/b/f9/bf93558f93a7b2a2eeb606bd8c46dd94.jpg",Осторожно Модерн
 http://kinowalk.hopto.org/ostorozhnomodern2_live
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://pbs.twimg.com/profile_images/1115297431149793280/BCKW849r_400x400.png",Приколы
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://www.cableman.ru/themes/custom/initlab_cab/images/click-icon.png",Залепительные ролики
 
-#EXTINF:-1 group-title="Kofe_TV ☕️",Elektrika TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://chastnik-m.ru/images/ob/600000_1/670000/673748/ch64ee9881b4d01.jpg",Elektrika TV
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://previews.123rf.com/images/seamartini/seamartini1610/seamartini161000486/64252995-classic-music-isolated-icon-of-violin-with-bows-framed-by-ribbon-banner-and-stars-musical-concert.jpg",Выставка классического искусства
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8?checkedby:iptvcat.com
