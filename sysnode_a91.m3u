@@ -4829,8 +4829,6 @@ https://lbgo.bozztv.com/07/ushba-m8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://imgcdn.stablediffusionweb.com/2024/9/23/d96ad22a-17b4-421a-881d-d1a1002f3935.jpg",Мода 14
 http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://iconape.com/wp-content/png_logo_vector/fashion-tv.png",Fashion Channel
-https://live20.bozztv.com/giatvplayout7/ushba19/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fashion_TV_logo_2017.svg/1200px-Fashion_TV_logo_2017.svg.png",Fashion TV
 https://s7.iptv-24.net/1053/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://i1.sndcdn.com/avatars-000127152992-vy09cg-t1080x1080.jpg",World Fashion Channel En
 http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
@@ -4840,20 +4838,10 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee
 https://live20.bozztv.com/giatvplayout7/ushba61/index.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://toplogos.ru/images/logo-tiktok.png",Тик Ток 2
 https://30a-tv.com/feeds/720p/63.m3u8
-#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="http://rafail1982.uz/logo/camera.png",Вокзал Вршовице Чешская
-http://live.idnes.cz/slow/vrsovice/playlist.m3u8
-#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="http://rafail1982.uz/logo/camera.png",Аэропорт Чешская
-http://live.idnes.cz/slow/planespotting/playlist.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="http://rafail1982.uz/logo/camera.png",Аэропорт Дюссельдорфа 4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="http://rafail1982.uz/logo/camera.png",Аэропорт Дюссельдорфа 5
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://stream-5gw.1000eyes.de:1935/cupertino/dused0c.stream/playlist.m3u8
-#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="http://rafail1982.uz/logo/camera.png",Ж/д королевство
-http://live.idnes.cz/slow/kralovstvizeleznic/playlist.m3u8
-#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://goodgame.ru/files/avatars/av_202377_lx1M.png",Gameplay 🎮
-https://live20.bozztv.com/giatvplayout7/ushba31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://goodgame.ru/files/avatars/av_334622_zJV1.jpg",Gameplay 🎮трейлеры
 https://live20.bozztv.com/giatvplayout7/ushba44/index.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://goodgame.ru/files/avatars/av_334622_zJV1.jpg",PartizaNka tv
