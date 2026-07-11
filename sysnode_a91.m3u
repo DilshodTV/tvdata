@@ -1938,9 +1938,8 @@ https://mults.info/mp4/yumoreski_3.mp4
 https://s7.iptv-24.net/1038/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Охотник и Рыболов HD
 https://s7.iptv-24.net/1413/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Dunyo_TV 🌎",Дикий охота и рыбалка
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://hls127.freeott.top:8080/Dikiy/mono.m3u8
+#EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/04/21//e4caca7c-e6d1-47b1-b0dc-cd71f863daa6-q-500x500.jpeg",Дикая охота HD
+https://stream9.itv.uz/t/pOSmQ99uV_AcOFfpvrQhGg/e/1782674980/1503/index.m3u8
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-logo="https://iptvx.one/picons/dialogi-o-rybalke.png" group-title="Dunyo_TV 🌎" ,Диалоги о рыбалке
 http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Рыбалка
@@ -4879,7 +4878,7 @@ https://live20.bozztv.com/giatvplayout7/ushba31/tracks-v1a1/mono.m3u8
 https://live20.bozztv.com/giatvplayout7/ushba44/index.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://goodgame.ru/files/avatars/av_334622_zJV1.jpg",PartizaNka tv
 http://kinowalk.hopto.org/partizanka_tv_live
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://kinowalk.hopto.org/web/image/197/128x128?unique=2026-02-21%2020:43:54.719669&access_token=986de50c-3a7a-4798-a1db-19f4161c0b9d",PrizraK PlaY HD
+#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://kinowalk.hopto.org/web/image/197/128x128?unique=2026-02-21%2020:43:54.719669&access_token=986de50c-3a7a-4798-a1db-19f4161c0b9d",PrizraK PlaY HD
 http://kinowalk.hopto.org/vampiro1965_live
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://goodgame.ru/files/avatars/av_334622_zJV1.jpg",Эра VHS
 
