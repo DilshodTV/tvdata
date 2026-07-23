@@ -1911,7 +1911,7 @@ http://de1.plist.link:3355/FGfpnUmovVu4444/index.m3u8?token=7LO7cdTWNP71bg9jr81x
 #EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="https://i.imgur.com/N1Ze5IE.png" group-title="Dunyo_TV 🌎",Космический
 https://s7.iptv-24.net/1415/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Galaxy TV
-
+http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/5045/index.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Тайны Галактики
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Наука HD
@@ -2321,7 +2321,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 
 #EXTM3U
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://master-cleanair.ru/images/perviy_hd.png",Первый HD
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+https://s7.iptv-24.net/1214/index.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2842.png?69c29495b9dac",Первый канал (+2)
 https://s7.iptv-24.net/1019/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2842.png?69c29495b9dac",Первый канал (+4)
@@ -2355,9 +2355,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Россия Культура
 https://s7.iptv-24.net/1048/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Россия РТР
-https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
+
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://static.dw.com/image/18370817_605.jpg",Россия Планета РТР
-https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a
+
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Россия 24
 https://s7.iptv-24.net/1021/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Москва 24
@@ -2445,7 +2445,7 @@ https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.ibb.co/p6gZ2BXn/image-4.png",НТВ Своя Игра
 https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-id="355" tvg-logo="http://tv.kubtel.ru/tv_icon/RussRomHD.png" group-title="Rossiya_TV 🇷🇺",Русский Роман
-
+http://de1.plist.link:3355/FGfpnUmovVu8132/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxEbDNuvUj18pwjJLa65fUNZq-v8bxB8XET94rvESXwZj.tg6457680141
 #EXTINF:-1 tvg-id="356" tvg-logo="http://tv.kubtel.ru/tv_icon/RussBest.png" group-title="Rossiya_TV 🇷🇺",Русский бестселлер
 http://de1.plist.link:3355/FGfpnUmovVu5115/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxL0FgRVBv1wV2vEdK7hE4G1_9GXeOf6OvB6Y2cNHA4Ag.tg6457680141
 #EXTINF:-1 tvg-id="357" tvg-logo="http://tv.kubtel.ru/tv_icon/RussDet.png" group-title="Rossiya_TV 🇷🇺",Русский Детектив
@@ -2467,7 +2467,7 @@ http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://img.rnx.ru/logotvchannel/44-250.jpg",Дом кино
 https://s7.iptv-24.net/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="272" tvg-logo="http://tv.kubtel.ru/tv_icon/dom-kino-premium.png" group-title="Rossiya_TV 🇷🇺",Дом Кино Премиум HD
-http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/911/index.m3u8
+http://dmi3y-tv.online/hls/CH_DOMKINOPREMIUMHD.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/417.png?69c29495b9dac", Домашний
 http://de1.plist.link:3355/FGfpnUmovVu7417/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP2reF88t_rdESF4FyXUO76RNKPGQWUp9IE6jSiTw8Ws6.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2027.png?69c29495b9dac", Домашний (+4)
@@ -2494,6 +2494,10 @@ http://de1.plist.link:3355/FGfpnUmovVu62817/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-
 
 #EXTINF:-1 tvg-id="35" tvg-logo="http://tv.kubtel.ru/tv_icon/sts-love.png" group-title="Rossiya_TV 🇷🇺",СТС Love
 http://de1.plist.link:3355/FGfpnUmovVu72824/index.m3u8?token=2VejxCo_Sezd_9XgsnoN6EFshML4O8z6T1BV5EhmiRHmxoETwILVDeEUzkz51e1G.tg6457680141
+#EXTINF:-1 tvg-id="35" tvg-logo="http://tv.kubtel.ru/tv_icon/sts-love.png" group-title="Rossiya_TV 🇷🇺", СТС Love +2
+http://de1.plist.link:3355/FGfpnUmovVu72824/index.m3u8?token=2VejxCo_Sezd_9XgsnoN6EFshML4O8z6T1BV5EhmiRHmxoETwILVDeEUzkz51e1G.tg6457680141
+#EXTINF:-1 tvg-id="35" tvg-logo="http://tv.kubtel.ru/tv_icon/sts-love.png" group-title="Rossiya_TV 🇷🇺", СТС Love +4
+http://de1.plist.link:3355/FGfpnUmovVu32825/index.m3u8?token=2VejxCo_Sezd_9XgsnoN6Gub0iEMDgx1E-vwr8Xvc6lK68bBB9yZIOGHptkcoCox.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/369.png?69c29495b9dac",ТНТ HD
 https://streaming.thestream.cyou/live/38.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/370.png?69c29495b9dac",ТНТ (+2)
