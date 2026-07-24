@@ -1909,7 +1909,7 @@ http://de1.plist.link:3355/FGfpnUmovVu4444/index.m3u8?token=7LO7cdTWNP71bg9jr81x
 #EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="https://i.imgur.com/N1Ze5IE.png" group-title="Dunyo_TV 🌎",Космический
 https://s7.iptv-24.net/1415/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Galaxy TV
-http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/5045/index.m3u8
+http://dmi3y-tv.online/hls/CH_GALAXYTV.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Тайны Галактики
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Наука HD
@@ -1981,7 +1981,7 @@ http://dmitry-tv.ddns.net/hls/CH_CGTN_DOCUMENTARYHD720.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Travel HD
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="https://i.imgur.com/AlpdXC4.png",Travel+Adventure 
-
+http://dmi3y-tv.online/hls/CH_TRAVELPLUSADVENTURE.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://rafail1982.uz/logo/Глазами туриста HD.png",Глазами туриста 
 https://s7.iptv-24.net/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",DocuBox
@@ -2002,6 +2002,8 @@ https://s7.iptv-24.net/1417/tracks-v1a1/mono.m3u8
 https://s7.iptv-24.net/1222/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Точка Отрыва
 https://s7.iptv-24.net/1031/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Dunyo_TV 🌎",ТОЧКА РФ HD
+http://dmi3y-tv.online/hls/CH_TOCHKA_RFHD.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Кто есть кто
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Моя Планета HD
@@ -2354,7 +2356,7 @@ https://s7.iptv-24.net/1021/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",ВМЕСТЕ-РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="320" tvg-logo="http://tv.kubtel.ru/tv_icon/vremyaDALiBLIZ.png" group-title="Rossiya_TV 🇷🇺",Время
-
+http://dmi3y-tv.online/hls/CH_VREMYA.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://i.ibb.co/gWqw4N5/45571caf9d64821ea16f7883ac62a930.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Rossiya_TV 🇷🇺",Известия Воронеж HD
@@ -2534,7 +2536,7 @@ http://de1.plist.link:3355/FGfpnUmovVu0401/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-d
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",РЕН ТВ (+7)
 http://de1.plist.link:3355/FGfpnUmovVu32809/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP5n-wE4WQEbYxFhDL21ibf97RyYm-jwl7JRwSlXfw_VR.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.imgur.com/gBjk9oF.png",РЕН ТВ International
-
+http://dmi3y-tv.online/hls/T2/CH_RENTV_INTERNATIONAL.m3u8
 #EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Rossiya_TV 🇷🇺" ,Суббота
 http://217.114.191.150/Subbota/index.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2815.png?69c29495ba529", Суббота! (+7)
@@ -2565,7 +2567,6 @@ http://vod.tuva.ru/zvezda/index.m3u8
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Красная линия
 http://dmitry-tv.ddns.net/hls/CH_REDLINE.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Ретро Кинопанорама
@@ -2642,6 +2643,10 @@ https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=hC
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",8 Канал 
 https://s7.iptv-24.net/1262/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",8 Канал (Азия)
+http://dmi3y-tv.online/hls/CH_8CHANNEL.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",8 Канал (Европа)
+http://dmi3y-tv.online/hls/CH_8CHANNELHD.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://tvbesedka.com/Upload/2020/11/28/15/23/45/dd4a48f2-09c3-4285-8a25-67f9b740892d.jpg",Девятка (HD)
 http://devyatka.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.ibb.co/HK7XWj3/s7-RM4-D71-200x200.jpg",10 канал (Саранск)
@@ -2810,9 +2815,9 @@ http://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:-1 tvg-id="39" tvg-logo="http://tv.kubtel.ru/tv_icon/krasnodarplus.png" group-title="Rossiya_TV 🇷🇺",Краснодар Онлайн
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Калейдоскоп ТВ
-
+http://dmi3y-tv.online/hls/CH_KALEYDOSKOPTV.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://tvbesedka.com/Upload/2020/10/29/21/41/51/801d599d-1d99-47ec-8e2f-353622083468.jpg",7 TV
-
+http://dmi3y-tv.online/hls/CH_7TV.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Ювелирочка ТВ
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.ibb.co/vZzsLTd/38-GY5-XBp-200x200.jpg",Витрина ТВ
@@ -3243,8 +3248,14 @@ http://de1.plist.link:3355/FGfpnUmovVu4712/index.m3u8?token=hjOF3_7BKVCl-sF4bGzX
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00179.png",Fox HD
 
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/fox-life-hd.png",FX Life HD
-
+#EXTINF:-1 tvg-id="109" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00109.png" tvg-name="FilmBox" group-title="KINO_TV 📺",FilmBox
+http://dmi3y-tv.online/hls/CH_FILMBOX.m3u8
+#EXTINF:-1 tvg-id="111" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00111.png" tvg-name="FilmBox Arthouse" group-title="KINO_TV 📺",FilmBox Arthouse
+http://dmi3y-tv.online/hls/CH_FILMBOX_ARTHOUSE.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺",FOX LIFE
+http://dmi3y-tv.online/hls/CH_FOX_LIFE.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺",TVM Channel
+http://dmi3y-tv.online/hls/CH_TVMCHANNEL.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://rafail1982.uz/logo/Star Cinema.png",Star Cinema HD
 
 #EXTINF:-1 group-title="KINO_TV 📺",Star Family HD
@@ -3306,10 +3317,6 @@ http://de1.plist.link:3355/FGfpnUmovVu0501/index.m3u8?token=hjOF3_7BKVCl-sF4bGzX
 #EXTINF:-1 group-title="KINO_TV 📺",Saga TV HD
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/detective-jam-hd.png",Detective Jam HD
-
-#EXTINF:-1 tvg-id="109" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00109.png" tvg-name="FilmBox" group-title="KINO_TV 📺",FilmBox
-
-#EXTINF:-1 tvg-id="111" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00111.png" tvg-name="FilmBox Arthouse" group-title="KINO_TV 📺",FilmBox Arthouse
 
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00439.png" group-title="KINO_TV 📺",KinoKazka HD
 
@@ -3630,6 +3637,8 @@ http://kinowalk.hopto.org/video_channel_live
 http://kinowalk.hopto.org/miiz90x_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/19254112/avatar?change_time=1736877622&croped=1&mh=140&mw=140",Кассета
 http://kinowalk.hopto.org/kasseta_live
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/12784987/avatar?change_time=1685724547&croped=1&mh=140&mw=140",Bars Play HD
+http://kinowalk.hopto.org/toxa_stream_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/19533449/avatar?change_time=1727353764&croped=1&mh=140&mw=140",Prodigy
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkplay.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140",VHS Forever
@@ -4739,15 +4748,13 @@ http://stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="http://rafail1982.uz/logo/camera.png",Аэропорт Дюссельдорфа 5
 http://stream-5gw.1000eyes.de:1935/cupertino/dused0c.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://goodgame.ru/files/avatars/av_334622_zJV1.jpg",Gameplay 🎮трейлеры
-https://live20.bozztv.com/giatvplayout7/ushba44/index.m3u8
+
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://goodgame.ru/files/avatars/av_334622_zJV1.jpg",PartizaNka tv
-http://kinowalk.hopto.org/partizanka_tv_live
+
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://kinowalk.hopto.org/web/image/197/128x128?unique=2026-02-21%2020:43:54.719669&access_token=986de50c-3a7a-4798-a1db-19f4161c0b9d",PrizraK PlaY HD
 http://kinowalk.hopto.org/vampiro1965_live
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://goodgame.ru/files/avatars/av_334622_zJV1.jpg",Эра VHS
 
-#EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://images.live.vkvideo.ru/user/12784987/avatar?change_time=1685724547&croped=1&mh=140&mw=140",Bars Play HD
-http://kinowalk.hopto.org/toxa_stream_live
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://i.pinimg.com/474x/3a/40/6f/3a406f84c92551699149b64d291c28cd.jpg",E TV
 
 
@@ -4821,9 +4828,6 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlis
 https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",Enter-фільм
 http://31.43.48.248:7000/ch54/video.m3u8
-#EXTINF:-1 group-title="Ukraina_TV 🇺🇦",ICTV
-https://live20.bozztv.com/giatvplayout7/ushba5/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00578.png?1712838085",Cinema Megahit HD
 
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00579.png?1712837780",Cinema Comedy HD
@@ -4867,22 +4871,20 @@ https://33news.org/33chanel/live/chunklist_w459617257.m3u8
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",СТБ HD
 http://iptv.prosto.tv:7000/ch4/video.m3u8
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",М2 украина
-http://live.m2.tv/hls3/stream.m3u8
+
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",Бигуди ТВ
 http://iptv.prosto.tv:7000/ch16/video.m3u8
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",Super+ HD
-http://193.27.209.122/super_plus/index.m3u8
+
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",Надія/N.K.
-http://nadiya.home-net.com.ua/mob/mystream.m3u8
+
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",Квартал ТВ
 http://iptv.prosto.tv:7000/ch65/video.m3u8
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",Сварожичи
 http://svarozhichi.cdn-04.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",XSPORT 
-http://iptv.prosto.tv:7000/ch109/video.m3u8
+
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",Суспільне Запоріжжя
-https://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1 group-title="Ukraina_TV 🇺🇦",МТМ Запоріжжя
 https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",Ізмаіл ТВ
 http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
@@ -4948,12 +4950,12 @@ https://live.teleradiocom.tj/12/3m.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="Afganistan_TV 🇹🇯",Afghanistan International
+#EXTINF:-1 group-title="Afganistan_TV 🇹🇯",Afghanistan TV
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 group-title="Afganistan_TV 🇹🇯",Bahar TV
 
 #EXTINF:-1 group-title="Afganistan_TV 🇹🇯",Mohabat TV
-http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+
 #EXTINF:-1 group-title="Afganistan_TV 🇹🇯",Payam-e-Afghan TV
 http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
 #EXTINF:-1 group-title="Afganistan_TV 🇹🇯" tvg-logo="https://i.postimg.cc/Pr634RNN/4-Afghanistan.png",4 Afghanistan
@@ -4973,13 +4975,13 @@ https://eslahtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Afganistan_TV 🇹🇯" tvg-logo="https://i.postimg.cc/rshG38zb/maahtv.png",Maah TV
 https://hls.maahtv.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Afganistan_TV 🇹🇯" tvg-logo="https://i.imgur.com/pJU2KPh.png",RTA 1
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8
+
 #EXTINF:-1 group-title="Afganistan_TV 🇹🇯" tvg-logo="https://rta.af/artmedia/2022/12/rta-logo-final-300x185.png",RTA Education HD
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8
+
 #EXTINF:-1 group-title="Afganistan_TV 🇹🇯" tvg-logo="https://rta.af/artmedia/2022/12/rta-logo-final-300x185.png",RTA News HD
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8
+
 #EXTINF:-1 group-title="Afganistan_TV 🇹🇯" tvg-logo="https://i.postimg.cc/6qDg2JN8/rtasport.png",RTA Sport HD
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+
 #EXTINF:-1 group-title="Afganistan_TV 🇹🇯" tvg-logo="https://www.lyngsat.com/logo/tv/ss/solhsports-af.png",Solh Sports
 
 #EXTINF:-1 group-title="Afganistan_TV 🇹🇯" tvg-logo="https://i.imgur.com/J1pB59S.jpg",Sada-E-Haq TV
@@ -5033,17 +5035,17 @@ https://s7.iptv-24.net/1257/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",TRT Avaz
 https://s7.iptv-24.net/1258/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",Baku TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",Türk Haber
-https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",Haber 61 TV
-http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/iptvdelisi.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",BENGÜ TÜRK
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",TV100
-https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",24 TV
@@ -5051,7 +5053,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",KANAL B
-https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",TELE1
@@ -5063,17 +5065,17 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",KANAL ON 4 TV
 https://edge1.socialsmart.tv/on4/bant1/chunks.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",TRT 1 sport
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48840
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",A SPOR
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",SPORTS TV
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",FORTUNA TV
+
+#EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",RedBull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",Akit TV
-https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",REHBER TV
 https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",Al-Zahra TV Turkic
@@ -5089,19 +5091,21 @@ https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protoc
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",NOW TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",SHOW MAX kino
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",A2 kino
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",TRT TV kino
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",ATV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48846
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",SUPERTURK TV kino
-http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",BEYAZ TV kino
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",BEYAZ TV ULUSAL
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",Euro D Kino
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",KANAL D kino
@@ -5113,23 +5117,21 @@ https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",VIYANA TV Kino
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",Kanal S TV kino
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",Xezer TV kino
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-#EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",MERCAN TV kino
+
+#EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",MERCAN TV
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",KAY TV kino
-https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8
-#EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",KANAL 7 kino
+
+#EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",İSVİÇRE TV kino
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",RIZE TURK HD kino
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-#EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",BEYAZ TV ULUSAL
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",BİR TV
-https://edge1.socialsmart.tv/birtv/bant1/chunks.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",CAY TV
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",TiVi 6
@@ -5137,15 +5139,15 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",TV 41
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",VAN GOLU TV
-https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",VIP TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",LALEGUL TV
-https://lbl.netmedya.net/hls/lalegultv.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",Briç ve Satranç TV
 http://139.162.182.79/live/test/index.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",GZT TV
-https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",KOCAELİ TV
 https://edge1.socialsmart.tv/kocaelitv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",MELTEM TV
@@ -5157,11 +5159,11 @@ https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",BENGÜTÜRK TV
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",BODRUM KENT TV
-https://edge1.socialsmart.tv/bodrumkenttv/bant1/chunks.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",BURSA ON6 TV
-https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",METROPOL TV
-https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8?app=supersatforum
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",KTV KONYA
 https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",MUGLA TÜRK TV
@@ -5175,9 +5177,9 @@ https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",SUN TV
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",TÜRK KLİNİKLERİ TV
-http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",Üsküdar Üniversitesi TV
-http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/iptvdelisi.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",360 TV ULUSAL
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",Luys TV
@@ -5185,10 +5187,10 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",Alvin Channel TV mult
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",ARB Gunes mult
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",TRT COCUK mult
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",KANAL 53 mult
+#EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",KANAL 53
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",TV 264
 https://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
@@ -5203,7 +5205,7 @@ https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",UR FANATiK TV
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",GUNEYDOGU TV
-https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",ÇİFTÇİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",TV 1 Kayseri
@@ -5211,7 +5213,7 @@ https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",GRT GAZİANTEP TV
 https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",KUDUS TV
-https://yayin30.haber100.com/live/kudustv/chunklist.m3u8
+
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",KANAL 3
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",KANAL 34
@@ -5249,7 +5251,7 @@ https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿",4 Kurd Music
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Turkiya_TV 🇹🇷/🇦🇿" tvg-logo="https://i.ibb.co/W2Qfw8N/SGN-08-28-2021-1630166352824.png",Fresh TV music
-https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
+
 
 
 
