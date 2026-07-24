@@ -1941,7 +1941,7 @@ https://s7.iptv-24.net/1404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Усадьба
 https://s7.iptv-24.net/1427/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzhskoy" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="Dunyo_TV 🌎" ,Мужской
-http://158.101.222.193:88/georgia_play.php?id=muzhskoy
+https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Animal Planet
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Big Planet
@@ -3145,7 +3145,7 @@ https://s7.iptv-24.net/1273/tracks-v1a1/mono.m3u8
 http://de1.plist.link:3355/FGfpnUmovVu82079/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxG4k5RC1jY92YacaT-S3GNZqqVR5yCm3M56tiKgvzprs.tg6457680141
 #EXTINF:-1 tvg-id="132" tvg-logo="http://tv.kubtel.ru/tv_icon/sapfir.png" group-title="KINO_TV 📺",Сапфир HD
 http://de1.plist.link:3355/FGfpnUmovVu22077/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxPWBvsmTWJ_XSyRe2Z96e8-wZMKQ2ibHguvYa43VScWL.tg6457680141
-#EXTINF:-1 tvg-id="371" tvg-logo="http://tv.kubtel.ru/tv_icon/StartWorld.png" group-title="KINO_TV 📺",Start World
+#EXTINF:-1 tvg-id="371" tvg-logo="http://tv.kubtel.ru/tv_icon/StartWorld.png" group-title="KINO_TV 📺",Start World HD
 http://de1.plist.link:3355/FGfpnUmovVu1495/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxDq-zV-TW7IWYK8XYInvkUlRZQjxnVKkjaUlM2hI5VGn.tg6457680141
 #EXTINF:0 group-title="KINO_TV 📺",Start Air HD
 http://de1.plist.link:3355/FGfpnUmovVu8506/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxMK4Qg4XqP8WhtxeyWcLWy9z7nV17xBpf6JWDfz70qr2.tg6457680141
@@ -3181,17 +3181,17 @@ https://s7.iptv-24.net/1058/tracks-v1a1/mono.m3u8
 https://s7.iptv-24.net/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",TV1000 ACTION
 https://s7.iptv-24.net/1225/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.imgur.com/2pAHdAi.png",Amedia 1
-http://hls127.freeott.top:8080/Amedia_1/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.imgur.com/NqHla2V.png",Amedia 2
-http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.imgur.com/2pAHdAi.png",Amedia 1 HD
+http://de1.plist.link:3355/FGfpnUmovVu4421/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxOAIkvyRr6iBtHbCDnmkc_VcnfVSM_0CvWmQi9jK2sol.tg6457680141
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.imgur.com/NqHla2V.png",Amedia 2 HD
+http://de1.plist.link:3355/FGfpnUmovVu2515/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxD8ALFNYtv_qTXSzZNoWImczC8caKVhG4krj1a13OVVV.tg6457680141
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/amedia-hit-hd-orig.png",AMEDIA HIT HD
 http://dmi3y-tv.online/hls/CH_AMEDIA_HIT.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/amedia-premium-hd-orig.png",AMEDIA Premium HD
 http://dmi3y-tv.online/hls/CH_AMEDIA_PREMIUM.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.imgur.com/GET9Qut.png",.Red HD
+#EXTINF:-1 group-title="KINO_TV 📺",.Red HD
 http://dmi3y-tv.online/hls/CH_TOCHKA_RED.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.imgur.com/nSSUHcg.png",.Sci-Fi HD
+#EXTINF:-1 group-title="KINO_TV 📺",.Sci-Fi HD
 http://dmi3y-tv.online/hls/CH_TOCHKA_SCI-FI.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.imgur.com/Q4A6ci4.png",.Black HD
 http://dmi3y-tv.online/hls/CH_TOCHKA_BLACK.m3u8
@@ -3273,6 +3273,8 @@ EXTINF:-1 group-title="KINO_TV 📺",VHS-ка Русское кино HD
 
 #EXTINF:-1 group-title="KINO_TV 📺",Film UA Drama
 http://88.99.215.227/FilmUADrama/index.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺",Epic Drama
+http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00393.png",FilmUA LIVE HD
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00521.png",4ever Cinema HD
@@ -3323,12 +3325,12 @@ https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/hit-hd-orig.png",Хит HD
 http://hls127.freeott.top:8080/XitHD/video.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/kion-hit-hd.png",KION Хит HD
+#EXTINF:-1 group-title="KINO_TV 📺",KION Хит HD
 http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20211/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/kino-premium-hd-orig.png",Премиальное HD
 http://de1.plist.link:3355/FGfpnUmovVu4084/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxD6wuLzrGfCRywPqMxOcW6zdyA5kb0ztvLaid_IhMiC5.tg6457680141
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/ostrosujetnoe-hd-orig.png",Остросюжетное HD
-http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/904/index.m3u8
+http://de1.plist.link:3355/FGfpnUmovVu1072/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxBQfw9LMX0222SqPWrtZBufj8376pPfg2H4hSpUYU7tI.tg6457680141
 #EXTINF:-1 tvg-id="219" tvg-logo="http://tv.kubtel.ru/tv_icon/blokbaster.png" group-title="KINO_TV 📺",Блокбастер HD
 http://de1.plist.link:3355/FGfpnUmovVu2689/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxJMcE9nVFn2sNtC9FtvEk0IdgvPKg3evbl4QNsiSwnjS.tg6457680141
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://kij-tv.ru/themes/custom/kijtv/logo.png",Кино и Жизнь HD
@@ -3339,8 +3341,6 @@ http://de1.plist.link:3355/FGfpnUmovVu2689/index.m3u8?token=hjOF3_7BKVCl-sF4bGzX
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://iptvx.one/picons/kinosezon.png",КиноСезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺",Epic Drama
-http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://iptvx.one/picons/narod-vsio-vidit.png",Народ Всё Видит
 
 #EXTINF:-1 group-title="KINO_TV 📺",Душевное HD
@@ -3424,7 +3424,7 @@ http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://de1.plist.link/plepg/img/channels/559.png?69c29495ba3b1", BCU Kids+ HD
 http://de1.plist.link:3355/FGfpnUmovVu7559/index.m3u8?token=5IbUTue09FDrDb-w2uQumkvlXwcMl7JrXPWZXCqtxGje0_4BbWbjfxvmemn-24RC.tg6457680141
 #EXTINF:-1 group-title="KINO_TV 📺",BCU Kinorating HD
-
+http://kinowalk.hopto.org/and7610_live
 #EXTINF:-1 group-title="KINO_TV 📺",BCU Stars HD
 
 #EXTINF:-1 group-title="KINO_TV 📺",BCU History HD
@@ -3452,7 +3452,7 @@ http://hls127.freeott.top:8080/PG_Insomnia_HD/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",MM Скорость HD
 
 #EXTINF:-1 group-title="KINO_TV 📺",MM Translation HD
-http://kinowalk.hopto.org/and7610_live
+
 #EXTINF:-1 group-title="KINO_TV 📺",MM Агата Кристи HD
 
 #EXTINF:-1 group-title="KINO_TV 📺",MM NewFilm RU HD
@@ -3569,7 +3569,7 @@ http://kinowalk.hopto.org/and7610_live
 http://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://img.catcast.tv/uploads/04102024/logos/9620-66ffb65641f1e.png",Малдер Всё ТВ
 
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg",Moviee Toper
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg",Moviee Toper HD
 http://kinowalk.hopto.org/movietoper_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://goodgame.ru/files/avatars/av_1643154_P8Jo.jpg",Dimpon HD
 
@@ -3594,13 +3594,14 @@ http://kinowalk.hopto.org/cmexye4ku_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/XvHKrWXQ/1.jpg" tvg-logo="https://i.ibb.co/m5xtPMJq/image-16.png",KinoMix HD
 http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/19397267/avatar?change_time=1763534733&croped=1&mh=140&mw=140",Alex.Films
-http://kinowalk.hopto.org/alex.films_live
+
 #EXTINF:-1 group-title="KINO_TV 📺",Kinolampa HD
 http://kinowalk.hopto.org/kinolampa_live
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg",KINOPRO
-http://kinowalk.hopto.org/kinopro_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://kinowalk.hopto.org/web/image/stream.channels/68/avatar/128x128?unique=2026-02-14%2015:58:42.547150,LampoTV HD
 http://kinowalk.hopto.org/lampotv_live
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg",KINOPRO
+http://kinowalk.hopto.org/kinopro_live
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocJRCQczrVJsPbG0Q7qgMvphfUBuJiGktsI7wwPXSYxQCcGPBu8=s96-c",EvGAMEN HD
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg" ,KINOPRO
@@ -3609,8 +3610,6 @@ http://kinowalk.hopto.org/lampotv_live
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140",Wihail HD
 
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/19957061/avatar?change_time=1745459243&croped=1&mh=140&mw=140",Scarface HD
-http://kinowalk.hopto.org/filmomania_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/20555010/avatar?change_time=1742524384&croped=1&mh=140&mw=140",serial4u
 http://kinowalk.hopto.org/serial4u_live
 #EXTINF:-1 group-title="KINO_TV 📺"tvg-logo="https://images.live.vkvideo.ru/user/23770117/avatar?change_time=1767918213&croped=1&mh=140&mw=140",Blockbusters Time HD
@@ -3626,7 +3625,7 @@ http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/20737705/avatar?change_time=1746958066&croped=1&mh=140&mw=140",Video Channel
 http://kinowalk.hopto.org/video_channel_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://avatars.mds.yandex.net/i?id=d8bb932a618b126fd382904f1cde2371_sr-5429110-images-thumbs&n=13",Maksim Films
-http://kinowalk.hopto.org/mmaxim0vich_live
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/20495921/avatar?change_time=1742225886&croped=1&mh=140&mw=140",Мы из 90-х
 http://kinowalk.hopto.org/miiz90x_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/19254112/avatar?change_time=1736877622&croped=1&mh=140&mw=140",Кассета
@@ -3636,7 +3635,7 @@ http://kinowalk.hopto.org/kasseta_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkplay.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140",VHS Forever
 http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/20745126/avatar?change_time=1746520742&croped=1&mh=140&mw=140",Эквилибриум HD
-http://kinowalk.hopto.org/equilibrium_live
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://kinowalk.hopto.org/web/image/199/128x128?unique=2026-02-21%2020:43:54.719669&access_token=4fffcc7c-c861-4f0c-91a5-a1418dff44c6",TopMoment
 http://kinowalk.hopto.org/topmomentlive_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/30346500/avatar?change_time=1767118302&croped=1&mh=140&mw=140",SerialTV
@@ -3648,8 +3647,8 @@ http://kinowalk.hopto.org/swat2k_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/19857529/avatar?change_time=1735363832&croped=1&mh=140&mw=140",BOSSFILM
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://files.kick.com/images/user/59967480/profile_image/conversion/b59451dd-0815-4a82-b37f-eac9249ebb51-fullsize.webp",Baragozz_TV
-http://kinowalk.hopto.org/baragozz_tv_live
-#EXTINF:-1 group-title="KINO_TV 📺",Тоха Киноман
+
+#EXTINF:-1 group-title="KINO_TV 📺",Тоха Киноман HD
 http://kinowalk.hopto.org/kinomania_stream_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/19238690/avatar?change_time=1747562022&croped=1&mh=140&mw=140",ФИЛЬМЫ&СЕРИАЛЫ
 
@@ -3659,9 +3658,8 @@ http://kinowalk.hopto.org/perviryad_live
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/love-story-hd.png",Лавстори HD
 
-
-
-
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://play-lh.googleusercontent.com/jxxKXOInjfqLu6FJADnzjAKcmcWGOUHO1PB9CahJDGllp2U0F-pNEQz114UwAP8mfZ8",Play-X Джеки Чан HD
+https://playxapp.play-x.app:2053/0073/index.m3u8?token=play-x.app
 
 
 
