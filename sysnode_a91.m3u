@@ -5548,8 +5548,6 @@ https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTY
 #EXTM3U
 #EXTINF:-1 group-title="Ispaniya_TV 🇪🇸",8 La Marina TV 
 https://streaming005.gestec-video.com/hls/canal24.m3u8
-#EXTINF:-1 group-title="Ispaniya_TV 🇪🇸",BDNCOM
-https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ispaniya_TV 🇪🇸",Peer TV Alto Adige
 https://iptv.peer.biz/live/peertv-it.m3u8
 #EXTINF:-1 group-title="Ispaniya_TV 🇪🇸",Peer TV Südtirol
@@ -5560,14 +5558,8 @@ https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
 https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
 #EXTINF:-1 group-title="Ispaniya_TV 🇪🇸",MyTime Spain Kino
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Ispaniya_TV 🇪🇸",Pluto TV Cine Clásico Kino
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Ispaniya_TV 🇪🇸",Solidaria TV Kino
+#EXTINF:-1 group-title="Ispaniya_TV 🇪🇸",Solidaria TV
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:-1 group-title="Ispaniya_TV 🇪🇸",Logos TV Kids
-https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
-#EXTINF:-1 group-title="Ispaniya_TV 🇪🇸",Pluto TV Toons Mult
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="Ispaniya_TV 🇪🇸",Onda 15 TV Sport
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
 #EXTINF:-1 group-title="Ispaniya_TV 🇪🇸",Sol Músic
@@ -5640,12 +5632,9 @@ http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Avstraliya_TV 🇦🇺",Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Avstraliya_TV 🇦🇺",Tennis Channel
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Avstraliya_TV 🇦🇺",INTV music
 http://tv1.intv.mk:1935/live/intv/index.m3u8
-#EXTINF:-1 group-title="Avstraliya_TV 🇦🇺",V2BEAT music
-https://abr.de1se01.v2beat.live/playlist.m3u8
+
 
 
 
