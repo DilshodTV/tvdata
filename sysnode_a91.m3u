@@ -5284,12 +5284,8 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabi
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Dubay_TV 🇦🇪",Al Istiqama TV
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Dubay_TV 🇦🇪",MBC 1
-https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Dubay_TV 🇦🇪",Nour Kuran TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Dubay_TV 🇦🇪",MBC Drama KSA
-https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Dubay_TV 🇦🇪",CSat TV
 http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
 #EXTINF:-1 group-title="Dubay_TV 🇦🇪",Zarok TV Mult
@@ -5298,28 +5294,24 @@ https://zindisorani.zaroktv.com.tr/hls/stream.m3u8?checkedby:iptvcat.com
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Dubay_TV 🇦🇪",Oman Sports TV
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Dubay_TV 🇦🇪",Al Sharq
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 group-title="Dubay_TV 🇦🇪",Bahrain TV
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Dubay_TV 🇦🇪",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/us.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Dubay_TV 🇦🇪",Al Khalij
 http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Dubay_TV 🇦🇪",Qatar Television
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:-1 group-title="Dubay_TV 🇦🇪",Elbeshara TV Music
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Dubay_TV 🇦🇪",AL HORREYA TV
 http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
-#EXTINF:-1 group-title="Dubay_TV 🇦🇪",Al Sharq
-https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 group-title="Dubay_TV 🇦🇪",Mekameleen TV
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Dubay_TV 🇦🇪",Aghapy TV
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 #EXTINF:-1 group-title="Dubay_TV 🇦🇪",Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
-#EXTINF:-1 group-title="Dubay_TV 🇦🇪",Alhaqeqa Aldawlia
-https://ghaasiflu.online/alhqeqa/index.m3u8
 #EXTINF:-1 group-title="Dubay_TV 🇦🇪",Телеканал BeitolAbbas
 https://live.beitolabbas.tv/live/beitolabbastv.m3u8
 #EXTINF:-1 group-title="Dubay_TV 🇦🇪",IIPC TV
@@ -5334,8 +5326,7 @@ https://live.imamhossaintv.com/live/ih3.m3u8
 https://live.imamhossaintv.com/live/ih4.m3u8
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f6/87/e3/f687e3b6-6f05-b755-3eeb-69ce1fb30611/source/512x512bb.jpg" group-title="Dubay_TV 🇦🇪",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f6/87/e3/f687e3b6-6f05-b755-3eeb-69ce1fb30611/source/512x512bb.jpg" group-title="Dubay_TV 🇦🇪",Bahrain Sports 2
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
 
 
 
@@ -5361,14 +5352,11 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 #EXTINF:-1 group-title="Bolgariya_TV 🇧🇬",Groovy kino
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 group-title="Bolgariya_TV 🇧🇬",Евроком
-https://live.ecomservice.bg/hls/stream.m3u8
 #EXTINF:-1 group-title="Bolgariya_TV 🇧🇬",Пловдивска Православна ТВ
 http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bolgariya_TV 🇧🇬",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1 group-title="Bolgariya_TV 🇧🇬",Radio Contact
-https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
+
 
 
 
@@ -5381,9 +5369,7 @@ https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.
 #EXTM3U
 #EXTINF:-1 group-title="France_TV 🇫🇷",France 24
 https://s7.iptv-24.net/1241/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="France_TV 🇫🇷",100% Docs
-https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8
-#EXTINF:-1 group-title="France_TV 🇫🇷",Qui veut gagner des millions?
+#EXTINF:-1 group-title="France_TV 🇫🇷",Qui veut millions?
 https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="France_TV 🇫🇷",Stereo Citta TV
 https://585b674743bbb.streamlock.net/9080/9080/chunklist.m3u8
@@ -5391,15 +5377,11 @@ https://585b674743bbb.streamlock.net/9080/9080/chunklist.m3u8
 https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 group-title="France_TV 🇫🇷",Le Meilleur Prikol
 https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="France_TV 🇫🇷",Les Z'Amours
-https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="France_TV 🇫🇷",Zarok TV Mult
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 group-title="France_TV 🇫🇷",Pluto TV Super Kids Mult
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/652557d93fd33c000802f995/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072636-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3cdbfc7d-6e82-40c4-be54-7974658b4cc2
 #EXTINF:-1 group-title="France_TV 🇫🇷",HANDICAP TV music
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
-#EXTINF:-1 group-title="France_TV 🇫🇷",FX2 Farsi prikol
+#EXTINF:-1 group-title="France_TV 🇫🇷",FX2 Farsi music
 https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="France_TV 🇫🇷",KSCE Vida Cristiana
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
@@ -5409,36 +5391,18 @@ https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/
 https://iptv.peer.biz/live/peertv-it.m3u8
 #EXTINF:-1 group-title="France_TV 🇫🇷",Homicide la chaîne du fait divers
 https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="France_TV 🇫🇷",TFX
-https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
-#EXTINF:-1 group-title="France_TV 🇫🇷",TF1 HD
-https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
-#EXTINF:-1 group-title="France_TV 🇫🇷",TF1 Series Films
-https://viamotionhsi.netplus.ch/live/eds/hd1/browser-dash/hd1.mpd
-#EXTINF:-1 group-title="France_TV 🇫🇷",Bref Cinéma 100% Kino
-https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="France_TV 🇫🇷",Zylo Ciné Nanar Kino
 https://zylo-cinenanar-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinenanar-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="France_TV 🇫🇷",Zylo Emotion'  Kino
+#EXTINF:-1 group-title="France_TV 🇫🇷",Zylo Emotion' Kino
 https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-emotional-rakuten/CDN/master.m3u8
 #EXTINF:-1 group-title="France_TV 🇫🇷",Zylo ScreamIN Kino
 https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8
 #EXTINF:-1 group-title="France_TV 🇫🇷",Rouge TV
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF:-1 group-title="France_TV 🇫🇷",Family Club Kino
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c9260ac0222700089ee62b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072631-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=364c137f-40b0-4bdd-a96c-0065bd886eaf
 #EXTINF:-1 group-title="France_TV 🇫🇷",Mytime Movies Kino
 https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="France_TV 🇫🇷",Stormcast Kino
-https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="France_TV 🇫🇷",Televisa Kino
 https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="France_TV 🇫🇷",The Asylum Kino
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ece1a89d79800072510e6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e052a62-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1739a4c5-d7e2-41f4-aa40-91bb650267c5
-#EXTINF:-1 group-title="France_TV 🇫🇷",Walker Texas Ranger Kino
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afa749ac7f3200078adb40/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=53334da2-2bf6-4492-9d72-20248eaff31c
-#EXTINF:-1 group-title="France_TV 🇫🇷" tvg-logo="http://rafail1982.uz/logo/Formula.png",Formula
-http://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="France_TV 🇫🇷",Caras 1 TV
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 group-title="France_TV 🇫🇷",Les Anges
@@ -5454,16 +5418,12 @@ https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="Germaniya_TV 🇩🇪",Baden TV
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w555673922.m3u8
 #EXTINF:-1 group-title="Germaniya_TV 🇩🇪",Light Channel
 http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
 #EXTINF:-1 group-title="Germaniya_TV 🇩🇪",OK Stendal
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-stendal_high/playlist.m3u8
 #EXTINF:-1 group-title="Germaniya_TV 🇩🇪",Radio Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1 group-title="Germaniya_TV 🇩🇪",OF-TV Offenbach
-https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8?&ref=www.of-tv.de&seid=166119
 #EXTINF:-1 group-title="Germaniya_TV 🇩🇪",BR Fernsehen Nord
 http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
 #EXTINF:-1 group-title="Germaniya_TV 🇩🇪",PunktUM
@@ -5474,64 +5434,35 @@ https://hse24.akamaized.net/hls/live/2006663/hse24/master_1080p25.m3u8
 http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
 #EXTINF:-1 group-title="Germaniya_TV 🇩🇪",OK Dessau
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-dessau_high/playlist.m3u8
-#EXTINF:-1 group-title="Germaniya_TV 🇩🇪",Tide TV
-https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Germaniya_TV 🇩🇪",WDR Koeln
-https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
-
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="Belgiya_TV 🇧🇪",MaTele
+#EXTINF:-1 group-title="Germaniya_TV 🇩🇪",MaTele
 https://live.matele.be/hls/live.m3u8
-#EXTINF:-1 group-title="Belgiya_TV 🇧🇪",BX1
+#EXTINF:-1 group-title="Germaniya_TV 🇩🇪",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1 group-title="Belgiya_TV 🇧🇪",Bel RTL
-https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
-#EXTINF:-1 group-title="Belgiya_TV 🇧🇪",Hudhud TV mult
-http://63b03f7689049.streamlock.net:1935/live/17/playlist.m3u8
-#EXTINF:-1 group-title="Belgiya_TV 🇧🇪",Icaro TV Rimini
+#EXTINF:-1 group-title="Germaniya_TV 🇩🇪",Icaro TV Rimini
 https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Belgiya_TV 🇧🇪",High Vision (3D)
+#EXTINF:-1 group-title="Germaniya_TV 🇩🇪",High Vision (3D)
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
-#EXTINF:-1 group-title="Belgiya_TV 🇧🇪",Infinita TV (3D)
+#EXTINF:-1 group-title="Germaniya_TV 🇩🇪",Infinita TV (3D)
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
-#EXTINF:-1 group-title="Belgiya_TV 🇧🇪",ATB
+#EXTINF:-1 group-title="Germaniya_TV 🇩🇪",ATB
 http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF:-1 group-title="Belgiya_TV 🇧🇪",Red ADVenir
+#EXTINF:-1 group-title="Germaniya_TV 🇩🇪",Red ADVenir
 https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist.m3u8
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="Avstriya_TV 🇦🇹",TV 1 Oberösterreich
+#EXTINF:-1 group-title="Germaniya_TV 🇩🇪",TV 1 Oberösterreich
 https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
-#EXTINF:-1 group-title="Avstriya_TV 🇦🇹",FS1 Salzburg
+#EXTINF:-1 group-title="Germaniya_TV 🇩🇪",FS1 Salzburg
 http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:-1 group-title="Avstriya_TV 🇦🇹",K-TV
-https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 group-title="Avstriya_TV 🇦🇹",Kronehit music
+#EXTINF:-1 group-title="Germaniya_TV 🇩🇪",Kronehit music
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="Avstriya_TV 🇦🇹",W24
+#EXTINF:-1 group-title="Germaniya_TV 🇩🇪",W24
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-#EXTINF:-1 group-title="Avstriya_TV 🇦🇹",R9 Shoping
+#EXTINF:-1 group-title="Germaniya_TV 🇩🇪",R9 Shoping
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-#EXTINF:-1 group-title="Avstriya_TV 🇦🇹",Ländle TV Shoping
+#EXTINF:-1 group-title="Germaniya_TV 🇩🇪",Ländle TV Shoping
 https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
-#EXTINF:-1 group-title="Avstriya_TV 🇦🇹",Okto TV
-https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="Avstriya_TV 🇦🇹",Tirol TV
+#EXTINF:-1 group-title="Germaniya_TV 🇩🇪",Tirol TV
 https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
-#EXTINF:-1 group-title="Avstriya_TV 🇦🇹",TV7
+#EXTINF:-1 group-title="Germaniya_TV 🇩🇪",TV7
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 
 
@@ -5551,44 +5482,16 @@ http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 #EXTINF:-1 group-title="Italiya_TV 🇮🇹",Le Cronache TV
 http://77.68.40.210:8888/hls/cronache.m3u8
+#EXTINF:-1 group-title="Italiya_TV 🇮🇹",Quarto Canale Flegreo
+https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Italiya_TV 🇮🇹",Extrema TV Kino
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="Italiya_TV 🇮🇹",Andromeda Italy Kino
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802d37ee238e0007c94e64/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 group-title="Italiya_TV 🇮🇹",CG Entertainment Kino
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Italiya_TV 🇮🇹",Quarto Canale Flegreo Kino
-https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Italiya_TV 🇮🇹",Le Sorelle McLeod Kino
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Italiya_TV 🇮🇹",Mai Dire Sì Italy Kino
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6349279ed5023700078f2bc2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Italiya_TV 🇮🇹",Pluto TV Film Italy 
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Italiya_TV 🇮🇹",Pluto TV Romantic Film
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Italiya_TV 🇮🇹",Pluto TV  Thriller Film
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 group-title="Italiya_TV 🇮🇹" tvg-logo="https://i.postimg.cc/htkDhkfS/image.jpg",Super Six
 https://5db313b643fd8.streamlock.net:443/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTINF:-1 group-title="Italiya_TV 🇮🇹",Pluto TV Horror Kino
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c09e3ac210ed0007606620/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Italiya_TV 🇮🇹",Pluto TV Reality Kino
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925f874b1ec000075e700a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Italiya_TV 🇮🇹",Pluto TV Sci-Fi Italy Kino
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Italiya_TV 🇮🇹",Pluto TV Serie Italy Kino
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Italiya_TV 🇮🇹",Super! Victorious Italy
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63c012504faf1c0007abfa93/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Italiya_TV 🇮🇹",Pluto TV Anime Mult
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Italiya_TV 🇮🇹",Super! Star Italy Mult
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 group-title="Italiya_TV 🇮🇹",Onda TV
 https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8
-#EXTINF:-1 group-title="Italiya_TV 🇮🇹",Pimp My Ride Italy
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636a4eaf77279a0007f14861/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 group-title="Italiya_TV 🇮🇹",Esperia TV 
 http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
 #EXTINF:-1 group-title="Italiya_TV 🇮🇹",Antenna 2 Sport
@@ -5607,10 +5510,6 @@ http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 #EXTINF:-1 group-title="Italiya_TV 🇮🇹",Onda Novara TV
 https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
-#EXTINF:-1 group-title="Italiya_TV 🇮🇹",Paci Contemporary Channel
-https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
-#EXTINF:-1 group-title="Italiya_TV 🇮🇹",Pluto TV Documentary Italy
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 group-title="Italiya_TV 🇮🇹",Reteveneta
 https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
 #EXTINF:-1 group-title="Italiya_TV 🇮🇹" tvg-logo="https://i.postimg.cc/7LdPjqL2/914-ocko-hity.jpg",ÓČKO HITY
@@ -5623,8 +5522,6 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 group-title="Italiya_TV 🇮🇹",Music TV 70-80 
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-#EXTINF:-1 group-title="Italiya_TV 🇮🇹",Music TV A2i
-https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Italiya_TV 🇮🇹" tvg-logo="http://epg.it999.ru/img2/6116.png",Kiss Kiss TV HD
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Italiya_TV 🇮🇹" tvg-logo="http://epg.it999.ru/img2/6117.png",Kiss Kiss Italia HD
@@ -6066,6 +5963,8 @@ https://cdn-live.dltv.ac.th/dltv06.m3u8
 https://cdn-live.dltv.ac.th/dltv07.m3u8
 #EXTINF:-1 group-title="Tailand_TV 🇹🇭",DLTV 8
 https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 group-title="Tailand_TV 🇹🇭" tvg-logo="http://rafail1982.uz/logo/Formula.png",Formula
+http://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Tailand_TV 🇹🇭",White Channel (Quran)
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1 group-title="Tailand_TV 🇹🇭",Dunia Sinema
