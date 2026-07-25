@@ -5642,74 +5642,34 @@ http://tv1.intv.mk:1935/live/intv/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",Bloomberg
 https://s7.iptv-24.net/1255/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",CGTN
 https://s7.iptv-24.net/1253/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸", 100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",Darcizzle Offshore
-http://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",Black News Channel
 http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",The 360 Channel
-https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",ZooMoo Mult
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",30A Investment Pitch
-https://www.30a-tv.com/InvPit.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",30A The Beach Show
 https://30a-tv.com/beachy.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",30A Music
 http://30a-tv.com/music.m3u8
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",Humor Mill TV
-https://du1gyxfing4ke.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-HumorMill/152.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",Джонни Карсон ТВ
 https://johnnycarson-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",24 часа бесплатных фильмов
+#EXTINF:-1 group-title="Amerika_TV 🇺🇸",24 часа беспл фильм
 https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/145.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",Боевик Голливудские фильмы
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",CineLife kino
-https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",CineView kino
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",CrimeFlix kino
 https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CrimeFlix/391.m3u8
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",CINEMAX
-http://tkosportz.live:25461/6066278099/buddyburnette/13987
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",AMC+ kino
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",MGM+ kino
-http://tkosportz.live:25461/6066278099/buddyburnette/14164
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",MGM+ MARQUEE
-http://tkosportz.live:25461/6066278099/buddyburnette/14167
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",ScreenPix Action
-http://tkosportz.live:25461/6066278099/buddyburnette/59833
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",ScreenPix Westerns
-http://tkosportz.live:25461/6066278099/buddyburnette/52705
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",SHOW X BET kino
-http://tkosportz.live:25461/6066278099/buddyburnette/14173
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",SHOWTIME kino
-http://tkosportz.live:25461/6066278099/buddyburnette/14169
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",SHOWTIME EXTREME
-http://tkosportz.live:25461/6066278099/buddyburnette/14170
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",Freebie TV
-https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",SKY HITS
-http://tkosportz.live:25461/6066278099/buddyburnette/14931
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",SKY ACTION
-http://tkosportz.live:25461/6066278099/buddyburnette/14927
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",SKY COMEDY
-http://tkosportz.live:25461/6066278099/buddyburnette/14926
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",SKY DRAMA
-http://tkosportz.live:25461/6066278099/buddyburnette/14928
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",SKY FAMILY
-http://tkosportz.live:25461/6066278099/buddyburnette/14929
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",Beto TV kino
 http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",Beach TV
@@ -5720,16 +5680,8 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",Key TV rassom
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",NBC 15 Madison Wi
-https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",Канал Expo
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",13Max Телевидение
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",6PR Перт
-https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸", Калифорния штать
-https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",Канал Атланта
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",Не говори невесте
@@ -5758,8 +5710,6 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",Expressen TV
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",Extreme+
-https://d3p1dbb9xrkmd5.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/NuestraTV-MuxIP-ExtremePlus/276.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",Канал Fight (Kanada)
 https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-Nuestra/266.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",FITE 24/7 Sport
@@ -5768,8 +5718,6 @@ https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",Cartoon Channel mult
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_TV 🇺🇸",BET Soul music
-http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",Feva Music
 https://d2y0xw9ugf4if7.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-FEVAMusic/417.m3u8
 
@@ -5778,28 +5726,24 @@ https://d2y0xw9ugf4if7.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 
 #EXTM3U
-#EXTINF:-1 group-title="Meksika_TV 🇲🇽",Canal 10 Cancún
-http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
-#EXTINF:-1 group-title="Meksika_TV 🇲🇽",Lobo TV
-https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
-#EXTINF:-1 group-title="Meksika_TV 🇲🇽",Mexicquense TV
-https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 group-title="Meksika_TV 🇲🇽",RCG TV
-https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-#EXTINF:-1 group-title="Meksika_TV 🇲🇽",Tu Universo TV
-https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-#EXTINF:-1 group-title="Meksika_TV 🇲🇽",TV Cuatro
-https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 #EXTINF:-1 group-title="Meksika_TV 🇲🇽",TV Lobo
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1 group-title="Meksika_TV 🇲🇽",Mexicquense TV
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 group-title="Meksika_TV 🇲🇽",Tu Universo TV
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 #EXTINF:-1 group-title="Meksika_TV 🇲🇽",TVP
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1 group-title="Meksika_TV 🇲🇽",TVP Culiacon
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 #EXTINF:-1 group-title="Meksika_TV 🇲🇽",XHGV-TDT
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1 group-title="Meksika_TV 🇲🇽",Trimedio TV music
-https://stream.streaming4u.hu/TriMedioTV/index.m3u8
+#EXTINF:-1 group-title="Meksika_TV 🇲🇽",RCG TV
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 group-title="Meksika_TV 🇲🇽",TV Cuatro
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+#EXTINF:-1 group-title="Meksika_TV 🇲🇽",Lobo TV
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:-1 group-title="Meksika_TV 🇲🇽",SOY Plancha TV music
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 
@@ -5811,8 +5755,16 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Korea_TV 🇰🇷",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 group-title="Korea_TV 🇰🇷",BBS Buddhist Broadcasting
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Yaponiya_TV 🇯🇵",KBS WORLD
+https://s7.iptv-24.net/1448/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Korea_TV 🇰🇷",MBC Chuncheon
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Korea_TV 🇰🇷",FGTV
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Korea_TV 🇰🇷",NBS Korea
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 group-title="Korea_TV 🇰🇷",SBS G1
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Korea_TV 🇰🇷",EBS 1
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="Korea_TV 🇰🇷",EBS 2
@@ -5821,28 +5773,18 @@ https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="Korea_TV 🇰🇷",EBS+ 1 dars
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="Korea_TV 🇰🇷",EBS+ 2
+#EXTINF:-1 group-title="Korea_TV 🇰🇷",EBS+ 2 dars
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="Korea_TV 🇰🇷",EBS Kids
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="Korea_TV 🇰🇷",MBC Chuncheon
-https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Korea_TV 🇰🇷",BTN TV
-https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-#EXTINF:-1 group-title="Korea_TV 🇰🇷",FGTV
-https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Korea_TV 🇰🇷",Good TV 
-http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Korea_TV 🇰🇷",NBS Korea
-https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 group-title="Korea_TV 🇰🇷",OUN dars
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#EXTINF:-1 group-title="Korea_TV 🇰🇷",RUTC TV dars
+#EXTINF:-1 group-title="Korea_TV 🇰🇷",EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="Korea_TV 🇰🇷",BTN TV
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:-1 group-title="Korea_TV 🇰🇷",Good TV 
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Korea_TV 🇰🇷",RUTC TV
 http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Korea_TV 🇰🇷",SBS CJB
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 group-title="Korea_TV 🇰🇷",SBS G1
-http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Korea_TV 🇰🇷",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="Korea_TV 🇰🇷",CJ OnStyle Plus
@@ -5861,24 +5803,7 @@ https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Korea_TV 🇰🇷",Lotte OneTV
 https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="Yaponiya_TV 🇯🇵",BBC News Asia Pacific
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 group-title="Yaponiya_TV 🇯🇵",KBS WORLD
-https://s7.iptv-24.net/1448/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Yaponiya_TV 🇯🇵",QVC Japan Shop
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 group-title="Yaponiya_TV 🇯🇵",Shop Channel
+#EXTINF:-1 group-title="Korea_TV 🇰🇷",Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
 
 
@@ -5892,8 +5817,6 @@ https://stream3.shopch.jp/HLS/master.m3u8
 https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 #EXTINF:-1 group-title="Xitoy_TV 🇨🇳",CCTV+ 1 (English)
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Xitoy_TV 🇨🇳",CCTV-16
-http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 group-title="Xitoy_TV 🇨🇳",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 group-title="Xitoy_TV 🇨🇳",Lighting Lives Blessing
@@ -5914,16 +5837,8 @@ https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w117
 
 
 #EXTM3U
-#EXTINF:-1 group-title="Tayvan_TV 🇹🇼", Тайвань Dali
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="Tayvan_TV 🇹🇼",Plus TV
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 group-title="Tayvan_TV 🇹🇼",GOOD TV 1
-https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 group-title="Tayvan_TV 🇹🇼",GOOD TV 2
-https://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1 group-title="Tayvan_TV 🇹🇼",GOOD TV 3
-https://live.streamingfast.net/osmflivech3.m3u8
+
+
 
 
 
@@ -5952,18 +5867,17 @@ https://cdn-live.dltv.ac.th/dltv06.m3u8
 https://cdn-live.dltv.ac.th/dltv07.m3u8
 #EXTINF:-1 group-title="Tailand_TV 🇹🇭",DLTV 8
 https://cdn-live.dltv.ac.th/dltv08.m3u8
-#EXTINF:-1 group-title="Tailand_TV 🇹🇭" tvg-logo="http://rafail1982.uz/logo/Formula.png",Formula
-http://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Tailand_TV 🇹🇭",GOOD TV 1
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 group-title="Tailand_TV 🇹🇭",GOOD TV 2
+https://live.streamingfast.net/osmflivech2.m3u8
 #EXTINF:-1 group-title="Tailand_TV 🇹🇭",White Channel (Quran)
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:-1 group-title="Tailand_TV 🇹🇭",Dunia Sinema
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1 group-title="Tailand_TV 🇹🇭",Донг Най 1 kino
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Tailand_TV 🇹🇭",Донг Най 2 kino
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Tailand_TV 🇹🇭",Đồng Nai 2
-http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
+
 
 
 
@@ -5978,14 +5892,8 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Vetnam_TV 🇻🇳" tvg-logo="https://i.imgur.com/WorbnyD.jpg",Tea TV
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Vetnam_TV 🇻🇳",QRT News
-http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 group-title="Vetnam_TV 🇻🇳" tvg-logo="https://i.imgur.com/duM548G.png",City of Oakland
-https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
 #EXTINF:-1 group-title="Vetnam_TV 🇻🇳" tvg-logo="https://i.imgur.com/yE7nZ6w.png",Dao Anime
 https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Vetnam_TV 🇻🇳",Inspira TV
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 group-title="Vetnam_TV 🇻🇳" tvg-logo="https://i.imgur.com/TGAKFcV.jpg",ISTV
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Vetnam_TV 🇻🇳" tvg-logo="https://i.imgur.com/q6cQzbv.png",Lao-Thai TV
@@ -5996,16 +5904,12 @@ https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="Vetnam_TV 🇻🇳",Radio 51 TV music
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:-1 group-title="Vetnam_TV 🇻🇳",TV9 Nusantara
-https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 group-title="Vetnam_TV 🇻🇳",EWTN Asia-Pacific
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Vetnam_TV 🇻🇳",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 group-title="Vetnam_TV 🇻🇳",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 group-title="Vetnam_TV 🇻🇳",Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 group-title="Vetnam_TV 🇻🇳",MQTV (Quran)
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:-1 group-title="Vetnam_TV 🇻🇳",Madu TV
@@ -6047,8 +5951,6 @@ http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Afrika 🇿🇦",Tele Louange
 https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
-#EXTINF:-1 group-title="Afrika 🇿🇦",Business 24 Africa
-https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8
 #EXTINF:-1 group-title="Afrika 🇿🇦",Medi1 Afrique
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/corp/83_medi1tv-afrique_tm7tu45_1080p/chunks_dvr.m3u8
 #EXTINF:-1 group-title="Afrika 🇿🇦",TDtv kosmos kino
@@ -6065,6 +5967,8 @@ https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8
 https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8
 #EXTINF:-1 group-title="Afrika 🇿🇦",Impacto Televisión mult
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+#EXTINF:-1 group-title="Afrika 🇿🇦",Канал MO
+https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:-1 group-title="Afrika 🇿🇦",ТВ Африка
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 #EXTINF:-1 group-title="Afrika 🇿🇦",BBlack Africa
@@ -6079,8 +5983,7 @@ https://s.emisoras.tv:8081/telerayo/index.m3u8
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Afrika 🇿🇦",Oxygen music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:-1 group-title="Afrika 🇿🇦",Канал MO music
-https://cloudvideo.servers10.com:8081/8070/index.m3u8
+
 
 
 
@@ -6109,28 +6012,26 @@ http://iptv.prosto.tv:7000/ch319/video.m3u8
 http://iptv.prosto.tv:7000/ch317/video.m3u8
 #EXTINF:-1 group-title="RELAX 🏝/🍹" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00504.jpg",Tashqarida kamin
 http://iptv.prosto.tv:7000/ch331/video.m3u8
-#EXTINF:-1 group-title="RELAX 🏝/🍹" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00492.jpg",Комната релакс
+#EXTINF:-1 group-title="RELAX 🏝/🍹" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00492.jpg",Ichkarida kamin
 http://iptv.prosto.tv:7000/ch328/video.m3u8
 #EXTINF:-1 group-title="RELAX 🏝/🍹" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png",Камин
 http://iptv.prosto.tv:7000/ch318/video.m3u8
-#EXTINF:-1 group-title="RELAX 🏝/🍹" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00509.jpg",Терраса
-http://iptv.prosto.tv:7000/ch336/video.m3u8
-#EXTINF:-1 group-title="RELAX 🏝/🍹" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig",WORLD HD
-http://185.57.68.33/232/index.m3u8
 #EXTINF:-1 group-title="RELAX 🏝/🍹" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00522.jpg",Пейзаж
 http://iptv.prosto.tv:7000/ch343/video.m3u8
 #EXTINF:-1 group-title="RELAX 🏝/🍹" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00301.png",Про Факт
 http://iptv.prosto.tv:7000/ch315/video.m3u8
 #EXTINF:-1 group-title="RELAX 🏝/🍹" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00598.jpg",Свет вокруг 
 http://iptv.prosto.tv:7000/ch351/video.m3u8
-#EXTINF:-1 group-title="RELAX 🏝/🍹" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00562.jpg",Дожди
-http://iptv.prosto.tv:7000/ch304/video.m3u8
 #EXTINF:-1 group-title="RELAX 🏝/🍹" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00564.jpg",Горная долина
 http://iptv.prosto.tv:7000/ch302/video.m3u8
 #EXTINF:-1 group-title="RELAX 🏝/🍹" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00563.jpg",Просто Украина
 http://iptv.prosto.tv:7000/ch303/video.m3u8
 #EXTINF:-1 group-title="RELAX 🏝/🍹",Наша Сибирь
 https://s7.iptv-24.net/1424/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RELAX 🏝/🍹" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00509.jpg",Терраса
+http://iptv.prosto.tv:7000/ch336/video.m3u8
+#EXTINF:-1 group-title="RELAX 🏝/🍹" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00562.jpg",Дожди
+http://iptv.prosto.tv:7000/ch304/video.m3u8
 #EXTINF:-1 group-title="RELAX 🏝/🍹" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00500.jpg",Водопад
 http://iptv.prosto.tv:7000/ch329/video.m3u8
 #EXTINF:-1 group-title="RELAX 🏝/🍹" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00295.jpg",Катастрофы дрон
@@ -6171,6 +6072,8 @@ http://iptv.prosto.tv:7000/ch341/video.m3u8
 http://iptv.prosto.tv:7000/ch346/video.m3u8
 #EXTINF:-1 group-title="RELAX 🏝/🍹" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00544.jpg",Железная дорога
 http://iptv.prosto.tv:7000/ch348/video.m3u8
+#EXTINF:-1 group-title="RELAX 🏝/🍹",Канал деревенской кулинарии
+https://live20.bozztv.com/giatvplayout7/ushba-t10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="RELAX 🏝/🍹" tvg-logo="https://img.prosto.tv/storage/channel/backdrop/ch00580.jpg",Парк
 http://iptv.prosto.tv:7000/ch350/video.m3u8
 #EXTINF:-1 group-title="RELAX 🏝/🍹" tvg-logo="http://de1.plist.link/plepg/img/channels/1235.png?69c29495ba529", MM Relax HD
@@ -6192,7 +6095,7 @@ https://s7.iptv-24.net/1202/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Muzika 🎙/🎸",МузТВ
 https://s7.iptv-24.net/1200/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Muzika 🎙/🎸",Жара HD
-http://87.76.32.36:8001/zhara
+
 #EXTINF:-1 group-title="Muzika 🎙/🎸",ТНТ Music
 
 #EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://ovideo.ru/images/posters/0016/3334/s_600x600_0001.jpg",Страна FM
@@ -6202,7 +6105,7 @@ https://s7.iptv-24.net/1238/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://radiokids.fm/wp-content/themes/sanfirst/images/logo.png" group-title="Muzika 🎙/🎸",Радио Kids FM
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
 EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo=" https://iptvx.one/icn/m2-ua.png ",М2 HD
-http://live.m2.tv/hls3/720/stream.m3u8
+
 #EXTINF:-1 group-title="Muzika 🎙/🎸"" tvg-logo="https://ont.by/static/article/big/index/N2zcGnxnrYnBTjFP.jpg",1Muz [RUS]
 http://rtmp.one.by:2200
 #EXTINF:-1 group-title="Muzika 🎙/🎸"" tvg-logo="https://ont.by/static/article/big/index/N2zcGnxnrYnBTjFP.jpg",1Muz HD [RUS]
@@ -6213,16 +6116,14 @@ http://rtmp.one.by:1300
 https://live20.bozztv.com/giatvplayout7/ushba-t4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Muzika 🎙/🎸",VF Музыкальный ресторан
 https://rpn3.bozztv.com/dvrfl07/ushba57/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Muzika 🎙/🎸",Канал деревенской кулинарии
-https://live20.bozztv.com/giatvplayout7/ushba-t10/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Muzika 🎙/🎸" tvg-id="2353" tvg-logo="http://epg.it999.ru/img/2353.png" tvg-rec="3",Vostok TV
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/music2.png" group-title="Muzika 🎙/🎸",Afrobeat TV
 http://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 group-title="Muzika 🎙/🎸"" tvg-logo="https://www.cableman.ru/sites/default/files/bez_imeni_0.jpg",Bridge TV
-http://195.26.83.96:7007/play/a00m/index.m3u8
+
 #EXTINF:-1 group-title="Muzika 🎙/🎸"" tvg-logo="https://bridgemedia.ru/s/uploads/bridgetv-classic-1479216540.jpg",Bridge TV Classic
-https://s7.iptv-24.net/1269/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Muzika 🎙/🎸"" tvg-logo="https://i.pinimg.com/736x/29/de/a4/29dea47e8380a648feeb0a58b34e434d.jpg",Bridge Русский Хит
 
 #EXTINF:-1 group-title="Muzika 🎙/🎸",Bridge Deluxe HD
@@ -6233,44 +6134,40 @@ https://s7.iptv-24.net/1269/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Muzika 🎙/🎸",Evropa plus TV
 
-#EXTINF:-1 group-title="Muzika 🎙/🎸"" tvg-logo="https://i.ytimg.com/vi/K7WeOfU-gX4/maxresdefault.jpg",Russischer Jahrmarkt
+#EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://i.ytimg.com/vi/K7WeOfU-gX4/maxresdefault.jpg",Russischer Jahrmarkt
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
-#EXTINF:-1 group-title="Muzika 🎙/🎸"" tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/82/34/music-tv-logo-design-templatemusic-channel-vector-37658234.jpg",Muzika 1
+#EXTINF:-1 group-title="Muzika 🎙/🎸",Muzika 1
 https://live20.bozztv.com/giatvplayout7/ushba-t5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Muzika 🎙/🎸"" tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/82/34/music-tv-logo-design-templatemusic-channel-vector-37658234.jpg",Muzika 3
-https://live20.bozztv.com/giatvplayout7/ushba-t3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Muzika 🎙/🎸",Live Музыка
 
 #EXTINF:-1 group-title="Muzika 🎙/🎸",Европа Плюс ТВ
-http://193.25.8.59:8000/vh1
+
 #EXTINF:-1 group-title="Muzika 🎙/🎸",Russian music box
 
 #EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://img.catcast.tv/uploads/23012020/37739-5e2a007a3928b.png",Музыка Кино International
-https://kino-1.catcast.tv/content/37739/index.m3u8
+
 #EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37745-5ef3d10ff0621.png",Музыка 1 International
-https://kino-1.catcast.tv/content/37745/index.m3u8
+
 #EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37742-5ef3cf8ca433c.png",Музыка 2 International
-https://kino-1.catcast.tv/content/37742/index.m3u8
+
 #EXTINF:-1 group-title="Muzika 🎙/🎸",SKY Folk TV
 http://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 group-title="Muzika 🎙/🎸",MIXM TV
-http://195.9.195.3:8080/hls/181490.m3u8
+
 #EXTINF:-1 group-title="Muzika 🎙/🎸",Kronehit
 http://dmitry-tv.ddns.net/hls/CH_KRONEHIT.m3u8
 #EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Midnight Lust Music
 https://live20.bozztv.com/giatvplayout7/ushba-midnightlustmusic/index.m3u8
 #EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="http://epg.it999.ru/img/5606.png",Fresh music HD
-https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
-#EXTINF:-1 group-title="Muzika 🎙/🎸"" tvg-logo="https://m.media-amazon.com/images/I/81YiF4oZOHL.png",Company TV
+
+#EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://m.media-amazon.com/images/I/81YiF4oZOHL.png",Company TV
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
 #EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://www.rockfm.ro/assets/logo/rockfm-white.png",Rock TV
 
 #EXTINF:-1 group-title="Muzika 🎙/🎸",V2BEAT
 http://dmitry-tv.ddns.net/hls/CH_V2BEATHD720.m3u8
-#EXTINF:-1 group-title="Muzika 🎙/🎸"" tvg-logo="https://www.bazos.cz/img/1/821/208575821.jpg",Óčko Hity
+#EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://www.bazos.cz/img/1/821/208575821.jpg",Óčko Hity
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Muzika 🎙/🎸"" tvg-logo="https://smotret.tv/images/ocko-star.jpg",Ocko STAR Music
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 EXTINF:-1 group-title="Muzika 🎙/🎸",Ocko Gold
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
 EXTINF:-1 group-title="Muzika 🎙/🎸",Ocko Expres PM
@@ -6285,17 +6182,15 @@ http://hls127.freeott.top:8080/BOX_Metall_HD/video.m3u8
 
 #EXTINF:-1 group-title="Muzika 🎙/🎸",Deluxe Music TV
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 group-title="Muzika 🎙/🎸"" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_KONTOR_RGB-1.png",Deluxe Dance
+#EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_KONTOR_RGB-1.png",Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 group-title="Muzika 🎙/🎸"" tvg-logo="hhttps://png.pngtree.com/png-clipart/20240712/original/pngtree-pop-art-dj-boy-comic-dj-music-artist-stock-png-image_15543148.png",Best of Dance TV DJ
+#EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://e7.pngegg.com/pngimages/123/558/png-clipart-dj-illustration-disc-jockey-dj-mixer-nightclub-dj-electronics-sing-a-song.png",Best of Dance TV DJ
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://e7.pngegg.com/pngimages/123/558/png-clipart-dj-illustration-disc-jockey-dj-mixer-nightclub-dj-electronics-sing-a-song.png",Melodic Tech DJ
-https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
 #EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://www.nrg91.gr/wp-content/uploads/2020/08/skill-nrg.png",NRG 91 Music HD
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://png.pngtree.com/png-clipart/20200727/original/pngtree-hiphop-hip-hop-culture-png-image_5279164.jpg",Vevo Hip-Hop
 https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8
-#EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://babaktv.com/wp-content/uploads/2022/06/Vevo-pop.jpg",Vevo Pop
+#EXTINF:-1 group-title="Muzika 🎙/🎸",Vevo Pop
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
 #EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://logopond.com/logos/63bb0baea428fb0254b434802e698d66.png",NUMBER ONE
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
@@ -6323,12 +6218,11 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist_w1284330867.m3u8
 #EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://myspirit.tv/wp-content/uploads/2017/01/SpiritLogoFull244x86.png",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://www.radio51melody.it/wp-content/uploads/2022/11/Radio_51_Melody_Logo-removebg.png",Radio 51
+#EXTINF:-1 group-title="Muzika 🎙/🎸",Radio 51
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://radioiglesias.it/wp-content/uploads/2025/06/cropped-logo-sito-1.png",Radio Iglesias
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-#EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_Radio_Contact.jpg",Radio Contact
-https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
+
 
 
 
@@ -6342,17 +6236,17 @@ https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.
 http://oriat.mediabay.uz/oriatdono.m3u8
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",Oriat FM
 http://dono.rafail1982.uz:8000/fm
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/29//0037cd43fd5dcbe388e783bd9e4f67f4-q-500x500.jpeg", Iqbol FM (Radio UZ) (VPN)
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/27//71c9d7b00e8732279f9b45b1906f746f-q-500x500.jpeg",O'zbegim taronasi (UZ) 
+https://fm101.uz:9943/fm101_low.aac
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/29//0037cd43fd5dcbe388e783bd9e4f67f4-q-500x500.jpeg", Iqbol FM (UZ)
 http://oriat.mediabay.uz:8012/ikbol
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",MARKAZ FM
 http://mediamarkaz.com:8000/radiomarkaz
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png", TECHNORADIO FM (УЗ) 
-https://stream.zeno.fm/64ox9cg1w0quv 
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png", SUPER uz FM (UZ)
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png", SUPER FM (UZ)
 https://stream.zeno.fm/b7ye4q0k3zhvv
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://au.radio.net/300/lautfm-music-fm.png?version=d8aac954ef52af86cf70c97a7e20fd2f7c904625", Music FM (Radio UZ)
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://au.radio.net/300/lautfm-music-fm.png?version=d8aac954ef52af86cf70c97a7e20fd2f7c904625", Music FM (UZ)
 https://stream-176.zeno.fm/8ablr30ahycuv?n=fflzkt8c7pnpx7e71bdh
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",Yangi Radio FM (УЗ) 
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",Yangi Radio FM (UZ) 
 https://stream.zeno.fm/f2aawo8h0qguv
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/08/26//9089e09bfe47782c76bf2c98f3e5c72d-q-500x500.jpeg", Biz FM (Radio UZ)
 https://fm.bizfm.uz:8443/128
@@ -6360,43 +6254,35 @@ https://fm.bizfm.uz:8443/128
 https://str1.tvcom.uz/RADIO-GRAND/shoutcast
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",Khalifa FM (UZ) 
 https://stream.zeno.fm/y8gdyaatxhhvv 
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/08/28//1aeb7567f3f28c5442c6f39e810f8734-q-500x500.jpeg", Retro FM (Radio UZ)
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/08/28//1aeb7567f3f28c5442c6f39e810f8734-q-500x500.jpeg", Retro FM (UZ)
 https://classicfm.uz:8444/retrofm.ogg
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/08/28//e7d7d5d7fdc9003c3670e0d05022e420-q-500x500.jpeg", Classic FM (Radio UZ)
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/08/28//e7d7d5d7fdc9003c3670e0d05022e420-q-500x500.jpeg", Classic FM (UZ)
 https://classicfm.uz:8444/classic.ogg
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",RMPlay UZ (UZ) 
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",RMPlay (UZ) 
 https://stream.zeno.fm/jnkkmrfelsytv 
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png", Yolg'iz Yurak FM (UZ) 
 http://s1.muz.uz:9000/alo_low 
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/27//71c9d7b00e8732279f9b45b1906f746f-q-500x500.jpeg",Узбегим Таронаси (УЗ) 
-https://fm101.uz:9943/fm101_low.aac
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://dfm.tj/default_artwork.png", Diyor FM (Radio UZ)
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://dfm.tj/default_artwork.png", Diyor FM (UZ)
 https://c16.radioboss.fm:18234/stream
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://i.postimg.cc/SKkbNgk9/IMG-20260502-132127-245.jpg", Sevimli FM (Radio UZ) (VPN)
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://i.postimg.cc/SKkbNgk9/IMG-20260502-132127-245.jpg", Sevimli FM (UZ)
 https://st4.mediabay.uz/Poytaxt/PoytaxtUz/tracks-a1/mono.m3u8
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://cdn.iono.fm/files/p2932/logo_2932_20250905_204948_350.jpeg", Smile FM (Radio UZ)
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://cdn.iono.fm/files/p2932/logo_2932_20250905_204948_350.jpeg", Smile FM (UZ)
 http://smilefm.uz:8000/live
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://pbs.twimg.com/profile_images/1323301606356619265/ZnPE9iKX_200x200.jpg", Islom uz FM (UZ) 
-http://radio.islom.uz:8000/islomuz 
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/arg4jfcxh6ye.png", Sezam FM (UZ) 
-http://sezamfm.com:8000/stream 
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/08/28//dd4e381c665b83becb781a4642ec795e-q-500x500.jpeg", Maxima FM (UZ) 
 https://classicfm.uz:8444/maxima.ogg 
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://fmcube.net/images/stations/65dd388dd6326.jpg",Timsol online (UZ) 
 https://stream.zeno.fm/cqtrku1o8bbuv 
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://onlayn-radio.ru/uploads/posts/2023-10/c5006eaaa38a1b85e807e170ae5c615a_165x165.jpg",See The Sea FM (UZ) 
 https://listen5.myradio24.com/seethesea 
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/08/28//f017a3c1aaaf894f1468619c11c36448-q-500x500.jpeg", Nostalgie FM (УЗ) 
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/08/28//f017a3c1aaaf894f1468619c11c36448-q-500x500.jpeg", Nostalgie FM (UZ) 
 https://classicfm.uz:8444/nostalgie.ogg 
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://mediamarkaz.com/assets/css/images/logo-radiomarkaz.png", Радио Марказ ФМ (УЗ) 
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://mediamarkaz.com/assets/css/images/logo-radiomarkaz.png",Radio Markaz (UZ) 
 http://navruzfm.uz:9000/navruz_low
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/RibijRS0TougR3GVk-Liw7Ecg65PddTGQSEYyxt55X4/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMDYzYjYwYzYtM2VhMS00YWFhLTg5NTEtNjFlNDgzZDI3NDZiL2ltYWdlLz91PTE3MDE2OTU2NjMwMDA.webp",Yangi Radio FM (Radio UZ)
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/RibijRS0TougR3GVk-Liw7Ecg65PddTGQSEYyxt55X4/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMDYzYjYwYzYtM2VhMS00YWFhLTg5NTEtNjFlNDgzZDI3NDZiL2ltYWdlLz91PTE3MDE2OTU2NjMwMDA.webp",Yangi Radio FM (UZ)
 https://stream.zeno.fm/f2aawo8h0qguv
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/02/01//404d9b349d0b2098dd55d1d9e8590af6-q-500x500.jpeg", Hit FM (UZ) 
 http://ns10.jethost.uz:8000/yoshlarovoziaac 
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://topradio.mobi/screen/1666816569_2000_s_radio_nulevih__samarkand_uzbekistan.jpg", 2000-е (Радио нулевых) (UZ) 
-https://stream.zeno.fm/fwstad5837zuv
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://pcradio.ru/images/stations/61b09c7e67a61.jpg", Jahon Taronalari FM (UZ) 
+#EXTINF:-1 group-title="FM_Radio 🔌/📻", Jahon Taronalari FM (UZ) 
 https://stream.zeno.fm/9tihlbuqde6tv
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://static-media.streema.com/media/cache/c3/01/c30170851261b7c00f8863158351a84f.png", AxTeD_AD FM (UZ) 
 https://stream.zeno.fm/gnsnxsq1znhvv 
@@ -6404,15 +6290,13 @@ https://stream.zeno.fm/gnsnxsq1znhvv
 https://tempradio-live.uz/streamaac 
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/28//fe86f2498716bb7b610ad10a3d7f51f5-q-500x500.jpeg", Truck FM (UZ) 
 https://fm.truckfm.uz:8000/64 
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/MARS-FM.png", Mars FM (Radio UZ)
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/MARS-FM.png", Mars FM (UZ)
 https://stream-175.zeno.fm/y8gdyaatxhhvv?n=2tei2nl8hamratwe8pd6
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://topradio.mobi/screen/1696360304-radio-bassted-tashkent-uzbekistan.jpg", BassTeD FM (УЗ) 
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://topradio.mobi/screen/1696360304-radio-bassted-tashkent-uzbekistan.jpg", BassTeD FM (UZ) 
 https://stream.zeno.fm/h6dbebwv0nhvv 
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://topradio.mobi/screen/1651642299_life_fm_tashkent_uzbekistan.jpg", Life FM (УЗ) 
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://topradio.mobi/screen/1651642299_life_fm_tashkent_uzbekistan.jpg", Life FM (UZ) 
 https://rhema-radio.streamguys1.com/rhema-lifefm.mp3 
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/exoXZZNr7cfCILQxTDWsas73-xSYOPVQLG7qPK66L2Q/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYmJhNmZkMDYtYWYxMy00YTQ2LThiYzgtYzM4OWJhYTMyYjY4L2ltYWdlLz91PTE3MzExNzc2NDMwMDA.webp", M-Estrada FM (UZ)
-https://eastrica.uz:8000/uzb
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/_NEWIjWivummfnQZtvYTC87MJBgTPFT0j8QbkBeMCpQ/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMjRlNGVhZWQtN2ZmYi00ZjFjLWExMTgtZmQzMWRhNzNiZjU5L2ltYWdlLz91PTE3NTg2NDY1NTcwMDA.webp",Nova Sound FM (Radio UZ)
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/_NEWIjWivummfnQZtvYTC87MJBgTPFT0j8QbkBeMCpQ/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMjRlNGVhZWQtN2ZmYi00ZjFjLWExMTgtZmQzMWRhNzNiZjU5L2ltYWdlLz91PTE3NTg2NDY1NTcwMDA.webp",Nova Sound FM (UZ)
 https://stream.zeno.fm/jnkkmrfelsytv
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" radio="true" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-russkoe-radio.png",Русское радио
 http://rusradio.hostingradio.ru/rusradio96.aacp
@@ -6435,13 +6319,13 @@ http://icecast.vgtrk.cdnvideo.ru/mayakfm
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://topradio.me/assets/image/radio/180/tosno.jpg",Тосно радио
 https://tosnotv.ru/hlsshare/video.m3u8
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://avtoradio.lv/upload/players/668db02a01d679.69914277.png",Авторадио
-http://ic7.101.ru:8000/v3_1
+
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://top-radio.com.ru/cover/station/OfRDSdERiTzq9G1zJtZSXLqpk34TXY9zBNzrxhU1.jpg",Дорожное Радио
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" radio="true" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-ultra.png",Ultra FM
 http://nashe1.hostingradio.ru/ultra-64.mp3
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://cdn.telik.top/pic/fm/umor.png",Юмор FM
-http://ic7.101.ru:8000/v5_1
+
 #EXTINF:-1 group-title="FM_Radio 🔌/📻",Радио Мир
 http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
 #EXTINF:-1 group-title="FM_Radio 🔌/📻",Радио Шансон
@@ -6450,20 +6334,18 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://radio7.ru/og.jpeg",Радио на семи холмах
 http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://www.radio-city.fm/wp-content/uploads/2017/04/logo-nashe-radio.png",Наше радио
+#EXTINF:-1 group-title="FM_Radio 🔌/📻",Наше радио
 http://nashe1.hostingradio.ru:80/nashe-256
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://radiopotok.ru/f/station/512/88.png",Радио DFM
 http://dfm.hostingradio.ru/dfm128.mp3
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://radiopotok.ru/f/station/512/177.png",Радио Романтика
-http://ic7.101.ru:8000/v4_1
+
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://www.prfm.ru/logo/retro-fm-latvia-logo.png",Ретро FM
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" radio="true" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rock-fm.png",ROCK-FM
 http://nashe1.hostingradio.ru/rock-64.mp3
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-id="no_epg_radio" tvg-logo="https://cdn-profiles.tunein.com/s81222/images/logoq.png?t=636632815148070000",EHR FM Русские Хиты
 http://stream.ehrhiti.lv:8000/khr.mp3
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-id="no_epg_radio" tvg-logo="https://top-radio.ru/assets/image/radio/180/radio-2000x.png",EHR FM Русские Хиты 2000-х
-http://stream.ehrhiti.lv:8000/Stream_66.mp3
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" radio="true" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-maximum.jpg",Maximum
 http://maximum.hostingradio.ru/maximum96.aacp
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://top-radio.ru/assets/image/radio/180/hit-fm.png",Хит FM
