@@ -4633,27 +4633,92 @@ https://xmuzon.com/seriallar/Qashqirlar%20makoni%20543.mp4
 
 
 #EXTM3U
-#EXTINF:-1 group-title="Tarjima_kino 🎥" tvg-logo="https://uzmediaa.net/uploads/posts/2023-04/medium/momaqaldiroq-paytida.jpg", Momaqaldiroq paytida
+
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-11/1604480484_chaqmoq-mabudi.jpg" group-title="Server_kino 🎥",Chaqmoq mabudi
+https://v.uzbeklar.biz/film44/chaqmoq-mabudi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-11/1636215114-758882443.jpg" group-title="Server_kino 🎥",Asr firibgarligi
+https://v.uzbeklar.biz/film44/asr-firibgarligi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-11/1605633947_olim-yoqasidagi-hayot.jpg" group-title="Server_kino 🎥",O'lim yoqasidagi hayot
+https://v.uzbeklar.biz/film44/olim-yoqasida-hayot.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-12/1607441328_yolgiz-jangchi.jpg" group-title="Server_kino 🎥",Yolg'iz jangchi
+https://v.uzbeklar.biz/film44/yolgiz-jangchi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-01/1611759019-424613781-1.jpg" group-title="Server_kino 🎥",O'liklar tongi
+https://v.uzbeklar.biz/film44/oliklar-tongi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-11/1636021423-2105184919-1.jpg" group-title="Server_kino 🎥",Bir kam
+https://v.uzbeklar.biz/film44/bir-kam.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-11/1604547923_600-kg-oltin.jpg" group-title="Server_kino 🎥",600 kg oltin
+https://v.uzbeklar.biz/film44/600kg-oltin.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-01/1611378244-606864271.jpg" group-title="Server_kino 🎥",Oltin zanjir
+https://v.uzbeklar.biz/film44/oltin-zanjir.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1614091034-545046239-1.jpg" group-title="Server_kino 🎥",Oltin
+https://files.uzbeklar.biz/film2/oltin-2016.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-11/1636734784-1458544674-1.jpg" group-title="Server_kino 🎥",Mars tutquni
+https://v.uzbeklar.biz/film44/mars-tutquni.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-11/1636873913-1031496079-1.jpg" group-title="Server_kino 🎥",Eramizdan 10000 yil avval
+https://v.uzbeklar.biz/film44/1000yilavval.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-11/1637392234-675423797.jpg" group-title="Server_kino 🎥",Reya sayyorasi
+https://v.uzbeklar.biz/film44/reya-sayorasi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1613148912-1963148180-1.jpg" group-title="Server_kino 🎥",Samoviy mehmon
+https://files.uzbeklar.biz/film2/samoviy-mehmon.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1614518453-1984386036-1.jpg" group-title="Server_kino 🎥",Bashorat
+https://files.uzbeklar.biz/film2/bashorat2007.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-11/1604233578_tabiat-kuchi.jpg" group-title="Server_kino 🎥",Tabiat kuchi
+https://v.uzbeklar.biz/film44/tabiat-kuchi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-01/1611116575_tofon.jpg" group-title="Server_kino 🎥",To'fon
+https://v.uzbeklar.biz/film44/tofon.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612631880-217598365-1.jpg" group-title="Server_kino 🎥",Bo'ron
+https://files.uzbeklar.biz/film2/boron.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612600522-1305406894-1.jpg" group-title="Server_kino 🎥",Tabiat bilan yuzma-yuz 1
+https://files.uzbeklar.biz/film2/tabiatga-qarshi1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612600447-1276316570.jpg" group-title="TServer_kino 🎥",Tabiat bilan yuzma-yuz 2
+https://files.uzbeklar.biz/film2/tabiatga-qarshi2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-01/1610988900_moj-brat.jpg" group-title="Server_kino 🎥",Aka Uka
+https://v.uzbeklar.biz/film44/akauka1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-01/1610988791_aka-uka-2.jpg" group-title="Server_kino 🎥",Aka Uka 2
+https://v.uzbeklar.biz/film44/akauka2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-01/1611246498-683307869.jpg" group-title="Server_kino 🎥",G'aroyib oila
+https://v.uzbeklar.biz/film44/garoyib-oila.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-03/1614569505-932860660-1.jpg" group-title="Server_kino 🎥",Uy mojarosi
+https://files.uzbeklar.biz/film2/uy-mojarosi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-12/1608371793_zodagon-oilasi.jpg" group-title="Server_kino 🎥",Zodagon oilasi
+https://v.uzbeklar.biz/film44/zodagon-oylasi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-12/1608368848_musiqa-muallimi.jpg" group-title="Server_kino 🎥",Musiqa muallimi
+https://v.uzbeklar.biz/film44/muzika-yuragi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-01/1612002730_robot-riot.jpg" group-title="Server_kino 🎥",Robotlar isyoni
+https://files.uzbeklar.biz/film2/robotlat-isyoni.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-01/1612003291-540195919.jpg" group-title="Server_kino 🎥",100 daraja qahratonda
+https://files.uzbeklar.biz/film2/100-daraja-qahratonda.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612800513-229788620-1.jpg" group-title="Server_kino 🎥",Kung Fu ustasi
+https://files.uzbeklar.biz/film2/saralarning-ustasi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1613753368-675677878-1.jpg" group-title="Server_kino 🎥",Titanik
+https://files.uzbeklar.biz/film2/titanik1997.mp4
+#EXTINF:-1 group-title="Server_kino 🎥" tvg-logo="https://uzmediaa.net/uploads/posts/2023-04/medium/momaqaldiroq-paytida.jpg", Momaqaldiroq paytida
 https://k.big24.top/Kinolar/momaqaldiroq%202018%20mob.mp4
-#EXTINF:-1 group-title="Tarjima_kino 🎥" tvg-logo="https://uzbeklar.biz/uploads/posts/2025-11/1763701484_soyaning.jpg", Soya Chegarasi
+#EXTINF:-1 group-title="Server_kino 🎥" tvg-logo="https://uzbeklar.biz/uploads/posts/2025-11/1763701484_soyaning.jpg", Soya Chegarasi
 https://s7.faylmovi.ru/tarjima_kinolar/Soyalar_ovchisi_480.mp4
-#EXTINF:-1 group-title="Tarjima_kino 🎥" tvg-logo="https://playuz.net/uploads/posts/2024-01/20-asr-qizi.webp", 20 Asr qizi 
+#EXTINF:-1 group-title="Server_kino 🎥" tvg-logo="https://playuz.net/uploads/posts/2024-01/20-asr-qizi.webp", 20 Asr qizi 
 https://s6.faylmovi.ru/tarjima_kinolar/20_asr_qizi_480.mp4
-#EXTINF:-1 group-title="Tarjima_kino 🎥" tvg-logo="https://m.rafail1982.uz/logo/1000001669_1775060699.jpg", Vaqt Tuzog'i
+#EXTINF:-1 group-title="Server_kino 🎥" tvg-logo="https://m.rafail1982.uz/logo/1000001669_1775060699.jpg", Vaqt Tuzog'i
 https://kinofayl.faylmovi.ru/4/tarjima_kinolar/VAQT_TUZOGI_480.mp4
-#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-12/1766221704_donkixot.jpg" group-title="Tarjima_kino 🎥",Don Ki Xot 1957
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-12/1766221704_donkixot.jpg" group-title="Server_kino 🎥",Don Ki Xot 1957
 https://w.uzbeklar.biz/film/donkixot.mp4
-#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1622651015-1027092813.jpg" group-title="Tarjima_kino 🎥",Mio, Bolaginam Mio 1987
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1622651015-1027092813.jpg" group-title="Server_kino 🎥",Mio, Bolaginam Mio 1987
 https://files.uzbeklar.biz/film3/mio-bolaginam.mp4
-#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1619065833-899228458.jpg" group-title="Tarjima_kino 🎥",Robinzon Kruzo 1972
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1619065833-899228458.jpg" group-title="Server_kino 🎥",Robinzon Kruzo 1972
 https://files.uzbeklar.biz/film3/robinzon-kruzo1972.mp4
-#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-03/1646561204-1434159738.jpg" group-title="Tarjima_kino 🎥",Kin-dza-dza! 1986
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-03/1646561204-1434159738.jpg" group-title="Server_kino 🎥",Kin-dza-dza! 1986
 https://v.uzbeklar.biz/film44/kin-dza-dza-1986.mp4
-#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1643346736-548312328.jpg" group-title="Tarjima_kino 🎥",Urush va tinchlik 1965
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1643346736-548312328.jpg" group-title="Server_kino 🎥",Urush va tinchlik 1965
 https://v.uzbeklar.biz/film44/urush-va-tinchlik-1965.mp4
-#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-10/1664769909-67276328.jpg" group-title="Tarjima_kino 🎥",Ko'rinmas odam 1984
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1614268368-1822583750-1.jpg" group-title="Server_kino 🎥",Boshsiz Chavandoz
+https://files.uzbeklar.biz/film2/boshsiz-chavandoz.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-10/1664769909-67276328.jpg" group-title="Server_kino 🎥",Ko'rinmas odam 1984
 https://v.uzbeklar.biz/film55/korinmas-odam-1984.mp4
-#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-02/1740718105_ilonlar.jpeg" group-title="Tarjima_kino 🎥",Ilonlar Vodiysining Kasofati 1987
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-11/1637080836-361258518-1.jpg" group-title="Server_kino 🎥",Ko'rinmas
+https://v.uzbeklar.biz/film44/korinmaslar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612885126-1432850533-1.jpg" group-title="Server_kino 🎥",Ko'rinmas mehmon
+https://files.uzbeklar.biz/film2/korinmas-mehmon.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-02/1740718105_ilonlar.jpeg" group-title="Server_kino 🎥",Ilonlar Vodiysining Kasofati 1987
 https://q.uzbeklar.biz/film/ilonlarvodiysi.mp4
 
 
