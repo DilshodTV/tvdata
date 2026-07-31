@@ -103,9 +103,9 @@ https://s7.iptv-24.net/1212/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/nV1MPQz2/f74bfc6be9137e5219898.jpg",TASIX-Media kino
 https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Kino
-
+https://kinostream4-asil-tv.hf.space/hls/stream.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/mediabay1235.png",Mediabay TV
-
+https://kinostream4-asil-tv2.hf.space/hls/stream.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/uzbekmusic.png",Mediabay Music 
 
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/09//bf3d6bc5-bdc2-43dd-b808-6b1892c445b1-q-500x500.jpeg", CineMedia
@@ -4633,7 +4633,8 @@ https://xmuzon.com/seriallar/Qashqirlar%20makoni%20543.mp4
 
 
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/content/poster/2026/05/25/d43e07c6f0271312d2ffe096c0a4d4a4-q-700x1002.jpeg" group-title="Server_kino 🎥",Lagʻmon 2026
+https://vimo.cam/upload/videos/2026/07/iObXGeguJlNvAHOWUMYx_06_6499a6f652a722bcbe69a5857c7dde34_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-11/1604480484_chaqmoq-mabudi.jpg" group-title="Server_kino 🎥",Chaqmoq mabudi
 https://v.uzbeklar.biz/film44/chaqmoq-mabudi.mp4
 #EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-11/1636215114-758882443.jpg" group-title="Server_kino 🎥",Asr firibgarligi
@@ -4670,7 +4671,7 @@ https://v.uzbeklar.biz/film44/tofon.mp4
 https://files.uzbeklar.biz/film2/boron.mp4
 #EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612600522-1305406894-1.jpg" group-title="Server_kino 🎥",Tabiat bilan yuzma-yuz 1
 https://files.uzbeklar.biz/film2/tabiatga-qarshi1.mp4
-#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612600447-1276316570.jpg" group-title="TServer_kino 🎥",Tabiat bilan yuzma-yuz 2
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612600447-1276316570.jpg" group-title="Server_kino 🎥",Tabiat bilan yuzma-yuz 2
 https://files.uzbeklar.biz/film2/tabiatga-qarshi2.mp4
 #EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-01/1610988900_moj-brat.jpg" group-title="Server_kino 🎥",Aka Uka
 https://v.uzbeklar.biz/film44/akauka1.mp4
