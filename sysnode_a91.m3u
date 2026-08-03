@@ -211,7 +211,7 @@ https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.mycdn.me/i?r=BDH3HfPpvmQZZI-uHXH_6LjV3_dv7sxqxMd2lMyWo_xtfkhokwdVFTTq0m4WSSJ6fvA",НТК
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://epg.it999.ru/img/2571.png",Первый канал Евразия
-http://ru.hls.gd/ch552/mono.m3u8?token=ciber.v2_0Teb5R_F450ZtHIwoRzUP0NfuY4KQz4heMPuP21Cimy2ldEnzvT5j8UEMnDRehgLOac5cgMs
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Мир(Казахстан)
 https://tvcdn01.oktv.kz/tv/mir/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/01/29//13d43d954ad361b7e27049f3a00acda4-q-500x500.jpeg",Мир 24 KZ
@@ -277,35 +277,35 @@ http://92.62.68.29:8086/0.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://www.yelo.com.kg/img/kg/g/_1658334572-56-.jpg", Ош ТВ KG
 http://212.42.117.34:8080/hls/OshTV.m3u8
 #EXTINF:0 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3885.png", УТРК ОШ KG
-http://ru.hls.gd/ch3885/mono.m3u8?token=ciber.v2_3-0mDX3tmrwJY8BYQJdfAlJ1e3CailzyZiQlwAsqLiqQ45FxVBINd7mcySHlUBBxVpFvLB5Bmw
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3892.png",ТРК Чуй KG
-http://ru.hls.gd/ch3892/mono.m3u8?token=ciber.v2_MeYo-Ut2YmNZU0qj94xHeVraZoba0m3_LtbaKnCO0pIyC3Rn0IVtp8whVqmb3aeI9ZXc1WN38Q
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3886.png",Setanta Kyrgyzstan HD
-http://ru.hls.gd/ch3886/mono.m3u8?token=ciber.v2_Gb8l6spS0v0W5bycL16OGe1TG15VnMFoDQzfd8px47k979s2PmzzBZYDSuHa7Ab1j-Zd-Oz7xw
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3897.png",Setanta Sports 1 KG
-http://ru.hls.gd/ch3897/mono.m3u8?token=ciber.v2_zKByONeCWWag-MvdB_8fZrbNmaz4Cq0PcjxvXiTIEzk7h8T095tF0DfJHXYYl9S6IQDVbRqHZw
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3898.png", Setanta Sports 2 KG
-http://ru.hls.gd/ch3898/mono.m3u8?token=ciber.v2_UTPQ4AO5C4VtkaLJ-1pELIjRPEoKWhHr-bwpElV9yGBOtHNgAWhssx7QD5r7HTfbYMMkUQoQhA
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/2609.png", KG: Семейный KG
-http://ru.hls.gd/ch2609/mono.m3u8?token=ciber.v2_q8bbW0Exh7YYfbBiY1u-jf5nRF98lneMK4spUOQVXzCB8B-9k3yvDsv5yy_h_fovcHx-xM_O3A
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3877.png", KG: ЭлТР KG
-http://ru.hls.gd/ch3877/mono.m3u8?token=ciber.v2_eMtlHL2P8tC979-WCOsM44kNbDMZdNJL3x4_7Gk120__VdzbEbvPqyILmCmNyFBh6lQ_oDW2Mg
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3880.png",НТС HD KG
-http://ru.hls.gd/ch3881/mono.m3u8?token=ciber.v2_7injY69AZ8auofY3ri5xA8-yi_FsNwb-q7hrDPcGJJuYW_IcaUFOITK7gEMZexV8GtzxPFdRrg
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3883.png, New TV KG
-http://ru.hls.gd/ch3883/mono.m3u8?token=ciber.v2_hUz3XvYxde5Uv9vTPiaRae_-RCs8k20GgghiaabE1_WGhvNHEdrg7Z_9cmheZ8C6MUPuXfSaJg
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3884.png", CineMax KG
-http://ru.hls.gd/ch3884/mono.m3u8?token=ciber.v2_7BnPZr89OlcG3Tyt6Dh0AptJX57TgJAXl4hzKQ_c-Pa7ENf5NVwt2BQthKvQp79UMZhy4Gx8Zw
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3390.png", SuperTV KG
-http://ru.hls.gd/ch3390/mono.m3u8?token=ciber.v2_5clEqAMMJg9Uo8VBJy0EVdHwKw3GL-U4xIvHVYftC6wlZaFBqHXvi8OrSy-EBiHm-YOGQAcIpQ
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3391.png",7 канал KG
-http://ru.hls.gd/ch3391/mono.m3u8?token=ciber.v2_GEapnDqzg6dKVjqRSTzL8GcHyzTP4Ce1hIIOagGmThUXhdvOlJgFAocS5xSzYgVdZ_sh34nuDQ
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3888.png", 8 канал KG
-http://ru.hls.gd/ch3888/mono.m3u8?token=ciber.v2__q6bHC7kE46TcgAw18Q2myfEBxOCScYduiE-hTCr5LIN5YA_Tb8DsFZRCuao0WKFS5CW4wlaMA
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3891.png", Nomad TV KG
-http://ru.hls.gd/ch3891/mono.m3u8?token=ciber.v2_GPgn0YxmDb25w2KChw47gR03mYsfHklSWvsmyK9hvFgcRLiv_P2dkNarJJol7_E8yo33t8W5HQ
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3887.png", KidsTV KG
-http://ru.hls.gd/ch3887/mono.m3u8?token=ciber.v2_U-Khfs5aBf0i4g5_pwFLz_lfJQYFZ2jxlV49tU5OplqAFqcaebyFieBvF4OrlPi_UmytZSnp2Q
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Премиум кино KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Кинобоевик KZ
