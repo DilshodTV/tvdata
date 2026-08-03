@@ -211,7 +211,7 @@ https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.mycdn.me/i?r=BDH3HfPpvmQZZI-uHXH_6LjV3_dv7sxqxMd2lMyWo_xtfkhokwdVFTTq0m4WSSJ6fvA",НТК
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://epg.it999.ru/img/2571.png",Первый канал Евразия
-
+http://ru.hls.gd/ch552/mono.m3u8?token=ciber.v2_0Teb5R_F450ZtHIwoRzUP0NfuY4KQz4heMPuP21Cimy2ldEnzvT5j8UEMnDRehgLOac5cgMs
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Мир(Казахстан)
 https://tvcdn01.oktv.kz/tv/mir/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/01/29//13d43d954ad361b7e27049f3a00acda4-q-500x500.jpeg",Мир 24 KZ
@@ -232,7 +232,7 @@ http://212.42.111.152:8080/hls/manas.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/458MPWD8UEBKE9/2221/index.m3u8
 #EXTINF:0 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/7kanal-kz.png",7 канал
 https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzkzNy5tM3U4.m3u8?k=12345
-#EXTINF:0 group-title="Kazakistan_TV 🇰🇿"tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/31-kanal-kz.png",31 канал KZ
+#EXTINF:0 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/31-kanal-kz.png",31 канал KZ
 https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzkzNi5tM3U4.m3u8?k=12345
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/77tv-kz.png",77 канал
 
@@ -276,7 +276,36 @@ https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
 http://92.62.68.29:8086/0.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://www.yelo.com.kg/img/kg/g/_1658334572-56-.jpg", Ош ТВ KG
 http://212.42.117.34:8080/hls/OshTV.m3u8
-
+#EXTINF:0 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3885.png", УТРК ОШ KG
+http://ru.hls.gd/ch3885/mono.m3u8?token=ciber.v2_3-0mDX3tmrwJY8BYQJdfAlJ1e3CailzyZiQlwAsqLiqQ45FxVBINd7mcySHlUBBxVpFvLB5Bmw
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3892.png",ТРК Чуй KG
+http://ru.hls.gd/ch3892/mono.m3u8?token=ciber.v2_MeYo-Ut2YmNZU0qj94xHeVraZoba0m3_LtbaKnCO0pIyC3Rn0IVtp8whVqmb3aeI9ZXc1WN38Q
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3886.png",Setanta Kyrgyzstan HD
+http://ru.hls.gd/ch3886/mono.m3u8?token=ciber.v2_Gb8l6spS0v0W5bycL16OGe1TG15VnMFoDQzfd8px47k979s2PmzzBZYDSuHa7Ab1j-Zd-Oz7xw
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3897.png",Setanta Sports 1 KG
+http://ru.hls.gd/ch3897/mono.m3u8?token=ciber.v2_zKByONeCWWag-MvdB_8fZrbNmaz4Cq0PcjxvXiTIEzk7h8T095tF0DfJHXYYl9S6IQDVbRqHZw
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3898.png", Setanta Sports 2 KG
+http://ru.hls.gd/ch3898/mono.m3u8?token=ciber.v2_UTPQ4AO5C4VtkaLJ-1pELIjRPEoKWhHr-bwpElV9yGBOtHNgAWhssx7QD5r7HTfbYMMkUQoQhA
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/2609.png", KG: Семейный KG
+http://ru.hls.gd/ch2609/mono.m3u8?token=ciber.v2_q8bbW0Exh7YYfbBiY1u-jf5nRF98lneMK4spUOQVXzCB8B-9k3yvDsv5yy_h_fovcHx-xM_O3A
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3877.png", KG: ЭлТР KG
+http://ru.hls.gd/ch3877/mono.m3u8?token=ciber.v2_eMtlHL2P8tC979-WCOsM44kNbDMZdNJL3x4_7Gk120__VdzbEbvPqyILmCmNyFBh6lQ_oDW2Mg
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3880.png",НТС HD KG
+http://ru.hls.gd/ch3881/mono.m3u8?token=ciber.v2_7injY69AZ8auofY3ri5xA8-yi_FsNwb-q7hrDPcGJJuYW_IcaUFOITK7gEMZexV8GtzxPFdRrg
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3883.png, New TV KG
+http://ru.hls.gd/ch3883/mono.m3u8?token=ciber.v2_hUz3XvYxde5Uv9vTPiaRae_-RCs8k20GgghiaabE1_WGhvNHEdrg7Z_9cmheZ8C6MUPuXfSaJg
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3884.png", CineMax KG
+http://ru.hls.gd/ch3884/mono.m3u8?token=ciber.v2_7BnPZr89OlcG3Tyt6Dh0AptJX57TgJAXl4hzKQ_c-Pa7ENf5NVwt2BQthKvQp79UMZhy4Gx8Zw
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3390.png", SuperTV KG
+http://ru.hls.gd/ch3390/mono.m3u8?token=ciber.v2_5clEqAMMJg9Uo8VBJy0EVdHwKw3GL-U4xIvHVYftC6wlZaFBqHXvi8OrSy-EBiHm-YOGQAcIpQ
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3391.png",7 канал KG
+http://ru.hls.gd/ch3391/mono.m3u8?token=ciber.v2_GEapnDqzg6dKVjqRSTzL8GcHyzTP4Ce1hIIOagGmThUXhdvOlJgFAocS5xSzYgVdZ_sh34nuDQ
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3888.png", 8 канал KG
+http://ru.hls.gd/ch3888/mono.m3u8?token=ciber.v2__q6bHC7kE46TcgAw18Q2myfEBxOCScYduiE-hTCr5LIN5YA_Tb8DsFZRCuao0WKFS5CW4wlaMA
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3891.png", Nomad TV KG
+http://ru.hls.gd/ch3891/mono.m3u8?token=ciber.v2_GPgn0YxmDb25w2KChw47gR03mYsfHklSWvsmyK9hvFgcRLiv_P2dkNarJJol7_E8yo33t8W5HQ
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3887.png", KidsTV KG
+http://ru.hls.gd/ch3887/mono.m3u8?token=ciber.v2_U-Khfs5aBf0i4g5_pwFLz_lfJQYFZ2jxlV49tU5OplqAFqcaebyFieBvF4OrlPi_UmytZSnp2Q
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Премиум кино KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Кинобоевик KZ
@@ -1906,7 +1935,7 @@ http://de1.plist.link:3355/FGfpnUmovVu72700/index.m3u8?token=oYHLnks0X_7VBji5gzX
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="https://i.imgur.com/ZMKPAho.png",RTG TV 
 http://de1.plist.link:3355/FGfpnUmovVu4444/index.m3u8?token=7LO7cdTWNP71bg9jr81xWCPdGgrimxVaXIYBsoYSrpKPGMofe0Mxe4bU4URE1TCg.tg6457680141
-#EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="https://i.imgur.com/N1Ze5IE.png" group-title="Dunyo_TV 🌎",Космический
+#EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://de1.plist.link/plepg/img/channels/436.png?69c29495ba464", Космический HD
 https://s7.iptv-24.net/1415/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Galaxy TV
 http://dmi3y-tv.online/hls/CH_GALAXYTV.m3u8
@@ -1940,8 +1969,8 @@ https://s7.iptv-24.net/1250/tracks-v1a1/mono.m3u8
 https://s7.iptv-24.net/1404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Усадьба
 https://s7.iptv-24.net/1427/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="muzhskoy" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="Dunyo_TV 🌎" ,Мужской
-https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
+#EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://de1.plist.link/plepg/img/channels/522.png?69c29495ba464", Мужской
+http://de1.plist.link:3355/FGfpnUmovVu6522/index.m3u8?token=7LO7cdTWNP71bg9jr81xWMcNK0yRql1IIxtZAiDT0pZvFv_nKnerRS8AIJIiftgX.tg6457680141
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Animal Planet
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Big Planet
@@ -1986,7 +2015,7 @@ http://dmi3y-tv.online/hls/CH_TRAVELPLUSADVENTURE.m3u8
 https://s7.iptv-24.net/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",DocuBox
 
-#EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="https://i.imgur.com/UFREahx.png",Curiosity Stream
+#EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://de1.plist.link/plepg/img/channels/2795.png?69c29495ba464", Curiosity Stream
 http://de1.plist.link:3355/FGfpnUmovVu02795/index.m3u8?token=7LO7cdTWNP71bg9jr81xWM6whPrJ0Lh0zltCvUKveWvSyV0xdNxl8P4aP5dd5ga2.tg6457680141
 #EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://rafail1982.uz/logo/Кто Куда.png",Кто Куда
 
@@ -2012,6 +2041,10 @@ https://s7.iptv-24.net/1247/tracks-v1a1/mono.m3u8
 https://s7.iptv-24.net/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://de1.plist.link/plepg/img/channels/435.png?69c29495ba464", TLC HD
 http://de1.plist.link:3355/FGfpnUmovVu9435/index.m3u8?token=7LO7cdTWNP71bg9jr81xWHiIQ2g33S42sjHt2e1iO5FDTDRnZSRDaEebCqfS3VQP.tg6457680141
+#EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://de1.plist.link/plepg/img/channels/1955.png?69c29495ba464", MM Открытия HD
+http://de1.plist.link:3355/FGfpnUmovVu81955/index.m3u8?token=7LO7cdTWNP71bg9jr81xWIDavdm7kqTEzwZ4eko31AfsLvNvWm6W31Pw862qJgK8.tg6457680141
+#EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://de1.plist.link/plepg/img/channels/1952.png?69c29495ba464", MM Experiment HD
+http://de1.plist.link:3355/FGfpnUmovVu11952/index.m3u8?token=7LO7cdTWNP71bg9jr81xWJF0xfGQ5FEgbMOZQwSVeWP2cEG1sRzegiLTvqVC1VtB.tg6457680141
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Наша Тема
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Загородная Жизнь
@@ -2045,7 +2078,7 @@ http://de1.plist.link:3355/FGfpnUmovVu8538/index.m3u8?token=2VejxCo_Sezd_9XgsnoN
 #EXTINF:-1 group-title="Dunyo_TV 🌎"  tvg-logo="https://i.imgur.com/eXJm1n3.png",Телепутешествия HD
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Моя Стихия
-
+http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Первый Вегетарианский
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎",HGTV HD
@@ -2067,8 +2100,6 @@ https://s7.iptv-24.net/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Авто 24
 https://s7.iptv-24.net/1430/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Первый автомобильный
-
-#EXTINF:-1 group-title="Dunyo_TV 🌎",Curiosity Stream HD
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎",The Explorers HD
 
@@ -2129,11 +2160,11 @@ http://471ccec7.tvclub.xyz/iptv/BUYS9YTNABMC25/31612/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Megogo Гонг HD
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/okko-sport2-hd.png",ОККО Прайм Cпорт HD
-http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+http://stream.mcquack.net/493/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/okko-futbol-hd.png",ОККО Футбол HD
-http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6554/index.m3u8
+http://stream.mcquack.net/491/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/okko-sport-hd.png",ОККО Спорт HD
-
+http://stream.mcquack.net/492/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/upl1-ua-hd.png",UPL 1 HD
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.imgur.com/pEuaZVx.png",Футбол HD
@@ -2683,8 +2714,8 @@ https://sitv.ru/hls/s86512.m3u8
 https://s7.iptv-24.net/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",RTД
 
-#EXTINF:-1 tvg-id="71" tvg-logo="http://tv.kubtel.ru/tv_icon/oruzhie.png" group-title="Rossiya_TV 🇷🇺",Оружие
-http://158.101.222.193:88/georgia_play.php?id=oruzhie
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/327.png?69c29495ba464", Оружие
+http://de1.plist.link:3355/FGfpnUmovVu5327/index.m3u8?token=7LO7cdTWNP71bg9jr81xWKgBqUyXUpY1KCa0JYMeUk5PzhuX1wwPiQUVHlmMF8Rf.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Среда HD (Каспийск)
 
 #EXTINF:-1 tvg-id="pervy-yaroslavsky" tvg-logo="https://iptvx.one/picons/pervy-yaroslavsky.png" group-title="Rossiya_TV 🇷🇺" ,Первый Ярославский
@@ -3170,8 +3201,8 @@ https://s7.iptv-24.net/1443/tracks-v1a1/mono.m3u8
 https://s7.iptv-24.net/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",ТВ 21
 
-#EXTINF:-1 group-title="KINO_TV 📺",Иллюзион+ HD
-
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://de1.plist.link/plepg/img/channels/114.png?69c29495ba022", Иллюзион+ HD
+http://de1.plist.link:3355/FGfpnUmovVu6114/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxK-wsP2YU-RBIuFrp3paxrG3sOqNhewB0w4Z-4c7LxWw.tg6457680141
 #EXTINF:-1 group-title="KINO_TV 📺",Любимое кино
 
 #EXTINF:-1 group-title="KINO_TV 📺",Комедия
@@ -3220,12 +3251,14 @@ http://dmi3y-tv.online/hls/CH_VIP_COMEDY.m3u8
 http://dmi3y-tv.online/hls/CH_VIP_PREMIERE.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/vip-serial-hd-orig.png",Viju+ Serial HD
 http://dmi3y-tv.online/hls/CH_VIP_SERIAL.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺",Наш Кинопоказ
-
-#EXTINF:-1 group-title="KINO_TV 📺",Наше мужское HD
-
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.imgur.com/KO8dhi9.png",Наше
-
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://de1.plist.link/plepg/img/channels/131.png?69c29495ba022", Наше HD
+http://de1.plist.link:3355/FGfpnUmovVu5131/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxCqEcZ-peXRuQGy7M2VJWn6odK2yslT8GKSSQR_1CzsP.tg6457680141
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://de1.plist.link/plepg/img/channels/714.png?69c29495ba022", Наш Кинопоказ HD
+http://de1.plist.link:3355/FGfpnUmovVu3714/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxGuxFHjm6HFbu0Du4P8U3bq7WBidDHiinMhMyi9Gr8VF.tg6457680141
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://de1.plist.link/plepg/img/channels/589.png?69c29495ba022", Наше Мужское HD
+http://de1.plist.link:3355/FGfpnUmovVu1589/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxBqlxJ_cFfAwwCR81Pm1jAQi20AQdWeTEB3AqezcN5nO.tg6457680141
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://de1.plist.link/plepg/img/channels/139.png?69c29495ba022", Наше любимое HD
+http://de1.plist.link:3355/FGfpnUmovVu5139/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxHQJ7SfXY8Sgh8mJBJEZmlR2Ys8V4jucKf3V--R7-AD3.tg6457680141
 #EXTINF:-1 group-title="KINO_TV 📺",НСТ
 http://hls127.freeott.top:8080/HCTV/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",Кошмар HD
@@ -3456,120 +3489,6 @@ http://hls127.freeott.top:8080/PG_USSR_HD/mono.m3u8
 http://hls127.freeott.top:8080/PG_VHS_HD/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺", PG_Insomnia_HD
 http://hls127.freeott.top:8080/PG_Insomnia_HD/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺",MM Скорость HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",MM Translation HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",MM Агата Кристи HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",MM NewFilm RU HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",MM 007 HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",MM Classic HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",MM Драма HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",MM NewFilm 1 HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",MM NewFilm 2 HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",MM NewFilm 3 HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",MM Фантастика HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",MM История HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",MM Макромир HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",MM Мегамир HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",MM Микромир HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",MM Погружение HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",MM Приключения HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",MM Триллер HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",MM UFO HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",MM Вестерн HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan Action
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan Комедия
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan Катастрофы
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan Marvel
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan Мелодрама
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan MiniSeries
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan ПёС + Лихач
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan Premium
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan РуКино
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan Симпсоны
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan Скорая Помощь
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan Сваты
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan Thriller
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan Top
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan Ужасы
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan VHS
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan Лесник
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan Ментовские войны
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan Фитнес
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan Криминальные Сериалы
-
-#EXTINF:-1 group-title="KINO_TV 📺",CineMan Катастрофы
-
-#EXTINF:-1 group-title="KINO_TV 📺",Liberty Мелодрамы FHD
-
-#EXTINF:-1 group-title="KINO_TV 📺",Liberty Сериалы FHD
-
-#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Adrenaline
-
-#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Adventure
-
-#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Best
-
-#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Grand
-
-#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV New Кино
-
-#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Oblivion
-
-#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Русские Фильмы
-
-#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Трагичное
-
-#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Thriller
-
-#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Забавное
-
-#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Мелодрама
-
-#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Ковбойское
-
-#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Мелодрама
-
 #EXTINF:-1 group-title="KINO_TV 📺",Муви ТВ
 
 #EXTINF:-1 group-title="KINO_TV 📺",Video-Arsenal HD
@@ -3667,8 +3586,153 @@ http://kinowalk.hopto.org/perviryad_live
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/love-story-hd.png",Лавстори HD
 
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://play-lh.googleusercontent.com/jxxKXOInjfqLu6FJADnzjAKcmcWGOUHO1PB9CahJDGllp2U0F-pNEQz114UwAP8mfZ8",Play-X Джеки Чан HD
-https://playxapp.play-x.app:2053/0073/index.m3u8?token=play-x.app
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1258.png", MM Скорость HD
+http://ru.hls.gd/ch1258/mono.m3u8?token=ciber.v2_9bL8In4QKqT6pZTNmGYquHrHyG3wkN360ksngrQ2-ZjWAo0JBLIyHhpIjFrQ-oAH3RSuCLO8hg
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1229.png", MM Агата Кристи HD
+http://ru.hls.gd/ch1229/mono.m3u8?token=ciber.v2_pRHdsbQfUkzzRREpRscEzM6b0W5eCpU26QOubSheUsiSULDx2Nbq62wSB2jySgl8_Nh7L2piQQ
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1232.png", MM Боевик Classic HD
+http://ru.hls.gd/ch1232/mono.m3u8?token=ciber.v2_Hbsvw0i7Eg2dsKrlpc7sYLOIItB_hagOftVNk8fKsgdlXeP34W7ouoP9LSyHDDiQs82q3BbQLw
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1233.png", MM Боевик HD
+http://ru.hls.gd/ch1233/mono.m3u8?token=ciber.v2_zfZwW2HyTEidoFNnCOmwgV_1u2Fp5GJq6eZsHPnW0__zNKhLppLw_8OtUm_mgspIGVpYWop0Xg
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1251.png", MM Ситком HD
+http://ru.hls.gd/ch1251/mono.m3u8?token=ciber.v2_YyjnljjWdLIIFcCtzscuVoAhM95lMoFa4zNMEqk8iYPew0-rIuP4inIO6HrgDy8OLaOU_ES2qw
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1264.png", MM Ужастик HD
+http://ru.hls.gd/ch1264/mono.m3u8?token=ciber.v2_xcnyd5o4frVQ8sW__jXxqE16W9v49ohYiU9tjG2gsKpnX1EpivnoYnTt1GzvnGuDx50KHuDUQg
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1276.png", MM Ужасы HD
+http://ru.hls.gd/ch1276/mono.m3u8?token=ciber.v2_nHeeQ-iitBHk_vWGiltB2BkilQlnZlmvOHIjqeCmjlXFEnwsT9kWvffWi5yqbhJuBCQe0XOfRA
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1621.png", MM Translation HD
+http://ru.hls.gd/ch1621/mono.m3u8?token=ciber.v2_jMgHSfP_9wWHfeQjMrpySHIziGqwJskF9w700OP751__AvNfB0f1uRQBIJMxDK_rbbry-mnoBA
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1238.png", MM История HD
+http://ru.hls.gd/ch1238/mono.m3u8?token=ciber.v2_KTShYOcqfIqcAEPhgsiKTIoJHSIDuIuv9XBAyTNDRHsva-0tWg7ifa2mWHf-DdWMKlPshmZSCA
+#EXTINF:-1 group-title="KINO_TV 📺",MM NewFilm RU HD
+
+#EXTINF:-1 group-title="KINO_TV 📺",MM 007 HD
+
+#EXTINF:-1 group-title="KINO_TV 📺",MM Classic HD
+
+#EXTINF:-1 group-title="KINO_TV 📺",MM Драма HD
+
+#EXTINF:-1 group-title="KINO_TV 📺",MM NewFilm 1 HD
+
+#EXTINF:-1 group-title="KINO_TV 📺",MM NewFilm 2 HD
+
+#EXTINF:-1 group-title="KINO_TV 📺",MM NewFilm 3 HD
+
+#EXTINF:-1 group-title="KINO_TV 📺",MM Фантастика HD
+
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1243.png", MM Комедия HD
+http://ru.hls.gd/ch1243/mono.m3u8?token=ciber.v2_InvSyIlrjk-SFtxJlB0gbvPlqsTwzPBm5QhuTjl-uhYlOqIWtTaoxjf_FXbELjyT1vMx5ba4sQ
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1244.png", MM Криминал HD
+http://ru.hls.gd/ch1244/mono.m3u8?token=ciber.v2_-bDtsrPAP-WdMSEGORrtF2XUHgCypBUXs-VSNsDpQLN2Enim6oniLmWcJM3ey967jRGgZB0Raw
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1249.png", MM Мифология HD
+http://ru.hls.gd/ch1249/mono.m3u8?token=ciber.v2_Gcjtl4ux4FXoaBBrXLnBK9tZnbuDEvsS9bY741xvJzXFImawwIRZAr4nFy0375JRGE799NqxtQ
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1260.png", MM Стивен Кинг HD
+http://ru.hls.gd/ch1260/mono.m3u8?token=ciber.v2__flFm6U9LDjZQSD4N9iSLfcAtXGGyrs_YfNpgPNM5nkyXTZDMuo0kn5z8pEz_CPWiZa1e7kFSA
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1263.png", MM Триллер HD
+http://ru.hls.gd/ch1263/mono.m3u8?token=ciber.v2_n1fcGD9w_d7mYbjzTd1ZLLCuD3bfm_8LO2qTTonTbkTR5F-rXYSRrkoVxckvnX34TGc5kLDWsg
+#EXTINF:-1 group-title="KINO_TV 📺",MM Макромир HD
+
+#EXTINF:-1 group-title="KINO_TV 📺",MM Мегамир HD
+
+#EXTINF:-1 group-title="KINO_TV 📺",MM Микромир HD
+
+#EXTINF:-1 group-title="KINO_TV 📺",MM Погружение HD
+
+#EXTINF:-1 group-title="KINO_TV 📺",MM Приключения HD
+
+#EXTINF:-1 group-title="KINO_TV 📺",MM UFO HD
+
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1263.png", MM Триллер HD
+http://ru.hls.gd/ch1263/mono.m3u8?token=ciber.v2_n1fcGD9w_d7mYbjzTd1ZLLCuD3bfm_8LO2qTTonTbkTR5F-rXYSRrkoVxckvnX34TGc5kLDWsg
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1259.png", MM Спорт HD
+http://ru.hls.gd/ch1259/mono.m3u8?token=ciber.v2_cmv1nnQqOJp4VGshvcbJrFTIK6g2QmdcNihgUJudcpugOT9W8AVhHNc-rimtbiTXnILJOGnF2w
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1215.png", MM Love HD
+http://ru.hls.gd/ch1215/mono.m3u8?token=ciber.v2_5dy9ihFLWdKRpk6Z0iYAGkNmjshVaFl2skA9-QCKCBY0LjfXicEfhQamFC4-528w2cC2vLI8WA
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1234.png", MM Вестерн HD
+http://ru.hls.gd/ch1234/mono.m3u8?token=ciber.v2_3Tz7TbfUlXT69vd086KW2dxFudsPNYmregBuLFLwoGranamWnjpg8oHoMyVI279pn-YMJYcuzA
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1255.png", MM Роскино HD
+http://ru.hls.gd/ch1255/mono.m3u8?token=ciber.v2_t1q_jbb_fEVpg-euD2hX7gEJVnOvLIHtqu5PrTB7jxR-Y28nAM157UxAee4fexylIDzmkJUxzw
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1560.png", Magic Horror
+http://ru.hls.gd/ch1560/mono.m3u8?token=ciber.v2_K8_1Ayb5w6MHvggTAMFokS4-A0jbPdVFG4A5LVuBD3uCYdbLqFS3pFW7r57qieRxE65tQA6-1g
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1726.png", Fresh Horror
+http://ru.hls.gd/ch1726/mono.m3u8?token=ciber.v2_aymrLekXzstsHdoNWav2za_2mqlHeBFupMax4xVma7LJt530FvjuN1DrlBtHkayNag2P5GI9dA
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://iptvcinema.ru/channels/sc.png", Sc Секретные материалы
+http://cdn.iptvcinema.ru/sc_sekretnie_materialy/index.m3u8?token=a2xhZGJsb2d8fGJHOXVaRzl1TWpRPQ==
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://iptvcinema.ru/channels/sc.png", Sc Полицейская академия
+http://cdn.iptvcinema.ru/sc_policeyskaya_akademiya/index.m3u8?token=a2xhZGJsb2d8fGJHOXVaRzl1TWpRPQ==
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan Action
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan Комедия
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan Катастрофы
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan Marvel
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan Мелодрама
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan MiniSeries
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan ПёС + Лихач
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan Premium
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan РуКино
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan Симпсоны
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan Скорая Помощь
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan Сваты
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan Thriller
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan Top
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan Ужасы
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan VHS
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan Лесник
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan Ментовские войны
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan Фитнес
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan Криминальные Сериалы
+
+#EXTINF:-1 group-title="KINO_TV 📺",CineMan Катастрофы
+
+#EXTINF:-1 group-title="KINO_TV 📺",Liberty Мелодрамы FHD
+
+#EXTINF:-1 group-title="KINO_TV 📺",Liberty Сериалы FHD
+
+#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Adrenaline
+
+#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Adventure
+
+#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Best
+
+#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Grand
+
+#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV New Кино
+
+#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Oblivion
+
+#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Русские Фильмы
+
+#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Трагичное
+
+#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Thriller
+
+#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Забавное
+
+#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Мелодрама
+
+#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Ковбойское
+
+#EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Мелодрама
 
 
 
@@ -4849,7 +4913,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/3295.png",Спорт ТВ HD
 https://11.hls.gd/ch3295/mono.m3u8?token=conklave.v2_0SpIRJmx1Hq7-i2gswOrFtQZ13xzlKkKZfhcNwzCFYuV2_TgH3O5lk79jsQJbMfo9yUIMVqArODh7Q
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://epg.it999.ru/img/2294.png",БелРос
-
+https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾",Гродно+
 
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/3805.png",ТВ3 Беларусь
