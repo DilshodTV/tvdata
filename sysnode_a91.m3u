@@ -6715,8 +6715,6 @@ http://europaplus.hostingradio.ru:8014/europaplus320.mp3
 http://194.143.148.28:8080/MCM/mpegts
 #EXTINF:-1 group-title="FM_Radio 🔌/📻",Радио ТВ Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://radiopotok.ru/f/station/512/2648.png",Zuno FM
-https://zuno-radio.com/play
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://top-radio.ru/assets/image/radio/180/sigmaradio.png",Сигма HD радио
 https://lifecam.sigma-ktv.ru/ctv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://top-radio.ru/assets/image/radio/180/radiomayak.png",Радио Маяк
