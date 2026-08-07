@@ -6633,8 +6633,6 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod FM Radio
-https://zunofm.volticast.net/live.mp3
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",Oriat dono
 http://oriat.mediabay.uz/oriatdono.m3u8
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",Oriat FM
@@ -6647,6 +6645,8 @@ http://oriat.mediabay.uz:8012/ikbol
 http://mediamarkaz.com:8000/radiomarkaz
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png", SUPER FM (UZ)
 https://stream.zeno.fm/b7ye4q0k3zhvv
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://radiopotok.ru/f/station/512/2648.png",Zuno FM (UZ)
+https://zunofm.volticast.net/live.mp3
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://au.radio.net/300/lautfm-music-fm.png?version=d8aac954ef52af86cf70c97a7e20fd2f7c904625", Music FM (UZ)
 https://stream-176.zeno.fm/8ablr30ahycuv?n=fflzkt8c7pnpx7e71bdh
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",Yangi Radio FM (UZ) 
@@ -6715,6 +6715,8 @@ http://europaplus.hostingradio.ru:8014/europaplus320.mp3
 http://194.143.148.28:8080/MCM/mpegts
 #EXTINF:-1 group-title="FM_Radio 🔌/📻",Радио ТВ Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://radiopotok.ru/f/station/512/2648.png",Zuno FM
+https://zuno-radio.com/play
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://top-radio.ru/assets/image/radio/180/sigmaradio.png",Сигма HD радио
 https://lifecam.sigma-ktv.ru/ctv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://top-radio.ru/assets/image/radio/180/radiomayak.png",Радио Маяк
