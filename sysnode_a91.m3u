@@ -5215,9 +5215,9 @@ http://de1.plist.link:3355/FGfpnUmovVu8726/index.m3u8?token=By3dnvGist3lMb4UGKdX
 
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/3807.png",Светлое TV
 
-#EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/3812.png",  Белмуз TV
+#EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/3812.png", Белмуз TV
 http://scottadkins-index2.hf.space/play/zunotv/zunotv/2192.m3u8
-#EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://epg.cdntv.online/img/2193.png" RU TV Беларусь
+#EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://epg.cdntv.online/img/2193.png", RU TV Беларусь
 http://scottadkins-index2.hf.space/play/zunotv/zunotv/2193.m3u8
 
 
