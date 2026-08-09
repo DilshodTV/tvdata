@@ -2245,7 +2245,7 @@ http://bde.online24.pm/play/1889/16419D145D0E706/video.m3u8
 http://bde.online24.pm/play/8831/16419D145D0E706/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10145/logo_256_1660807386.png", Старт Триумф HD
 
-#EXTINF:-1 group-title="Sport_TV 🏆 tvg-logo="http://epg.cdntv.online/img/464.png", Старт HD
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.cdntv.online/img/464.png", Старт HD
 http://scottadkins-index2.hf.space/play/zunotv/zunotv/464.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Trace Sport Stars
 https://s7.iptv-24.net/1274/tracks-v1a1/mono.m3u8
@@ -5174,19 +5174,19 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w16
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" ,Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/3295.png",Спорт ТВ HD
-https://11.hls.gd/ch3295/mono.m3u8?token=conklave.v2_0SpIRJmx1Hq7-i2gswOrFtQZ13xzlKkKZfhcNwzCFYuV2_TgH3O5lk79jsQJbMfo9yUIMVqArODh7Q
-#EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://epg.it999.ru/img/2294.png",БелРос
-https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
+
+#EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://epg.cdntv.online/img/701.png",БелРос
+
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾",Гродно+
 
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/3805.png",ТВ3 Беларусь
-https://11.hls.gd/ch3805/mono.m3u8?token=conklave.v2_6Z2-gR-79vLsWrfRQ3vafzt0bA5ORpLP-Zv1H98Kc8S3lnGDAGHo81TslQauqk534BgOFbhFM6jYZw
+https://scottadkins-index2.hf.space/play/zunotv/zunotv/872.m3u8
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/3804.png",Plus TV
-https://11.hls.gd/ch3804/mono.m3u8?token=conklave.v2_-FevrLHgaapvy6XWnf31o6sCyEW-kicrpu5sq2Sujq_tjX-i8dQZ80LMqmLrxNpWoF3yBlOVpKhn0g
+
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/3803.png",Скиф HD
-https://11.hls.gd/ch3803/mono.m3u8?token=conklave.v2_-_u5b1MrC2XgMhb-nsJj9AJspuNs1XqqUTFModmqxT9INFw5SJEzRG4gTdGY9y6ju42bueHPcUEfxA
+
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/584.png", Союзный
-https://11.hls.gd/ch584/mono.m3u8?token=conklave.v2_pZ6_3FsQsAlz6xTY76URLq_WwIZXBBRCMJIZc3I7jtTeBoCiEz3VykPZwMuaJG4xBkaiY5lO-wIy
+https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾",RIMEX TV
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾",СТВ Беларусь HD
@@ -5202,25 +5202,23 @@ http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf
 #EXTINF:-1 tvg-id="pro-business" tvg-logo="https://iptvx.one/picons/pro-business.png" group-title="Belarus_TV 🇧🇾",Про бизнес
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://s06.wsbof.com:8080/streams/ont-by-hd.png",ОНТ HD
-
+http://scottadkins-index2.hf.space/play/zunotv/zunotv/871.m3u8
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://s06.wsbof.com:8080/streams/rtr-belarus-by-hd.png",РТР Беларусь HD
-
+http://scottadkins-index2.hf.space/play/zunotv/zunotv/780.m3u8
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://s06.wsbof.com:8080/streams/ntv-by-hd.png",НТВ Беларусь HD
-
-#EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://s06.wsbof.com:8080/streams/channel8-by-hd.png",8 Канал HD
-
+http://scottadkins-index2.hf.space/play/zunotv/zunotv/779.m3u8
+#EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://epg.cdntv.online/img/874.png",8 канал Беларусь
+http://scottadkins-index2.hf.space/play/zunotv/zunotv/874.m3u8
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://s06.wsbof.com:8080/streams/belsat-by.png",Белсат HD
 http://de1.plist.link:3355/FGfpnUmovVu8726/index.m3u8?token=By3dnvGist3lMb4UGKdXnXRe8TfiUEfCBi_0LBUEcgNYRbDVX0Os9XT6xVh7EtKt.tg6457680141
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/3810.png", Звязда HD
-https://11.hls.gd/ch3810/mono.m3u8?token=conklave.v2_YswmBCWL2dB4uNVoD0ZhBPpWXFBAGJK28qpr8cSMefVuo_GnWnuQfCwZ5us0k53xZzhwd8lOBVPHsA
+
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/3807.png",Светлое TV
-https://11.hls.gd/ch3807/mono.m3u8?token=conklave.v2_N81bKP2qudiZMyw-uGqwcDYzyXZhLnEHtFtur1g52TqVskOSooKLIiQjk9NynOchVXeGCCb8zg_VPg
-#EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/563.png",РТР HD Беларусь
-https://11.hls.gd/ch563/mono.m3u8?token=conklave.v2__qfle1wnsCcrc1Rh5oRkwXCLP0P5iO4JELY5rTSfNOCv0bS817Ot6UIgkSdNDNtKWtSTLX2wM4-c
+
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/3812.png",  Белмуз TV
-https://11.hls.gd/ch3812/mono.m3u8?token=conklave.v2_YvfFxrPoQxyjtDthvSAkhA2MrBiGk2tUi_lSW2Dpv3ZI29TkG5L2FIRRosf93ep32lwBRzBD9mDqDQ
-
-
+http://scottadkins-index2.hf.space/play/zunotv/zunotv/2192.m3u8
+#EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://epg.cdntv.online/img/2193.png" RU TV Беларусь
+http://scottadkins-index2.hf.space/play/zunotv/zunotv/2193.m3u8
 
 
 
