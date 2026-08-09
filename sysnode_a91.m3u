@@ -2171,11 +2171,11 @@ http://185.57.68.33/110/mpegts
 https://s7.iptv-24.net/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 2 HD
 https://s7.iptv-24.net/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-ua-hd-orig.png",Setanta Sports 1 Ukraine HD
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.cdntv.online/img/863.png",Setanta Sports 1 Ukraine HD
 http://scottadkins-index2.hf.space/play/zunotv/zunotv/863.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.cdntv.online/img/1022.png", Setanta Sports 2 Ukraine HD
 http://scottadkins-index2.hf.space/play/zunotv/zunotv/1022.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-plus-ua-hd-orig.png",Setanta Sports + UA HD
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.cdntv.online/img/1065.png",Setanta Sports + UA HD
 https://scottadkins-index2.hf.space/play/zunotv/zunotv/1065.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-premium-ua-hd.png",Setanta Sport Premium HD
 
@@ -2233,9 +2233,9 @@ https://s7.iptv-24.net/1226/tracks-v1a1/mono.m3u8
 http://scottadkins-index2.hf.space/play/zunotv/zunotv/381.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://tv.kubtel.ru/tv_icon/HockeyHD.png",Хоккей ТВ
 http://scottadkins-index2.hf.space/play/zunotv/zunotv/1497.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆",КХЛ HD Хокей
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.cdntv.online/img/45.png",КХЛ HD Хокей
 https://scottadkins-index2.hf.space/play/zunotv/zunotv/45.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL Prime.png" group-title="Sport_TV 🏆",KHL Prime
+#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/46.png" group-title="Sport_TV 🏆",KHL Prime
 http://bde.online24.pm/play/177/16419D145D0E706/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.freevector.com/uploads/vector/preview/13819/FreeVector-Tennis-Vector.jpg" group-title="Sport_TV 🏆",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
