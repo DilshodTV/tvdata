@@ -2171,6 +2171,8 @@ http://185.57.68.33/110/mpegts
 https://s7.iptv-24.net/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 2 HD
 https://s7.iptv-24.net/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.cdntv.online/img/1022.png", Setanta Sports + HD
+http://scottadkins-index2.hf.space/play/zunotv/zunotv/1022.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-premium-ua-hd.png",Setanta Sport Premium HD
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-plus-ua-hd-orig.png",Setanta Sports + UA HD
@@ -2184,7 +2186,7 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/L5mKP5KG/setanta-georgia-logo-png-seeklogo-373606.png", Setanta 3 Gretsiya
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/megogo-sport-ua-hd.png",MEGOGO Спорт HD
-http://471ccec7.tvclub.xyz/iptv/BUYS9YTNABMC25/31612/index.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆",Megogo Футбол 1 HD
 
 #EXTINF:-1 group-title="Sport_TV 🏆",Megogo Футбол 2 HD
@@ -2204,7 +2206,7 @@ http://stream.mcquack.net/492/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.imgur.com/pEuaZVx.png",Футбол HD
 
 #EXTINF:-1 tvg-id="404" tvg-logo="http://tv.kubtel.ru/tv_icon/MyachHD.png" group-title="Sport_TV 🏆",Мяч
-http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/10058/index.m3u8
+http://scottadkins-index2.hf.space/play/zunotv/zunotv/1496.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",Realmadrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.pinimg.com/originals/1d/ed/56/1ded56de6c3762428deff37bfa0b3b28.jpg",Barcelona TV
@@ -2218,7 +2220,7 @@ http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆", Волейбол
 
 #EXTINF:-1 tvg-id="451" tvg-logo="http://tv.kubtel.ru/tv_icon/MirBasket.png" group-title="Sport_TV 🏆",Мир Баскетбола
-http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/10033/index.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆",Viasat Sport
 https://s7.iptv-24.net/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg",A21 Network
@@ -2227,12 +2229,12 @@ https://s7.iptv-24.net/1229/tracks-v1a1/mono.m3u8
 http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 group-title="Sport_TV 🏆",MMA-TV
 https://s7.iptv-24.net/1226/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆",Удар HD
-
-#EXTINF:-1 group-title="Sport_TV 🏆",КХЛ HD Хокей
-
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.cdntv.online/img/381.png", UDAR HD
+http://scottadkins-index2.hf.space/play/zunotv/zunotv/381.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://tv.kubtel.ru/tv_icon/HockeyHD.png",Хоккей ТВ
-http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/10039/index.m3u8
+http://scottadkins-index2.hf.space/play/zunotv/zunotv/1497.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆",КХЛ HD Хокей
+https://scottadkins-index2.hf.space/play/zunotv/zunotv/45.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL Prime.png" group-title="Sport_TV 🏆",KHL Prime
 http://bde.online24.pm/play/177/16419D145D0E706/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.freevector.com/uploads/vector/preview/13819/FreeVector-Tennis-Vector.jpg" group-title="Sport_TV 🏆",Tennis Channel
@@ -2243,6 +2245,8 @@ http://bde.online24.pm/play/1889/16419D145D0E706/video.m3u8
 http://bde.online24.pm/play/8831/16419D145D0E706/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10145/logo_256_1660807386.png", Старт Триумф HD
 
+#EXTINF:-1 group-title="Sport_TV 🏆 tvg-logo="http://epg.cdntv.online/img/464.png", Старт HD
+http://scottadkins-index2.hf.space/play/zunotv/zunotv/464.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Trace Sport Stars
 https://s7.iptv-24.net/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Vital Drive
@@ -3406,7 +3410,7 @@ https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/hit-hd-orig.png",Хит HD
 http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",KION Хит HD
-http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20211/index.m3u8
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/kino-premium-hd-orig.png",Премиальное HD
 http://de1.plist.link:3355/FGfpnUmovVu4084/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxD6wuLzrGfCRywPqMxOcW6zdyA5kb0ztvLaid_IhMiC5.tg6457680141
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/ostrosujetnoe-hd-orig.png",Остросюжетное HD
