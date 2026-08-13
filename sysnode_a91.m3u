@@ -3227,13 +3227,13 @@ http://de1.plist.link:3355/FGfpnUmovVu1495/index.m3u8?token=hjOF3_7BKVCl-sF4bGzX
 http://de1.plist.link:3355/FGfpnUmovVu8506/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxMK4Qg4XqP8WhtxeyWcLWy9z7nV17xBpf6JWDfz70qr2.tg6457680141
 #EXTINF:0 group-title="KINO_TV 📺",Star Cinema
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
-#EXTINF:0 group-title="KINO_TV 📺",Star Family (1080p)
+#EXTINF:0 group-title="KINO_TV 📺" tvg-logo="https://www.cableman.ru/sites/default/files/starfamily.png",Star Family
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/pro-lubov-hd-orig.png",Про Любовь HD
 http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://iptvx.one/picons/kino-24.png",Кино 24
 
-#EXTINF:-1 group-title="KINO_TV 📺",Наш Киномир
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://tvpr.ru/images/12640/content/nash-kinomir.jpg",Наш Киномир
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://iptvx.one/picons/pro100.png",Pro100
 
@@ -3335,10 +3335,6 @@ http://dmi3y-tv.online/hls/CH_FILMBOX_ARTHOUSE.m3u8
 http://dmi3y-tv.online/hls/CH_FOX_LIFE.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",TVM Channel
 http://dmi3y-tv.online/hls/CH_TVMCHANNEL.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://rafail1982.uz/logo/Star Cinema.png",Star Cinema HD
-
-#EXTINF:-1 group-title="KINO_TV 📺",Star Family HD
-
 #EXTINF:-1 group-title="KINO_TV 📺",Super Baltic HD
 
 #EXTINF:-1 group-title="KINO_TV 📺",Super+ Baltic HD
