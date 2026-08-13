@@ -227,9 +227,9 @@ http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/5kanal-karaganda.png",5 канал (Караганда)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/458MPWD8UEBKE9/2221/index.m3u8
 #EXTINF:0 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/7kanal-kz.png",7 канал
-https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzkzNy5tM3U4.m3u8?k=12345
+
 #EXTINF:0 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/31-kanal-kz.png",31 канал KZ
-https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzkzNi5tM3U4.m3u8?k=12345
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/77tv-kz.png",77 канал
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://iptv-content.rv77.pw/logos/24452.png",Q Sport.KG HD
@@ -245,7 +245,7 @@ http://stwist.rostelekom.xyz/iptv/5HXQ3T8PTS5P4BC62ZYPY3CB/20061/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_5d385e7355153152ba34f5f2.png",Qazsport HD KZ
 http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_64507c71071b52869ab93ab3.png" catchup-days="0", Q League HD KZ
-http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/20062/index.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.postimg.cc/RVZGp3Yg/unnamed.jpg",Setanta Qazaqstan 
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_5f9984549e0766c2417d4076.png",Setanta Sports 1 KZ
@@ -320,7 +320,6 @@ http://213.109.64.248:8086/0.m3u8
 http://31.192.249.68:8080/0.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://avatars.mds.yandex.net/i?id=084cc4deeac956ae39641a7f5c989171869c2528-12933346-images-thumbs&n=13", УТРК Жалал-Абад 
 http://80.72.179.162:8086/0.m3u8
-
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://avatars.mds.yandex.net/i?id=a970fa565fe449b31e4051c9b51d2f9b3aa24c6f-5291151-images-thumbs&n=13", Qonaev Media
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://www.eurasianfilmmarket.com/files/00003797.jpg",Dostyk HD
