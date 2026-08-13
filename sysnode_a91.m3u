@@ -68,10 +68,6 @@ https://s7.iptv-24.net/1221/tracks-v1a1/mono.m3u8
 https://s7.iptv-24.net/1014/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/11/03//5a52a0580d30e504a5dbf424962bed82-q-500x500.jpeg", MY5 HD
 https://s7.iptv-24.net/1012/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://m3u.usite.pro/tv/my5i.png", MY5 International
-https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/01/15//c78b4b29689e79a2d7e1cd3fefe6300d-q-500x500.jpeg", ZO'R TV
-
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/02/10//0468ff22219c4d1b9cb00666ba2b2e60-q-500x500.jpeg",Zo'r TV HD
 https://s7.iptv-24.net/1016/index.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="http://tv.team/images/chIcons/1793.png",Sevimli TV HD
@@ -209,7 +205,7 @@ https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿"  tvg-logo="https://s9.vcdn.biz/static/f/2293960041/image.jpg",КТК KZ
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.mycdn.me/i?r=BDH3HfPpvmQZZI-uHXH_6LjV3_dv7sxqxMd2lMyWo_xtfkhokwdVFTTq0m4WSSJ6fvA",НТК
-
+http://stream.mcquack.net/389/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://epg.it999.ru/img/2571.png",Первый канал Евразия
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Мир(Казахстан)
@@ -469,7 +465,7 @@ http://de1.plist.link:3355/FGfpnUmovVu0484/index.m3u8?token=5IbUTue09FDrDb-w2uQu
 #EXTINF:-1 group-title="Multik_TV 🐶",Мама
 https://s7.iptv-24.net/1244/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶",Ani
-
+http://stream.mcquack.net/306/index.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶",Карусель
 https://s7.iptv-24.net/1034/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="http://de1.plist.link/plepg/img/channels/480.png?69c29495ba3b1", Карусель (+2)
@@ -503,7 +499,7 @@ http://de1.plist.link:3355/FGfpnUmovVu2323/index.m3u8?token=5IbUTue09FDrDb-w2uQu
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="https://i.imgur.com/ODhkYyx.png",JimJam
 
 #EXTINF:-1 group-title="Multik_TV 🐶",СТС Kids HD
-
+http://stream.mcquack.net/197/index.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="http://de1.plist.link/plepg/img/channels/76.png?69c29495ba529", 2x2
 http://de1.plist.link:3355/FGfpnUmovVu8076/index.m3u8?token=2VejxCo_Sezd_9XgsnoN6IUDKM-h7Xk4INGlLW-5yFvar-g4nItNDldhHRN7r6rd.tg6457680141
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="http://de1.plist.link/plepg/img/channels/2830.png?69c29495ba529", 2x2 (+2)
@@ -3208,7 +3204,7 @@ https://s7.iptv-24.net/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678567_10_16_2018-q-500x500.jpeg",Кинохит
 https://s7.iptv-24.net/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://de1.plist.link/plepg/img/channels/652.png?69c29495ba022",Киноужас HD
-http://158.101.222.193:88/georgia_play.php?id=kinoujas
+http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678189_10_16_2018-q-500x500.jpeg",Киносвидание
 https://s7.iptv-24.net/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//40ed58c9ef1929111e06f15b29652e87-q-500x500.jpeg",Киносемья
@@ -3229,6 +3225,10 @@ http://de1.plist.link:3355/FGfpnUmovVu22077/index.m3u8?token=hjOF3_7BKVCl-sF4bGz
 http://de1.plist.link:3355/FGfpnUmovVu1495/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxDq-zV-TW7IWYK8XYInvkUlRZQjxnVKkjaUlM2hI5VGn.tg6457680141
 #EXTINF:0 group-title="KINO_TV 📺",Start Air HD
 http://de1.plist.link:3355/FGfpnUmovVu8506/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxMK4Qg4XqP8WhtxeyWcLWy9z7nV17xBpf6JWDfz70qr2.tg6457680141
+#EXTINF:0 group-title="KINO_TV 📺",Star Cinema
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+#EXTINF:0 group-title="KINO_TV 📺",Star Family (1080p)
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/pro-lubov-hd-orig.png",Про Любовь HD
 http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://iptvx.one/picons/kino-24.png",Кино 24
@@ -3244,13 +3244,15 @@ https://s7.iptv-24.net/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539687134_10_16_2018-q-500x500.jpeg",Техно 24
 https://s7.iptv-24.net/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",ТВ 21
-
+http://stream.mcquack.net/152/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://de1.plist.link/plepg/img/channels/114.png?69c29495ba022", Иллюзион+ HD
 http://de1.plist.link:3355/FGfpnUmovVu6114/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxK-wsP2YU-RBIuFrp3paxrG3sOqNhewB0w4Z-4c7LxWw.tg6457680141
 #EXTINF:-1 group-title="KINO_TV 📺",Любимое кино
 
 #EXTINF:-1 group-title="KINO_TV 📺",Комедия
-http://176.118.197.101/Komediya/mono.m3u8
+http://stream.mcquack.net/68/index.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺",Комедийное
+http://stream.mcquack.net/74/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",Киноман
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00560.png" KinoLiving HD
