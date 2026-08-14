@@ -2196,7 +2196,7 @@ http://stream.mcquack.net/493/index.m3u8
 http://stream.mcquack.net/491/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/okko-sport-hd.png",ОККО Спорт HD
 http://stream.mcquack.net/492/index.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆", Online TV
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://static.tildacdn.pro/tild3733-6564-4336-a430-383533323231/_.jpg", Online TV
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/upl1-ua-hd.png",UPL 1 HD
 
