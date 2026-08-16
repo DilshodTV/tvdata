@@ -305,17 +305,17 @@ http://212.42.117.34:8080/hls/OshTV.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3887.png", KidsTV KG
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1838.png?v1744724707", Премиум Кино KZ
-http://bpl.online24.pm/play/1838/1966B8DE7EC6FEE/video.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1840.png?v1744724834", Кинобоевик KZ
-http://bpl.online24.pm/play/1840/1966B8DE7EC6FEE/video.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1839.png?v1744724779", Мировое Кино KZ
-http://bpl.online24.pm/play/1839/1966B8DE7EC6FEE/video.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1837.png?v1744724638", Семейное Кино KZ
-http://bpl.online24.pm/play/1837/1966B8DE7EC6FEE/video.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1835.png?v1744724390", Кинодрама KZ
-http://bpl.online24.pm/play/1835/1966B8DE7EC6FEE/video.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1834.png?v1744724351", Киносериал KZ
-http://bpl.online24.pm/play/1834/1966B8DE7EC6FEE/video.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://otv.server-img.lfstrm.tv/images/channel_logos/logo_662ba40f1302670cb5b24357.png?width=340&height=192&quality=93", TV 15 
 http://213.109.64.248:8086/0.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.postimg.cc/T1PT1dqh/IMG-20260418-185205-100.jpg", Регион ТВ KG
@@ -345,7 +345,7 @@ http://80.72.179.162:8086/0.m3u8
 #EXTINF:0 group-title="Kazakistan_TV 🇰🇿" tvg-id="atyray" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/atyray.png",Atyray
 
 #EXTINF:0 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/ico/saryarqa.png", Saryarqa
-http://bpl.online24.pm/play/461/1966B8DE7EC6FEE/video.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.ibb.co/P9V0532/Captura.png",Semei
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Jambyl KZ
@@ -363,7 +363,7 @@ http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/15004/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Alatau TV KZ
 http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/2219/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/ico/aqtobe.png" , AQTOBE
-http://bpl.online24.pm/play/5442/1966B8DE7EC6FEE/video.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/balapan.png",Balapan TV
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/balapan.png",Balapan International
