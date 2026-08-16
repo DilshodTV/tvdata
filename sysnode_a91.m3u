@@ -305,7 +305,6 @@ http://212.42.117.34:8080/hls/OshTV.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3887.png", KidsTV KG
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1838.png?v1744724707", Премиум Кино KZ
-#EXTGRP:Казахстан
 http://bpl.online24.pm/play/1838/1966B8DE7EC6FEE/video.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1840.png?v1744724834", Кинобоевик KZ
 http://bpl.online24.pm/play/1840/1966B8DE7EC6FEE/video.m3u8
