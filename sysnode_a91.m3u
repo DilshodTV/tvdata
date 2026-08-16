@@ -48,6 +48,8 @@ https://s7.iptv-24.net/1007/tracks-v1a1/mono.m3u8
 https://s7.iptv-24.net/1205/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg",MiMi TV
 https://s7.iptv-24.net/1470/index.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/08/13//df5afa69-409f-4410-b71e-57baba82160b-q-500x500.jpeg", iTV Kids
+https://stream3.itv.uz/t/-BGVxuLB40uJly87JdKD6Q/e/1786950831/4006/index.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/vmCNVZC9/1642677144-1642674009-20345f721a0e8c1093862eb7fa435516.jpg",Sevimlijon
 
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//d2e38ec0058f9c217b4c77c88f81404e-q-500x500.jpeg", Kinoteatr HD
