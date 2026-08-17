@@ -49,7 +49,7 @@ https://s7.iptv-24.net/1205/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg",MiMi TV
 https://s7.iptv-24.net/1470/index.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/08/13//df5afa69-409f-4410-b71e-57baba82160b-q-500x500.jpeg", iTV Kids
-https://stream19.itv.uz/t/-BGVxuLB40uJly87JdKD6Q/e/1786950831/4006/index.m3u8
+https://s7.iptv-24.net/4002/index.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/vmCNVZC9/1642677144-1642674009-20345f721a0e8c1093862eb7fa435516.jpg",Sevimlijon
 
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//d2e38ec0058f9c217b4c77c88f81404e-q-500x500.jpeg", Kinoteatr HD
@@ -2205,7 +2205,7 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.imgur.com/pEuaZVx.png",Футбол HD
 
 #EXTINF:-1 tvg-id="404" tvg-logo="http://tv.kubtel.ru/tv_icon/MyachHD.png" group-title="Sport_TV 🏆",Мяч
-http://scottadkins-index2.hf.space/play/zunotv/zunotv/1496.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",Realmadrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.pinimg.com/originals/1d/ed/56/1ded56de6c3762428deff37bfa0b3b28.jpg",Barcelona TV
@@ -2229,11 +2229,11 @@ http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 group-title="Sport_TV 🏆",MMA-TV
 https://s7.iptv-24.net/1226/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.cdntv.online/img/381.png", UDAR HD
-http://scottadkins-index2.hf.space/play/zunotv/zunotv/381.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://tv.kubtel.ru/tv_icon/HockeyHD.png",Хоккей ТВ
-http://scottadkins-index2.hf.space/play/zunotv/zunotv/1497.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.cdntv.online/img/45.png",КХЛ HD Хокей
-https://scottadkins-index2.hf.space/play/zunotv/zunotv/45.m3u8
+
 #EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/46.png" group-title="Sport_TV 🏆",KHL Prime
 http://bde.online24.pm/play/177/16419D145D0E706/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.freevector.com/uploads/vector/preview/13819/FreeVector-Tennis-Vector.jpg" group-title="Sport_TV 🏆",Tennis Channel
@@ -2245,7 +2245,7 @@ http://bde.online24.pm/play/8831/16419D145D0E706/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10145/logo_256_1660807386.png", Старт Триумф HD
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.cdntv.online/img/464.png", Старт HD
-http://scottadkins-index2.hf.space/play/zunotv/zunotv/464.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆",Trace Sport Stars
 https://s7.iptv-24.net/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Vital Drive
