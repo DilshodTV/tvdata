@@ -2144,10 +2144,6 @@ https://s7.iptv-24.net/1430/tracks-v1a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! HD
 http://de1.plist.link:3355/FGfpnUmovVu8609/index.m3u8?token=czoewbz_D6R0fNDHJwHzn2kzNCQmiiXAyV0DWvRJ1eJRkquBbqTf4As_TFloY-gQ.tg6457680141
-#EXTINF:-1 group-title="Sport_TV 🏆",Матч! (+2)
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6012/index.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆",Матч! (+8)
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6052/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Планета
 https://s7.iptv-24.net/1243/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Страна HD
