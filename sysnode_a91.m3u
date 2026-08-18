@@ -3643,23 +3643,23 @@ http://185.57.68.33:8091/237/playlist.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",MaxTV Kino 6
 http://185.57.68.33:80/255/playlist.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1258.png", MM Скорость HD
-http://ru.hls.gd/ch1258/mono.m3u8?token=ciber.v2_9bL8In4QKqT6pZTNmGYquHrHyG3wkN360ksngrQ2-ZjWAo0JBLIyHhpIjFrQ-oAH3RSuCLO8hg
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1229.png", MM Агата Кристи HD
-http://ru.hls.gd/ch1229/mono.m3u8?token=ciber.v2_pRHdsbQfUkzzRREpRscEzM6b0W5eCpU26QOubSheUsiSULDx2Nbq62wSB2jySgl8_Nh7L2piQQ
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1232.png", MM Боевик Classic HD
-http://ru.hls.gd/ch1232/mono.m3u8?token=ciber.v2_Hbsvw0i7Eg2dsKrlpc7sYLOIItB_hagOftVNk8fKsgdlXeP34W7ouoP9LSyHDDiQs82q3BbQLw
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1233.png", MM Боевик HD
-http://ru.hls.gd/ch1233/mono.m3u8?token=ciber.v2_zfZwW2HyTEidoFNnCOmwgV_1u2Fp5GJq6eZsHPnW0__zNKhLppLw_8OtUm_mgspIGVpYWop0Xg
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1251.png", MM Ситком HD
-http://ru.hls.gd/ch1251/mono.m3u8?token=ciber.v2_YyjnljjWdLIIFcCtzscuVoAhM95lMoFa4zNMEqk8iYPew0-rIuP4inIO6HrgDy8OLaOU_ES2qw
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1264.png", MM Ужастик HD
-http://ru.hls.gd/ch1264/mono.m3u8?token=ciber.v2_xcnyd5o4frVQ8sW__jXxqE16W9v49ohYiU9tjG2gsKpnX1EpivnoYnTt1GzvnGuDx50KHuDUQg
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1276.png", MM Ужасы HD
-http://ru.hls.gd/ch1276/mono.m3u8?token=ciber.v2_nHeeQ-iitBHk_vWGiltB2BkilQlnZlmvOHIjqeCmjlXFEnwsT9kWvffWi5yqbhJuBCQe0XOfRA
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1621.png", MM Translation HD
-http://ru.hls.gd/ch1621/mono.m3u8?token=ciber.v2_jMgHSfP_9wWHfeQjMrpySHIziGqwJskF9w700OP751__AvNfB0f1uRQBIJMxDK_rbbry-mnoBA
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1238.png", MM История HD
-http://ru.hls.gd/ch1238/mono.m3u8?token=ciber.v2_KTShYOcqfIqcAEPhgsiKTIoJHSIDuIuv9XBAyTNDRHsva-0tWg7ifa2mWHf-DdWMKlPshmZSCA
+
 #EXTINF:-1 group-title="KINO_TV 📺",MM NewFilm RU HD
 
 #EXTINF:-1 group-title="KINO_TV 📺",MM 007 HD
@@ -3677,15 +3677,15 @@ http://ru.hls.gd/ch1238/mono.m3u8?token=ciber.v2_KTShYOcqfIqcAEPhgsiKTIoJHSIDuIu
 #EXTINF:-1 group-title="KINO_TV 📺",MM Фантастика HD
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1243.png", MM Комедия HD
-http://ru.hls.gd/ch1243/mono.m3u8?token=ciber.v2_InvSyIlrjk-SFtxJlB0gbvPlqsTwzPBm5QhuTjl-uhYlOqIWtTaoxjf_FXbELjyT1vMx5ba4sQ
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1244.png", MM Криминал HD
-http://ru.hls.gd/ch1244/mono.m3u8?token=ciber.v2_-bDtsrPAP-WdMSEGORrtF2XUHgCypBUXs-VSNsDpQLN2Enim6oniLmWcJM3ey967jRGgZB0Raw
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1249.png", MM Мифология HD
-http://ru.hls.gd/ch1249/mono.m3u8?token=ciber.v2_Gcjtl4ux4FXoaBBrXLnBK9tZnbuDEvsS9bY741xvJzXFImawwIRZAr4nFy0375JRGE799NqxtQ
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1260.png", MM Стивен Кинг HD
-http://ru.hls.gd/ch1260/mono.m3u8?token=ciber.v2__flFm6U9LDjZQSD4N9iSLfcAtXGGyrs_YfNpgPNM5nkyXTZDMuo0kn5z8pEz_CPWiZa1e7kFSA
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1263.png", MM Триллер HD
-http://ru.hls.gd/ch1263/mono.m3u8?token=ciber.v2_n1fcGD9w_d7mYbjzTd1ZLLCuD3bfm_8LO2qTTonTbkTR5F-rXYSRrkoVxckvnX34TGc5kLDWsg
+
 #EXTINF:-1 group-title="KINO_TV 📺",MM Погружение HD
 
 #EXTINF:-1 group-title="KINO_TV 📺",MM Приключения HD
@@ -3693,27 +3693,23 @@ http://ru.hls.gd/ch1263/mono.m3u8?token=ciber.v2_n1fcGD9w_d7mYbjzTd1ZLLCuD3bfm_8
 #EXTINF:-1 group-title="KINO_TV 📺",MM UFO HD
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1263.png", MM Триллер HD
-http://ru.hls.gd/ch1263/mono.m3u8?token=ciber.v2_n1fcGD9w_d7mYbjzTd1ZLLCuD3bfm_8LO2qTTonTbkTR5F-rXYSRrkoVxckvnX34TGc5kLDWsg
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1259.png", MM Спорт HD
-http://ru.hls.gd/ch1259/mono.m3u8?token=ciber.v2_cmv1nnQqOJp4VGshvcbJrFTIK6g2QmdcNihgUJudcpugOT9W8AVhHNc-rimtbiTXnILJOGnF2w
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1215.png", MM Love HD
-http://ru.hls.gd/ch1215/mono.m3u8?token=ciber.v2_5dy9ihFLWdKRpk6Z0iYAGkNmjshVaFl2skA9-QCKCBY0LjfXicEfhQamFC4-528w2cC2vLI8WA
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1234.png", MM Вестерн HD
-http://ru.hls.gd/ch1234/mono.m3u8?token=ciber.v2_3Tz7TbfUlXT69vd086KW2dxFudsPNYmregBuLFLwoGranamWnjpg8oHoMyVI279pn-YMJYcuzA
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1255.png", MM Роскино HD
-http://ru.hls.gd/ch1255/mono.m3u8?token=ciber.v2_t1q_jbb_fEVpg-euD2hX7gEJVnOvLIHtqu5PrTB7jxR-Y28nAM157UxAee4fexylIDzmkJUxzw
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://de1.plist.link/plepg/img/channels/1226.png?69c29495ba3b1", MM USSR Сказки HD
 http://de1.plist.link:3355/FGfpnUmovVu91226/index.m3u8?token=5IbUTue09FDrDb-w2uQumlXeTfoCqzsAomZtP4NNCLnza1099Qucaa85xtGANj4s.tg6457680141
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://de1.plist.link/plepg/img/channels/1953.png?69c29495ba529", MM OldSchool HD
 http://de1.plist.link:3355/FGfpnUmovVu41953/index.m3u8?token=2VejxCo_Sezd_9XgsnoN6ALZh8K4vQ13NUeZfPKO5IVtJbigWQ3x1_FUrI0xeYsL.tg6457680141
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1560.png", Magic Horror
-http://ru.hls.gd/ch1560/mono.m3u8?token=ciber.v2_K8_1Ayb5w6MHvggTAMFokS4-A0jbPdVFG4A5LVuBD3uCYdbLqFS3pFW7r57qieRxE65tQA6-1g
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1726.png", Fresh Horror
-http://ru.hls.gd/ch1726/mono.m3u8?token=ciber.v2_aymrLekXzstsHdoNWav2za_2mqlHeBFupMax4xVma7LJt530FvjuN1DrlBtHkayNag2P5GI9dA
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://iptvcinema.ru/channels/sc.png", Sc Секретные материалы
-http://cdn.iptvcinema.ru/sc_sekretnie_materialy/index.m3u8?token=a2xhZGJsb2d8fGJHOXVaRzl1TWpRPQ==
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://iptvcinema.ru/channels/sc.png", Sc Полицейская академия
-http://cdn.iptvcinema.ru/sc_policeyskaya_akademiya/index.m3u8?token=a2xhZGJsb2d8fGJHOXVaRzl1TWpRPQ==
+
 #EXTINF:-1 group-title="KINO_TV 📺",CineMan
 
 #EXTINF:-1 group-title="KINO_TV 📺",CineMan Action
