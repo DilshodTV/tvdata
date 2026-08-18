@@ -3268,9 +3268,9 @@ https://s7.iptv-24.net/1225/tracks-v1a1/mono.m3u8
 http://de1.plist.link:3355/FGfpnUmovVu4421/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxOAIkvyRr6iBtHbCDnmkc_VcnfVSM_0CvWmQi9jK2sol.tg6457680141
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.imgur.com/NqHla2V.png",Amedia 2 HD
 http://de1.plist.link:3355/FGfpnUmovVu2515/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxD8ALFNYtv_qTXSzZNoWImczC8caKVhG4krj1a13OVVV.tg6457680141
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/amedia-hit-hd-orig.png",AMEDIA HIT HD
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/amedia-hit-hd-orig.png",AMEDIA HIT
 http://dmi3y-tv.online/hls/CH_AMEDIA_HIT.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/amedia-premium-hd-orig.png",AMEDIA Premium HD
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/amedia-premium-hd-orig.png",AMEDIA Premium
 http://dmi3y-tv.online/hls/CH_AMEDIA_PREMIUM.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",.Red HD
 http://dmi3y-tv.online/hls/CH_TOCHKA_RED.m3u8
@@ -3329,9 +3329,9 @@ http://de1.plist.link:3355/FGfpnUmovVu4712/index.m3u8?token=hjOF3_7BKVCl-sF4bGzX
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00179.png",Fox HD
 
 #EXTINF:-1 tvg-id="109" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00109.png" tvg-name="FilmBox" group-title="KINO_TV 📺",FilmBox
-http://dmi3y-tv.online/hls/CH_FILMBOX.m3u8
+
 #EXTINF:-1 tvg-id="111" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00111.png" tvg-name="FilmBox Arthouse" group-title="KINO_TV 📺",FilmBox Arthouse
-http://dmi3y-tv.online/hls/CH_FILMBOX_ARTHOUSE.m3u8
+
 #EXTINF:-1 group-title="KINO_TV 📺",FOX LIFE
 http://dmi3y-tv.online/hls/CH_FOX_LIFE.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",TVM Channel
@@ -3396,8 +3396,6 @@ http://de1.plist.link:3355/FGfpnUmovVu0501/index.m3u8?token=hjOF3_7BKVCl-sF4bGzX
 
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00439.png" group-title="KINO_TV 📺",KinoKazka HD
 
-#EXTINF:-1 group-title="KINO_TV 📺",Бровари Кіно TV
-https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",Лавстори HD
 
 #EXTINF:-1 group-title="KINO_TV 📺",Любимое HD
@@ -3415,7 +3413,7 @@ http://de1.plist.link:3355/FGfpnUmovVu4084/index.m3u8?token=hjOF3_7BKVCl-sF4bGzX
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/ostrosujetnoe-hd-orig.png",Остросюжетное HD
 http://de1.plist.link:3355/FGfpnUmovVu1072/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxBQfw9LMX0222SqPWrtZBufj8376pPfg2H4hSpUYU7tI.tg6457680141
 #EXTINF:-1 tvg-id="219" tvg-logo="http://tv.kubtel.ru/tv_icon/blokbaster.png" group-title="KINO_TV 📺",Блокбастер HD
-http://de1.plist.link:3355/FGfpnUmovVu2689/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxJMcE9nVFn2sNtC9FtvEk0IdgvPKg3evbl4QNsiSwnjS.tg6457680141
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://kij-tv.ru/themes/custom/kijtv/logo.png",Кино и Жизнь HD
 
 #EXTINF:-1 group-title="KINO_TV 📺"  tvg-name="romance" tvg-logo="https://iptvx.one/picons/romance.png",Romance HD
