@@ -46,10 +46,10 @@ https://s7.iptv-24.net/1265/tracks-v1a1/mono.m3u8
 https://s7.iptv-24.net/1007/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/03/23//bc4fba2dcb3166bd9aaa3d73229f6ef0-q-500x500.jpeg", Aqlvoy TV
 https://s7.iptv-24.net/1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg",MiMi TV
-https://s7.iptv-24.net/1470/index.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/08/13//df5afa69-409f-4410-b71e-57baba82160b-q-500x500.jpeg", iTV Kids
 https://s7.iptv-24.net/4002/index.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg",MiMi TV
+https://s7.iptv-24.net/1470/index.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/vmCNVZC9/1642677144-1642674009-20345f721a0e8c1093862eb7fa435516.jpg",Sevimlijon
 
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//d2e38ec0058f9c217b4c77c88f81404e-q-500x500.jpeg", Kinoteatr HD
@@ -102,8 +102,10 @@ https://s7.iptv-24.net/1212/tracks-v1a1/mono.m3u8
 https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Kino
 https://kinostream4-asil-tv.hf.space/hls/stream.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/7h7M3kRJ/Screenshot-1.jpg",Mediabay TV
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Cinema
 https://kinostream4-asil-tv2.hf.space/hls/stream.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/7h7M3kRJ/Screenshot-1.jpg",Mediabay TV
+
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/uzbekmusic.png",Mediabay Music 
 
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/09//bf3d6bc5-bdc2-43dd-b808-6b1892c445b1-q-500x500.jpeg", CineMedia
@@ -3786,7 +3788,8 @@ http://cdn.iptvcinema.ru/sc_policeyskaya_akademiya/index.m3u8?token=a2xhZGJsb2d8
 
 #EXTINF:-1 group-title="KINO_TV 📺",Yosso TV Мелодрама
 
-
+#EXTINF:0 group-title="KINO_TV 📺" tvg-logo="http://epg.one/img2/4693.png",StrahTV The X-Files
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/11055/index.m3u8
 
 
 
