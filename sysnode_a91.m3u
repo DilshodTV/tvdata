@@ -3480,12 +3480,12 @@ http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="KINO_TV 📺",MYTV
 http://hls127.freeott.top:8080/MyTV/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺",MyTV2
+#EXTINF:-1 group-title="KINO_TV 📺",MyTV 2
 http://hls127.freeott.top:8080/MyTV2/mono.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺",MyTV3
+#EXTINF:-1 group-title="KINO_TV 📺",MyTV 3
 http://hls127.freeott.top:8080/MyTV3/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",CPS Action HD
-http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+
 #EXTINF:-1 group-title="KINO_TV 📺",CPS Comedy HD
 http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",CPS Drama HD
@@ -3493,7 +3493,7 @@ http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",CPS Jackie Chan HD
 http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",CPS Fiction HD
-http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
+
 #EXTINF:-1 group-title="KINO_TV 📺",CPS Fresh HD
 http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",CPS Fresh UA HD
@@ -3573,7 +3573,6 @@ http://kinowalk.hopto.org/kinolampa_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://kinowalk.hopto.org/web/image/stream.channels/68/avatar/128x128?unique=2026-02-14%2015:58:42.547150,LampoTV HD
 http://kinowalk.hopto.org/lampotv_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg",KINOPRO
-http://kinowalk.hopto.org/kinopro_live
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocJRCQczrVJsPbG0Q7qgMvphfUBuJiGktsI7wwPXSYxQCcGPBu8=s96-c",EvGAMEN HD
 
@@ -3596,7 +3595,7 @@ http://kinowalk.hopto.org/timetohorror_live
 #EXTINF:-1 group-title="KINO_TV 📺"tvg-logo="https://images.live.vkplay.ru/user/18142699/avatar?change_time=1696376813&croped=1&mh=140&mw=140",Video_Prokat HD
 http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/20737705/avatar?change_time=1746958066&croped=1&mh=140&mw=140",Video Channel
-http://kinowalk.hopto.org/video_channel_live
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://avatars.mds.yandex.net/i?id=d8bb932a618b126fd382904f1cde2371_sr-5429110-images-thumbs&n=13",Maksim Films
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/20495921/avatar?change_time=1742225886&croped=1&mh=140&mw=140",Мы из 90-х
@@ -3604,11 +3603,11 @@ http://kinowalk.hopto.org/miiz90x_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/19254112/avatar?change_time=1736877622&croped=1&mh=140&mw=140",Кассета
 http://kinowalk.hopto.org/kasseta_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/12784987/avatar?change_time=1685724547&croped=1&mh=140&mw=140",Bars Play HD
-http://kinowalk.hopto.org/toxa_stream_live
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/19533449/avatar?change_time=1727353764&croped=1&mh=140&mw=140",Prodigy
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkplay.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140",VHS Forever
-http://kinowalk.hopto.org/vhs-forever_live
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://images.live.vkvideo.ru/user/20745126/avatar?change_time=1746520742&croped=1&mh=140&mw=140",Эквилибриум HD
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://kinowalk.hopto.org/web/image/199/128x128?unique=2026-02-21%2020:43:54.719669&access_token=4fffcc7c-c861-4f0c-91a5-a1418dff44c6",TopMoment
@@ -3632,8 +3631,6 @@ http://kinowalk.hopto.org/perviryad_live
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/romantichnoe-hd.png",Романтичное HD
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/love-story-hd.png",Лавстори HD
-#EXTINF:-1 group-title="KINO_TV 📺",ФИЛЬМ
-http://185.57.68.33:8091/237/playlist.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",MaxTV Kino 6
 http://185.57.68.33:80/255/playlist.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://hls.gd/images/chIcons/1258.png", MM Скорость HD
