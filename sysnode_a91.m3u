@@ -207,7 +207,7 @@ https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Kazakistan_TV 🇰🇿" tvg-id="atameken-business" tvg-logo="https://iptvx.one/picons/atameken-business.png",Atameken Business
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿"  tvg-logo="https://s9.vcdn.biz/static/f/2293960041/image.jpg",КТК KZ
-https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+http://stream.mcquack.net/26/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.mycdn.me/i?r=BDH3HfPpvmQZZI-uHXH_6LjV3_dv7sxqxMd2lMyWo_xtfkhokwdVFTTq0m4WSSJ6fvA",НТК
 http://stream.mcquack.net/389/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://epg.it999.ru/img/2571.png",Первый канал Евразия
