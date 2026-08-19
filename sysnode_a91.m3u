@@ -189,7 +189,7 @@ https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://imservice.kz/wp-content/uploads/2025/01/WhatsApp-Image-2022-12-05-at-14.09.19-1-1.jpeg",Qazaqstan HD
-http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/2210/index.m3u8
+http://stream.mcquack.net/71/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://imservice.kz/wp-content/uploads/2025/01/WhatsApp-Image-2022-12-05-at-14.09.19-1-1.jpeg",Qazaqstan International
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:0 group-title="Kazakistan_TV 🇰🇿" tvg-id="xabar" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar.png",Хабар KZ
@@ -197,7 +197,7 @@ https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://epg.it999.ru/img/2578.png",Хабар 24
 https://s7.iptv-24.net/1408/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://astanatv.kz/cache/imagine/1200/uploads/article/2023/3/1/1677681984370.jpg",Astana TV
-http://txpqqciy.megogo.xyz/iptv/5UVGP564T2GFDE/2214/index.m3u8
+http://stream.mcquack.net/28/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://imservice.kz/wp-content/uploads/2025/01/LOGO_GREEN_WHITE-01-scaled-2.jpeg",Almaty TV
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://raw.githubusercontent.com/unixlinuxgeek/logos/main/iptv/MTRK.png",МТРК Петропавл
@@ -209,7 +209,7 @@ https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿"  tvg-logo="https://s9.vcdn.biz/static/f/2293960041/image.jpg",КТК KZ
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.mycdn.me/i?r=BDH3HfPpvmQZZI-uHXH_6LjV3_dv7sxqxMd2lMyWo_xtfkhokwdVFTTq0m4WSSJ6fvA",НТК
-
+http://stream.mcquack.net/389/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://epg.it999.ru/img/2571.png",Первый канал Евразия
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Мир(Казахстан)
@@ -231,9 +231,9 @@ http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/5kanal-karaganda.png",5 канал (Караганда)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/458MPWD8UEBKE9/2221/index.m3u8
 #EXTINF:0 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/7kanal-kz.png",7 канал
-
+http://stream.mcquack.net/27/index.m3u8
 #EXTINF:0 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/31-kanal-kz.png",31 канал KZ
-
+http://stream.mcquack.net/388/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/77tv-kz.png",77 канал
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://iptv-content.rv77.pw/logos/24452.png",Q Sport.KG HD
