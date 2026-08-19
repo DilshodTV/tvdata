@@ -247,7 +247,7 @@ http://stwist.rostelekom.xyz/iptv/5HXQ3T8PTS5P4BC62ZYPY3CB/20061/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan Sport
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_5d385e7355153152ba34f5f2.png",Qazsport HD KZ
-
+http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_64507c71071b52869ab93ab3.png" catchup-days="0", Q League HD KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.postimg.cc/RVZGp3Yg/unnamed.jpg",Setanta Qazaqstan 
@@ -502,7 +502,7 @@ http://de1.plist.link:3355/FGfpnUmovVu2323/index.m3u8?token=5IbUTue09FDrDb-w2uQu
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="https://i.imgur.com/ODhkYyx.png",JimJam
 
 #EXTINF:-1 group-title="Multik_TV 🐶",СТС Kids HD
-
+http://stream.mcquack.net/197/index.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="http://de1.plist.link/plepg/img/channels/76.png?69c29495ba529", 2x2
 http://de1.plist.link:3355/FGfpnUmovVu8076/index.m3u8?token=2VejxCo_Sezd_9XgsnoN6IUDKM-h7Xk4INGlLW-5yFvar-g4nItNDldhHRN7r6rd.tg6457680141
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="http://de1.plist.link/plepg/img/channels/2830.png?69c29495ba529", 2x2 (+2)
@@ -555,6 +555,8 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 https://v2.catcast.tv/content/34251/index.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png",Мамонтёнок ТВ
 
+#EXTINF:-1 group-title="Multik_TV 🐶",Пиксель ТВ
+http://stream.mcquack.net/323/index.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶",CPS Cartoon HD
 http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶",CPS Anime HD
@@ -2166,12 +2168,12 @@ http://de1.plist.link:3355/FGfpnUmovVu4063/index.m3u8?token=czoewbz_D6R0fNDHJwHz
 https://s7.iptv-24.net/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 2 HD
 https://s7.iptv-24.net/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-plus-ua-hd-orig.png",Setanta  1 Ukraine HD
-
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-plus-ua-hd-orig.png",Setanta Sports UA
+http://stream.mcquack.net/313/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-plus-ua-hd-orig.png", Setanta 2 Ukraine HD
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-plus-ua-hd-orig.png",Setanta Sports + UA HD
-
+http://stream.mcquack.net/390/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-premium-ua-hd.png",Setanta Sport Premium HD
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/L5mKP5KG/setanta-georgia-logo-png-seeklogo-373606.png", Setanta 1 Gretsiya
@@ -2227,7 +2229,7 @@ http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 group-title="Sport_TV 🏆",MMA-TV
 https://s7.iptv-24.net/1226/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.cdntv.online/img/381.png", UDAR HD
-
+http://stream.mcquack.net/279/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://tv.kubtel.ru/tv_icon/HockeyHD.png",Хоккей ТВ
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.cdntv.online/img/45.png",КХЛ HD Хокей
