@@ -104,6 +104,8 @@ https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
 https://kinostream4-asil-tv.hf.space/hls/stream.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Cinema
 https://kinostream4-asil-tv2.hf.space/hls/stream.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Kulgu
+https://itvuz-kulgu.hf.space/hls/stream.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/7h7M3kRJ/Screenshot-1.jpg",Mediabay TV
 
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/uzbekmusic.png",Mediabay Music 
@@ -2174,7 +2176,7 @@ http://de1.plist.link:3355/FGfpnUmovVu8609/index.m3u8?token=czoewbz_D6R0fNDHJwHz
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Планета
 https://s7.iptv-24.net/1243/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Страна HD
-http://de1.plist.link:3355/FGfpnUmovVu3471/index.m3u8?token=czoewbz_D6R0fNDHJwHzn5Ul12bf_ZDPj8tpaPWDv6yB2GQd1u73kxic_wd0Iije.tg6457680141
+http://stream.mcquack.net/143/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/172/logo_256_1658736816.png",Матч! Арена HD
 http://de1.plist.link:3355/FGfpnUmovVu7055/index.m3u8?token=czoewbz_D6R0fNDHJwHzn54K62EC0Wxe9auWNG5t3_P08N4_fQgwbqK9FULaewJY.tg6457680141
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/174/logo_256_1658736842.png",Матч! Игра HD
