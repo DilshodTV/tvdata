@@ -5483,11 +5483,11 @@ https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/3295.png",Спорт ТВ HD
 
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://epg.cdntv.online/img/701.png",БелРос
-
+http://cdntv.online/low/97zpx2bhuf/701.m3u8
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾",Гродно+
 
-#EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/3805.png",ТВ3 Беларусь
-
+#EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/3805.png",ТВ-3 Беларусь
+http://cdntv.online/low/97zpx2bhuf/872.m3u8
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/3804.png",Plus TV
 
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/3803.png",Скиф HD
@@ -5509,13 +5509,13 @@ http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 tvg-id="pro-business" tvg-logo="https://iptvx.one/picons/pro-business.png" group-title="Belarus_TV 🇧🇾",Про бизнес
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://s06.wsbof.com:8080/streams/ont-by-hd.png",ОНТ HD
-
+http://cdntv.online/low/97zpx2bhuf/871.m3u8
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://s06.wsbof.com:8080/streams/rtr-belarus-by-hd.png",РТР Беларусь HD
 
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://s06.wsbof.com:8080/streams/ntv-by-hd.png",НТВ Беларусь HD
-
+http://cdntv.online/low/97zpx2bhuf/779.m3u8
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://epg.cdntv.online/img/874.png",8 канал Беларусь
-
+http://cdntv.online/low/97zpx2bhuf/874.m3u8
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://s06.wsbof.com:8080/streams/belsat-by.png",Белсат HD
 http://de1.plist.link:3355/FGfpnUmovVu8726/index.m3u8?token=By3dnvGist3lMb4UGKdXnXRe8TfiUEfCBi_0LBUEcgNYRbDVX0Os9XT6xVh7EtKt.tg6457680141
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/3810.png", Звязда HD
@@ -5523,10 +5523,11 @@ http://de1.plist.link:3355/FGfpnUmovVu8726/index.m3u8?token=By3dnvGist3lMb4UGKdX
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/3807.png",Светлое TV
 
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="https://rus.hls.gd/images/chIcons/3812.png", Белмуз TV
-
+http://cdntv.online/low/97zpx2bhuf/2192.m3u8
 #EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://epg.cdntv.online/img/2193.png", RU TV Беларусь
-
-
+http://cdntv.online/low/97zpx2bhuf/2193.m3u8
+#EXTINF:-1 group-title="Belarus_TV 🇧🇾" tvg-logo="http://epg.cdntv.online/img/873.png", Первый Музыкальный HD
+http://cdntv.online/low/97zpx2bhuf/873.m3u8
 
 
 
