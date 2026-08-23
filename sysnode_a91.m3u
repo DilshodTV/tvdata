@@ -6909,6 +6909,8 @@ http://oriat.mediabay.uz/oriatdono.m3u8
 http://dono.rafail1982.uz:8000/fm
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/27//71c9d7b00e8732279f9b45b1906f746f-q-500x500.jpeg",O'zbegim taronasi (UZ) 
 https://fm101.uz:9943/fm101_low.aac
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://static10.tgstat.ru/channels/_0/db/dbd1a10d8c3a554f8dab628d73ba67c8.jpg",Vodiy sadosi (UZ)
+https://st2.mediabay.tv/Radio_Echo/playlist.m3u8?token=3a5951277bd1a4cc87314350397c07105ca8e411-4282a62d09dc8953f5c9e2733ebfa30f-1787519276-1787508476
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/29//0037cd43fd5dcbe388e783bd9e4f67f4-q-500x500.jpeg", Iqbol FM (UZ)
 http://oriat.mediabay.uz:8012/ikbol
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",MARKAZ FM
