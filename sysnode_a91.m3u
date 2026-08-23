@@ -2195,20 +2195,14 @@ http://de1.plist.link:3355/FGfpnUmovVu4063/index.m3u8?token=czoewbz_D6R0fNDHJwHz
 https://s7.iptv-24.net/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 2 HD
 https://s7.iptv-24.net/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-plus-ua-hd-orig.png",Setanta Sports UA
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-plus-ua-hd-orig.png",Setanta Ukraine
 http://stream.mcquack.net/313/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-plus-ua-hd-orig.png", Setanta 2 Ukraine HD
 
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-plus-ua-hd-orig.png",Setanta Sports + UA HD
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-plus-ua-hd-orig.png",Setantaa+ Ukraine
 http://stream.mcquack.net/390/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-premium-ua-hd.png",Setanta Sport Premium HD
 
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/L5mKP5KG/setanta-georgia-logo-png-seeklogo-373606.png", Setanta 1 Gretsiya
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/L5mKP5KG/setanta-georgia-logo-png-seeklogo-373606.png", Setanta 2 Gretsiya
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/L5mKP5KG/setanta-georgia-logo-png-seeklogo-373606.png", Setanta 3 Gretsiya
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/megogo-sport-ua-hd.png",MEGOGO Спорт HD
 
 #EXTINF:-1 group-title="Sport_TV 🏆",Megogo Футбол 1 HD
@@ -2252,7 +2246,7 @@ https://s7.iptv-24.net/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg",A21 Network
 
 #EXTINF:-1 group-title="Sport_TV 🏆"  tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10151/logo_256_1658734245.png", Бокс ТВ
-http://158.101.222.193:88/georgia_play.php?id=boxtv
+http://stream.mcquack.net/154/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",MMA-TV
 https://s7.iptv-24.net/1226/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.cdntv.online/img/381.png", UDAR HD
@@ -2729,7 +2723,7 @@ http://de1.plist.link:3355/FGfpnUmovVu2395/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-d
 #EXTINF:-1 tvg-id="423" tvg-logo="http://tv.kubtel.ru/tv_icon/5HD.png" group-title="Rossiya_TV 🇷🇺",Пятый Канал (+7)
 http://de1.plist.link:3355/FGfpnUmovVu22810/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP9Vv6mMzm8W-zMNMFWFG_95q7cgfuE2Tm7cjiQU3h1MM.tg6457680141
 #EXTINF:-1 tvg-id="perec-int" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Rossiya_TV 🇷🇺" ,Перец
-http://158.101.222.193:88/georgia_play.php?id=perec
+
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.imgur.com/On6ggLe.png",Перец International. 
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/109.png?69c29495ba529", Че!
@@ -3244,7 +3238,7 @@ https://s7.iptv-24.net/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678567_10_16_2018-q-500x500.jpeg",Кинохит
 https://s7.iptv-24.net/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://de1.plist.link/plepg/img/channels/652.png?69c29495ba022",Киноужас HD
-http://158.101.222.193:88/georgia_play.php?id=kinoujas
+http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678189_10_16_2018-q-500x500.jpeg",Киносвидание
 https://s7.iptv-24.net/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//40ed58c9ef1929111e06f15b29652e87-q-500x500.jpeg",Киносемья
