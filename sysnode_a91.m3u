@@ -2723,7 +2723,7 @@ http://de1.plist.link:3355/FGfpnUmovVu22810/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-
 #EXTINF:-1 tvg-id="perec-int" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Rossiya_TV 🇷🇺" ,Перец
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.imgur.com/On6ggLe.png",Перец International. 
-
+http://cdntv.online/low/97zpx2bhuf/1097.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/109.png?69c29495ba529", Че!
 http://de1.plist.link:3355/FGfpnUmovVu3109/index.m3u8?token=2VejxCo_Sezd_9XgsnoN6GvtoGRtWWEu2VnTq4KxvjTn-o9qFQVsDQDCAlSbG_bJ.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2820.png?69c29495ba529", Че! +7
@@ -4040,7 +4040,50 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q4ZL6N4BVRQRWQ2D9KZ9ERP9
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q4ZL6N4BVRQRWQ2D9KZ9ERP9/20218/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://epg.one/img2/7911.png",Eye Drive HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q4ZL6N4BVRQRWQ2D9KZ9ERP9/20219/index.m3u8
-
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 1 HD
+http://cdntv.online/low/97zpx2bhuf/2228.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 2 HD
+http://cdntv.online/low/97zpx2bhuf/2232.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 3 HD
+http://cdntv.online/low/97zpx2bhuf/2233.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png", Play-x Кинозал 4 HD
+http://cdntv.online/low/97zpx2bhuf/2234.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 5 HD
+http://cdntv.online/low/97zpx2bhuf/2235.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 6 HD
+http://cdntv.online/low/97zpx2bhuf/2236.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 7 HD
+http://cdntv.online/low/97zpx2bhuf/2237.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 8 HD
+http://cdntv.online/low/97zpx2bhuf/2238.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png", Play-x Кинозал 9 HD
+http://cdntv.online/low/97zpx2bhuf/2239.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 10 HD
+http://cdntv.online/low/97zpx2bhuf/2245.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 11 HD
+http://cdntv.online/low/97zpx2bhuf/2244.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 12 HD
+http://cdntv.online/low/97zpx2bhuf/2240.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 13 HD
+http://cdntv.online/low/97zpx2bhuf/2241.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 14 HD
+http://cdntv.online/low/97zpx2bhuf/2242.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 15 HD
+http://cdntv.online/low/97zpx2bhuf/2243.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 16 HD
+http://cdntv.online/low/97zpx2bhuf/2246.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 17 HD
+http://cdntv.online/low/97zpx2bhuf/2247.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 18 HD
+http://cdntv.online/low/97zpx2bhuf/2248.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 19 HD
+http://cdntv.online/low/97zpx2bhuf/2249.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 20 HD
+http://cdntv.online/low/97zpx2bhuf/2250.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 21 HD
+http://cdntv.online/low/97zpx2bhuf/2251.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 22 HD
+http://cdntv.online/low/97zpx2bhuf/2252.m3u8
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 1
 https://lbgo.bozztv.com/07/ushba82/tracks-v1a1/mono.m3u8
