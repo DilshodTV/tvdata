@@ -213,7 +213,7 @@ http://stream.mcquack.net/26/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.mycdn.me/i?r=BDH3HfPpvmQZZI-uHXH_6LjV3_dv7sxqxMd2lMyWo_xtfkhokwdVFTTq0m4WSSJ6fvA",НТК
 http://stream.mcquack.net/389/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://epg.it999.ru/img/2571.png",Первый канал Евразия
-
+http://57.128.196.99/11486/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Мир(Казахстан)
 https://tvcdn01.oktv.kz/tv/mir/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/01/29//13d43d954ad361b7e27049f3a00acda4-q-500x500.jpeg",Мир 24 KZ
@@ -232,11 +232,22 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/5kanal-karaganda.png",5 канал (Караганда)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/458MPWD8UEBKE9/2221/index.m3u8
-#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/7kanal-kz.png",7 канал
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/7kanal-kz.png",7 канал KZ
 http://stream.mcquack.net/27/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/31-kanal-kz.png",31 канал KZ
 http://stream.mcquack.net/388/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/77tv-kz.png",77 канал
+
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://res.cloudinary.com/drtfotkc8/image/upload/v1764115193/wnzqqraawj1oebrqgpdp.png",7 канал KG
+http://212.112.106.117:8086/0.m3u8
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://res.cloudinary.com/drtfotkc8/image/upload/v1764115010/mwtcvccxcptemhopdzmu.jpg",8 канал KG
+http://77.235.31.197:8080/0.m3u8
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://res.cloudinary.com/drtfotkc8/image/upload/f_auto,q_auto/v1764231538/hpxhp14ek1agcsimlsuk.png",Nur TV KG
+http://146.120.213.172:8086/0.m3u8
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://res.cloudinary.com/drtfotkc8/image/upload/v1764115181/cuwgu27lu4alxv5gifi5.jpg",MTV Live KG
+http://77.235.31.197:8082/0.m3u8
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kM2-6LYcIMOEXglU-s7psZ1jupyuWtjrQo2FYdxQ=s900-c-k-c0x00ffffff-no-rj",Marva TV KG 
+http://77.235.26.137:8086/0.m3u8
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://iptv-content.rv77.pw/logos/24452.png",Q Sport.KG HD
 http://c611a561.tvclub.xyz/iptv/U8VGFNCKR4XDKSAHAQHEW37N/15238/index.m3u8
@@ -309,13 +320,13 @@ http://212.42.117.34:8080/hls/OshTV.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3887.png", KidsTV KG
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1838.png?v1744724707", Премиум Кино KZ
-
+http://57.128.196.99/10231/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1840.png?v1744724834", Кинобоевик KZ
-
+http://57.128.196.99/10229/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1839.png?v1744724779", Мировое Кино KZ
-
+http://57.128.196.99/10232/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1837.png?v1744724638", Семейное Кино KZ
-
+http://57.128.196.99/10230/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1835.png?v1744724390", Кинодрама KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1834.png?v1744724351", Киносериал KZ
@@ -326,6 +337,9 @@ http://213.109.64.248:8086/0.m3u8
 http://31.192.249.68:8080/0.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://avatars.mds.yandex.net/i?id=084cc4deeac956ae39641a7f5c989171869c2528-12933346-images-thumbs&n=13", УТРК Жалал-Абад 
 http://80.72.179.162:8086/0.m3u8
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿"  tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_5db954fde1e5ac6d1a8bc49b.png?width=140&height=80&quality=93",Caspian News 
+http://s.only4.tv/9129/index.m3u8?token=Uqxoga1IGq
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://avatars.mds.yandex.net/i?id=a970fa565fe449b31e4051c9b51d2f9b3aa24c6f-5291151-images-thumbs&n=13", Qonaev Media
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://www.eurasianfilmmarket.com/files/00003797.jpg",Dostyk HD
@@ -3398,11 +3412,11 @@ http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00393.png",FilmUA LIVE HD
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00521.png",4ever Cinema HD
-
+http://57.128.196.99/10270/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00558.png",4ever Theater HD
-
+http://57.128.196.99/10272/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00557.png",4ever Drama HD
-
+http://57.128.196.99/10271/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 group-title="KINO_TV 📺",Kino 1
 http://stream.mcquack.net/395/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",Kino 2
@@ -4084,6 +4098,34 @@ http://cdntv.online/low/97zpx2bhuf/2250.m3u8
 http://cdntv.online/low/97zpx2bhuf/2251.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 22 HD
 http://cdntv.online/low/97zpx2bhuf/2252.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺",Sc TV Секретные материалы
+http://57.128.196.99/11973/index.m3u8?token=6AC15D94169C
+#EXTINF:-1 group-title="KINO_TV 📺",Sc TV Планета обезьян
+http://57.128.196.99/12072/index.m3u8?token=6AC15D94169C
+#EXTINF:-1 group-title="KINO_TV 📺",Sc TV Чужой
+http://57.128.196.99/11981/index.m3u8?token=6AC15D94169C
+#EXTINF:-1 group-title="KINO_TV 📺",Sc TV Хищник
+http://57.128.196.99/11984/index.m3u8?token=6AC15D94169C
+#EXTINF:-1 group-title="KINO_TV 📺",Sc TV Полицейская академия
+http://57.128.196.99/11974/index.m3u8?token=6AC15D94169C
+#EXTINF:-1 group-title="KINO_TV 📺",Sc TV Годзилла
+http://57.128.196.99/12070/index.m3u8?token=6AC15D94169C
+#EXTINF:-1 group-title="KINO_TV 📺",Sc TV Кинг Конг
+http://57.128.196.99/12071/index.m3u8?token=6AC15D94169C
+#EXTINF:-1 group-title="KINO_TV 📺",Sc TV RoboCop
+http://57.128.196.99/11965/index.m3u8?token=6AC15D94169C
+#EXTINF:-1 group-title="KINO_TV 📺",Sc TV Terminator
+http://57.128.196.99/11990/index.m3u8?token=6AC15D94169C
+#EXTINF:-1 group-title="KINO_TV 📺",Sc TV Анжелика
+http://57.128.196.99/11969/index.m3u8?token=6AC15D94169C
+#EXTINF:-1 group-title="KINO_TV 📺",Sc TV Cinema
+http://57.128.196.99/12000/index.m3u8?token=6AC15D94169C
+#EXTINF:-1 group-title="KINO_TV 📺",Sc TV Kolombo
+http://57.128.196.99/11976/index.m3u8?token=6AC15D94169C
+#EXTINF:-1 group-title="KINO_TV 📺",Sc TV Эпидемия
+http://57.128.196.99/12067/index.m3u8?token=6AC15D94169C
+
+
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://4pda.to/s/qirteHa7cwEj66EJ91Urz1qy0XsrxpYFp7DB.png",Кинозалы 1
 https://lbgo.bozztv.com/07/ushba82/tracks-v1a1/mono.m3u8
@@ -5362,7 +5404,7 @@ https://q.uzbeklar.biz/film/ilonlarvodiysi.mp4
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Kofe_TV ☕️" tvg-logo="https://img.razrisyika.ru/kart/20/1200/76229-eralash-32.jpg",Ералаш
 
 #EXTINF:-1 group-title="Kofe_TV ☕️",Анекдот ТВ
-
+http://57.128.196.99/00098/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Kofe_TV ☕️" tvg-logo="https://s1.afisha.ru/mediastorage/d2/7a/14b61d47e0224a4e92c314b07ad2.jpg",Мистер Бин
 https://lbgo.bozztv.com/07/ushba45/index.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://i.pinimg.com/736x/7b/24/2c/7b242c9dda311fc05c4ed1347003711c.jpg",Шоу Бенни Хилла
