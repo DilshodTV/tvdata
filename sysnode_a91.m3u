@@ -2430,26 +2430,22 @@ http://de1.plist.link:3355/FGfpnUmovVu0386/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-d
 http://de1.plist.link:3355/FGfpnUmovVu92802/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dPwmoRj9UIHNlAFENdt517uEWeSOBYOPqeoUuPwgneF1A.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2842.png?69c29495b9dac",Первый канал (+8)
 http://de1.plist.link:3355/FGfpnUmovVu5387/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP_XkBesYMorMpB-Wj3GMvgynXvgaqyNrL1lkQMJbVZCw.tg6457680141
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2842.png?69c29495b9dac",Первый канал (+9)
-http://de1.plist.link:3355/FGfpnUmovVu52803/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP7U-31arWxJwQWil3AKC2MiQ7X8nEu3eLuT3mVLmcW_W.tg6457680141
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Россия 1 (+1)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Россия 1 (+2)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Россия 1 (+3)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Россия 1 (+4)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Россия 1 (+5)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Россия 1 (+7)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Россия 1 (+8)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2839.png?69c29495b9dac",Россия 1 HD
+http://de1.plist.link:3355/FGfpnUmovVu4002/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP37G8u0bNjxlZySMfI0A3TuI80z1QxZC-MobRxH9q1Up.tg6457680141
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/365.png?69c29495b9dac",Россия 1 (+2)
+http://de1.plist.link:3355/FGfpnUmovVu8365/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dPzbGpx7jKcQ1NHQ7mu3JerSG5r-9aZxskqG9Ujwmw44a.tg6457680141
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/366.png?69c29495b9dac",Россия 1 (+4)
+http://de1.plist.link:3355/FGfpnUmovVu9366/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP3pctc1iu00wKioJjaeQfpMPPh7R-w_n3kJPA34HB8yZ.tg6457680141
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2841.png?69c29495b9dac",Россия 1 (+5)
+http://de1.plist.link:3355/FGfpnUmovVu52841/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP4wqXA8UWtTDQgTzknhnqgaCtqElPALhplJQoyJVG3ib.tg6457680141
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/388.png?69c29495b9dac",Россия 1 (+6)
+http://de1.plist.link:3355/FGfpnUmovVu9388/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP_vQ6t_yVdXh0_4PWSWCP1rx9XNG85lPZRbn5Rwmruzq.tg6457680141
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2804.png?69c29495b9dac",Россия 1 (+7)
+http://de1.plist.link:3355/FGfpnUmovVu62804/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP-3F26Lfz7p8j8m4CvcaH7-ceylsJGhfSwxyIwTAPaUo.tg6457680141
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/389.png?69c29495b9dac",Россия 1 (+8)
+http://de1.plist.link:3355/FGfpnUmovVu3389/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP0Sj8iorNnrRDx2J1p-hkAlM7NHmDNQFya9RpyFrHnGn.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Россия 1 (+9)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Россия Культура
 https://s7.iptv-24.net/1048/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2812.png?69c29495b9dac", Россия Культуpa (+7)
@@ -2465,7 +2461,7 @@ http://de1.plist.link:3355/FGfpnUmovVu6006/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-d
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",ВМЕСТЕ-РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="320" tvg-logo="http://tv.kubtel.ru/tv_icon/vremyaDALiBLIZ.png" group-title="Rossiya_TV 🇷🇺",Время
-http://dmi3y-tv.online/hls/CH_VREMYA.m3u8
+
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://i.ibb.co/gWqw4N5/45571caf9d64821ea16f7883ac62a930.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Rossiya_TV 🇷🇺",Известия Воронеж HD
@@ -2996,17 +2992,17 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Урал 24 (Челябинск)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Арктика 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
+
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://epg.it999.ru/img/2168.png",Астрахань 24
 https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="volgograd-24" tvg-logo="https://iptvx.one/picons/volgograd-24.png" group-title="Rossiya_TV 🇷🇺" ,Волгоград 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/track_102_1f3a2163/chunklist.m3u8
+
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.ibb.co/GvQLS8M/Samara-24-256x72.png",Самара 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
-##EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Сибирь 24 (Новосибирск)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
+
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Сибирь 24 (Новосибирск)
+
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Саратов 24 HD
 http://109.248.11.19:8081/web/c24/chunks.m3u8
 #EXTINF:-1 tvg-id="sarov-24" tvg-logo="https://iptvx.one/picons/sarov-24.png" group-title="Rossiya_TV 🇷🇺" ,Саров 24 HD
@@ -3016,17 +3012,17 @@ http://109.248.11.19:8081/web/c24/chunks.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Туапсе 24 HD
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Нижний Новгород 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
+
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Волга 24 HD (Нижний Новгород)
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Волга
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Восток 24 HD (Владивосток)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
+
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Запад 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
+
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Кавказ 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Катунь 24 (Барнаул)
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://pic.rutubelist.ru/video/b3/0d/b30d0e06503723e4c61adc98848bd0a9.jpg",Мордовия 24 HD
@@ -3165,7 +3161,7 @@ https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Прибой ТВ (Махачкала)
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Башкортостан 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+
 #EXTINF:-1 tvg-id="ntrk-ingushetia" tvg-logo="https://iptvx.one/picons/ntrk-ingushetia.png" group-title="Rossiya_TV 🇷🇺" ,НТРК Ингушетия
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",БСТ (Башкор)
