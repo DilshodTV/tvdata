@@ -2216,7 +2216,7 @@ http://stream.mcquack.net/390/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-premium-ua-hd.png",Setanta Sport Premium HD
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/megogo-sport-ua-hd.png",MEGOGO Спорт HD
-
+http://bpl.online24.pm/play/1001/1B267F739161EDF/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Megogo Футбол 1 HD
 
 #EXTINF:-1 group-title="Sport_TV 🏆",Megogo Футбол 2 HD
@@ -2225,18 +2225,34 @@ http://stream.mcquack.net/390/index.m3u8
 
 #EXTINF:-1 group-title="Sport_TV 🏆",Megogo Гонг HD
 
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/okko-sport2-hd.png",ОККО Прайм Cпорт HD
-
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/okko-futbol-hd.png",ОККО Футбол HD
-
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/okko-sport-hd.png",ОККО Спорт HD
-
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/1833.png?v1744706916", Окко.Прайм Спорт
+http://bpl.online24.pm/play/1833/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/okko-football.png", Окко Футбол HD
+http://bpl.online24.pm/play/7338/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/2037.png?v1773512349", Окко Чемпионат
+http://bpl.online24.pm/play/2037/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/okko-sport.png", Окко Спорт HD
+http://bpl.online24.pm/play/7337/1B267F739161EDF/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://static.tildacdn.pro/tild3733-6564-4336-a430-383533323231/_.jpg", Online TV
 
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/upl1-ua-hd.png",UPL 1 HD
-
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/upl.png", UPL.TV HD
+http://bpl.online24.pm/play/523/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/sport1ua.png", Sport 1 UA
+http://bpl.online24.pm/play/2638/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/sport2ua.png", Sport 2 UA
+http://bpl.online24.pm/play/2639/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/sport3ua.png", Sport 3 UA HD
+http://bpl.online24.pm/play/2640/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/sport4ua.png", Sport 4 UA
+http://bpl.online24.pm/play/2641/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960", Football Live 1
+http://bpl.online24.pm/play/1704/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960", Football Live 2
+http://bpl.online24.pm/play/1705/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/dynamo-kyiv-tv.png", Dynamo Kyiv TV
+http://bpl.online24.pm/play/8797/1B267F739161EDF/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.imgur.com/pEuaZVx.png",Футбол HD
-
+http://bpl.online24.pm/play/3920/1B267F739161EDF/video.m3u8
 #EXTINF:-1 tvg-id="404" tvg-logo="http://tv.kubtel.ru/tv_icon/MyachHD.png" group-title="Sport_TV 🏆",Мяч
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",Realmadrid TV
@@ -2247,8 +2263,10 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/a
 https://s7.iptv-24.net/1439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://tricolor-38.ru/KANALY_3/Eurosport_2_HD.png",Eurosport 2 HD
 https://s7.iptv-24.net/1452/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/2jVK4YV0/Eurosport-3-HD.png",Eurosport 3 HD
+http://bpl.online24.pm/play/51103/1B267F739161EDF/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.imgur.com/ujS6mMo.png",ТВ Спорт
-http://live-3.otcnet.ru/sportivny/index.m3u8
+http://bpl.online24.pm/play/6159/1B267F739161EDF/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆", Волейбол
 
 #EXTINF:-1 tvg-id="451" tvg-logo="http://tv.kubtel.ru/tv_icon/MirBasket.png" group-title="Sport_TV 🏆",Мир Баскетбола
@@ -2261,16 +2279,38 @@ https://s7.iptv-24.net/1229/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/154/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",MMA-TV
 https://s7.iptv-24.net/1226/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.cdntv.online/img/381.png", UDAR HD
-http://stream.mcquack.net/279/index.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/ufc.png", UDAR HD
+http://bpl.online24.pm/play/4111/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814", VIP Sport 1
+http://bpl.online24.pm/play/5009/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814", VIP Sport 2
+http://bpl.online24.pm/play/5010/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 3
+http://bpl.online24.pm/play/5011/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 4
+http://bpl.online24.pm/play/5012/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" , VIP Sport 5
+http://bpl.online24.pm/play/5013/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761", FintGa 1
+http://bpl.online24.pm/play/5028/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761", FintGa 2
+http://bpl.online24.pm/play/5029/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761", FintGa 3
+http://bpl.online24.pm/play/5030/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761", FintGa 4
+http://bpl.online24.pm/play/5031/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/epg/icon/extreme-sports.png", Extreme Sports
+http://bpl.online24.pm/play/53/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆", Glory Kickboxing
+http://bpl.online24.pm/play/15005/1B267F739161EDF/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-rec="7" timeshift="7",Maincast кіберспорт
 http://stream.mcquack.net/487/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-rec="7" timeshift="7",Maincast sport
 http://stream.mcquack.net/490/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-rec="7" timeshift="7",Equalympic
-http://stream.mcquack.net/485/index.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://tv.kubtel.ru/tv_icon/HockeyHD.png",Хоккей ТВ
-
+http://bpl.online24.pm/play/8788/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/xokkejny.png",Хоккей ТВ
+http://bpl.online24.pm/play/6160/1B267F739161EDF/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.cdntv.online/img/45.png",КХЛ HD Хокей
 https://s7.iptv-24.net/1422/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/46.png" group-title="Sport_TV 🏆",KHL Prime
@@ -2281,10 +2321,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 http://bde.online24.pm/play/1889/16419D145D0E706/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Мир баскетбола
 http://bde.online24.pm/play/8831/16419D145D0E706/video.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10145/logo_256_1660807386.png", Старт Триумф HD
-
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.cdntv.online/img/464.png", Старт HD
-
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/start-triumf.png", Старт Триумф HD
+http://bpl.online24.pm/play/7375/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/epg/icon/start.png", Старт HD
+http://bpl.online24.pm/play/9946/1B267F739161EDF/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Trace Sport Stars
 https://s7.iptv-24.net/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Vital Drive
@@ -2325,12 +2365,30 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sports-connect/video.m3u8?ads.vf=K-yU3EWs_wu
 #EXTINF:-1 group-title="Sport_TV 🏆",Sport Italia
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆", Arena Premium 1 HD
+http://bpl.online24.pm/play/51104/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆", Arena Premium 2 HD
+http://bpl.online24.pm/play/51105/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆", Arena Premium 3 HD
+http://bpl.online24.pm/play/51106/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆", Arena Premium 4 HD
+http://bpl.online24.pm/play/51107/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆", Arena Premium 5 HD
+http://bpl.online24.pm/play/51108/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆", Arena Fight
+http://bpl.online24.pm/play/51109/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/7211.png?v1788021533" , Sky Sports Tennis
+http://bpl.online24.pm/play/51536/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/7213.png?v1788021561" , Sky Sports Football UK
+http://bpl.online24.pm/play/51537/1B267F739161EDF/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Tour Spoкt TV
 https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://photos.live-tv-channels.org/tv-logo/canal-motor-5880.webp" group-title="Sport_TV 🏆" tvg-logo="https://signalmedia.ru/b/c/12762.jpg",Canal Motor
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Motorsport One
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/1121.png?v1743767066", Formula 1
+http://bpl.online24.pm/play/1121/1B267F739161EDF/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",France Sport Loto
@@ -2353,6 +2411,10 @@ http://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://images.tapology.com/logos/5116/profile/No_Limit_Fighting_Network-logo.png?1695221152",Fight Network
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/epg/icon/nba-tv.png",NBA TV
+http://bpl.online24.pm/play/9984/1B267F739161EDF/video.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/7913.png", UFC ТВ HD
+http://bpl.online24.pm/play/1777/1B267F739161EDF/video.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="Sport_TV 🏆",World of Freesports
 http://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png",TSN The Ocho
