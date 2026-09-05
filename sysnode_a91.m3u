@@ -2028,6 +2028,10 @@ http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Ocean TV
 http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
+#EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/544.png",Sea TV
+https://cdn.kinolar.workers.dev/SeaTV/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1724.png",Wness
+https://cdn.kinolar.workers.dev/WNESS_HD/mono.m3u8?key=halvatv
 #EXTINF:-1 group-title="Dunyo_TV 🌎",История
 https://s7.iptv-24.net/1266/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="https://iptvx.one/picons/history.png",History HD
@@ -2062,6 +2066,8 @@ http://stream.mcquack.net/451/index.m3u8
 http://stream.mcquack.net/231/index.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="https://i.imgur.com/AlpdXC4.png",Travel+Adventure 
 http://dmi3y-tv.online/hls/CH_TRAVELPLUSADVENTURE.m3u8
+#EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2431.png",Utravel HD
+https://cdn.kinolar.workers.dev/UTRAVEL_HD/mono.m3u8?key=halvatv
 #EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://rafail1982.uz/logo/Глазами туриста HD.png",Глазами туриста 
 https://s7.iptv-24.net/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",DocuBox
@@ -2116,8 +2122,8 @@ http://de1.plist.link:3355/FGfpnUmovVu81955/index.m3u8?token=7LO7cdTWNP71bg9jr81
 http://de1.plist.link:3355/FGfpnUmovVu11952/index.m3u8?token=7LO7cdTWNP71bg9jr81xWJF0xfGQ5FEgbMOZQwSVeWP2cEG1sRzegiLTvqVC1VtB.tg6457680141
 #EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://de1.plist.link/plepg/img/channels/1271.png?69c29495ba5c2", MM Live Planet HD
 http://de1.plist.link:3355/FGfpnUmovVu41271/index.m3u8?token=oYHLnks0X_7VBji5gzX9LQiW8cQM57V2vO4rDdhLqy0mMJ1ARiaB4iik0bwtWzpg.tg6457680141
-#EXTINF:-1 group-title="Dunyo_TV 🌎",Наша Тема
-
+#EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1405.png",Наша тема HD
+https://cdn.kinolar.workers.dev/NashaTemaHDSM/mono.m3u8?key=halvatv
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Загородная Жизнь
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎",DW Russia
@@ -2160,12 +2166,16 @@ http://de1.plist.link:3355/FGfpnUmovVu8538/index.m3u8?token=2VejxCo_Sezd_9XgsnoN
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Доктор
 https://s7.iptv-24.net/1409/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2171.png",Медичний HD
+https://cdn.kinolar.workers.dev/Medycine_HD/mono.m3u8?key=halvatv
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Драйв
 https://s7.iptv-24.net/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Мото Драйв HD
 http://stitch.teletarget.ru/vintera/motodrive/index.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-rec="7" timeshift="7",Трофей
 http://stream.mcquack.net/357/index.m3u8
+#EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/45.png",Дача HD
+https://cdn.kinolar.workers.dev/Dacha_HD/mono.m3u8?key=halvatv
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Инсайт HD
 https://s7.iptv-24.net/1416/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Авто Плюс
@@ -2186,7 +2196,7 @@ https://s7.iptv-24.net/1430/tracks-v1a1/mono.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! HD
-http://bpl.online24.pm/play/397/1B267F739161EDF/video.m3u8
+http://de1.plist.link:3355/FGfpnUmovVu8057/index.m3u8?token=czoewbz_D6R0fNDHJwHzn_Z-MNdi7TtTpBZRa079Xhttu8wek6xg3o9uoOdl8a36.tg6457680141
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Планета
 https://s7.iptv-24.net/1243/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Страна HD
@@ -2202,7 +2212,7 @@ http://bpl.online24.pm/play/250/1B267F739161EDF/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Футбол 1 HD
 http://bpl.online24.pm/play/260/1B267F739161EDF/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Футбол 2 HD
-http://bpl.online24.pm/play/271/1B267F739161EDF/video.m3u8
+http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Футбол 3 HD
 http://bpl.online24.pm/play/329/1B267F739161EDF/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 1 HD
@@ -2383,6 +2393,8 @@ http://bpl.online24.pm/play/51536/1B267F739161EDF/video.m3u8
 http://bpl.online24.pm/play/51537/1B267F739161EDF/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Tour Spoкt TV
 https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/149.png",Game Toon HD
+https://cdn.kinolar.workers.dev/GameToonHD/mono.m3u8?key=halvatv
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://photos.live-tv-channels.org/tv-logo/canal-motor-5880.webp" group-title="Sport_TV 🏆" tvg-logo="https://signalmedia.ru/b/c/12762.jpg",Canal Motor
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Motorsport One
@@ -2493,7 +2505,7 @@ http://de1.plist.link:3355/FGfpnUmovVu92802/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2842.png?69c29495b9dac",Первый канал (+8)
 http://de1.plist.link:3355/FGfpnUmovVu5387/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP_XkBesYMorMpB-Wj3GMvgynXvgaqyNrL1lkQMJbVZCw.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2839.png?69c29495b9dac",Россия 1 HD
-http://de1.plist.link:3355/FGfpnUmovVu4002/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP37G8u0bNjxlZySMfI0A3TuI80z1QxZC-MobRxH9q1Up.tg6457680141
+https://s7.iptv-24.net/1020/index.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/365.png?69c29495b9dac",Россия 1 (+2)
 http://de1.plist.link:3355/FGfpnUmovVu8365/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dPzbGpx7jKcQ1NHQ7mu3JerSG5r-9aZxskqG9Ujwmw44a.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/366.png?69c29495b9dac",Россия 1 (+4)
@@ -3364,7 +3376,7 @@ http://de1.plist.link:3355/FGfpnUmovVu4421/index.m3u8?token=hjOF3_7BKVCl-sF4bGzX
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.imgur.com/NqHla2V.png",Amedia 2 HD
 http://de1.plist.link:3355/FGfpnUmovVu2515/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxD8ALFNYtv_qTXSzZNoWImczC8caKVhG4krj1a13OVVV.tg6457680141
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/amedia-hit-hd-orig.png",AMEDIA HIT
-http://de1.plist.link:3355/FGfpnUmovVu1032/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxN5hqgTBJPV-i__ZHFJgROfMCX9Ykoye7z3xIsd005FT.tg6457680141
+http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/amedia-premium-hd-orig.png",AMEDIA Premium
 http://de1.plist.link:3355/FGfpnUmovVu3065/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxO0oNnMyTd331ZZoSEzIRyX9ShHPt7JoPzf3UZ_GuVIY.tg6457680141
 #EXTINF:-1 group-title="KINO_TV 📺",.Red HD
@@ -3388,11 +3400,11 @@ http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://epg.one/img2/1012.png",Viju+ Megahit
 http://de1.plist.link:3355/FGfpnUmovVu2059/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxJXfq1ZV21j_FLwugZUzbamFiyt01g0sGiKeCRgsksvB.tg6457680141
 #EXTINF:-1 group-title="KINO_TV 📺",viju+ Comedy
-http://de1.plist.link:3355/FGfpnUmovVu2058/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxGqVfwePkGv7gnCUMUpQiuMWNed3SFbOCjIT-LhuHPFb.tg6457680141
+https://s7.iptv-24.net/1061/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/vip-premiere-hd-orig.png",Viju+ Premiere HD
-http://de1.plist.link:3355/FGfpnUmovVu5060/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxNCgP3T12jAZtQW05LQzf86VNsDO7vhTryDqe74aU0yI.tg6457680141
+https://s7.iptv-24.net/1056/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/vip-serial-hd-orig.png",Viju+ Serial HD
-http://de1.plist.link:3355/FGfpnUmovVu5701/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxIrNUtcpXP7qzrpHjI6Es-Z30oFUAvrvrSnDsDvSEt23.tg6457680141
+https://s7.iptv-24.net/1224/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://de1.plist.link/plepg/img/channels/131.png?69c29495ba022", Наше HD
 http://de1.plist.link:3355/FGfpnUmovVu5131/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxCqEcZ-peXRuQGy7M2VJWn6odK2yslT8GKSSQR_1CzsP.tg6457680141
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://de1.plist.link/plepg/img/channels/714.png?69c29495ba022", Наш Кинопоказ HD
@@ -5620,6 +5632,8 @@ https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
 
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",Star Cinema
 http://31.43.48.248:7000/ch56/video.m3u8
+#EXTINF:-1 group-title="Ukraina_TV 🇺🇦" tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/77.png",Сонце +
+https://cdn.kinolar.workers.dev/Sonce/mono.m3u8?key=halvatv
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",ТЕТ
 http://iptv.prosto.tv:7000/ch7/video.m3u8
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",Bolt
