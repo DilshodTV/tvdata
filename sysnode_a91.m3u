@@ -196,19 +196,19 @@ http://stream.mcquack.net/71/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://imservice.kz/wp-content/uploads/2025/01/WhatsApp-Image-2022-12-05-at-14.09.19-1-1.jpeg",Qazaqstan International
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-id="xabar" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar.png",Хабар KZ
-
+https://beeline.ip-tv.workers.dev/stream/904?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://epg.it999.ru/img/2578.png",Хабар 24
 https://s7.iptv-24.net/1408/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://astanatv.kz/cache/imagine/1200/uploads/article/2023/3/1/1677681984370.jpg",Astana TV
 http://stream.mcquack.net/28/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://imservice.kz/wp-content/uploads/2025/01/LOGO_GREEN_WHITE-01-scaled-2.jpeg",Almaty TV
-
+https://beeline.ip-tv.workers.dev/stream/901?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://raw.githubusercontent.com/unixlinuxgeek/logos/main/iptv/MTRK.png",МТРК Петропавл
 https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-id="621" tvg-name="Ала-тоо 24" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/6211.jpg",Ала-тоо 24
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-id="atameken-business" tvg-logo="https://iptvx.one/picons/atameken-business.png",Atameken Business
-
+https://beeline.ip-tv.workers.dev/stream/916?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿"  tvg-logo="https://s9.vcdn.biz/static/f/2293960041/image.jpg",КТК KZ
 http://stream.mcquack.net/26/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.mycdn.me/i?r=BDH3HfPpvmQZZI-uHXH_6LjV3_dv7sxqxMd2lMyWo_xtfkhokwdVFTTq0m4WSSJ6fvA",НТК
@@ -231,12 +231,28 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://www.lyngsat.com/logo/tv/mm/manas-tv-kg.png",Manas TV KZ HD
 http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://static.wikitide.net/telehistwiki/9/91/TV3_14.09.1999-30.09.2004.png",3 канал
+http://stream.mcquack.net/29/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/5kanal-karaganda.png",5 канал (Караганда)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/458MPWD8UEBKE9/2221/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/7kanal-kz.png",7 канал KZ
 http://stream.mcquack.net/27/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/31-kanal-kz.png",31 канал KZ
 http://stream.mcquack.net/388/index.m3u8
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",31 Arna KZ
+https://beeline.ip-tv.workers.dev/stream/906?key=zunotv
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Il kanal KZ
+https://beeline.ip-tv.workers.dev/stream/917?key=zunotv
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Kino-1 KZ
+https://beeline.ip-tv.workers.dev/stream/950?key=zunotv
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Kino-2 KZ
+https://beeline.ip-tv.workers.dev/stream/951?key=zunotv
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Kino-3 KZ
+https://beeline.ip-tv.workers.dev/stream/953?key=zunotv
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Reklama kanal KZ
+https://beeline.ip-tv.workers.dev/stream/952?key=zunotv
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Семейные мело драмы KZ
+https://beeline.ip-tv.workers.dev/stream/954?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/77tv-kz.png",77 канал
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://res.cloudinary.com/drtfotkc8/image/upload/v1764115193/wnzqqraawj1oebrqgpdp.png",7 канал KG
@@ -249,27 +265,26 @@ http://146.120.213.172:8086/0.m3u8
 http://77.235.31.197:8082/0.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kM2-6LYcIMOEXglU-s7psZ1jupyuWtjrQo2FYdxQ=s900-c-k-c0x00ffffff-no-rj",Marva TV KG 
 http://77.235.26.137:8086/0.m3u8
-
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://iptv-content.rv77.pw/logos/24452.png",Q Sport.KG HD
 http://c611a561.tvclub.xyz/iptv/U8VGFNCKR4XDKSAHAQHEW37N/15238/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/sport-plus-kz.png",Sport+ Qazaqstan
-
+https://beeline.ip-tv.workers.dev/stream/941?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/q-football-kz.png",Q Football HD 
-
+https://beeline.ip-tv.workers.dev/stream/942?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://epg.one/img2/5891.png",Q Arena
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/458MPWD8UEBKE9/20061/index.m3u8
+https://beeline.ip-tv.workers.dev/stream/944?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan Sport
-
+https://beeline.ip-tv.workers.dev/stream/949?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_5d385e7355153152ba34f5f2.png",Qazsport HD KZ
 http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_64507c71071b52869ab93ab3.png" catchup-days="0", Q League HD KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/458MPWD8UEBKE9/20062/index.m3u8
+https://beeline.ip-tv.workers.dev/stream/945?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.postimg.cc/RVZGp3Yg/unnamed.jpg",Setanta Qazaqstan 
-
+https://beeline.ip-tv.workers.dev/stream/946?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_5f9984549e0766c2417d4076.png",Setanta Sports 1 KZ
-http://c611a561.tvclub.xyz/iptv/U8VGFNCKR4XDKSAHAQHEW37N/16026/index.m3u8
+https://beeline.ip-tv.workers.dev/stream/947?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_5f9984649e0766c2417d4079.png" catchup-days="0", Setanta Sports 2 HD KZ
-http://c611a561.tvclub.xyz/iptv/U8VGFNCKR4XDKSAHAQHEW37N/16025/index.m3u8
+https://beeline.ip-tv.workers.dev/stream/948?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/08/11090848/Setanta-Sports-Boiler-Plate-Revised-Logo.jpg",Setanta Sport+KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/q-live1-kz.png",Q Live 1 HD
@@ -313,7 +328,7 @@ http://212.42.117.34:8080/hls/OshTV.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3390.png", SuperTV KG
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3391.png",7 канал KG
-
+https://beeline.ip-tv.workers.dev/stream/885?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3888.png", 8 канал KG
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3891.png", Nomad TV KG
@@ -329,7 +344,7 @@ http://57.128.196.99/10232/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1837.png?v1744724638", Семейное Кино KZ
 http://57.128.196.99/10230/index.m3u8?token=6AC15D94169C
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1835.png?v1744724390", Кинодрама KZ
-
+https://beeline.ip-tv.workers.dev/stream/936?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1834.png?v1744724351", Киносериал KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://otv.server-img.lfstrm.tv/images/channel_logos/logo_662ba40f1302670cb5b24357.png?width=340&height=192&quality=93", TV 15 
@@ -340,41 +355,40 @@ http://31.192.249.68:8080/0.m3u8
 http://80.72.179.162:8086/0.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿"  tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_5db954fde1e5ac6d1a8bc49b.png?width=140&height=80&quality=93",Caspian News 
 http://s.only4.tv/9129/index.m3u8?token=Uqxoga1IGq
-
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://avatars.mds.yandex.net/i?id=a970fa565fe449b31e4051c9b51d2f9b3aa24c6f-5291151-images-thumbs&n=13", Qonaev Media
 
-#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://www.eurasianfilmmarket.com/files/00003797.jpg",Dostyk HD
-
-#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://epg.pw/media/images/epg/2025/12/30/20251230021757407686_91.png",Köktem KZ
-
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://www.eurasianfilmmarket.com/files/00003797.jpg",Dostyq HD
+https://beeline.ip-tv.workers.dev/stream/896?key=zunotv
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://epg.pw/media/images/epg/2025/12/30/20251230021757407686_91.png", Кoктем KZ
+https://beeline.ip-tv.workers.dev/stream/903?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://elarna.kz/images/Logo_ElArna.png",Ел Арна
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/abaitv.png",Abai TV
-
+https://beeline.ip-tv.workers.dev/stream/919?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/alautv.png",Алау ТВ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/irbis.png",Ирбис ТВ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-id="altai-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/altai-kz.png",Altai TV
-
+https://beeline.ip-tv.workers.dev/stream/914?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.imgur.com/tghMiwW.png",Ertis
-
+https://beeline.ip-tv.workers.dev/stream/931?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://programma-peredach.com/img/ch/200/aqjaiyq.webp",Aqjaiyq
-
+https://beeline.ip-tv.workers.dev/stream/926?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-id="atyray" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/atyray.png",Atyray
-
+https://beeline.ip-tv.workers.dev/stream/924?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/ico/saryarqa.png", Saryarqa
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.ibb.co/P9V0532/Captura.png",Semei
-
+https://beeline.ip-tv.workers.dev/stream/928?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Jambyl KZ
-http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/14232/index.m3u8
+https://beeline.ip-tv.workers.dev/stream/930?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.imgur.com/pOR3FSR.png",Kókshe
-
+https://beeline.ip-tv.workers.dev/stream/927?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.imgur.com/9JfLseu.png",Mańǵystaý
-
+https://beeline.ip-tv.workers.dev/stream/932?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Ontustik KZ
-http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/15001/index.m3u8
+https://beeline.ip-tv.workers.dev/stream/934?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/ulytau-kz.png",Ulytau KZ
 http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/14231/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Ассамблея ТВ KZ
@@ -382,7 +396,7 @@ http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/15004/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Alatau TV KZ
 http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/2219/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/ico/aqtobe.png" , AQTOBE
-
+https://beeline.ip-tv.workers.dev/stream/933?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/balapan.png",Balapan TV
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/balapan.png",Balapan International
@@ -396,29 +410,31 @@ https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://otautv.kz/wp-content/uploads/2025/03/logotip-1024x279.jpg",BILIM TV
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.imgur.com/eOz4xJ8.png",Qostanai
-
+https://beeline.ip-tv.workers.dev/stream/929?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.imgur.com/7l1WSDJ.png",Qyzyljar
-
+https://beeline.ip-tv.workers.dev/stream/925?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Qyzylorda
-http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/14233/index.m3u8
+https://beeline.ip-tv.workers.dev/stream/921?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/otyrar-tv.png",Otyrar KZ
-http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/14237/index.m3u8
+https://beeline.ip-tv.workers.dev/stream/899?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",TURKISTAN TV
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Jetisy HD
-
+https://beeline.ip-tv.workers.dev/stream/910?key=zunotv
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",ЁТВ
+https://beeline.ip-tv.workers.dev/stream/909?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Айгак KZ
-http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/15002/index.m3u8
+https://beeline.ip-tv.workers.dev/stream/898?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://pbs.twimg.com/profile_images/430308102248726528/TENT1Bjg_400x400.jpeg",Туран ТВ KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://toiduman.kz/images/logo.png",Той Туман ТВ
-
+https://beeline.ip-tv.workers.dev/stream/912?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Aqsham TV KZ
 http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/14223/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/silk-way-cinema.png" ,Silk Way Cinema HD
 https://stream.qazcdn.net/ex6r514/silkwaycinema/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakh-tv.png",Jibek Joly
-
+https://beeline.ip-tv.workers.dev/stream/907?key=zunotv
 #EXTINF:-1 xui-id="5850" tvg-id="" tvg-name="" tvg-logo="http://135.181.204.104:80/images/lnONdlaEoGG0Ch1H5cO1Y9kgIEsTUfke5G4JwAjjBJlipGfi5oXkii85ZfmuHIC1.png" group-title="Kazakistan_TV 🇰🇿", Jibek joly radio
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://smotreshka.server-img.lfstrm.tv/images/channel_logos/logo_5e09ee68b7ee6b9dac05bfed.png",Silk Way TV UZB
@@ -450,13 +466,13 @@ http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/15005/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",MuzzOne HD
 https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/show-kz.png",SHOW KZ HD
-
+https://beeline.ip-tv.workers.dev/stream/900?key=zunotv
 EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",City TV KG
 https://tv.city.bg/play/tshls/citytv/2.m3u8
 EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Gakku TV
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/hit-tv.png",HIT TV
-
+https://beeline.ip-tv.workers.dev/stream/935?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-id="rika" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/rika.png",Рика ТВ (Казгидромет)
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/novoe-televidenie.png",Новое HD (Қазақстан)
