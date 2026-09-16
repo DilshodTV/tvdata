@@ -2213,25 +2213,25 @@ https://s7.iptv-24.net/1430/tracks-v1a1/mono.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! HD
-http://de1.plist.link:3355/FGfpnUmovVu8057/index.m3u8?token=czoewbz_D6R0fNDHJwHzn_Z-MNdi7TtTpBZRa079Xhttu8wek6xg3o9uoOdl8a36.tg6457680141
+http://stream.mcquack.net/169/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Планета
 https://s7.iptv-24.net/1243/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Страна HD
 http://stream.mcquack.net/143/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/172/logo_256_1658736816.png",Матч! Арена HD
-http://bpl.online24.pm/play/146/1B267F739161EDF/video.m3u8
+http://stream.mcquack.net/163/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/174/logo_256_1658736842.png",Матч! Игра HD
-http://bpl.online24.pm/play/268/1B267F739161EDF/video.m3u8
+http://stream.mcquack.net/188/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/175/logo_256_1658736830.png" ,Матч! Боец HD
-http://bpl.online24.pm/play/30/1B267F739161EDF/video.m3u8
+http://stream.mcquack.net/112/index.m3u8	
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://tricolor-38.ru/KANALY_4/Mathc_premjer.jpg", Матч! Премьер
-http://bpl.online24.pm/play/250/1B267F739161EDF/video.m3u8
+http://stream.mcquack.net/193/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Футбол 1 HD
-http://bpl.online24.pm/play/260/1B267F739161EDF/video.m3u8
+http://stream.mcquack.net/130/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Футбол 2 HD
 http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Футбол 3 HD
-http://bpl.online24.pm/play/329/1B267F739161EDF/video.m3u8
+http://stream.mcquack.net/185/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 1 HD
 https://s7.iptv-24.net/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 2 HD
@@ -2263,7 +2263,7 @@ http://bpl.online24.pm/play/7337/1B267F739161EDF/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://static.tildacdn.pro/tild3733-6564-4336-a430-383533323231/_.jpg", Online TV
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/upl.png", UPL.TV HD
-http://bpl.online24.pm/play/523/1B267F739161EDF/video.m3u8
+http://dtv.vol.net.ua/UPL-TV/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/sport1ua.png", Sport 1 UA
 http://bpl.online24.pm/play/2638/1B267F739161EDF/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/sport2ua.png", Sport 2 UA
@@ -2497,8 +2497,6 @@ https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.imgur.com/EzNf2Yx.png",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
-
-
 
 
 
