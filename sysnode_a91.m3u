@@ -2239,9 +2239,9 @@ https://s7.iptv-24.net/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 2 HD
 https://s7.iptv-24.net/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/qMb6r3tT/feb5d74c-4901-4fef-b20e-f152bcdb9100.jpg",Setanta Ukraine
-http://stream.mcquack.net/313/index.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://viasat.com.ua/uploads/images/setanta_plus_450x310.png",Setanta + Ukraine
-http://stream.mcquack.net/390/index.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-premium-ua-hd.png",Setanta Premium HD
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/megogo-sport-ua-hd.png",MEGOGO Спорт HD
@@ -2265,7 +2265,7 @@ http://stream.mcquack.net/390/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://static.tildacdn.pro/tild3733-6564-4336-a430-383533323231/_.jpg", Online TV
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/upl.png", UPL.TV HD
-http://dtv.vol.net.ua/UPL-TV/index.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/sport1ua.png", Sport 1 UA
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/sport2ua.png", Sport 2 UA
