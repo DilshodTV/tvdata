@@ -104,8 +104,18 @@ https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Cinema
 
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Kulgu
-
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/5yJmvHFf/IMG-20260916-203648-663.jpg",Asil TV 1
+https://kinostream4-asil-tv.hf.space/hls/stream1.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/wjrc24sk/IMG-20260916-203651-124.jpg", Asil TV2
+https://kinostream4-asil-tv.hf.space/hls/stream2.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/BQYxZ7ph/IMG-20260916-203656-795.jpg", Asil TV Kids
+https://kinostream4-asil-tv2.hf.space/hls/stream1.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/tTj6vKR5/IMG-20260916-203641-700.jpg", Asil TV Kulgu 
+https://kinostream4-asil-tv2.hf.space/hls/stream2.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://apps.usite.pro/ztvkino.jpg",ZTV Cinema
+https://itvuz-live.hf.space/hls/stream1.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://apps.usite.pro/ztvkino.jpg",ZTV Kino
+https://itvuz-live.hf.space/hls/stream2.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/7h7M3kRJ/Screenshot-1.jpg",Mediabay TV
 
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/uzbekmusic.png",Mediabay Music 
