@@ -238,28 +238,12 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://www.lyngsat.com/logo/tv/mm/manas-tv-kg.png",Manas TV KZ HD
 http://212.42.111.152:8080/hls/manas.m3u8
-#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://static.wikitide.net/telehistwiki/9/91/TV3_14.09.1999-30.09.2004.png",3 канал
-http://stream.mcquack.net/29/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/5kanal-karaganda.png",5 канал (Караганда)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/458MPWD8UEBKE9/2221/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/7kanal-kz.png",7 канал KZ
 http://stream.mcquack.net/27/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/31-kanal-kz.png",31 канал KZ
 http://stream.mcquack.net/388/index.m3u8
-#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",31 Arna KZ
-https://beeline.ip-tv.workers.dev/stream/906?key=zunotv
-#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Il kanal KZ
-https://beeline.ip-tv.workers.dev/stream/917?key=zunotv
-#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Kino-1 KZ
-https://beeline.ip-tv.workers.dev/stream/950?key=zunotv
-#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Kino-2 KZ
-https://beeline.ip-tv.workers.dev/stream/951?key=zunotv
-#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Kino-3 KZ
-https://beeline.ip-tv.workers.dev/stream/953?key=zunotv
-#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Reklama kanal KZ
-https://beeline.ip-tv.workers.dev/stream/952?key=zunotv
-#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Семейные мело драмы KZ
-https://beeline.ip-tv.workers.dev/stream/954?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/77tv-kz.png",77 канал
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://res.cloudinary.com/drtfotkc8/image/upload/v1764115193/wnzqqraawj1oebrqgpdp.png",7 канал KG
@@ -406,6 +390,20 @@ https://beeline.ip-tv.workers.dev/stream/927?key=zunotv
 https://beeline.ip-tv.workers.dev/stream/932?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Ontustik KZ
 https://beeline.ip-tv.workers.dev/stream/934?key=zunotv
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",31 Arna KZ
+https://beeline.ip-tv.workers.dev/stream/906?key=zunotv
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Киномания KZ
+https://beeline.ip-tv.workers.dev/stream/950?key=zunotv
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Vip канал KZ
+https://beeline.ip-tv.workers.dev/stream/951?key=zunotv
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Семейные мело драмы KZ
+https://beeline.ip-tv.workers.dev/stream/954?key=zunotv
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Документалные кино KZ
+https://beeline.ip-tv.workers.dev/stream/953?key=zunotv
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Travel TV KZ
+https://beeline.ip-tv.workers.dev/stream/952?key=zunotv
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Il канал KZ
+https://beeline.ip-tv.workers.dev/stream/917?key=zunotv
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/ulytau-kz.png",Ulytau KZ
 http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/14231/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Ассамблея ТВ KZ
@@ -2256,8 +2254,6 @@ http://stream.mcquack.net/185/index.m3u8
 https://s7.iptv-24.net/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 2 HD
 https://s7.iptv-24.net/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://tvfor.pro/images/channels/setanta_sp_1.png",Setanta Sports 1 LV
-http://vandijk.tvfor.pro/Nfw7iAOPbA0u/cnb0y9n3633wb3wnppri4wg6
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/qMb6r3tT/feb5d74c-4901-4fef-b20e-f152bcdb9100.jpg",Setanta Ukraine
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://viasat.com.ua/uploads/images/setanta_plus_450x310.png",Setanta + Ukraine
@@ -6263,7 +6259,8 @@ https://beeline.ip-tv.workers.dev/stream/877?key=zunotv
 #EXTM3U
 #EXTINF:-1 group-title="Armeniya_TV 🇦🇲",Premium 1
 http://stream.mcquack.net/123/index.m3u8
-
+#EXTINF:-1 group-title="Armeniya_TV 🇦🇲" tvg-logo="https://static.wikitide.net/telehistwiki/9/91/TV3_14.09.1999-30.09.2004.png",3 канал
+http://stream.mcquack.net/29/index.m3u8
 
 
 
