@@ -584,7 +584,6 @@ http://de1.plist.link:3355/FGfpnUmovVu6479/index.m3u8?token=5IbUTue09FDrDb-w2uQu
 #EXTINF:-1 group-title="Multik_TV 🐶",Nicktoons
 
 #EXTINF:-1 group-title="Multik_TV 🐶" ,NIKI Kids
-http://dtv.vol.net.ua/NIKI_Kids/index.m3u8
 
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="https://iptvx.one/picons/cartoon-classics.png",Cartoon Classics
 
@@ -2070,9 +2069,9 @@ https://cdn.kinolar.workers.dev/WNESS_HD/mono.m3u8?key=halvatv
 #EXTINF:-1 group-title="Dunyo_TV 🌎",История
 https://s7.iptv-24.net/1266/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="https://iptvx.one/picons/history.png",History HD
-http://dtv.vol.net.ua/History_HD/index.m3u8
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/837/index.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://s06.wsbof.com:8080/streams/h2-hd.png",History 2 HD
-http://dtv.vol.net.ua/H2-HD/index.m3u8
+http://89.33.29.115:8080/H2_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",BOX Stories HD
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Viasat History
@@ -3425,11 +3424,11 @@ http://de1.plist.link:3355/FGfpnUmovVu4464/index.m3u8?token=hjOF3_7BKVCl-sF4bGzX
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.imgur.com/Q4A6ci4.png",.Black HD
 http://de1.plist.link:3355/FGfpnUmovVu1465/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxMDwyNv4UFSWT9quhwPivAPz9FqbsB_8naAwmARe3FT_.tg6457680141
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/viasat-kino-hd.png",Viasat Kino HD
-http://dtv.vol.net.ua/Viasat_Kino/index.m3u8
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/viasat-kino-comedy-hd.png",Viasat Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/viasat-kino-action-hd.png",Viasat Kino Action HD
-http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/tv1000-world-kino.png",Viasat Kino World HD
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/viasat-kino-megahit-hd.png",Viasat Kino Megahit HD
@@ -5648,11 +5647,10 @@ https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",24 Знаем
 http://stream.mcquack.net/145/index.m3u8
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",My-Ukraine
-http://dtv.vol.net.ua:80/My-Ukraina/index.m3u8
+
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦" ,1+1 Marafon
-http://dtv.vol.net.ua/1PLUS1/index.m3u8
+
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦" ,2+2
-http://dtv.vol.net.ua/2PLUS2/index.m3u8
 
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",Freeдом
 http://stream.mcquack.net/63/index.m3u8
@@ -5675,25 +5673,25 @@ http://stream.mcquack.net/63/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00932.png?1754394495" group-title="Ukraina_TV 🇺🇦",Твоє кіно Action HD
 
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00567.png",Cine+ HD
-http://dtv.vol.net.ua/Cine_plus/index.m3u8
+
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00568.png",Cine+ Legend
-http://dtv.vol.net.ua/Cine_plus_Legend/index.m3u8
+
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00539.png?1767979984", Cine+ Hit HD
-http://dtv.vol.net.ua/Cine_plus_Hit/index.m3u8
+
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00540.png",Cine+ Kids HD
-http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00587.png?1693500292" group-title="Ukraina_TV 🇺🇦",ProKino HD
-http://dtv.vol.net.ua/ProKino/index.m3u8
+
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦" ,OCE HD
-http://dtv.vol.net.ua/OCE_HD/index.m3u8
+
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦" ,Super_plus
-http://dtv.vol.net.ua:80/super_plus/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch01079.png?1755004998" group-title="Ukraina_TV 🇺🇦",Твоя Пара
 
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",Star Cinema
 http://31.43.48.248:7000/ch56/video.m3u8
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",ICTV-2
-http://dtv.vol.net.ua/ICTV-2/index.m3u8
+
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦" tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/77.png",Сонце +
 https://cdn.kinolar.workers.dev/Sonce/mono.m3u8?key=halvatv
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",ТЕТ
@@ -5717,9 +5715,9 @@ http://iptv.prosto.tv:7000/ch16/video.m3u8
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",Super+ HD
 
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",K2
-http://dtv.vol.net.ua/K-2/index.m3u8
+
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",Inter+
-http://dtv.vol.net.ua/Inter_plus/index.m3u8
+
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",Надія/N.K.
 
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",Квартал ТВ
@@ -5753,9 +5751,9 @@ http://stream.mcquack.net/139/index.m3u8
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",Машина часу
 http://stream.mcquack.net/140/index.m3u8
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦" ,Svit+
-http://dtv.vol.net.ua/Svit_plus/index.m3u8
+
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦" ,Espreso
-http://dtv.vol.net.ua/Espreso_TV_HD/index.m3u8
+
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00566.png",NOW series HD
 
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",Аверс (Луцьк)
