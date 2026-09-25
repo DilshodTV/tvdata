@@ -2907,7 +2907,7 @@ https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="svoyo-tv-stavropol" tvg-logo="https://iptvx.one/picons/svoyo-tv-stavropol.png" group-title="Rossiya_TV 🇷🇺" ,Своё ТВ HD (Ставрополь)
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺 tvg-logo="https://i.ibb.co/8bJB4Pt/image-2024-10-08-T082838-632.png",Своё ТВ (Березики)
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.ibb.co/8bJB4Pt/image-2024-10-08-T082838-632.png",Своё ТВ (Березики)
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SVOETV/variant.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Север HD
 
