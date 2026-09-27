@@ -100,11 +100,11 @@ https://s7.iptv-24.net/1212/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/nV1MPQz2/f74bfc6be9137e5219898.jpg",TASIX-Media kino
 https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Kino
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Kino 1
 https://kinostream4-asil-tv.hf.space/hls/stream1.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Kino 2
 https://itvuz-live.hf.space/hls/stream1.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Cinema
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Cinema 1
 https://kinostream4-asil-tv.hf.space/hls/stream2.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Cinema 2
 https://itvuz-live.hf.space/hls/stream2.m3u8
