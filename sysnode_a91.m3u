@@ -101,20 +101,16 @@ https://s7.iptv-24.net/1212/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/nV1MPQz2/f74bfc6be9137e5219898.jpg",TASIX-Media kino
 https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Kino
-
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Cinema
-
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/5yJmvHFf/IMG-20260916-203648-663.jpg",Asil TV 1
 https://kinostream4-asil-tv.hf.space/hls/stream1.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/wjrc24sk/IMG-20260916-203651-124.jpg", Asil TV2
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Cinema
 https://kinostream4-asil-tv.hf.space/hls/stream2.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/BQYxZ7ph/IMG-20260916-203656-795.jpg", Asil TV Kids
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Kids
 https://kinostream4-asil-tv2.hf.space/hls/stream1.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/tTj6vKR5/IMG-20260916-203641-700.jpg", Asil TV Kulgu 
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Kulgu 
 https://kinostream4-asil-tv2.hf.space/hls/stream2.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://apps.usite.pro/ztvkino.jpg",ZTV Cinema
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Kino 2
 https://itvuz-live.hf.space/hls/stream1.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://apps.usite.pro/ztvkino.jpg",ZTV Kino
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Cinema 2
 https://itvuz-live.hf.space/hls/stream2.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/7h7M3kRJ/Screenshot-1.jpg",Mediabay TV
 
