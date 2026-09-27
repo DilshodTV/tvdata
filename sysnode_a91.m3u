@@ -399,10 +399,10 @@ http://s.only4.tv/9129/index.m3u8?token=Uqxoga1IGq
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Il канал KZ
 
-#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/ulytau-kz.png",Ulytau KZ
+#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/ulytau-kz.png",Ulytau HD KZ
 http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/14231/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Ассамблея ТВ KZ
-http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/15004/index.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Alatau TV KZ
 http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/2219/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/ico/aqtobe.png" , AQTOBE
@@ -411,8 +411,6 @@ http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/2219/index.m3u8
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/balapan.png",Balapan International
 https://qazaqstantv-stream.qazcdn.com/international/balapan/playlist.m3u8
-#EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.imgur.com/o0eevnb.png",Zarok TV Sorani
-https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.postimg.cc/XvYC4Ff4/Screenshot-1.jpg",Salem Alem KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Nick JR Mult KZ
@@ -440,7 +438,7 @@ https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://toiduman.kz/images/logo.png",Той Туман ТВ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Aqsham TV KZ
-http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/14223/index.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/silk-way-cinema.png" ,Silk Way Cinema HD
 https://stream.qazcdn.net/ex6r514/silkwaycinema/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakh-tv.png",Jibek Joly
@@ -472,7 +470,7 @@ https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://liter.kz/cache/imagine/1200/uploads/news/2021/01/07/gimn.jpg",Qazaqstan Music SD
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Qadam TV KZ
-http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/15005/index.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",MuzzOne HD
 https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/show-kz.png",SHOW KZ HD
@@ -6257,8 +6255,8 @@ https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8?checkedby:iptvcat.com
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Dubay_TV 🇦🇪",CSat TV
 http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
-#EXTINF:-1 group-title="Dubay_TV 🇦🇪",Zarok TV Mult
-https://zindisorani.zaroktv.com.tr/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Dubay_TV 🇦🇪" tvg-logo="https://i.imgur.com/o0eevnb.png",Zarok TV Mult
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 group-title="Dubay_TV 🇦🇪",Oman Mubashir
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Dubay_TV 🇦🇪",Oman Sports TV
