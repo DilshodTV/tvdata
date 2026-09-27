@@ -2254,9 +2254,9 @@ http://stream.mcquack.net/185/index.m3u8
 https://s7.iptv-24.net/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 2 HD
 https://s7.iptv-24.net/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/qMb6r3tT/feb5d74c-4901-4fef-b20e-f152bcdb9100.jpg",Setanta 1 UA
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/qMb6r3tT/feb5d74c-4901-4fef-b20e-f152bcdb9100.jpg",Setanta 1 Ukraina
 http://stream.mcquack.net/234/index.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/qMb6r3tT/feb5d74c-4901-4fef-b20e-f152bcdb9100.jpg",Setanta 2 UA
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/qMb6r3tT/feb5d74c-4901-4fef-b20e-f152bcdb9100.jpg",Setanta 2 Ukraina
 http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://viasat.com.ua/uploads/images/setanta_plus_450x310.png",Setanta + Ukraine
 
