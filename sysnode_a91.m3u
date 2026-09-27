@@ -546,6 +546,8 @@ http://stream.mcquack.net/60/index.m3u8
 http://stream.mcquack.net/150/index.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶",СТС Kids HD
 http://stream.mcquack.net/197/index.m3u8
+#EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="http://epg.one/img2/9327.png",Тооку HD
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="http://de1.plist.link/plepg/img/channels/76.png?69c29495ba529", 2x2
 http://de1.plist.link:3355/FGfpnUmovVu8076/index.m3u8?token=2VejxCo_Sezd_9XgsnoN6IUDKM-h7Xk4INGlLW-5yFvar-g4nItNDldhHRN7r6rd.tg6457680141
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="http://de1.plist.link/plepg/img/channels/2830.png?69c29495ba529", 2x2 (+2)
@@ -2269,13 +2271,13 @@ http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Megogo Гонг HD
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/1833.png?v1744706916", Окко.Прайм Спорт
-
+http://stream.mcquack.net/493/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/okko-football.png", Окко Футбол HD
-
+http://stream.mcquack.net/491/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/2037.png?v1773512349", Окко Чемпионат
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/okko-sport.png", Окко Спорт HD
-
+http://stream.mcquack.net/492/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://static.tildacdn.pro/tild3733-6564-4336-a430-383533323231/_.jpg", Online TV
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/upl.png", UPL.TV HD
@@ -2529,14 +2531,6 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 https://s7.iptv-24.net/1214/index.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺"  tvg-logo="https://master-cleanair.ru/images/perviy_hd.png",Первый канал СНГ
 https://s7.iptv-24.net/1019/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2842.png?69c29495b9dac",Первый канал (+2)
-http://de1.plist.link:3355/FGfpnUmovVu1363/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP5lZd5wxmDSpKL6xUvVkc5aDcvdZpCLIlFcCzOx_fIDZ.tg6457680141
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2842.png?69c29495b9dac",Первый канал (+4)
-http://de1.plist.link:3355/FGfpnUmovVu0386/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP2Bx2SR8AEh8dR_eqOI_dxWguZPT4mctOv8X0eBVP0d6.tg6457680141
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2842.png?69c29495b9dac",Первый канал (+6)
-http://de1.plist.link:3355/FGfpnUmovVu92802/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dPwmoRj9UIHNlAFENdt517uEWeSOBYOPqeoUuPwgneF1A.tg6457680141
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2842.png?69c29495b9dac",Первый канал (+8)
-http://de1.plist.link:3355/FGfpnUmovVu5387/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP_XkBesYMorMpB-Wj3GMvgynXvgaqyNrL1lkQMJbVZCw.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2839.png?69c29495b9dac",Россия 1 HD
 https://s7.iptv-24.net/1020/index.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/365.png?69c29495b9dac",Россия 1 (+2)
@@ -3587,6 +3581,8 @@ http://stream.mcquack.net/445/index.m3u8
 http://stream.mcquack.net/447/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-rec="7" timeshift="7",Kinowood
 http://stream.mcquack.net/446/index.m3u8
+#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/films/okkotv.png",ОккоТВ HD
+http://cdn.balelbrus.com/ottplayer/bigteisti8/08946906/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",НСТ
 http://hls127.freeott.top:8080/HCTV/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",Кошмар HD
