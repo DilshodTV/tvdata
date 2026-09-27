@@ -2375,7 +2375,7 @@ https://s7.iptv-24.net/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.zarya-kaspiya.ru/wp-content/uploads/2019/09/LOGO-ASTRAKHAN-RU-SPORT-ver.jpg" tvg-id="no_epg_sport" group-title="Sport_TV 🏆",Астрахань Спорт
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Конный мир Отлар
-http://bde.online24.pm/play/394/16419D145D0E706/video.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆",Horse TV Отлар
 https://hnc-free-viewlift.amagi.tv/playlist720_lp.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Monterrico TV
@@ -3727,8 +3727,8 @@ http://de1.plist.link:3355/FGfpnUmovVu8140/index.m3u8?token=hjOF3_7BKVCl-sF4bGzX
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_elf.png" ,Фильмы 24/7
 
-#EXTINF:-1 group-title="KINO_TV 📺",Akudji
-
+#EXTINF:-1 group-title="KINO_TV 📺",Лива ТВ
+http://bde.online24.pm/play/394/16419D145D0E706/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",P Boy Podpischik
 
 #EXTINF:-1 group-title="KINO_TV 📺",FMC FantasticMistyc
