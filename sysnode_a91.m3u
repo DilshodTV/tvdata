@@ -2161,6 +2161,8 @@ http://de1.plist.link:3355/FGfpnUmovVu7528/index.m3u8?token=oxIXXMtzS0fmegaXRm0q
 https://s7.iptv-24.net/1418/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="148" tvg-logo="http://tv.kubtel.ru/tv_icon/terra.png" group-title="Dunyo_TV 🌎",TERRA
 
+#EXTINF:-1 group-title="Dunyo_TV 🌎",Аква ТВ HD
+http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Приключения 
 https://s7.iptv-24.net/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Загородный
