@@ -2347,9 +2347,9 @@ http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆", Glory Kickboxing
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-rec="7" timeshift="7",Maincast кіберспорт
-http://stream.mcquack.net/487/index.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-rec="7" timeshift="7",Maincast sport
-http://stream.mcquack.net/490/index.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-rec="7" timeshift="7",Equalympic
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/xokkejny.png",Хоккей ТВ
