@@ -7160,8 +7160,8 @@ http://de1.plist.link:3355/FGfpnUmovVu31220/index.m3u8?token=0QsngQROEYTuEjj4tWr
 http://de1.plist.link:3355/FGfpnUmovVu21228/index.m3u8?token=0QsngQROEYTuEjj4tWrKa_QaalgC4lRcsALDMyZT_EouLQMBOJj_a_dOzvjjbAEb.tg6457680141
 #EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="http://de1.plist.link/plepg/img/channels/1240.png?69c29495b9f2a", MM Квартирник HD
 http://de1.plist.link:3355/FGfpnUmovVu71240/index.m3u8?token=0QsngQROEYTuEjj4tWrKa4fra1IuTMHPAJcVJwA6bI7xMKl8IKUFNFjAtbeB-e4S.tg6457680141
-
-
+#EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="https://i.imgur.com/jLQsU1u.png",Telerayo
+https://s.emisoras.tv:8081/telerayo/index.m3u8
 #EXTINF:-1 group-title="Muzika 🎙/🎸" tvg-logo="http://de1.plist.link/plepg/img/channels/661.png?69c29495b9f2a", AIVA HD
 http://de1.plist.link:3355/FGfpnUmovVu3661/index.m3u8?token=0QsngQROEYTuEjj4tWrKayFI-XnRK1yQv2y3v8dCqpYQWWdp7ZYmD7gcjro_kWsh.tg6457680141
 #EXTINF:-1 group-title="Muzika 🎙/🎸",Evropa plus TV
