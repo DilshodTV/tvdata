@@ -10,7 +10,7 @@ https://v2.catcast.tv/videos/ch38963/110220220628_125335/video.mp4
 #EXTINF:-1 group-title="📡 REKLAMA" tvg-logo="https://i.postimg.cc/tJKncYS4/dilshod-tv-xizmati.jpg",Doim siz bilan 👍
 
 #EXTINF:-1 group-title="📡 REKLAMA" tvg-logo="https://i.postimg.cc/Hn04bq9r/44444383-68abe79051cfd.jpg",Tel: 88-704-93-87
-http://rafail1982.uz/nexo2.mp4
+https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
 
 
 
@@ -6427,6 +6427,8 @@ https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 group-title="France_TV 🇫🇷",Les Anges
 https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="France_TV 🇫🇷" tvg-logo="https://i.imgur.com/6NUpxhr.png",Star Shopping
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 group-title="France_TV 🇫🇷",P2M TV Music
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 
@@ -6612,6 +6614,8 @@ https://sl2.sigmatv.com/hls/live.m3u8
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="Gretsiya_TV 🇬🇷",Xplore TV kino
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+#EXTINF:-1 group-title="Gretsiya_TV 🇬🇷" tvg-logo="https://i.imgur.com/6NUpxhr.png",Star Channel
+http://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:-1 group-title="Gretsiya_TV 🇬🇷", h1
 
 #EXTINF:-1 group-title="Gretsiya_TV 🇬🇷", h2
@@ -6950,14 +6954,44 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
 #EXTINF:-1 group-title="India_TV 🇮🇳",EET TV music
 https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 group-title="India_TV 🇮🇳" tvg-logo="https://dtil.tmsimg.com/assets/s143927_ld_h15_aa.png?lock=720x540",Tarang TV
+https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
+#EXTINF:-1 group-title="India_TV 🇮🇳" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png",Subin TV
+https://stream.galaxyott.live/live/subintv/index.m3u8
+#EXTINF:-1 group-title="India_TV 🇮🇳" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sidharth_TV.png",Sidharth TV
+http://51.75.127.199:3141/sidharthtv/index.m3u8
+#EXTINF:-1 group-title="India_TV 🇮🇳" tvg-logo="https://i.imgur.com/8v4JXYu.png",Star Maa Gold 
+http://51.75.127.199:3141/starmaagold/index.m3u8
+#EXTINF:-1 group-title="India_TV 🇮🇳" tvg-logo="https://i.imgur.com/5c9PVS0.png",Star Maa
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 group-title="India_TV 🇮🇳" tvg-logo="https://i.imgur.com/IlufzR5.png",Star Jalsha
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 group-title="India_TV 🇮🇳" tvg-logo="https://i.imgur.com/H1jhHDl.png",Star Utsav
+http://51.75.127.199:3141/starutsav/index.m3u8
+#EXTINF:-1 group-title="India_TV 🇮🇳" tvg-logo="https://i.imgur.com/U9FA4Gs.png",Star Suvarna 
+http://51.75.127.199:3141/starsuvarna/index.m3u8
+#EXTINF:-1 group-title="India_TV 🇮🇳" tvg-logo="https://i.imgur.com/dZtJHAe.png",Star Vijay
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
+#EXTINF:-1 group-title="India_TV 🇮🇳" tvg-logo="https://i.imgur.com/ZT0u7AK.png",Star Pravah
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 group-title="India_TV 🇮🇳" tvg-logo="https://i.imgur.com/M8uCJ0D.png",Colors
+http://51.75.127.199:3141/colorssd/index.m3u8
+#EXTINF:-1 group-title="India_TV 🇮🇳" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",Colors Infinity HD
+http://51.75.127.199:3141/colorsinfinityhd/index.m3u8
+#EXTINF:-1 group-title="India_TV 🇮🇳" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_HD/images/LOGO_HD/image.png",Colors India HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
 #EXTINF:-1 group-title="India_TV 🇮🇳",Weather Spy India
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="India_TV 🇮🇳" tvg-logo="https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png,Spondon
+https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
 #EXTINF:-1 group-title="India_TV 🇮🇳",SVBC (Sig'inish)
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 #EXTINF:-1 group-title="India_TV 🇮🇳",Aaj Tak
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 group-title="India_TV 🇮🇳",Channel Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 group-title="India_TV 🇮🇳" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",MTV (India) HD
+http://51.75.127.199:3141/mtvhd/index.m3u8
 
 
 
@@ -6989,6 +7023,8 @@ https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:-1 group-title="Afrika 🇿🇦",Канал MO
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
+#EXTINF:-1 group-title="Afrika 🇿🇦" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654228e5b5.jpg",Soweto TV 
+https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Afrika 🇿🇦",ТВ Африка
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 #EXTINF:-1 group-title="Afrika 🇿🇦",BBlack Africa
@@ -6999,6 +7035,8 @@ http://edge11.vedge.infomaniak.com/livecast/ik:bblackcaribbean/chunklist.m3u8
 http://edge11.vedge.infomaniak.com/livecast/ik:bblackclassik/chunklist.m3u8
 #EXTINF:-1 group-title="Afrika 🇿🇦",ТВ Африка music
 https://s.emisoras.tv:8081/telerayo/index.m3u8
+#EXTINF:-1 group-title="Afrika 🇿🇦" tvg-logo="https://i.imgur.com/TJHk6Va.png",SolTV
+https://stream.solmediaeg.com/soltv/soltv.m3u8
 #EXTINF:-1 group-title="Afrika 🇿🇦",Afrobeats TV music
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Afrika 🇿🇦",Oxygen music
