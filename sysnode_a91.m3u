@@ -338,7 +338,7 @@ http://212.112.106.117:8086/0.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1839.png?v1744724779", Мировое Кино KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1837.png?v1744724638", Семейное Кино KZ
-http://cdn.balelbrus.com/ottplayer/bigteisti9/18946921/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1835.png?v1744724390", Кинодрама KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://ip-tv.dev/images/epg/1834.png?v1744724351", Киносериал KZ
@@ -611,15 +611,15 @@ http://de1.plist.link:3355/FGfpnUmovVu31287/index.m3u8?token=5IbUTue09FDrDb-w2uQ
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="http://de1.plist.link/plepg/img/channels/1290.png?69c29495ba3b1", MS Toons HD
 http://de1.plist.link:3355/FGfpnUmovVu41290/index.m3u8?token=5IbUTue09FDrDb-w2uQumsJ-x3lWfApu60MEPTKeP6Dg6eHIlSPW3YkA4ZNL94Tc.tg6457680141
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/veles/Veles_Kids.png",VeleS Kids
-http://cdn.balelbrus.com/ottplayer/bigteisti1/VELES_KIDS/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/veles/veles_anime_new.png",VeleS Аниме
-http://cdn.balelbrus.com/ottplayer/bigteisti1/08936904/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Губка Боб
-http://cdn.balelbrus.com/ottplayer/bigteisti10/08936909/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Щенячий патруль
-http://cdn.balelbrus.com/ottplayer/bigteisti10/08936910/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/karloson_tv.jpg",Karlson TV My Little Pony
-http://cdn.balelbrus.com/ottplayer/bigteisti10/08936913/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="Multik_TV 🐶",Fresh Kids
 http://ott.watch/stream/DTCEUBKDH5/425.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="http://de1.plist.link/plepg/img/channels/1558.png?69c29495ba3b1", Magic Disney HD
@@ -2682,7 +2682,7 @@ http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/rutube-tv.png",Rutube TV HD
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=-Ge3KoY0yqREXgiHvRO2ZQ&e=2069500952&scheme=https
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://p.rapidnas.org/img/logos/films/feniks-plus-kino.png",Феникс+Кино HD
-http://cdn.balelbrus.com/ottplayer/bigteisti1/fenix_plus_kino_hd/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",О!Кино
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://img.rnx.ru/logotvchannel/44-250.jpg",Дом кино
@@ -2830,7 +2830,7 @@ https://lbgo.bozztv.com/07/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="353" tvg-logo="http://tv.kubtel.ru/tv_icon/MosfilmHD.png" group-title="Rossiya_TV 🇷🇺",Мосфильм. Золотая коллекция
 http://de1.plist.link:3355/FGfpnUmovVu8336/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxMdvJFBtUTg3y_O-p0dNr-S7CU7YgisyGfePCkofcQ8j.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://p.rapidnas.org/img/logos/poznanie/patriot.png",Патриот
-http://cdn.balelbrus.com/ottplayer/bigteisti19/09946944/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png",Детское кино International
@@ -2846,7 +2846,7 @@ http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10301/logo_256_1658737857.png",Театр
 http://hls127.freeott.top:8080/Teatr/mono.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://p.rapidnas.org/img/logos/films/kriminalnoe_hd.png",Криминальное HD
-http://cdn.balelbrus.com/ottplayer/bigteisti1/kriminalnoe_hd/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Лекторий ДОСТОЕВСКИЙ
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Осетия Иристон HD
@@ -3641,7 +3641,7 @@ http://stream.mcquack.net/74/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",Киноман
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/films/kinomenu.png",Киноменю HD
-http://cdn.balelbrus.com/ottplayer/bigteisti2/a2lub21lbnU/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00560.png" KinoLiving HD
 http://stream.mcquack.net/445/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-rec="7" timeshift="7",Kinosweet
@@ -3649,13 +3649,13 @@ http://stream.mcquack.net/447/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-rec="7" timeshift="7",Kinowood
 http://stream.mcquack.net/446/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/films/familyjam.png",FamilyJam HD
-http://cdn.balelbrus.com/ottplayer/bigteisti9/FAMILY_JAM/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/films/detectivejam.png",Detective Jam HD
-http://cdn.balelbrus.com/ottplayer/bigteisti9/DETECTIVE_JAM/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/films/plan-b.png",Plan_B
-http://cdn.balelbrus.com/ottplayer/bigteisti2/plan_b/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/films/okkotv.png",ОккоТВ HD
-http://cdn.balelbrus.com/ottplayer/bigteisti8/08946906/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="KINO_TV 📺",НСТ
 http://hls127.freeott.top:8080/HCTV/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",Кошмар HD
@@ -3685,11 +3685,11 @@ http://stream.mcquack.net/182/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",FOX LIFE
 http://stream.mcquack.net/129/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/films/vhs-ka.png",VHS-ка HD
-http://cdn.balelbrus.com/ottplayer/bigteisti1/08936910/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/films/vhs-ka.png",VHS-ка Сериал HD
-http://cdn.balelbrus.com/ottplayer/bigteisti19/08946943/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/films/vhska-ruskino.png",VHS-ка русское кино
-http://cdn.balelbrus.com/ottplayer/bigteisti8/true_crime_hd/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="KINO_TV 📺",TVM Channel
 http://dmi3y-tv.online/hls/CH_TVMCHANNEL.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",Super Baltic HD
@@ -3731,7 +3731,7 @@ http://stream.mcquack.net/465/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺",Космос ТВ
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/films/novellatv.png",Novella TV
-http://cdn.balelbrus.com/ottplayer/bigteisti8/aa_2_5038/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="KINO_TV 📺",Arpinet
 
 #EXTINF:-1 group-title="KINO_TV 📺",НИК
@@ -3749,7 +3749,7 @@ http://de1.plist.link:3355/FGfpnUmovVu0501/index.m3u8?token=hjOF3_7BKVCl-sF4bGzX
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00439.png" group-title="KINO_TV 📺",KinoKazka HD
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/films/lavstori.png",Лавстори HD
-http://cdn.balelbrus.com/ottplayer/bigteisti10/08936903/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="KINO_TV 📺",Любимое HD
 
 #EXTINF:-1 group-title="KINO_TV 📺",Кино Сборка
@@ -3759,7 +3759,7 @@ http://cdn.balelbrus.com/ottplayer/bigteisti10/08936903/R3VsbWFufHxSblZyZFc1bk1X
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/hit-hd-orig.png",Хит HD
 http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/films/kion-xit.png",KION Хит HD
-http://cdn.balelbrus.com/ottplayer/bigteisti8/kion_hit_hd/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/kino-premium-hd-orig.png",Премиальное HD
 http://de1.plist.link:3355/FGfpnUmovVu4084/index.m3u8?token=hjOF3_7BKVCl-sF4bGzXxD6wuLzrGfCRywPqMxOcW6zdyA5kb0ztvLaid_IhMiC5.tg6457680141
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/ostrosujetnoe-hd-orig.png",Остросюжетное HD
@@ -3773,9 +3773,9 @@ http://de1.plist.link:3355/FGfpnUmovVu1072/index.m3u8?token=hjOF3_7BKVCl-sF4bGzX
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://s06.wsbof.com:8080/streams/suspense-hd.png",Suspense HD
 
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/films/vesna.png",Vesna HD
-http://cdn.balelbrus.com/ottplayer/bigteisti10/08936905/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/films/9-1-1.png",9-1-1 HD
-http://cdn.balelbrus.com/ottplayer/bigteisti10/08936906/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
+
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://iptvx.one/picons/kinosezon.png",КиноСезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://iptvx.one/picons/narod-vsio-vidit.png",Народ Всё Видит
@@ -4260,54 +4260,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/20218/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://epg.one/img2/7911.png",Eye Drive HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8DNEYEKGDK3SKVGLNPWNEP9Q/20219/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/yosso_tv/marvel.png",C-Marvel HD
-http://cdn.balelbrus.com/ottplayer/bigteisti1/Y-C-MARVEL/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/yosso_tv/c-inquest.png",C-Inquest HD
-http://cdn.balelbrus.com/ottplayer/bigteisti1/C-INQUEST1/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/yosso_tv/ccomedy.png",C-Comedy HD
-http://cdn.balelbrus.com/ottplayer/bigteisti8/C-IIICOMEDYIII/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/yosso/c-history.png",C-History HD
-http://cdn.balelbrus.com/ottplayer/bigteisti8/Y-C-HISTORY/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/yosso/c-holiday-s.png",C-Holiday HD
-http://cdn.balelbrus.com/ottplayer/bigteisti1/08936905/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/veles/VELES_60FPS_normal.png",VeleS 60 FPS
-http://cdn.balelbrus.com/ottplayer/bigteisti1/VELES_60FPS/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/veles/veles_premiere.png",VeleS Premiere
-http://cdn.balelbrus.com/ottplayer/bigteisti1/VELES_PREMIERE/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/veles/Veles_Movies_Hits.png",VeleS Movie Hits
-http://cdn.balelbrus.com/ottplayer/bigteisti1/VELES_MOVIE_HITS/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/veles/veles_kinoplenka_normal.png",VeleS Киноплёнка
-http://cdn.balelbrus.com/ottplayer/bigteisti1/VELES_KINOPLENKA/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/veles/veles_kinoseries.png",VeleS Киносерия
-http://cdn.balelbrus.com/ottplayer/bigteisti1/VELES_KINOSERIES/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/veles/veles_strashnoe.png",VeleS Страшное
-http://cdn.balelbrus.com/ottplayer/bigteisti1/VELES_STRASHNOE/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/veles/veles_magnitofon.png",VeleS Магнитофон
-http://cdn.balelbrus.com/ottplayer/bigteisti1/VELES_MAGNITOFON/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/veles/veles_criminal_normal.png",VeleS Криминальный
-http://cdn.balelbrus.com/ottplayer/bigteisti1/VELES_CRIMINAL/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/veles/veles_comedy_new.png",VeleS Комедия
-http://cdn.balelbrus.com/ottplayer/bigteisti1/08936901/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/veles/veles_our_cinema_new.png",VeleS Наше Кино
-http://cdn.balelbrus.com/ottplayer/bigteisti8/08936911/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/veles/veles_newyear_normal.png",VeleS С Новым годом!
-http://cdn.balelbrus.com/ottplayer/bigteisti1/08936906/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/veles/veles_family_new.png",VeleS Семейный
-http://cdn.balelbrus.com/ottplayer/bigteisti8/08936909/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/veles/veles_triller_new.png",VeleS Триллер
-http://cdn.balelbrus.com/ottplayer/bigteisti2/08936925/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/veles/veles_vestern_new.png",VeleS Вестерн
-http://cdn.balelbrus.com/ottplayer/bigteisti8/08936910/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/veles/veles_goblin_new.png",VeleS Гоблин
-http://cdn.balelbrus.com/ottplayer/bigteisti8/08936912/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Сериалы
-http://cdn.balelbrus.com/ottplayer/bigteisti1/08936914/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Интерны
-http://cdn.balelbrus.com/ottplayer/bigteisti10/08936911/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/atv-kinoman.png",ATV Kinoman HD
-http://cdn.balelbrus.com/ottplayer/bigteisti6/ATV_Kinoman_HD/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
-#EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/atv-bazmoc.png",ATV Bazmoc HD
-http://cdn.balelbrus.com/ottplayer/bigteisti6/ATV_Bazmoc_HD/R3VsbWFufHxSblZyZFc1bk1XRnA=/index.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 1 HD
 http://cdntv.online/low/97zpx2bhuf/2228.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://i.postimg.cc/vmp6T6L6/unnamed.png",Play-x Кинозал 2 HD
