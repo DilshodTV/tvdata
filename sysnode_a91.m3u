@@ -3323,9 +3323,9 @@ http://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KOSTROMA_RUS/varia
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://lime-tv.ru/uploads/posts/2019-09/thumbs/1568806824_nts-tv.jpg",НТС HD Севастополь
 
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺 tvg-logo="https://iptvx.one/picons/nts-irbit.png",НТС (Ирбит)
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/nts-irbit.png",НТС (Ирбит)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺 tvg-logo="https://iptvx.one/picons/nts-irkutsk.png",НТС (Иркутск)
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/nts-irkutsk.png",НТС (Иркутск)
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",ТВ-ИН (Магнитогорск)
 
