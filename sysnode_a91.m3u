@@ -2029,8 +2029,8 @@ https://s7.iptv-24.net/1231/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Домашние животные 
 https://s7.iptv-24.net/1426/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Dunyo_TV 🌎",Тонус
-
+#EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="https://iptvx.one/picons/tonus-tv.png",Тонус
+http://194.143.148.28:8080/Mir24/index.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Живи Активно HD
 https://s7.iptv-24.net/1405/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Живи спорт
@@ -2135,6 +2135,10 @@ http://stream.mcquack.net/346/index.m3u8
 
 #EXTINF:-1 group-title="Dunyo_TV 🌎",Моя Планета HD
 https://s7.iptv-24.net/1247/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="https://iptvx.one/picons/neizvestnaya-planeta.png",Неизвестная Планета
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
+#EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png",Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",ZooПарк
 https://s7.iptv-24.net/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://de1.plist.link/plepg/img/channels/435.png?69c29495ba464", TLC HD
@@ -2311,7 +2315,7 @@ https://s7.iptv-24.net/1452/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/2jVK4YV0/Eurosport-3-HD.png",Eurosport 3 HD
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.imgur.com/ujS6mMo.png",ТВ Спорт
-
+http://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆", Волейбол
 
 #EXTINF:-1 tvg-id="451" tvg-logo="http://tv.kubtel.ru/tv_icon/MirBasket.png" group-title="Sport_TV 🏆",Мир Баскетбола
@@ -2353,7 +2357,7 @@ http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-rec="7" timeshift="7",Maincast sport
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-rec="7" timeshift="7",Equalympic
-
+http://stream.mcquack.net/485/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/xokkejny.png",Хоккей ТВ
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.cdntv.online/img/45.png",КХЛ HD Хокей
@@ -2374,6 +2378,8 @@ http://bde.online24.pm/play/1889/16419D145D0E706/video.m3u8
 https://s7.iptv-24.net/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Vital Drive
 
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.logos-download.com/114030/29915-s5120-904df224e4c030fefcc45adda448b6e8.png/DiviSport_Logo_2023-s5120.png",DiviSport
+http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.zarya-kaspiya.ru/wp-content/uploads/2019/09/LOGO-ASTRAKHAN-RU-SPORT-ver.jpg" tvg-id="no_epg_sport" group-title="Sport_TV 🏆",Астрахань Спорт
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Конный мир Отлар
@@ -2386,6 +2392,8 @@ https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="Sport_TV 🏆",IMPACT! Wrestling
 
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.imgur.com/cFTR4kC.png",MRTV Sports
+https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sport_TV 🏆",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",XStream
@@ -2446,6 +2454,8 @@ https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlis
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",V Sport Golf
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.imgur.com/J0TY9dG.png",PGA Tour
+https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",CCTV-Golf & Tennis
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 group-title="Sport_TV 🏆",CCTV-Storm Football
@@ -2487,8 +2497,12 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Pac 12 Insider (Amerika)
 https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.imgur.com/gUxH97E.png",PBR RidePass
+https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Hard Knocks (Amerika)
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆",Persiana Fight
+https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Fuel TV
 https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",FUEL TV LIVE
@@ -2557,8 +2571,8 @@ http://de1.plist.link:3355/FGfpnUmovVu92812/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Россия 24
 https://s7.iptv-24.net/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/6.png?69c29495b9dac", Москва 24
-http://de1.plist.link:3355/FGfpnUmovVu6006/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP5uoWUZFPeMvxgFvWkQpukmDeEuGL9IEr3ofQADRyMZT.tg6457680141
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/moskva-24.png",Москва 24
+https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",ВМЕСТЕ-РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="320" tvg-logo="http://tv.kubtel.ru/tv_icon/vremyaDALiBLIZ.png" group-title="Rossiya_TV 🇷🇺",Время
@@ -2661,8 +2675,10 @@ https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=-G
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://img.rnx.ru/logotvchannel/44-250.jpg",Дом кино
 https://s7.iptv-24.net/1054/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="272" tvg-logo="http://tv.kubtel.ru/tv_icon/dom-kino-premium.png" group-title="Rossiya_TV 🇷🇺",Дом Кино Премиум HD
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://tv.kubtel.ru/tv_icon/dom-kino-premium.png",Дом Кино Премиум HD
 http://stream.mcquack.net/108/index.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/nash-dom.png",Наш дом
+http://85.234.33.63/stream/c11.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/417.png?69c29495b9dac", Домашний
 http://de1.plist.link:3355/FGfpnUmovVu7417/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP2reF88t_rdESF4FyXUO76RNKPGQWUp9IE6jSiTw8Ws6.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/417.png?69c29495b9dac", Домашний (+2)
@@ -2863,6 +2879,8 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlis
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.ibb.co/KXtFBYh/image-2024-10-12-T050631-869.png",6 канал (Владимир)
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_6KANAL/variant.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/tv7-abakan.png",ТВ-7 Абакан
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.ibb.co/cktxWtc/image-95.png",7 канал (Красоярск)
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",8 Канал 
@@ -2889,6 +2907,13 @@ https://fhtrc6b9861.a.trbcdn.net/livemaster/zolwjjzp0b_testtrk/playlist.m3u8
 http://85.234.33.63/stream/c11.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://pbs.twimg.com/profile_images/1161883563492564992/OPawdkI-_400x400.jpg",12 канал (Омск)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/tv21plus.png",ТВ-21+
+http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/region29.png",Регион 29
+http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/31-kanal-chelyabinsk.png",31 канал (Челябинск)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.ibb.co/9b01rMp/image-2024-10-07-T171158-608.png",Рыбиск-40
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",43 канал HD
@@ -2921,8 +2946,8 @@ https://sitv.ru/hls/s86512.m3u8
 https://s7.iptv-24.net/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.ibb.co/hmj9Hk9/resize-58.png",Глазов 24
 https://yellow.garant.tv/glazov24/stream.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",RTД
-
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/rt-doc.png",RTД HD
+http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/327.png?69c29495ba464", Оружие
 http://de1.plist.link:3355/FGfpnUmovVu5327/index.m3u8?token=7LO7cdTWNP71bg9jr81xWKgBqUyXUpY1KCa0JYMeUk5PzhuX1wwPiQUVHlmMF8Rf.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Среда HD (Каспийск)
@@ -2943,8 +2968,6 @@ https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=U_
 https://live-4.otcnet.ru/504/135/480p/index.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.ibb.co/HtxbrHX/resize-69.png",ДОН 24 HD (Ростов-а-Доу)
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Неизвестная Россия HD
-
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://epg.it999.ru/img2/4628.png",Новый Век (Тамбов) HD
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Губерния (Хабаровск)
@@ -2984,6 +3007,8 @@ https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=eK
 http://de1.plist.link:3355/FGfpnUmovVu52698/index.m3u8?token=2VejxCo_Sezd_9XgsnoN6LAK81lWCRZ5yXcKQYXOF3dgQ4vMdz58eQpxiqb13AZm.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Томское время
 
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/rentv-istoki.png",Истоки
+http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_ISTOKI/variant.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://ramtv.ru/wp-content/uploads/2021/12/cropped-Logo2020-white2-e1640011054620.png",Раменское ТВ HD
 https://e10-ll.facecast.net/rtv/0.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Вестник Надыма
@@ -2998,8 +3023,6 @@ https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 http://stream.trafjam.ru/tvcom/studio/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://www.cableman.ru/sites/default/files/tverskoyprospekt.jpg",Тверской Проспект Регион
 http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Первый городской (Омск)
-
 #EXTINF:-1 tvg-id="omsk-tv" tvg-logo="https://iptvx.one/picons/omsk-tv.png" group-title="Rossiya_TV 🇷🇺" ,Омск ТВ
 https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=9LljursQaAxFdR0mnennUQ&e=2070623518&scheme=https
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Панорама ТВ HD (Тверь)
@@ -3024,6 +3047,8 @@ http://serv25.vintera.tv:8081/gelendzhik/stream_1/playlist.m3u8
 https://glorystartv.live/Impact/tracks-v1a1/mono.m3u8?DVR
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",ТРК Юнион
 
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",ТРК Юганск
+http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_YUGANSK/variant.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",ТКР Рязань
 http://live-tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="420" tvg-logo="http://tv.kubtel.ru/tv_icon/otrHD.png" group-title="Rossiya_TV 🇷🇺",ОТР HD
@@ -3034,7 +3059,7 @@ https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
 https://vd.obltv.ru/watch/air_hd.m3u8
 #EXTINF:-1 tvg-id="otv-primorie" tvg-logo="https://iptvx.one/picons/otv-primorie.png" group-title="Rossiya_TV 🇷🇺" ,ОТВ (Приморье)
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.ibb.co/FqHzK13/resize-2024-10-07-T162146-605.png",ОТВ (Сахали)
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.ibb.co/FqHzK13/resize-2024-10-07-T162146-605.png",ОТВ (Сахалин)
 https://sakh.online/hls/stream.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.ibb.co/fvC7z5z/image-2024-10-07-T162307-493.png",ОТВ (Челябиск)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
@@ -3174,6 +3199,8 @@ https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/v
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.ibb.co/GvQLS8M/Samara-24-256x72.png",Самара 24
 
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/ktv-luch.png",КТВ-Луч (Сызрань)
+http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_KTVLUCH/variant.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Сибирь 24 (Новосибирск)
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Саратов 24 HD
@@ -3248,8 +3275,8 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_NN_NTS/variant.m3u8
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_NOVOCHERKASSK/variant.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.ibb.co/09NfBXs/image-2024-10-12-T055156-909.png",Новошахтинск ТВ
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_NOVOSHAHTINSK/variant.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",NEXT-TV
-
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/next-tv.png",NEXT-TV
+http://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.ibb.co/5BPGBrD/resize-2024-10-07-T181950-577.png",ТЕО-ТВ HD
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Евразия
@@ -3274,8 +3301,12 @@ https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_STV24/variant.m3u8
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R04_STV/variant.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Прима HD (Красноярск)
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-id="pro-zhizn" tvg-logo="https://iptvx.one/picons/pro-zhizn.png" group-title="Rossiya_TV 🇷🇺",Про жизнь
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/pro-zhizn.png",Про жизнь
 https://27trk.iptv2022.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/pervy-oblastnoy-orel.png",Первый областной (Орел)
+http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/pervy-gorodskoy-kirov.png",Первый городской (Киров)
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
 #EXTINF:-1 tvg-id="pervy-pskovsky" tvg-logo="https://iptvx.one/picons/pervy-pskovsky.png" group-title="Rossiya_TV 🇷🇺",Первый Псковский
 http://live-3.otcnet.ru/pskov/index.m3u8
 #EXTINF:-1 tvg-id="pervy-rostovsky" tvg-logo="https://iptvx.one/picons/pervy-rostovsky.png" group-title="Rossiya_TV 🇷🇺",Первый Ростовский
@@ -3292,8 +3323,10 @@ http://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KOSTROMA_RUS/varia
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://lime-tv.ru/uploads/posts/2019-09/thumbs/1568806824_nts-tv.jpg",НТС HD Севастополь
 
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",НТС Иркутск
-
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺 tvg-logo="https://iptvx.one/picons/nts-irbit.png",НТС (Ирбит)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺 tvg-logo="https://iptvx.one/picons/nts-irkutsk.png",НТС (Иркутск)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",ТВ-ИН (Магнитогорск)
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Дзержинск ТВ
@@ -3336,6 +3369,8 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.ibb.co/ydxD0vn/image-2024-10-07-T171909-158.png",Самотлор ТВ
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_SAMOTLOR/variant.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/sampo-tv.png",Сампо ТВ
+http://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",ЯПервый HD
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",СГДФ 24 HD (Свердловск)
@@ -3404,6 +3439,8 @@ https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 http://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://epg.it999.ru/img/2474.png",КРЫМ 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://iptvx.one/picons/tatarstan24.png",Татарстан 24
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.ibb.co/ZmZMD9d/resize-2024-10-07-T182607-103.png",ТНВ Татарстан
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.ibb.co/RjMg53B/image-2024-10-07-T182506-745.png",ТНВ Планета
@@ -3426,8 +3463,6 @@ http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",OVAA TV
 http://vod.tuva.ru/ovaa/index.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",БСТ HD
-
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",НТК (Калмыкия)
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_NTK_ZEL/variant.m3u8
 #EXTINF:-1 tvg-id="zhar-ptica" tvg-logo="https://iptvx.one/picons/zhar-ptica.png" group-title="Rossiya_TV 🇷🇺" ,Жар Птица (Казань)
@@ -7304,6 +7339,8 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod FM (UZ)
+https://stream.zeno.fm/gnsnxsq1znhvv
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",Oriat dono
 http://oriat.mediabay.uz/oriatdono.m3u8
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",Oriat FM
@@ -7318,8 +7355,6 @@ http://oriat.mediabay.uz:8012/ikbol
 http://mediamarkaz.com:8000/radiomarkaz
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png", SUPER FM (UZ)
 https://stream.zeno.fm/b7ye4q0k3zhvv
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://radiopotok.ru/f/station/512/2648.png",Zuno FM (UZ)
-https://zunofm.volticast.net/live.mp3
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://au.radio.net/300/lautfm-music-fm.png?version=d8aac954ef52af86cf70c97a7e20fd2f7c904625", Music FM (UZ)
 https://stream-176.zeno.fm/8ablr30ahycuv?n=fflzkt8c7pnpx7e71bdh
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",Yangi Radio FM (UZ) 
