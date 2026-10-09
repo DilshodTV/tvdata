@@ -591,7 +591,7 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶",Пингвин Лоло
 http://85.192.10.131/hls/pingvinru/playlist.m3u8
 #EXTINF:-1 tvg-id="343" tvg-logo="http://tv.kubtel.ru/tv_icon/Sumiko.png" group-title="Multik_TV 🐶",Sumiko
-
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/157/index.m3u8
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="http://de1.plist.link/plepg/img/channels/2838.png?69c29495ba3b1", Советские мультфильмы
 http://de1.plist.link:3355/FGfpnUmovVu62838/index.m3u8?token=5IbUTue09FDrDb-w2uQumuiasYPN9X7UJCXx6pOo5ejsGu_8YHjRRWlThipvQ4pU.tg6457680141
 #EXTINF:-1 group-title="Multik_TV 🐶" tvg-logo="https://w7.pngwing.com/pngs/174/687/png-transparent-drawing-watching-tv-miscellaneous-child-photography.png",CHILDREN'S TV
@@ -2767,6 +2767,8 @@ http://de1.plist.link:3355/FGfpnUmovVu32809/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-
 http://dmi3y-tv.online/hls/T2/CH_RENTV_INTERNATIONAL.m3u8
 #EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Rossiya_TV 🇷🇺" ,Суббота
 http://217.114.191.150/Subbota/index.m3u8
+#EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Rossiya_TV 🇷🇺" ,Суббота (+2)
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/826/index.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://de1.plist.link/plepg/img/channels/2815.png?69c29495ba529", Суббота! (+7)
 http://de1.plist.link:3355/FGfpnUmovVu72815/index.m3u8?token=2VejxCo_Sezd_9XgsnoN6F3Qv0EJd5zlqrer3BRNnFckyCr3YbRDnzNSwEzEPrp_.tg6457680141
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://i.imgur.com/QgcMEzn.png",Танцуй!
@@ -5871,6 +5873,8 @@ http://stream.mcquack.net/322/index.m3u8
 http://stream.mcquack.net/466/index.m3u8
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",НТН
 http://31.43.48.248:7000/ch12/video.m3u8
+#EXTINF:-1 group-title="Ukraina_TV 🇺🇦",НТН (+2)
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/936/index.m3u8
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",33 канал (Хмельницький)
 https://33news.org/33chanel/live/chunklist_w459617257.m3u8
 #EXTINF:-1 group-title="Ukraina_TV 🇺🇦",СТБ HD
