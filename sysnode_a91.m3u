@@ -2553,9 +2553,9 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 #EXTM3U
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://master-cleanair.ru/images/perviy_hd.png",Первый HD
 https://edge04.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺"  tvg-logo="https://master-cleanair.ru/images/perviy_hd.png",Первый канал СНГ
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺"  tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/152/892/05.png",Первый канал СНГ
 https://s7.iptv-24.net/1019/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://epg.cdntv.online/img/27.png", Первый канал (+4)
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/152/892/05.png", Первый канал (+4)
 http://cdntv.online/high/kf28bzwndi/27.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://epg.cdntv.online/img/32.png",Россия 1 HD
 https://s7.iptv-24.net/1020/index.m3u8
@@ -2587,8 +2587,6 @@ https://s7.iptv-24.net/1024/tracks-v1a1/mono.m3u8
 https://s7.iptv-24.net/1251/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://download.logo.wine/logo/CNN/CNN-Logo.wine.png",CNN Америка
 https://s7.iptv-24.net/1259/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Sky News Weather
-https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",CGTN РУССКИЙ HD
 http://dmitry-tv.ddns.net/hls/CH_CGTN_RUSSKIYHD.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Мир 24 HD
@@ -6727,6 +6725,8 @@ https://s7.iptv-24.net/1253/tracks-v1a1/mono.m3u8
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",Black News Channel
 http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika_TV 🇺🇸" tvg-logo="https://i.postimg.cc/8PKS88DF/l-Gt2w-Eq-M-400x400.jpg",Sky News Weather
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",ZooMoo Mult
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_TV 🇺🇸",30A The Beach Show
