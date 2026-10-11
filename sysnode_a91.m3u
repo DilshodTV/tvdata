@@ -2551,11 +2551,11 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 
 
 #EXTM3U
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://master-cleanair.ru/images/perviy_hd.png",Первый HD
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png",Первый HD
 https://edge04.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺"  tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/152/892/05.png",Первый канал СНГ
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺"  tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png",Первый канал СНГ
 https://s7.iptv-24.net/1019/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/152/892/05.png", Первый канал (+4)
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал (+4)
 http://cdntv.online/high/kf28bzwndi/27.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://epg.cdntv.online/img/32.png",Россия 1 HD
 https://s7.iptv-24.net/1020/index.m3u8
