@@ -106,6 +106,15 @@ https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/09//bf3d6bc5-bdc2-43dd-b808-6b1892c445b1-q-500x500.jpeg", CineMedia
 https://s7.iptv-24.net/1498/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Kino
+https://kinostream4-asil-tv.hf.space/hls/stream1.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Cinema
+https://kinostream4-asil-tv.hf.space/hls/stream2.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Kids
+https://kinostream4-asil-tv2.hf.space/hls/stream1.m3u8
+#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Kulgu 
+https://kinostream4-asil-tv2.hf.space/hls/stream2.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/19//2b9d5460c300fafc6cac117e0650b4fd-q-500x500.jpeg",S-Ikbol
 https://s7.iptv-24.net/1282/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/14//2aad1133ca08fb62b06d06edf1b052b1-q-500x500.jpeg", S Music
@@ -120,14 +129,6 @@ https://s7.iptv-24.net/1489/tracks-v1a1/mono.m3u8
 https://s7.iptv-24.net/1204/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿",Gold TV
 https://s7.iptv-24.net/4007/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Kino
-https://kinostream4-asil-tv.hf.space/hls/stream1.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Cinema
-https://kinostream4-asil-tv.hf.space/hls/stream2.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Kids
-https://kinostream4-asil-tv2.hf.space/hls/stream1.m3u8
-#EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://i.postimg.cc/yd9ydVXc/DILSHOD-TV.jpg",Dilshod TV Kulgu 
-https://kinostream4-asil-tv2.hf.space/hls/stream2.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg",Farg'ona MTRK
 https://s7.iptv-24.net/1458/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//595b563167b272fbeb4caff0c27a1581-q-500x500.jpeg", Andijon MTRK
