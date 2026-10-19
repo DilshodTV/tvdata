@@ -2526,6 +2526,8 @@ https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
 https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Automotion
 http://streams2.sofast.tv/sofastplayout/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/master.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/floracing-white.png",FloRacing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Motor sport revue HD
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://bonus-betting.ru/wp-content/uploads/2021/10/nhl-logo.png" group-title="Sport_TV 🏆",NHL (Amerika)
@@ -5605,6 +5607,2267 @@ https://v.uzbeklar.biz/film44/korinmaslar.mp4
 https://files.uzbeklar.biz/film2/korinmas-mehmon.mp4
 #EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-02/1740718105_ilonlar.jpeg" group-title="Server_kino 💻",Ilonlar Vodiysining Kasofati 1987
 https://q.uzbeklar.biz/film/ilonlarvodiysi.mp4
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Я тебя вижу (2026)
+http://m.cdntv.online/f/je3pmashtz/Nundongjaas.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Унабомбер (2026)
+http://m.cdntv.online/f/je3pmashtz/Unabomber.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Наследники: Игра на выживание (2022)
+http://m.cdntv.online/f/je3pmashtz/LaFortaleza.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Синяя коробка (2026)
+http://m.cdntv.online/f/je3pmashtz/BlueBox.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мата (2026)
+http://m.cdntv.online/f/je3pmashtz/Mata.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Соперники Амзиа Кинга (2025)
+http://m.cdntv.online/f/je3pmashtz/TheRivalsofAmziahKing.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Литтл Лоррейн (2025)
+http://m.cdntv.online/f/je3pmashtz/LittleLorraine.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Переспать жениться убить (2024)
+http://m.cdntv.online/f/je3pmashtz/FuckMarryKill.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Параллельные истории (2026)
+http://m.cdntv.online/f/je3pmashtz/ParallelTales.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Слоновая кость (2026)
+http://m.cdntv.online/f/je3pmashtz/DrawnTogether.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мегрэ и убийство в высшем обществе (2026)
+http://m.cdntv.online/f/je3pmashtz/Maigretetlemortamoureux.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Материя времени (2025)
+http://m.cdntv.online/f/je3pmashtz/Space_Time.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Убойное свидание (2026)
+http://m.cdntv.online/f/je3pmashtz/AllNightWrong.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пойдём со мной (2026)
+http://m.cdntv.online/f/je3pmashtz/ComewithMe.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Заманчивое предложение (2024)
+http://m.cdntv.online/f/je3pmashtz/CellarDoor.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сыграть в ящик (2026)
+http://m.cdntv.online/f/je3pmashtz/JustPlayDead.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Хочу заняться с тобой сексом (2026)
+http://m.cdntv.online/f/je3pmashtz/IWantYourSex.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Загадочная женщина (2026)
+http://m.cdntv.online/f/je3pmashtz/Denhemmeligekvinde.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Доктор Гласс (2026)
+http://m.cdntv.online/f/je3pmashtz/DoctorGlass.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Барреда (2026)
+http://m.cdntv.online/f/je3pmashtz/DoctorGlass.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Банда амазонок (2025)
+http://m.cdntv.online/f/je3pmashtz/LegangdesAmazones.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Жестокие руки (2026)
+http://m.cdntv.online/f/je3pmashtz/CruelHands.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Шёпот за окном (2026)
+http://m.cdntv.online/f/je3pmashtz/TheWhisperMan.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Подрезка кустов роз (2026)
+http://m.cdntv.online/f/je3pmashtz/RosebushPruning.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Что мы скрываем (2025)
+http://m.cdntv.online/f/je3pmashtz/WhatWeHide.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Призрак в клетке (2026)
+http://m.cdntv.online/f/je3pmashtz/HantuDalamSel.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ночь с гризли (2026)
+http://m.cdntv.online/f/je3pmashtz/GrizzlyNight.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Наш герой Бальтазар (2025)
+http://m.cdntv.online/f/je3pmashtz/OurHeroBalthaza.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Глубокие воды (2022)
+http://m.cdntv.online/f/je3pmashtz/DeepWater2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Без лица (2025)
+http://m.cdntv.online/f/je3pmashtz/Face.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Убийца из Каменной Бухты (2025)
+http://m.cdntv.online/f/je3pmashtz/StoneCreek.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Беги (2025)
+http://m.cdntv.online/f/je3pmashtz/Run.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",На качелях (2026)
+http://m.cdntv.online/f/je3pmashtz/Rolling.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",План Си (2026)
+http://m.cdntv.online/f/je3pmashtz/PlanC.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Игра в кальмара: Перезагрузка (2024)
+http://m.cdntv.online/f/je3pmashtz/Exit.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Захват самолёта (2024)
+http://m.cdntv.online/f/je3pmashtz/Hijack1971.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Звёзный сигнал (2026)
+http://m.cdntv.online/f/je3pmashtz/SignalOne.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Падающая звезда (2023)
+http://m.cdntv.online/f/je3pmashtz/TheFallingStar.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Уборщик (2021)
+http://m.cdntv.online/f/je3pmashtz/TheCleaner.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",До последнего раунда (2026)
+http://m.cdntv.online/f/je3pmashtz/NothingtoLose.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Рейс 298 (2026)
+http://m.cdntv.online/f/je3pmashtz/BlackBoxFlight298.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Фазенда (2022)
+http://m.cdntv.online/f/je3pmashtz/Property.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Клеймо убийцы (2024)
+http://m.cdntv.online/f/je3pmashtz/Lacodadeldiavolo.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Энола Холмс 3 (2026)
+http://m.cdntv.online/f/je3pmashtz/EnolaHolmes3.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Загадочный пассажир (1959)
+http://m.cdntv.online/f/je3pmashtz/Pociag.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Убийцы по ДНК (2025)
+http://m.cdntv.online/f/je3pmashtz/DNASecrets.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Жажда (2023)
+http://m.cdntv.online/f/je3pmashtz/Thirst.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Кодекс Данте (2025)
+http://m.cdntv.online/f/je3pmashtz/IntheHandofDante.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сиятельные трупы (1976)
+http://m.cdntv.online/f/je3pmashtz/Cadaverieccellenti.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Цвета зла: Чёрный (2026)
+http://m.cdntv.online/f/je3pmashtz/ColorsofEvilBlack.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Закат убийцы (2025)
+http://m.cdntv.online/f/je3pmashtz/ATimeforSunset.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Игра по-крупному (2024)
+http://m.cdntv.online/f/je3pmashtz/Arenas.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Меченая (2026)
+http://m.cdntv.online/f/je3pmashtz/TheMarkedWoman.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Есть ли бог? (2026)
+http://m.cdntv.online/f/je3pmashtz/IsGodIs.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Игра убийцы (2025)
+http://m.cdntv.online/f/je3pmashtz/Stvury.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Гуру (2025)
+http://m.cdntv.online/f/je3pmashtz/Guru.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Стервятники (2025)
+http://m.cdntv.online/f/je3pmashtz/Rapaces.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Никто не узнает (2025)
+http://m.cdntv.online/f/je3pmashtz/NoOneWillKnow.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мать Мария (2026)
+http://m.cdntv.online/f/je3pmashtz/MotherMary.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Искатели воды (2025)
+http://m.cdntv.online/f/je3pmashtz/TheWell2025.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Враг внутри (2025)
+http://m.cdntv.online/f/je3pmashtz/AnEnemyWithin.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мы умрём сегодня ночью (2025)
+http://m.cdntv.online/f/je3pmashtz/WeDieTonight.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Убить за 68 (2017)
+http://m.cdntv.online/f/je3pmashtz/68Kill.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Затаившийся (2023)
+http://m.cdntv.online/f/je3pmashtz/Hidden.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мыслить как убийца (2025)
+http://m.cdntv.online/f/je3pmashtz/Streaming.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",На краю Арктики (2025)
+http://m.cdntv.online/f/je3pmashtz/ArcticsEdge.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ворота (2026)
+http://m.cdntv.online/f/je3pmashtz/TheGates2026.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Вершина (2026)
+http://m.cdntv.online/f/je3pmashtz/Apex2026.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Налёты (2026)
+http://m.cdntv.online/f/je3pmashtz/Golpes.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Цвета зла: Красный (2024)
+http://m.cdntv.online/f/je3pmashtz/ColorsofEvilRed.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",В ловушке (2025)
+http://m.cdntv.online/f/je3pmashtz/Prisonniere.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Последствия (2026)
+http://m.cdntv.online/f/je3pmashtz/Outcome.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",В паутине времени (2023)
+http://m.cdntv.online/f/je3pmashtz/LineadeTiempo.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Проект «Конец света» (2026)
+http://m.cdntv.online/f/je3pmashtz/ProjectHailMary.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мусорщик (2025)
+http://m.cdntv.online/f/je3pmashtz/Wasteman.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Чужая кровь (2025)
+http://m.cdntv.online/f/je3pmashtz/RelativeDanger.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Тайны моей сестры (2026)
+http://m.cdntv.online/f/je3pmashtz/MySistersBones.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сыновья неоновой ночи (2025)
+http://m.cdntv.online/f/je3pmashtz/Funglamfosaan.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Красная линия (2026)
+http://m.cdntv.online/f/je3pmashtz/TheRedLine.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",В паутине обмана (2025)
+http://m.cdntv.online/f/je3pmashtz/Unwinding.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Наследник (2026)
+http://m.cdntv.online/f/je3pmashtz/HowtoMakeaKilling.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Взлом на миллион (2026)
+http://m.cdntv.online/f/je3pmashtz/Wardriver.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",На помошь! (2026)
+http://m.cdntv.online/f/je3pmashtz/SendHelp.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Бывшая по соседству (2019)
+http://m.cdntv.online/f/je3pmashtz/TheExNextDoor.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",ИнстаПсихопатка (2020)
+http://m.cdntv.online/f/je3pmashtz/InstaPsycho.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Охотники за деньгами (2025)
+http://m.cdntv.online/f/je3pmashtz/AGildedGame.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Король слоновой кости (2024)
+http://m.cdntv.online/f/je3pmashtz/KingIvory.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Острые козырьки: Бессмертный человек (2026)
+http://m.cdntv.online/f/je3pmashtz/PeakyBlindersTheImmortalMan.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дзета (2026)
+http://m.cdntv.online/f/je3pmashtz/Zeta.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Убийство в кружевах (2025)
+http://m.cdntv.online/f/je3pmashtz/Meurtresendentelles.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Скрытое убийство (2025)
+http://m.cdntv.online/f/je3pmashtz/Parecidoaunasesinato.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Иллюзия убийства (2025)
+http://m.cdntv.online/f/je3pmashtz/Reversion.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Поект Y (2026)
+http://m.cdntv.online/f/je3pmashtz/ProjectY.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Стукач (2025)
+http://m.cdntv.online/f/je3pmashtz/YadangTheSnitch.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ограбление в Лос-Анджелессе (2026)
+http://m.cdntv.online/f/je3pmashtz/Crime101.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Посторонний (2025)
+http://m.cdntv.online/f/je3pmashtz/TheStranger2025.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Частная жизнь (2026)
+http://m.cdntv.online/f/je3pmashtz/APrivateLife.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Провод мертвеца (2025)
+http://m.cdntv.online/f/je3pmashtz/DeadMansWire.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мюнхен (2005)
+http://m.cdntv.online/f/je3pmashtz/Munich.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Боксёр (2025)
+http://m.cdntv.online/f/je3pmashtz/Heavyweight.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Отражения №3 (2025)
+http://m.cdntv.online/f/je3pmashtz/Miroirs3.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Гибридный шторм (2025)
+http://m.cdntv.online/f/je3pmashtz/HybridStorm.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Хрустальные девушки (2023)
+http://m.cdntv.online/f/je3pmashtz/DancingonGlass.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Временно ваш (2023)
+http://m.cdntv.online/f/je3pmashtz/ProvisionallyYours.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Американский маньяк (2026)
+http://m.cdntv.online/f/je3pmashtz/TheHuntsman.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Любимая ученица (2025)
+http://m.cdntv.online/f/je3pmashtz/TeachersPet.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Острова (2025)
+http://m.cdntv.online/f/je3pmashtz/Islands.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дело Фриды (2024)
+http://m.cdntv.online/f/je3pmashtz/FriedasFall.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Приёмный сын (2024)
+http://m.cdntv.online/f/je3pmashtz/Adopted.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пропавшая Джой (2025)
+http://m.cdntv.online/f/je3pmashtz/LostJoy.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Разлучница (2025)
+http://m.cdntv.online/f/je3pmashtz/Homewrecker_2025.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Зверский коп (2026)
+http://m.cdntv.online/f/je3pmashtz/BetesdeFlic.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Кровь на границе (2025)
+http://m.cdntv.online/f/je3pmashtz/FrontierCrucible.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Чума (2025)
+http://m.cdntv.online/f/je3pmashtz/ThePlague.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ледяной урожай (2005)
+http://m.cdntv.online/f/je3pmashtz/TheIceHarvest.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Голландец (2025)
+http://m.cdntv.online/f/je3pmashtz/TheDutchman2025.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Горничная (2025)
+http://m.cdntv.online/f/je3pmashtz/TheHousemaid.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Выход 8 (2025)
+http://m.cdntv.online/f/je3pmashtz/8banDeguchi.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дэллоуэй (2025)
+http://m.cdntv.online/f/je3pmashtz/Dalloway.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Грандиозная подделка (2026)
+http://m.cdntv.online/f/je3pmashtz/TheBigFake.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пёс 51 (2025)
+http://m.cdntv.online/f/je3pmashtz/Dog51.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дурацкое дело нехитрое (2014)
+http://m.cdntv.online/f/je3pmashtz/Kraftidioten.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Секретный агент (2025)
+http://m.cdntv.online/f/je3pmashtz/TheSecretAgent.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ледягой предел (2025)
+http://m.cdntv.online/f/je3pmashtz/IceFall.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",На тлеющих углях (2024)
+http://m.cdntv.online/f/je3pmashtz/FromEmbers.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Гробовщик (2023)
+http://m.cdntv.online/f/je3pmashtz/TheUndertaker.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Опасные связи (2024)
+http://m.cdntv.online/f/je3pmashtz/BoneLake.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Женщина в цепях (2025)
+http://m.cdntv.online/f/je3pmashtz/TheWomanintheLine.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Погребённые заживо (2024)
+http://m.cdntv.online/f/je3pmashtz/DieBeforeYouDie.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ложный след (2024)
+http://m.cdntv.online/f/je3pmashtz/Misdirection.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Суета (2024)
+http://m.cdntv.online/f/je3pmashtz/Scurry.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Криптоафферист (2025)
+http://m.cdntv.online/f/je3pmashtz/CryptoMan.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Выживший (2025)
+http://m.cdntv.online/f/je3pmashtz/NotWithoutHope.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Бонхёффер - Пастор. Шпион. Убийца (2025)
+http://m.cdntv.online/f/je3pmashtz/BonhoefferPastorSpyAssassin.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Развозчик (2025)
+http://m.cdntv.online/f/je3pmashtz/Hamburgo.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дело семейное (2025)
+http://m.cdntv.online/f/je3pmashtz/Adulthood.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Опасная связь (2025)
+http://m.cdntv.online/f/je3pmashtz/CloseToMe.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пол часа на жизнь (2025)
+http://m.cdntv.online/f/je3pmashtz/Samsipbun.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Витория (2025)
+http://m.cdntv.online/f/je3pmashtz/Vitorya.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Иллюзия обмана 3 (2025)
+http://m.cdntv.online/f/je3pmashtz/NowYouSeeMeNowYouDont.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Вдохновитель (2025)
+http://m.cdntv.online/f/je3pmashtz/TheMastermind.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Достать ножи: Воскрешение покойника (2025)
+http://m.cdntv.online/f/je3pmashtz/WakeUpDeadManAKnivesOutMystery.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Крипер (2025)
+http://m.cdntv.online/f/je3pmashtz/Keeper.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Инфлюэнсеры (2025)
+http://m.cdntv.online/f/je3pmashtz/Influencers.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Умри моя любовь (2025)
+http://m.cdntv.online/f/je3pmashtz/DieMyLove.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Оковы смерти (2025)
+http://m.cdntv.online/f/je3pmashtz/Revival.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Защитные меры (2025)
+http://m.cdntv.online/f/je3pmashtz/StaySafe.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Реальные копы (2024)
+http://m.cdntv.online/f/je3pmashtz/RealCops.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ярость (2025)
+http://m.cdntv.online/f/je3pmashtz/JustBreathe.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Племя чужих (2025)
+http://m.cdntv.online/f/je3pmashtz/Stranger2025.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Юбилей (2025)
+http://m.cdntv.online/f/je3pmashtz/Anniversary.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",После охоты (2025)
+http://m.cdntv.online/f/je3pmashtz/AftertheHunt.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Игра Дедала (2025)
+http://m.cdntv.online/f/je3pmashtz/Dedalus.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Золотой конвой (2022).
+http://m.cdntv.online/f/je3pmashtz/GoldRun.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Золотой конвой (2022)
+http://m.cdntv.online/f/je3pmashtz/GoldRun.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Иллюзия убийства (1986)
+http://m.cdntv.online/f/je3pmashtz/FX.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Игра с онём (2019)
+http://m.cdntv.online/f/je3pmashtz/Burn2019.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Как заработать на убийстве (2024)
+http://m.cdntv.online/f/je3pmashtz/HowToMakeAKilling.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Укрытие номер один (2025)
+http://m.cdntv.online/f/je3pmashtz/SafeHouse2025.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Баллада о маленьком игроке (2025)
+http://m.cdntv.online/f/je3pmashtz/BalladofaSmallPlayer.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ксено (2025)
+http://m.cdntv.online/f/je3pmashtz/Xeno.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дом динамита (2025)
+http://m.cdntv.online/f/je3pmashtz/AHouseofDynamite.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",На высое страха (2025)
+http://m.cdntv.online/f/je3pmashtz/TheOccupant.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Рука качающая колыбель (2025)
+http://m.cdntv.online/f/je3pmashtz/TheHandThatRockstheCradle.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Долгая прогулка (2025)
+http://m.cdntv.online/f/je3pmashtz/TheLongWalk.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Государственный гимн (2023)
+http://m.cdntv.online/f/je3pmashtz/Americana.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дженнифер 8 (1992)
+http://m.cdntv.online/f/je3pmashtz/JenniferEight.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Не говори ни слова (2001)
+http://m.cdntv.online/f/je3pmashtz/DontSayaWord.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Приют чудовищ (1997)
+http://m.cdntv.online/f/je3pmashtz/Laconciergerie.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Призрак на поле боя (2025)
+http://m.cdntv.online/f/je3pmashtz/SheWalksinDarkness.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Хормейстер (2025)
+http://m.cdntv.online/f/je3pmashtz/BrokenVoices.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Решала. Агеннт на миллиард (2025)
+http://m.cdntv.online/f/je3pmashtz/Mercato.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Проклятие пустоши (2025)
+http://m.cdntv.online/f/je3pmashtz/KillingFaith.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Девушка из каюты №10 (2025)
+http://m.cdntv.online/f/je3pmashtz/TheWomaninCabin10.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Школьный автобус (2025)
+http://m.cdntv.online/f/je3pmashtz/TheLostBus.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Убийства в Нью-Йорке (2024)
+http://m.cdntv.online/f/je3pmashtz/ArtofDiversion.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Возвращение мистера Рипли (2005)
+http://m.cdntv.online/f/je3pmashtz/RipleyUnderGround.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Все дьяволы здесь (2025)
+http://m.cdntv.online/f/je3pmashtz/AlltheDevilsareHere.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Вкус победы (2024)
+http://m.cdntv.online/f/je3pmashtz/TheCut.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Американская кабала (2025)
+http://m.cdntv.online/f/je3pmashtz/AmericanSweatshop.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Тень (1994).
+http://m.cdntv.online/f/je3pmashtz/TheShadow1994.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Доверие (2025)
+http://m.cdntv.online/f/je3pmashtz/Trust2025.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",По законам улиц (2020)
+http://m.cdntv.online/f/je3pmashtz/Harami.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Истинное лицо (2025)
+http://m.cdntv.online/f/je3pmashtz/Shotai.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Хани не надо! (2025)
+http://m.cdntv.online/f/je3pmashtz/HoneyDont.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Священная дорога (2025)
+http://m.cdntv.online/f/je3pmashtz/HallowRoad.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Признание (2025)
+http://m.cdntv.online/f/je3pmashtz/Kokuhaku.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Рай и ад (2025)
+http://m.cdntv.online/f/je3pmashtz/Highest2Lowest.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Детка на драйве (2025)
+http://m.cdntv.online/f/je3pmashtz/SheRidesShotgun.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Клуб убийств по четвергам (2025)
+http://m.cdntv.online/f/je3pmashtz/TheThursdayMurderClub.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Замуж или смерть (2025)
+http://m.cdntv.online/f/je3pmashtz/BrideorDie.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ночь всегда наступает (2025)
+http://m.cdntv.online/f/je3pmashtz/NightAlwaysComes.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Чокнутая домохозяйка (2019)
+http://m.cdntv.online/f/je3pmashtz/Homewrecker.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Гнев матери (2021)
+http://m.cdntv.online/f/je3pmashtz/AMothersFury.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Зона молчания (2018)
+http://m.cdntv.online/f/je3pmashtz/Silencio.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Суперхозяйка (2021)
+http://m.cdntv.online/f/je3pmashtz/Superhost.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сумрак ночи (2025)
+http://m.cdntv.online/f/je3pmashtz/Beurokeun.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Горячая штучка (2025)
+http://m.cdntv.online/f/je3pmashtz/PrettyThing.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Открытое море. Смерть рядом (2025)
+http://m.cdntv.online/f/je3pmashtz/ROW.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",84 м² (2025)
+http://m.cdntv.online/f/je3pmashtz/WalltoWall.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сантош (2024)
+http://m.cdntv.online/f/je3pmashtz/Santosh.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мистер К (2024)
+http://m.cdntv.online/f/je3pmashtz/MrK.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Законы человечества (2024)
+http://m.cdntv.online/f/je3pmashtz/LawsofMan.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Эдем (2024)
+http://m.cdntv.online/f/je3pmashtz/Eden2024.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Окончательный анализ (1992)
+http://m.cdntv.online/f/je3pmashtz/FinalAnalysis.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Плата за подставу (2021)
+http://m.cdntv.online/f/je3pmashtz/Payback2021.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Преступник (2025)
+http://m.cdntv.online/f/je3pmashtz/Culprit.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Грязные деньги (2024)
+http://m.cdntv.online/f/je3pmashtz/DirtyMoney.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Свободные люди (2025)
+http://m.cdntv.online/f/je3pmashtz/Sovereign.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",В ловушке (2023)
+http://m.cdntv.online/f/je3pmashtz/Escape2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Кирпич (2025)
+http://m.cdntv.online/f/je3pmashtz/Brick.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Агент под прикрытием (2024)
+http://m.cdntv.online/f/je3pmashtz/Undercover.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Нечестивая троица (2024)
+http://m.cdntv.online/f/je3pmashtz/TheUnholyTrinity.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Иллюзия контроля (2024)
+http://m.cdntv.online/f/je3pmashtz/ThePlot.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Полицейская тачка (2015)
+http://m.cdntv.online/f/je3pmashtz/CopCar.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Кровавая тень (1978)
+http://m.cdntv.online/f/je3pmashtz/Solamentenero.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Однажды на востоке (2024)
+http://m.cdntv.online/f/je3pmashtz/OnceUponaTimeInTheEast.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",День гнева (2024)
+http://m.cdntv.online/f/je3pmashtz/Interstate.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пришить всех (2024)
+http://m.cdntv.online/f/je3pmashtz/SewTorn.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ограбление на миллион (2024)
+http://m.cdntv.online/f/je3pmashtz/ScorchedEarth.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Тайные партнёры (2025)
+http://m.cdntv.online/f/je3pmashtz/SilentPartners.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Заложник в магазине Apple (2025)
+http://m.cdntv.online/f/je3pmashtz/iHostage.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Загадочное убийство Белль (2024)
+http://m.cdntv.online/f/je3pmashtz/Belle.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Генри Джонсон (2025)
+http://m.cdntv.online/f/je3pmashtz/HenryJohnson.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Час расплаты (2024)
+http://m.cdntv.online/f/je3pmashtz/EveryoneIsGoingtoDie.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Долина Эхо (2025)
+http://m.cdntv.online/f/je3pmashtz/EchoValley.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Новичок (2025)
+http://m.cdntv.online/f/je3pmashtz/TheAmateur.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Последняя капля (2025)
+http://m.cdntv.online/f/je3pmashtz/Straw2025.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сёрфер (2024)
+http://m.cdntv.online/f/je3pmashtz/TheSurfer2024.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Последнее завтра (2025)
+http://m.cdntv.online/f/je3pmashtz/HurryUpTomorrow.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ровно в 4 после полудня (2024)
+http://m.cdntv.online/f/je3pmashtz/4PM.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Делюзия (2024)
+http://m.cdntv.online/f/je3pmashtz/TheDraw.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Бухта Бэррона (2024)
+http://m.cdntv.online/f/je3pmashtz/BarronsCove.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Гениальная афёра (2024)
+http://m.cdntv.online/f/je3pmashtz/TheMoonThieves.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дело "Мальдорор" (2024)
+http://m.cdntv.online/f/je3pmashtz/Maldoror.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Хапрбин (2024)
+http://m.cdntv.online/f/je3pmashtz/Harbin.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Тёмная страна (2024)
+http://m.cdntv.online/f/je3pmashtz/Morkeland.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Крутой поворот (2024)
+http://m.cdntv.online/f/je3pmashtz/SharpCorner.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Кто твой враг (2022)
+http://m.cdntv.online/f/je3pmashtz/HomeSafe.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Как стать миллионером (2024)
+http://m.cdntv.online/f/je3pmashtz/TheLuckiestManinAmerica.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",По следу тени (2024)
+http://m.cdntv.online/f/je3pmashtz/Thechase.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ещё одна простая просьба (2025)
+http://m.cdntv.online/f/je3pmashtz/AnotherSimpleFavor.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Спасаемый (2025)
+http://m.cdntv.online/f/je3pmashtz/Salvable.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Моя банда (2025)
+http://m.cdntv.online/f/je3pmashtz/MonMilieu.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Холланд (2025)
+http://m.cdntv.online/f/je3pmashtz/Holland.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Копы в законе (2024)
+http://m.cdntv.online/f/je3pmashtz/MobCops.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дроп (2025)
+http://m.cdntv.online/f/je3pmashtz/Drop.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Настоящие детективы (2025)
+http://m.cdntv.online/f/je3pmashtz/NeighborhoodWatch.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Тайна в её глазах (2024)
+http://m.cdntv.online/f/je3pmashtz/Magpie.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Смертельное шоссе (2023)
+http://m.cdntv.online/f/je3pmashtz/ColdRoad.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Миллион лайков (2025)
+http://m.cdntv.online/f/je3pmashtz/1MillionFollowers.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Западня (2025)
+http://m.cdntv.online/f/je3pmashtz/Locked2025.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ночь убийства (2024)
+http://m.cdntv.online/f/je3pmashtz/TheVictims.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Никого нет дома (2023)
+http://m.cdntv.online/f/je3pmashtz/NobodysHome.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Телефон доверия (2025)
+http://m.cdntv.online/f/je3pmashtz/Lifeline.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Нормальная семья (2023)
+http://m.cdntv.online/f/je3pmashtz/ANormalFamily.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Босс (2024)
+http://m.cdntv.online/f/je3pmashtz/Iddu.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Долина теней (2023)
+http://m.cdntv.online/f/je3pmashtz/Valledesombras.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Заложница (2024)
+http://m.cdntv.online/f/je3pmashtz/Blunt.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Тихушники (1992)
+http://m.cdntv.online/f/je3pmashtz/Sneakers.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мудрые парни (2025)
+http://m.cdntv.online/f/je3pmashtz/TheAltoKnights.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Взрывные (2024)
+http://m.cdntv.online/f/je3pmashtz/TriggerHappy.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Побег (2024)
+http://m.cdntv.online/f/je3pmashtz/Escape2025.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Шантаж (2023)
+http://m.cdntv.online/f/je3pmashtz/Laextorsion.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Актёр (2025)
+http://m.cdntv.online/f/je3pmashtz/TheActor2025.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Правда или ложь? (2024)
+http://m.cdntv.online/f/je3pmashtz/Unastorianera.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Маленькая Сибирь (2025)
+http://m.cdntv.online/f/je3pmashtz/PikkuSiperia.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Чёрный чемодан – двойная игра (2025)
+http://m.cdntv.online/f/je3pmashtz/BlackBag.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Уничтожь их (2025)
+http://m.cdntv.online/f/je3pmashtz/BringThemDown.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Хохланд (2025)
+http://m.cdntv.online/f/je3pmashtz/Hohland.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Антропоид (2016)
+http://m.cdntv.online/f/je3pmashtz/Anthropoid.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Крушение мира (2024)
+http://m.cdntv.online/f/je3pmashtz/RichFlu.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Календарный убийца (2024)
+http://m.cdntv.online/f/je3pmashtz/TheCalendarKiller.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Маквей (2024)
+http://m.cdntv.online/f/je3pmashtz/McVeigh.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Откровение (2025)
+http://m.cdntv.online/f/je3pmashtz/Revelations.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дикие земли (2025)
+http://m.cdntv.online/f/je3pmashtz/HighGround.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дубликат (2025)
+http://m.cdntv.online/f/je3pmashtz/Duplicity.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Наследство (2025)
+http://m.cdntv.online/f/je3pmashtz/Inheritance.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дыхание шторма (2025)
+http://m.cdntv.online/f/je3pmashtz/LastBreath.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Тёмное наследие (2020)
+http://m.cdntv.online/f/je3pmashtz/Inheritance2020.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Девушка в бассейне (2024)
+http://m.cdntv.online/f/je3pmashtz/TheGirlinthePool.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сделка с дьяволом (2023)
+http://m.cdntv.online/f/je3pmashtz/TheDevilsDeal.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ночь с психопатом (2025)
+http://m.cdntv.online/f/je3pmashtz/Borderline2025.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ты умрёшь через 6 часов (2024)
+http://m.cdntv.online/f/je3pmashtz/YouWillDiein6Hours.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Парковый маньяк (2024)
+http://m.cdntv.online/f/je3pmashtz/TheParkManiac.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сорвать куш (2020)
+http://m.cdntv.online/f/je3pmashtz/Paydirt.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Судная ночь: Смертельная ловушка (2023)
+http://m.cdntv.online/f/je3pmashtz/NightofMurderandRomance.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Крик в тишине (2024)
+http://m.cdntv.online/f/je3pmashtz/CryofSilence.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Догвилль (2003)
+http://m.cdntv.online/f/je3pmashtz/Dogville.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Выбор (2023)
+http://m.cdntv.online/f/je3pmashtz/Fragmentada.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Бастион 36 (2025)
+http://m.cdntv.online/f/je3pmashtz/Bastion36.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Хочу сейчас (2024)
+http://m.cdntv.online/f/je3pmashtz/FinoAllaFine.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Волны (2024)
+http://m.cdntv.online/f/je3pmashtz/VLNY.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Игрок (2024)
+http://m.cdntv.online/f/je3pmashtz/DeadMoney.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Облако (2024)
+http://m.cdntv.online/f/je3pmashtz/Cloud2024.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Девушка в подвале (2021)
+http://m.cdntv.online/f/je3pmashtz/GirlintheBasement.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Компаньон (2025)
+http://m.cdntv.online/f/je3pmashtz/Companion.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Осторожнее с желаниями (2015)
+http://m.cdntv.online/f/je3pmashtz/CarefulWhatYouWishFor.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Потерянный рейс (2006)
+http://m.cdntv.online/f/je3pmashtz/United93.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ночной рейс (2005)
+http://m.cdntv.online/f/je3pmashtz/RedEye2005.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сломленная ярость (2024)
+http://m.cdntv.online/f/je3pmashtz/BrokenRage.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",P.S. Верю в любовь (2023).
+http://m.cdntv.online/f/je3pmashtz/SurprisedbyOxford.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Омерзительная пятёрка (2023)
+http://m.cdntv.online/f/je3pmashtz/TheOutlaws2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пранкеры (2022)
+http://m.cdntv.online/f/je3pmashtz/ThePrank.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",88 минут (2007)
+http://m.cdntv.online/f/je3pmashtz/88Minutes.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Поездка (2021)
+http://m.cdntv.online/f/je3pmashtz/TheTrip.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Персона (2025)
+http://m.cdntv.online/f/je3pmashtz/Persona.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Телефонные мошенники (2024)
+http://m.cdntv.online/f/je3pmashtz/CitizenofaKind2024.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Смертельный отсчёт (2023)
+http://m.cdntv.online/f/je3pmashtz/HeadCount.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дыши (2024)
+http://m.cdntv.online/f/je3pmashtz/Breathe.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Туман войны (2024)
+http://m.cdntv.online/f/je3pmashtz/FogofWar.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",5 сентября (2024)
+http://m.cdntv.online/f/je3pmashtz/September5.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Надзирательница (2024)
+http://m.cdntv.online/f/je3pmashtz/Vogter.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Плохая девочка (2024)
+http://m.cdntv.online/f/je3pmashtz/Babygirl.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пока смерть не разлучит нас (2023)
+http://m.cdntv.online/f/je3pmashtz/Matching.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Темная ночь души (2024)
+http://m.cdntv.online/f/je3pmashtz/DarkNightoftheSoul.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Холодный детектив (2022)
+http://m.cdntv.online/f/je3pmashtz/DetectivevsSleuths.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Чёрный бриллиант (2025)
+http://m.cdntv.online/f/je3pmashtz/BlackDiamond.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Монтаж (2013)
+http://m.cdntv.online/f/je3pmashtz/Montage.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Море любви (1989)
+http://m.cdntv.online/f/je3pmashtz/SeaofLove.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Кидалы (1990)
+http://m.cdntv.online/f/je3pmashtz/TheGrifters.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Незваный гость (2024)
+http://m.cdntv.online/f/je3pmashtz/TheIntruder.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Незваный гость (2024)
+http://m.cdntv.online/f/je3pmashtz/AstridRaphaelleetAlexandraEhleOeilpourOeil.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",10 дней любопытного человека (2024)
+http://m.cdntv.online/f/je3pmashtz/10DaysofaCuriousMan.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Тёмные перья: танец гейши (2024)
+http://m.cdntv.online/f/je3pmashtz/DarkFeathersDanceoftheGeisha.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сделано в Нью-Джеоси (2024)
+http://m.cdntv.online/f/je3pmashtz/JerseyBred.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Похищение искусства (2023)
+http://m.cdntv.online/f/je3pmashtz/ArtThief.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",В ловушке (2024)
+http://m.cdntv.online/f/je3pmashtz/TrappedInn.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Развращённость (2024)
+http://m.cdntv.online/f/je3pmashtz/Depravity.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сновидения (1999)
+http://m.cdntv.online/f/je3pmashtz/InDreams.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Возрождение (2024)
+http://m.cdntv.online/f/je3pmashtz/Reawakening.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Двуличный (2023)
+http://m.cdntv.online/f/je3pmashtz/Kane.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сексуальная тварь (2000)
+http://m.cdntv.online/f/je3pmashtz/SexyBeast.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Бездна страха (2023)
+http://m.cdntv.online/f/je3pmashtz/SharkEvil.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Забытые убийства (2024)
+http://m.cdntv.online/f/je3pmashtz/Olvido.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ошибка времени. Мультивселенная (2024)
+http://m.cdntv.online/f/je3pmashtz/Parallel2024.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Безмолвное братство (2024)
+http://m.cdntv.online/f/je3pmashtz/TheOrder.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Секрет (2022)
+http://m.cdntv.online/f/je3pmashtz/TheApology.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ошибка (2024)
+http://m.cdntv.online/f/je3pmashtz/AMistake.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Декодер. Игра гения (2024)
+http://m.cdntv.online/f/je3pmashtz/Decoded.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Я слежу за тобой (2024)
+http://m.cdntv.online/f/je3pmashtz/Geunyeogajukeotta.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Скрытая угроза (2024)
+http://m.cdntv.online/f/je3pmashtz/SkrytayaUgroza.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Грехи жены проповедника (2023)
+http://m.cdntv.online/f/je3pmashtz/SinsofthePreachersWife.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Последний подрзреваемый (2023)
+http://m.cdntv.online/f/je3pmashtz/WhostheSuspect.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Смертельное оскорбление (2010)
+http://m.cdntv.online/f/je3pmashtz/TheKillingJar.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Криминальный шеф (2024)
+http://m.cdntv.online/f/je3pmashtz/WhatYouWishFor.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Что скрывает любовь (2024)
+http://m.cdntv.online/f/je3pmashtz/HauntedHeart.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Переспать жениться убить (2024)
+http://m.cdntv.online/f/je3pmashtz/FMarryKill.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Последнее ограбление (2023)
+http://m.cdntv.online/f/je3pmashtz/AmericanOutlaws.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Операция под прикрытием (2024)
+http://m.cdntv.online/f/je3pmashtz/Firecracker.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Присяжный номер два (2024)
+http://m.cdntv.online/f/je3pmashtz/Juror2.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Синистер. Пожиратель душ (2024)
+http://m.cdntv.online/f/je3pmashtz/TheSoulEater.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Преступный квест (2021)
+http://m.cdntv.online/f/je3pmashtz/Apex.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Роковая женщина (2002)
+http://m.cdntv.online/f/je3pmashtz/FemmeFatale.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Роковая экспедиция (2024)
+http://m.cdntv.online/f/je3pmashtz/FatalExpedition.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Эмилия Перес (2024)
+http://m.cdntv.online/f/je3pmashtz/EmiliaPerez.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Конклав (2024)
+http://m.cdntv.online/f/je3pmashtz/Conclave.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Кара (2023)
+http://m.cdntv.online/f/je3pmashtz/Bark.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Проводник смерти (2024)
+http://m.cdntv.online/f/je3pmashtz/ToDieAlone.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",День Шакала (1973)
+http://m.cdntv.online/f/je3pmashtz/TheDayoftheJackal.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Запретная торговля (2024)
+http://m.cdntv.online/f/je3pmashtz/Trafficking.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Другой человек (2024)
+http://m.cdntv.online/f/je3pmashtz/ADifferentMan.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Поколение киллеров (2023)
+http://m.cdntv.online/f/je3pmashtz/MurderSyndicate.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Граф Монте-Кристо (2024)
+http://m.cdntv.online/f/je3pmashtz/LeComtedeMonteCristo.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Задержанная (2024)
+http://m.cdntv.online/f/je3pmashtz/Detained.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Джокер: Безумие на двоих (2024)
+http://m.cdntv.online/f/je3pmashtz/JokerFolieaDeux.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Час тишины (2024)
+http://m.cdntv.online/f/je3pmashtz/TheSilentHour.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Критик (2023)
+http://m.cdntv.online/f/je3pmashtz/TheCritic.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Тук-тук (2021)
+http://m.cdntv.online/f/je3pmashtz/KnockKnock.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Искусство обмана (2019).
+http://m.cdntv.online/f/je3pmashtz/ArtofDeception.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Без резких движений (2021)
+http://m.cdntv.online/f/je3pmashtz/NoSuddenMove.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Как взломать экзамен (2024)
+http://m.cdntv.online/f/je3pmashtz/BadGenius.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Свидание с монстром (2024)
+http://m.cdntv.online/f/je3pmashtz/WomanoftheHour.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ограбление (2024)
+http://m.cdntv.online/f/je3pmashtz/Justice.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Идеальный лжец (2023)
+http://m.cdntv.online/f/je3pmashtz/Coup.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Отлив (2019)
+http://m.cdntv.online/f/je3pmashtz/LowTide.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Грязный Юг (2023).
+http://m.cdntv.online/f/je3pmashtz/TheDirtySouth.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сеть обмана (2024)
+http://m.cdntv.online/f/je3pmashtz/Junction.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Открытое море: Игра на выживание (2024)
+http://m.cdntv.online/f/je3pmashtz/DeadSea.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Раненый оленёнок (2022)
+http://m.cdntv.online/f/je3pmashtz/AWoundedFawn.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Улица страха: королева выпускного (2025).
+http://m.cdntv.online/f/je3pmashtz/FearStreetPromQueen.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Времени в обрез (2024).
+http://m.cdntv.online/f/je3pmashtz/TimeCut.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",То что внутри (2024)
+http://m.cdntv.online/f/je3pmashtz/ItsWhatsInside.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Игра киллера (2024).
+http://m.cdntv.online/f/je3pmashtz/TheKillersGame.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Между сном и реальностью (2024)
+http://m.cdntv.online/f/je3pmashtz/WhileYouWereSleeping.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сталкер (2023)
+http://m.cdntv.online/f/je3pmashtz/StrangeDarling.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Платформа (2019)
+http://m.cdntv.online/f/je3pmashtz/ThePlatform.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Платформа 2 (2024)
+http://m.cdntv.online/f/je3pmashtz/ThePlatform2.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Задержи дыхание (2024)
+http://m.cdntv.online/f/je3pmashtz/HoldYourBreath.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Револьвер (2024)
+http://m.cdntv.online/f/je3pmashtz/Revolver.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Оно слушает (2024)
+http://m.cdntv.online/f/je3pmashtz/AfrAId.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Не говори никому (2024)
+http://m.cdntv.online/f/je3pmashtz/SpeakNoEvil.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Эмбер Алерт (2024)
+http://m.cdntv.online/f/je3pmashtz/AmberAlert.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Оса (2024)
+http://m.cdntv.online/f/je3pmashtz/TheWasp.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ба (2023)
+http://m.cdntv.online/f/je3pmashtz/TheG.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Убийственная жара (2024)
+http://m.cdntv.online/f/je3pmashtz/KillerHeat.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Цепной пёс (2024).
+http://m.cdntv.online/f/je3pmashtz/Hellhound.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ячейка 234 (2024)
+http://m.cdntv.online/f/je3pmashtz/Unit234.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Одинокие волки (2024)
+http://m.cdntv.online/f/je3pmashtz/Wolfs.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ночные кошмары (2022)
+http://m.cdntv.online/f/je3pmashtz/StateofConsciousness.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Незнакомцы (2024)
+http://m.cdntv.online/f/je3pmashtz/Strangers.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мавританец (2021)
+http://m.cdntv.online/f/je3pmashtz/TheMauritanian.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Гостиная (2022)
+http://m.cdntv.online/f/je3pmashtz/TheFrontRoom.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Роковая ошибка (2022)
+http://m.cdntv.online/f/je3pmashtz/WhatComesAround.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Чаща (2024)
+http://m.cdntv.online/f/je3pmashtz/TheThicket.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ускорение (2022)
+http://m.cdntv.online/f/je3pmashtz/Slingshot.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",1992 (2022).
+http://m.cdntv.online/f/je3pmashtz/1992.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Подай знак (2024)
+http://m.cdntv.online/f/je3pmashtz/BlinkTwice.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мёртвая земля (2023)
+http://m.cdntv.online/f/je3pmashtz/Deadland.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Паутина страсти (2024)
+http://m.cdntv.online/f/je3pmashtz/Demise.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Меган: К вашим услугам (2024)
+http://m.cdntv.online/f/je3pmashtz/Subservience.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Беспредельные путешествия во времени (2023)
+http://m.cdntv.online/f/je3pmashtz/TimeAddicts.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Остров бессмертных (2023)
+http://m.cdntv.online/f/je3pmashtz/TheKingTide.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Тайна самоубийцы (2023)
+http://m.cdntv.online/f/je3pmashtz/Kuldi.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Роб Пис (2024)
+http://m.cdntv.online/f/je3pmashtz/RobPeace.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Заезд (2024)
+http://m.cdntv.online/f/je3pmashtz/Ride.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Фабрика троллей (2024)
+http://m.cdntv.online/f/je3pmashtz/TrollFactory.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ребел Ридж (2024).
+http://m.cdntv.online/f/je3pmashtz/RebelRidge.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Строго конфиденциально (2024)
+http://m.cdntv.online/f/je3pmashtz/StrictlyConfidential.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Красные комнаты (2023)
+http://m.cdntv.online/f/je3pmashtz/RedRooms.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сплит. Звезда на грани (2024)
+http://m.cdntv.online/f/je3pmashtz/AngryWoman2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мертвец (2024)
+http://m.cdntv.online/f/je3pmashtz/DeadMan2024.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Курьер (2024)
+http://m.cdntv.online/f/je3pmashtz/TheCourier2024.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Среди волков (2023)
+http://m.cdntv.online/f/je3pmashtz/LikeSheepAmongWolves.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Уход за кожей (2024)
+http://m.cdntv.online/f/je3pmashtz/Skincare.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ловушка (2024)
+http://m.cdntv.online/f/je3pmashtz/Trap.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Твой образ (2024)
+http://m.cdntv.online/f/je3pmashtz/TheImageofYou.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Команда зачистки (2024).
+http://m.cdntv.online/f/je3pmashtz/TheCleanUpCrew.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Судная ночь. Джекпот (2023)
+http://m.cdntv.online/f/je3pmashtz/YourLuckyDay.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Осознание (2023).
+http://m.cdntv.online/f/je3pmashtz/Awareness.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Хороший день чтобы умереть (2024)
+http://m.cdntv.online/f/je3pmashtz/ItsaGoodDaytoDie.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Неосторожное убийство (2023)
+http://m.cdntv.online/f/je3pmashtz/WrongfulDeath.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Девушка в багажнике (2024)
+http://m.cdntv.online/f/je3pmashtz/TheGirlintheTrunk.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Амнезия (2024)
+http://m.cdntv.online/f/je3pmashtz/Chapel.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Игра Джералда (2017)
+http://m.cdntv.online/f/je3pmashtz/GeraldsGame.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Безграничный туман (2024)
+http://m.cdntv.online/f/je3pmashtz/BorderlessFog.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Часовня (2023)
+http://m.cdntv.online/f/je3pmashtz/TheChapel.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Тринадцатое лето (2024)
+http://m.cdntv.online/f/je3pmashtz/13thSummer.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Наследник (2023)
+http://m.cdntv.online/f/je3pmashtz/TheSuccessor.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Союз (2024).
+http://m.cdntv.online/f/je3pmashtz/TheUnion.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",В плену огня (2023)
+http://m.cdntv.online/f/je3pmashtz/OnFire.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Таинственный лес (2023)
+http://m.cdntv.online/f/je3pmashtz/LoopTrack.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Птица в клетке. Заражение (2020)
+http://m.cdntv.online/f/je3pmashtz/Songbird.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Криминальный город. Возмездие (2024).
+http://m.cdntv.online/f/je3pmashtz/TheRoundupPunishment.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Смерч 2 (2024)
+http://m.cdntv.online/f/je3pmashtz/Twisters.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Зачинщики (2024).
+http://m.cdntv.online/f/je3pmashtz/TheInstigators.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Челюсти. Кровавый риф (2024)
+http://m.cdntv.online/f/je3pmashtz/SomethingintheWater.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Собиратель душ (2024).
+http://m.cdntv.online/f/je3pmashtz/Longlegs.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Кресент-Сити (2024).
+http://m.cdntv.online/f/je3pmashtz/CrescentCity.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Прости Чарли (2023).
+http://m.cdntv.online/f/je3pmashtz/SorryCharlie.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Достать ножи: Стеклянная луковица (2022)
+http://m.cdntv.online/f/je3pmashtz/GlassOnionAKnivesOutMystery.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Присяжная (1996)
+http://m.cdntv.online/f/je3pmashtz/TheJuror.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Максин XXX (2024)
+http://m.cdntv.online/f/je3pmashtz/MaXXXine.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Насмотревшиеся (2023)
+http://m.cdntv.online/f/je3pmashtz/BingedtoDeath.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Клинок сомнения (2024)
+http://m.cdntv.online/f/je3pmashtz/HoveringBlade.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Гражданка Дук-Хи (2024)
+http://m.cdntv.online/f/je3pmashtz/CitizenofaKind.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Делай ход (2024)
+http://m.cdntv.online/f/je3pmashtz/BlametheGame.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Фентази (2024)
+http://m.cdntv.online/f/je3pmashtz/Fentasy.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дом милый дом (2021)
+http://m.cdntv.online/f/je3pmashtz/HomeSweetHome.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ограбление казино (2012)
+http://m.cdntv.online/f/je3pmashtz/KillingThemSoftly.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Драйвер (2023).
+http://m.cdntv.online/f/je3pmashtz/Jackdaw.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Не жилец (2023)
+http://m.cdntv.online/f/je3pmashtz/Clawfoot.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Большой облом (2006)
+http://m.cdntv.online/f/je3pmashtz/BigNothing.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сгинувшие в ночи (2024)
+http://m.cdntv.online/f/je3pmashtz/Septimo.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Шпион на всю голову (2024)
+http://m.cdntv.online/f/je3pmashtz/PeterFiveEight.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Полицейский из Беверли-Хиллз: Аксель Фоули (2024).
+http://m.cdntv.online/f/je3pmashtz/BeverlyHillsCopAxelF.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Интакто (2001).
+http://m.cdntv.online/f/je3pmashtz/Intacto.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Животное (2023).
+http://m.cdntv.online/f/je3pmashtz/Animal.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Чат для взрослых (2022).
+http://m.cdntv.online/f/je3pmashtz/Nightalk.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Байкеры (2023).
+http://m.cdntv.online/f/je3pmashtz/TheBikeriders.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Список подозреваемых (2024).
+http://m.cdntv.online/f/je3pmashtz/Boneyard.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Расплата (2022)
+http://m.cdntv.online/f/je3pmashtz/TheCost.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Воришки (2023)
+http://m.cdntv.online/f/je3pmashtz/Vorishki.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Неприступный дом (2024)
+http://m.cdntv.online/f/je3pmashtz/HardHome.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Банды Лондона (2024)
+http://m.cdntv.online/f/je3pmashtz/BermondseyTalesFalloftheRomanEmpire.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Бал сумасшедших (2023)
+http://m.cdntv.online/f/je3pmashtz/PartyofFools.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Предчувствие (2023)
+http://m.cdntv.online/f/je3pmashtz/TheBeast.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Скрытая угроза (2024)
+http://m.cdntv.online/f/je3pmashtz/ContagionofFear.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Веревка: Месть (2023).
+http://m.cdntv.online/f/je3pmashtz/LaSoga3Vengeance.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Посылка (2024)
+http://m.cdntv.online/f/je3pmashtz/ThePackage.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Балтимор (2024).
+http://m.cdntv.online/f/je3pmashtz/Baltimore.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Убийство на 45 оборотах (2023)
+http://m.cdntv.online/f/je3pmashtz/AdieuVinyle.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Охота (2024)
+http://m.cdntv.online/f/je3pmashtz/TheBadShepherd.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Искусительница (2022)
+http://m.cdntv.online/f/je3pmashtz/TheArtificeGirl.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Злой пацан (2023)
+http://m.cdntv.online/f/je3pmashtz/AnAngryBoy.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ящик Пандоры (2022)
+http://m.cdntv.online/f/je3pmashtz/Opeundeodoeo.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Земля теней (2024)
+http://m.cdntv.online/f/je3pmashtz/ShadowLand.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Невидимый стрелок (2022)
+http://m.cdntv.online/f/je3pmashtz/TheMentalState.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мёрси Фоллс (2023)
+http://m.cdntv.online/f/je3pmashtz/MercyFalls.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Клетка (2000).
+http://m.cdntv.online/f/je3pmashtz/TheCell.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Демоны внутри (2023).
+http://m.cdntv.online/f/je3pmashtz/FacesofAnne.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Обитель страха / Лазарет (2024)
+http://m.cdntv.online/f/je3pmashtz/Lazareth.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Потерянный в ночи (2023)
+http://m.cdntv.online/f/je3pmashtz/Perdidosenlanoche.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Обитель лжи (2023)
+http://m.cdntv.online/f/je3pmashtz/SecretsBeneaththeFloorboards.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Материнский инстинкт (2024)
+http://m.cdntv.online/f/je3pmashtz/MothersInstinct.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Остров изгоев (2023)
+http://m.cdntv.online/f/je3pmashtz/Soudainseuls.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Игра ва-банк (2022)
+http://m.cdntv.online/f/je3pmashtz/DoubleDownSouth.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Конец верёвки (2023)
+http://m.cdntv.online/f/je3pmashtz/EndoftheRope.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Агент-9. Миссия: Уничтожить (2023).
+http://m.cdntv.online/f/je3pmashtz/MR9DoorDie.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Киллер. Побег из тюрьмы (2022)
+http://m.cdntv.online/f/je3pmashtz/VolkovOrigin.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Безликий после наступления темноты (2023)
+http://m.cdntv.online/f/je3pmashtz/FacelessAfterDark.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Цена соблазна (2023)
+http://m.cdntv.online/f/je3pmashtz/Uncoupdedes.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ты не сможешь убегать вечно (2024)
+http://m.cdntv.online/f/je3pmashtz/YouCantRunForever.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Выжить в Калахари (2024).
+http://m.cdntv.online/f/je3pmashtz/Kalahari.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ангел мести (2021).
+http://m.cdntv.online/f/je3pmashtz/Vanquish.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Последняя остановка в округе Юма (2023)
+http://m.cdntv.online/f/je3pmashtz/TheLastStopinYumaCounty.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Марс Экспресс (2023).
+http://m.cdntv.online/f/je3pmashtz/MarsExpress.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Конвой (2023).
+http://m.cdntv.online/f/je3pmashtz/Konvoi.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Тьма человеческая (2024).
+http://m.cdntv.online/f/je3pmashtz/DarknessofMan.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Возврата нет (1993).
+http://m.cdntv.online/f/je3pmashtz/PointofNoReturn.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Никита (1990).
+http://m.cdntv.online/f/je3pmashtz/LaFemmeNikita.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Фирма (1993)
+http://m.cdntv.online/f/je3pmashtz/TheFirm.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Безграничное (2024)
+http://m.cdntv.online/f/je3pmashtz/Dengraenselose.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Хакеры (1995)
+http://m.cdntv.online/f/je3pmashtz/Hackers.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Вестсайдская история (2021)
+http://m.cdntv.online/f/je3pmashtz/WestSideStory.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Двойная рокировка (2002).
+http://m.cdntv.online/f/je3pmashtz/Mougaandou.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Двойная рокировка II (2003).
+http://m.cdntv.online/f/je3pmashtz/Mougaandou2.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Двойная рокировка III (2003).
+http://m.cdntv.online/f/je3pmashtz/Mougaandou3.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Закат убийцы / Сумерки киллера (2023).
+http://m.cdntv.online/f/je3pmashtz/Crepusculepouruntueur.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ловкие руки (2003)
+http://m.cdntv.online/f/je3pmashtz/Shade.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Место под солнцем (2023).
+http://m.cdntv.online/f/je3pmashtz/FreeState.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Город тайн: Исчезнувшая (2024)
+http://m.cdntv.online/f/je3pmashtz/ForceofNatureTheDry2.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Гуманный метод (2024)
+http://m.cdntv.online/f/je3pmashtz/Humane.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Кровь в обмен на пыль (2023).
+http://m.cdntv.online/f/je3pmashtz/BloodforDust.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Боско (2024)
+http://m.cdntv.online/f/je3pmashtz/Bosco.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Резидент (2024).
+http://m.cdntv.online/f/je3pmashtz/ChiefofStation.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",План мести (2023).
+http://m.cdntv.online/f/je3pmashtz/TheBestMan.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Любовь истекает кровью (2024)
+http://m.cdntv.online/f/je3pmashtz/LoveLiesBleeding.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Засада (2023).
+http://m.cdntv.online/f/je3pmashtz/Ambush.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Цедра Для Смерти: Расследование Ханны Свенсен (2023)
+http://m.cdntv.online/f/je3pmashtz/AZestforDeathAHannahSwensenMystery.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Бессмертный (2019)
+http://m.cdntv.online/f/je3pmashtz/Immortal.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Время преступления: Свободное падение (2024)
+http://m.cdntv.online/f/je3pmashtz/CrimeTimeFreefall.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Одно плохое яблоко. Расследование Ханны Свенсен (2024)
+http://m.cdntv.online/f/je3pmashtz/OneBadAppleAHannahSwensenMystery.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Асфальтовые джунгли (2023)
+http://m.cdntv.online/f/je3pmashtz/AsphaltCity.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",В теле убийцы (2023)
+http://m.cdntv.online/f/je3pmashtz/Akmadeul.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Покойся с миром (2024)
+http://m.cdntv.online/f/je3pmashtz/Descansarenpaz.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Козерог один (1977).
+http://m.cdntv.online/f/je3pmashtz/CapricornOne.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Однажды в Ла-Рое  (2023)
+http://m.cdntv.online/f/je3pmashtz/LaRoyTexas.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Хитмен. Последнее дело  (2023)
+http://m.cdntv.online/f/je3pmashtz/KnoxGoesAway.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",След киллера  (2024)
+http://m.cdntv.online/f/je3pmashtz/Damaged.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Спящие псы (2024)
+http://m.cdntv.online/f/je3pmashtz/SleepingDogs.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Полные отморозки  (2022).
+http://m.cdntv.online/f/je3pmashtz/Divljaci.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Принцесса бензоколонки (2023)
+http://m.cdntv.online/f/je3pmashtz/Cinnamon.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",В сетях Каморры (2022)
+http://m.cdntv.online/f/je3pmashtz/DerGejagteimNetzderCamorra.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Плохая девочка (2023)
+http://m.cdntv.online/f/je3pmashtz/Borderline.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Манодром (2023)
+http://m.cdntv.online/f/je3pmashtz/Manodrome.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Преступления моды: убийственная хватка (2024)
+http://m.cdntv.online/f/je3pmashtz/CrimesofFashionKillerClutch.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сердце охотника (2024).
+http://m.cdntv.online/f/je3pmashtz/HeartoftheHunter.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Джейд (2024)
+http://m.cdntv.online/f/je3pmashtz/Jade.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Границы безумия (2022)
+http://m.cdntv.online/f/je3pmashtz/UponEntry.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Что скрывает океан (2023)
+http://m.cdntv.online/f/je3pmashtz/OceanDeep.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Кибератака (2023)
+http://m.cdntv.online/f/je3pmashtz/Dyunmong.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ярость (2023)
+http://m.cdntv.online/f/je3pmashtz/Outrage.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сделка с дьяволом (2023)
+http://m.cdntv.online/f/je3pmashtz/DaewoebiGwonryeokuiTansaeng.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Иллюзия свободы (2022)
+http://m.cdntv.online/f/je3pmashtz/ManifestWest.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Найти и уничтожить (2023).
+http://m.cdntv.online/f/je3pmashtz/DarkAsset.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Должностное правосудие (2023).
+http://m.cdntv.online/f/je3pmashtz/DueJustice.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Внеземной контакт (2023).
+http://m.cdntv.online/f/je3pmashtz/Jonah.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Угроза (2023).
+http://m.cdntv.online/f/je3pmashtz/TodoslosnombresdeDios.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ночной рейд (2023).
+http://m.cdntv.online/f/je3pmashtz/Topakk.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мы или нас (2023).
+http://m.cdntv.online/f/je3pmashtz/UsorThem.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Иллюзия обмана (2013)
+http://m.cdntv.online/f/je3pmashtz/NowYouSeeMe.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Иллюзия обмана 2 (2016)
+http://m.cdntv.online/f/je3pmashtz/NowYouSeeMe2.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пять фунтов искупления (2024)
+http://m.cdntv.online/f/je3pmashtz/5lbsofPressure.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Нулевой контакт (2022)
+http://m.cdntv.online/f/je3pmashtz/ZeroContact.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Материнский инстинкт (2018)
+http://m.cdntv.online/f/je3pmashtz/Duelles.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Объект преследования (2023)
+http://m.cdntv.online/f/je3pmashtz/Taget.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Капитан Миллер (2024).
+http://m.cdntv.online/f/je3pmashtz/CaptainMiller.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Виртуальная реальность (2024)
+http://m.cdntv.online/f/je3pmashtz/ClearMind.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Фантом (2023)
+http://m.cdntv.online/f/je3pmashtz/Yuryeong.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Код 8: Часть 2 (2024).
+http://m.cdntv.online/f/je3pmashtz/Code8Part2.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Резервная копия (2023).
+http://m.cdntv.online/f/je3pmashtz/Bodobnovy.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сверхъестественное. Прибытие (2022)
+http://m.cdntv.online/f/je3pmashtz/CosmicDawn.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Падение первого борта (2024)
+http://m.cdntv.online/f/je3pmashtz/AirForceOneDown.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Угнать за 60 секунд (2000).
+http://m.cdntv.online/f/je3pmashtz/GoneinSixtySeconds.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Need for Speed: Жажда скорости (2014).
+http://m.cdntv.online/f/je3pmashtz/NeedforSpeed.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Карающая длань (2024).
+http://m.cdntv.online/f/je3pmashtz/RedRightHand.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Искусство ограбления / Праведные воры (2023).
+http://m.cdntv.online/f/je3pmashtz/RighteousThieves.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Выжившая (2023)
+http://m.cdntv.online/f/je3pmashtz/DangerousWaters.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ледяной страх (2023)
+http://m.cdntv.online/f/je3pmashtz/ColdMeat.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Командный пункт (2022).
+http://m.cdntv.online/f/je3pmashtz/Northspur.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Кривая дорога (2023)
+http://m.cdntv.online/f/je3pmashtz/HeWentThatWay.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Тушите свет (2024).
+http://m.cdntv.online/f/je3pmashtz/LightsOut.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Из глубины (2024)
+http://m.cdntv.online/f/je3pmashtz/NoWayUp.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Острие ножа (2009).
+http://m.cdntv.online/f/je3pmashtz/KnifeEdge.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Паранормальное. Страна призраков (2022).
+http://m.cdntv.online/f/je3pmashtz/TheResurrectionofCharlesManson.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",/ Русская рулетка (2024).
+http://m.cdntv.online/f/je3pmashtz/DarkGame.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Поделиться? (2023)
+http://m.cdntv.online/f/je3pmashtz/Share.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сталкер (2022)
+http://m.cdntv.online/f/je3pmashtz/Stalker2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Гнездо кондора (2023).
+http://m.cdntv.online/f/je3pmashtz/CondorsNest.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Контроль (2023).
+http://m.cdntv.online/f/je3pmashtz/Control.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Контроль (2003)
+http://m.cdntv.online/f/je3pmashtz/Kontroll2003.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мармелад (2024)
+http://m.cdntv.online/f/je3pmashtz/Marmalade.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Плохие парни (2023)
+http://m.cdntv.online/f/je3pmashtz/BadHombres.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Всемирный потоп (2023)
+http://m.cdntv.online/f/je3pmashtz/TheEndWeStartFrom.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Международная космическая станция (2023)
+http://m.cdntv.online/f/je3pmashtz/ISS.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Самозванка (2023)
+http://m.cdntv.online/f/je3pmashtz/SomeOtherWoman.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Главный герой. Апокалипсис (2023)
+http://m.cdntv.online/f/je3pmashtz/SKALFightforSurvival.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Охота на киллера (2023)
+http://m.cdntv.online/f/je3pmashtz/CultKiller.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Осада (2023).
+http://m.cdntv.online/f/je3pmashtz/Asedio.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Багажник: Запертая (2023)
+http://m.cdntv.online/f/je3pmashtz/TrunkLockedIn.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дорога в один конец (2023)
+http://m.cdntv.online/f/je3pmashtz/BringHimtoMe.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Под прикрытием (2023)
+http://m.cdntv.online/f/je3pmashtz/InsideMan2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дорога милосердия (2023)
+http://m.cdntv.online/f/je3pmashtz/MercyRoad.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Американская звезда (2024)
+http://m.cdntv.online/f/je3pmashtz/AmericanStar.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Крайне опасен (2024).
+http://m.cdntv.online/f/je3pmashtz/WantedMan.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Игра дронов (2023).
+http://m.cdntv.online/f/je3pmashtz/DroneGames.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Кухня (2023)
+http://m.cdntv.online/f/je3pmashtz/TheKitchen.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дипломат (2009).
+http://m.cdntv.online/f/je3pmashtz/FalseWitness.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Самодостаточность (2023)
+http://m.cdntv.online/f/je3pmashtz/SelfReliance.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Катастрофа (2023).
+http://m.cdntv.online/f/je3pmashtz/Acide.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Час истины (2020)..
+http://m.cdntv.online/f/je3pmashtz/HourofLead.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",АУТБЭК (2023)
+http://m.cdntv.online/f/je3pmashtz/Outback.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Запретная страсть (2023)
+http://m.cdntv.online/f/je3pmashtz/Letedernier.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Выжившие (2022).
+http://m.cdntv.online/f/je3pmashtz/Lessurvivants.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Каратели (2021)
+http://m.cdntv.online/f/je3pmashtz/TheRetaliators.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дикая река (2023)
+http://m.cdntv.online/f/je3pmashtz/RiverWild.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Костолом (2023).
+http://m.cdntv.online/f/je3pmashtz/Ruthless.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Айлин (2023)
+http://m.cdntv.online/f/je3pmashtz/Eileen.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Великая ирония (2023).
+http://m.cdntv.online/f/je3pmashtz/Coupdechance.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Общество снега (2023)
+http://m.cdntv.online/f/je3pmashtz/Lasociedaddelanieve.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Искушение (2023)
+http://m.cdntv.online/f/je3pmashtz/Pokusa.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Чужак (2023).
+http://m.cdntv.online/f/je3pmashtz/Farang.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Зоськина заправка (2023).
+http://m.cdntv.online/f/je3pmashtz/ZosjkinaZapravka.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мерцание (2023).
+http://m.cdntv.online/f/je3pmashtz/Mercanie.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Одержимая (2021).
+http://m.cdntv.online/f/je3pmashtz/Oderzhimaya.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Слежка (2023).
+http://m.cdntv.online/f/je3pmashtz/Slezhka.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Воровка (2023).
+http://m.cdntv.online/f/je3pmashtz/Vorovka.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Одна жизнь (2023).
+http://m.cdntv.online/f/je3pmashtz/OdnaZhiznj.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Синдром (2023)..
+http://m.cdntv.online/f/je3pmashtz/Sindrom.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Молчание ангелов (2023)
+http://m.cdntv.online/f/je3pmashtz/Englemageren.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Волнорез (2023)
+http://m.cdntv.online/f/je3pmashtz/Breakwater.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Стенографист (2023)
+http://m.cdntv.online/f/je3pmashtz/Walden.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Крупный улов (2023)
+http://m.cdntv.online/f/je3pmashtz/Finestkind.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Демоны дома Гарретов (2023)
+http://m.cdntv.online/f/je3pmashtz/RagingGrace.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Золотой конвой (2022)
+http://m.cdntv.online/f/je3pmashtz/Gulltransporten.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Анатомия падения (2023)
+http://m.cdntv.online/f/je3pmashtz/Anatomiedunechute.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",На грани жизни (2022)
+http://m.cdntv.online/f/je3pmashtz/TheGirlontheMountain.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Что случилось с Хелен (2023)
+http://m.cdntv.online/f/je3pmashtz/HelensDead.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Последний наёмник (2023).
+http://m.cdntv.online/f/je3pmashtz/IntheLandofSaintsandSinners.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Спасая души (2023)
+http://m.cdntv.online/f/je3pmashtz/AllSouls.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Большая игра (2022)
+http://m.cdntv.online/f/je3pmashtz/TheIndependent.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Визгун (2023).
+http://m.cdntv.online/f/je3pmashtz/Squealer.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Лео (2023).
+http://m.cdntv.online/f/je3pmashtz/Leo2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Оставь мир позади (2023)
+http://m.cdntv.online/f/je3pmashtz/LeavetheWorldBehind.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Игра в осьминога (2022)
+http://m.cdntv.online/f/je3pmashtz/TheOctoGames.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дьявол на пороге (2023)
+http://m.cdntv.online/f/je3pmashtz/DevilonMyDoorstep.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Голодные игры: Баллада о змеях и певчих птицах (2023).
+http://m.cdntv.online/f/je3pmashtz/TheHungerGamesTheBalladofSongbirdsSnakes.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Преступники: Высший уровень (2023)
+http://m.cdntv.online/f/je3pmashtz/ANewBreedofCriminal.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ангел мести (2023)
+http://m.cdntv.online/f/je3pmashtz/Fatum.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Гнев материнский (2023)
+http://m.cdntv.online/f/je3pmashtz/TheGoodMother.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Давняя история (2023)
+http://m.cdntv.online/f/je3pmashtz/Lamedefond.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Убийцы цветочной луны (2023)
+http://m.cdntv.online/f/je3pmashtz/KillersoftheFlowerMoon.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Контрабандистки (2023)
+http://m.cdntv.online/f/je3pmashtz/Milsu.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Тяжёлый день (2023)
+http://m.cdntv.online/f/je3pmashtz/SaigomadeIku.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Король улиц (2023)
+http://m.cdntv.online/f/je3pmashtz/Omarlafraise.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Следующая жертва (2022)
+http://m.cdntv.online/f/je3pmashtz/DaeumSohui.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Восьмой отдел (2022).
+http://m.cdntv.online/f/je3pmashtz/Section8.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Тайна Омелового переулка (2023)
+http://m.cdntv.online/f/je3pmashtz/MysteryonMistletoeLane.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Убийца (2023)
+http://m.cdntv.online/f/je3pmashtz/TheKiller2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дочь болотного царя (2023)
+http://m.cdntv.online/f/je3pmashtz/TheMarshKingsDaughter.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дьявол в деталях. Дело Миранды (2023).
+http://m.cdntv.online/f/je3pmashtz/MirandasVictim.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Иллюзия превосходства / TIM (2023)
+http://m.cdntv.online/f/je3pmashtz/TIM.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Банды Лос-Анджелеса (2023)
+http://m.cdntv.online/f/je3pmashtz/MazeofFate.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Шрапнель (2023).
+http://m.cdntv.online/f/je3pmashtz/Shrapnel.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Неестественный отбор (2023).
+http://m.cdntv.online/f/je3pmashtz/NeestestvennyOtbor.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Подвал господина Гринберга (2023).
+http://m.cdntv.online/f/je3pmashtz/PodvalGospodinaGrinberga.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Я иду играть (2021).
+http://m.cdntv.online/f/je3pmashtz/YaIduGulyatj.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Телекинез (2023).
+http://m.cdntv.online/f/je3pmashtz/Telekinez.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",В смятении (2023)
+http://m.cdntv.online/f/je3pmashtz/FuzzyHead.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Погребение (2023)
+http://m.cdntv.online/f/je3pmashtz/Burial.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Плохое воспитание (2022)
+http://m.cdntv.online/f/je3pmashtz/Heidejiaoyu.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",В плену (2023)
+http://m.cdntv.online/f/je3pmashtz/TheGirlintheBackseat.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Живёшь только раз (2017).
+http://m.cdntv.online/f/je3pmashtz/Soloseviveunavez.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",День расплаты (2001).
+http://m.cdntv.online/f/je3pmashtz/TheReckoning.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Параллель (2018).
+http://m.cdntv.online/f/je3pmashtz/Parallel.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сторонник (2018).
+http://m.cdntv.online/f/je3pmashtz/Dokjeon.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сторонник 2 (2023).
+http://m.cdntv.online/f/je3pmashtz/Dokjeon2.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Исповедь (2023)
+http://m.cdntv.online/f/je3pmashtz/Uneconfession.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Исчезнувшая в звездах (2022)
+http://m.cdntv.online/f/je3pmashtz/Xiaoshideta.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сигнал бедствия (2022)
+http://m.cdntv.online/f/je3pmashtz/DistressSignals.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",13 пришествий дьявола (2023)
+http://m.cdntv.online/f/je3pmashtz/IntheFire.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Муравьиная ферма (2022)
+http://m.cdntv.online/f/je3pmashtz/TheAntFarm.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Убийца (2023).
+http://m.cdntv.online/f/je3pmashtz/TheKiller.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дорога отчаяния (2023).
+http://m.cdntv.online/f/je3pmashtz/DesperationRoad.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",На глубине страха (2022).
+http://m.cdntv.online/f/je3pmashtz/DeepFear.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Капкан: Судная ночь (2023)
+http://m.cdntv.online/f/je3pmashtz/NightoftheHunted.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Последняя ночь Аморе (2023)
+http://m.cdntv.online/f/je3pmashtz/LultimanottediAmore.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Черный лебедь. Тайна (2023).
+http://m.cdntv.online/f/je3pmashtz/ChernyyLebedjTaina.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мако. Убийца из глубины (2021)
+http://m.cdntv.online/f/je3pmashtz/Mako.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Запертая (2023)
+http://m.cdntv.online/f/je3pmashtz/LockedIn.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дом тысячи дверей (2023)
+http://m.cdntv.online/f/je3pmashtz/WomanintheMaze.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Смерть на границе (2023)
+http://m.cdntv.online/f/je3pmashtz/DeathontheBorder.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Призраки в Венеции (2023)
+http://m.cdntv.online/f/je3pmashtz/AHauntinginVenice.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Разбитый (2023)
+http://m.cdntv.online/f/je3pmashtz/ReBroken.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Везучая (2020)
+http://m.cdntv.online/f/je3pmashtz/Lucky.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Продавцы боли (2023)
+http://m.cdntv.online/f/je3pmashtz/PainHustlers.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Клуб убийц (2023).
+http://m.cdntv.online/f/je3pmashtz/AssassinClub.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Охотники за головами (2011).
+http://m.cdntv.online/f/je3pmashtz/Hodejegerne.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мастема (2022).
+http://m.cdntv.online/f/je3pmashtz/Mastemah.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Взрыв (2021)
+http://m.cdntv.online/f/je3pmashtz/Deflagrations.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Кровавый балет (2018).
+http://m.cdntv.online/f/je3pmashtz/Fantasma.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Холодное озеро (2020)
+http://m.cdntv.online/f/je3pmashtz/TheWinterLake.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Беспокойство (2023)
+http://m.cdntv.online/f/je3pmashtz/Disquiet.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",10 дней хорошего человека (2023)
+http://m.cdntv.online/f/je3pmashtz/IyiAdamin10Gunu.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Не дыши: Игра на выживание (2022)
+http://m.cdntv.online/f/je3pmashtz/Lorafo.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дом-ловушка (2023)
+http://m.cdntv.online/f/je3pmashtz/Accused.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Истлевший на солнце (2023)
+http://m.cdntv.online/f/je3pmashtz/RottingintheSun.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ограбление 88 (2023)
+http://m.cdntv.online/f/je3pmashtz/Heist88.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Вся президентская рать (1976).
+http://m.cdntv.online/f/je3pmashtz/AllthePresidentsMen.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Суд над чикагской семеркой (2020).
+http://m.cdntv.online/f/je3pmashtz/TheTrialoftheChicago7.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Карточный долг (2023).
+http://m.cdntv.online/f/je3pmashtz/KartochnyyDolg.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Плакать нельзя (2022).
+http://m.cdntv.online/f/je3pmashtz/PlakatjNeljzya.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Остаться в живых (2022)
+http://m.cdntv.online/f/je3pmashtz/TheBoat.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Снайпер: Глобальная группа реагирования и разведки (2023).
+http://m.cdntv.online/f/je3pmashtz/SniperGRITGlobalResponseIntelligenceTeam.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Погоня за бриллиантами (2022).
+http://m.cdntv.online/f/je3pmashtz/MojaveDiamonds.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мельница (2023)
+http://m.cdntv.online/f/je3pmashtz/TheMill.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Игра в прятки (2023)
+http://m.cdntv.online/f/je3pmashtz/AllFunandGames.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Майбергер. Убийственная встреча выпускников (2021)
+http://m.cdntv.online/f/je3pmashtz/MeibergerMorderischesKlassentreffen.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Миссия невыполнима: Смертельная расплата. Часть первая (2023).
+http://m.cdntv.online/f/je3pmashtz/MissionImpossibleDeadReckoningPartOne.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Полноводная красная река (2023)
+http://m.cdntv.online/f/je3pmashtz/Manjianghong.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Клык (2023)
+http://m.cdntv.online/f/je3pmashtz/Muzzle.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Искусство по понятиям (2023)
+http://m.cdntv.online/f/je3pmashtz/TheKillRoom.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Барбер (2023)
+http://m.cdntv.online/f/je3pmashtz/Barber.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Честная игра (2023)
+http://m.cdntv.online/f/je3pmashtz/FairPlay.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Черный лотос (2023).
+http://m.cdntv.online/f/je3pmashtz/BlackLotus.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Фантом из прошлого (2022)
+http://m.cdntv.online/f/je3pmashtz/Luomosullastrada.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Папа из спецназа (2023).
+http://m.cdntv.online/f/je3pmashtz/TheRetirementPlan.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Звук свободы (2023)
+http://m.cdntv.online/f/je3pmashtz/SoundofFreedom.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Нигде / В никуда (2023)
+http://m.cdntv.online/f/je3pmashtz/Nowhere.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Рептилии (2023)
+http://m.cdntv.online/f/je3pmashtz/Reptile.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",57 секунд (2023)
+http://m.cdntv.online/f/je3pmashtz/57Seconds.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Идеальный враг (2020).
+http://m.cdntv.online/f/je3pmashtz/APerfectEnemy.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дьяволик (2021).
+http://m.cdntv.online/f/je3pmashtz/Diabolik.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дьяволик 2: Гинко атакует! (2022).
+http://m.cdntv.online/f/je3pmashtz/Diabolik2.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Семь одиннадцать вечера (2023).
+http://m.cdntv.online/f/je3pmashtz/711PM.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",За гранью времени (2023)..
+http://m.cdntv.online/f/je3pmashtz/TheFearway.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Исчезнувшие (2022).
+http://m.cdntv.online/f/je3pmashtz/ArcticVoid.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Игра в прятки (2005).
+http://m.cdntv.online/f/je3pmashtz/HideandSeek.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Она. Глава первая (2023)
+http://m.cdntv.online/f/je3pmashtz/HerChapter1.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ночной поезд (2023).
+http://m.cdntv.online/f/je3pmashtz/NightTrain.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Остров призраков (2022)
+http://m.cdntv.online/f/je3pmashtz/GhostIsland.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Заложники (2023).
+http://m.cdntv.online/f/je3pmashtz/Retribution.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Синий Жук (2023).
+http://m.cdntv.online/f/je3pmashtz/BlueBeetle.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Импостер (2023)
+http://m.cdntv.online/f/je3pmashtz/Manhole.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Веном (2018).
+http://m.cdntv.online/f/je3pmashtz/Venom.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пекарь (2022).
+http://m.cdntv.online/f/je3pmashtz/TheBaker.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Город грешников (2022).
+http://m.cdntv.online/f/je3pmashtz/BadCity.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Каратель (2021)
+http://m.cdntv.online/f/je3pmashtz/Imperative.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Полтора дня (2023).
+http://m.cdntv.online/f/je3pmashtz/Endagochenhalv.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Око за око (2023)
+http://m.cdntv.online/f/je3pmashtz/ColdCross.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Опасный друг (2022)
+http://m.cdntv.online/f/je3pmashtz/GoodBoy.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Девушка из хижины (2023).
+http://m.cdntv.online/f/je3pmashtz/CabinGirl.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Охота на короля (2023).
+http://m.cdntv.online/f/je3pmashtz/KingofKillers.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Вычитание (2022)
+http://m.cdntv.online/f/je3pmashtz/Subtraction.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Великий уравнитель 3 (2023).
+http://m.cdntv.online/f/je3pmashtz/TheEqualizer3.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Квартира 404 (2022)
+http://m.cdntv.online/f/je3pmashtz/Yeopjipsaram.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Запертый заживо (2022).
+http://m.cdntv.online/f/je3pmashtz/AchduScheize.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Война миров: Вторжение (2023)
+http://m.cdntv.online/f/je3pmashtz/WaroftheWorldsTheAttack.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Между нами горы (2017)
+http://m.cdntv.online/f/je3pmashtz/TheMountainBetweenUs.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Объект «Гармония» (2022)..
+http://m.cdntv.online/f/je3pmashtz/Harmony.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Операция «Наполеон» (2023)
+http://m.cdntv.online/f/je3pmashtz/OperationNapoleon.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Земля мафии (2023).
+http://m.cdntv.online/f/je3pmashtz/MobLand.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Космос. Смерть. Роботы (2023)
+http://m.cdntv.online/f/je3pmashtz/CosmicChaos.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Снэг: Глава первая  (2023).
+http://m.cdntv.online/f/je3pmashtz/SnagChapterOne.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Подводный капкан (2023)
+http://m.cdntv.online/f/je3pmashtz/TheDive2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Свинка (2022)
+http://m.cdntv.online/f/je3pmashtz/Cerdita.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Патхан. Схватка со смертью (2023).
+http://m.cdntv.online/f/je3pmashtz/Pathaan.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Рубеж выживания (2023)
+http://m.cdntv.online/f/je3pmashtz/LastSentinel.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Южный ветер (2018)
+http://m.cdntv.online/f/je3pmashtz/Juznivetar.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Южный ветер 2 (2021)
+http://m.cdntv.online/f/je3pmashtz/Juznivetar2Ubrzanje.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",С широко закрытыми глазами (1999)
+http://m.cdntv.online/f/je3pmashtz/EyesWideShut.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Метаморф (2023).
+http://m.cdntv.online/f/je3pmashtz/Shifter.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Также известный (2023).
+http://m.cdntv.online/f/je3pmashtz/AKA2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Крушение (2023).
+http://m.cdntv.online/f/je3pmashtz/Plane2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Аферисты (2023)
+http://m.cdntv.online/f/je3pmashtz/Sharper2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Убийственный подкаст (2022)
+http://m.cdntv.online/f/je3pmashtz/47MetersDown.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Синяя бездна (2017).
+http://m.cdntv.online/f/je3pmashtz/47MetersDown.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пик Данте (1997).
+http://m.cdntv.online/f/je3pmashtz/DantesPeak.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Исцеление (2014)
+http://m.cdntv.online/f/je3pmashtz/Debehandeling.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Шакал (1997).
+http://m.cdntv.online/f/je3pmashtz/TheJackal.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Багровые реки (2000)
+http://m.cdntv.online/f/je3pmashtz/Lesrivierespourpres.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Багровые реки 2 (2003)
+http://m.cdntv.online/f/je3pmashtz/Lesrivierespourpres2.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Банкомат (2012).
+http://m.cdntv.online/f/je3pmashtz/ATM.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дар (2000)
+http://m.cdntv.online/f/je3pmashtz/TheGift.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Забери мою душу (2010).
+http://m.cdntv.online/f/je3pmashtz/MySoultoTake.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ведьмина гора (2009).
+http://m.cdntv.online/f/je3pmashtz/RacetoWitchMountain.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Бешенство (2023).
+http://m.cdntv.online/f/je3pmashtz/Beshenstvo2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Нюрнберг (2023).
+http://m.cdntv.online/f/je3pmashtz/Nurnberg2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Двойная жизнь (2023)
+http://m.cdntv.online/f/je3pmashtz/DoubleLife2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сердце Стоун (2023).
+http://m.cdntv.online/f/je3pmashtz/HeartofStone2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Остров (2023).
+http://m.cdntv.online/f/je3pmashtz/TheIsland.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Герои и злодеи (2023)
+http://m.cdntv.online/f/je3pmashtz/Hitmen2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мать. Реинкарнация (2023).
+http://m.cdntv.online/f/je3pmashtz/MotherMayI.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Не стучи (2022).
+http://m.cdntv.online/f/je3pmashtz/Koputus2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Берегись ночной няни (2022)
+http://m.cdntv.online/f/je3pmashtz/BewaretheNightNurse.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Схватка с дьяволом (2023).
+http://m.cdntv.online/f/je3pmashtz/SympathyfortheDevil.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Джентльмен (2022).
+http://m.cdntv.online/f/je3pmashtz/Jenteulmaen2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Заклятье. Незаконченная глава (2022)
+http://m.cdntv.online/f/je3pmashtz/TheGhostWriter.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Скрытый клинок (2023)
+http://m.cdntv.online/f/je3pmashtz/Wuming.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Лабиринты прошлого (2018)
+http://m.cdntv.online/f/je3pmashtz/Todoslosaben.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Рай земной (2023).
+http://m.cdntv.online/f/je3pmashtz/Paradise2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Кровь за кровь (2023).
+http://m.cdntv.online/f/je3pmashtz/Transfusion.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Гипнотик (2023).
+http://m.cdntv.online/f/je3pmashtz/Hypnotic2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Джон Уик 4 (2023).
+http://m.cdntv.online/f/je3pmashtz/JohnWickChapter4.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мизантроп (2022).
+http://m.cdntv.online/f/je3pmashtz/ToCatchAKiller.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мэгги Мур(ы) (2023)
+http://m.cdntv.online/f/je3pmashtz/MaggieMoores.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Бекки. (2020)
+http://m.cdntv.online/f/je3pmashtz/Becky2020.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Бекки в ярости. (2023)
+http://m.cdntv.online/f/je3pmashtz/TheWrathofBecky.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Микулай (2023).
+http://m.cdntv.online/f/je3pmashtz/Mikulay.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",97 минут (2023)
+http://m.cdntv.online/f/je3pmashtz/97Minutes.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Переводчик. (2022)
+http://m.cdntv.online/f/je3pmashtz/TheCovenant2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",S.O.S. Остаться в живых (2020)
+http://m.cdntv.online/f/je3pmashtz/SOS_SurviveorSacrifice.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Агрессор (2022)
+http://m.cdntv.online/f/je3pmashtz/Assailant2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Адская пасть Мохаве.. (2022)
+http://m.cdntv.online/f/je3pmashtz/TheOutwaters2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Банды Парижа. (2023)
+http://m.cdntv.online/f/je3pmashtz/Apaches2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Беглец. (2023)
+http://m.cdntv.online/f/je3pmashtz/Kandahar2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Без фильтров (2022)
+http://m.cdntv.online/f/je3pmashtz/FollowHer2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Бун (2022).
+http://m.cdntv.online/f/je3pmashtz/Boon.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",В тылу врага (2022)...
+http://m.cdntv.online/f/je3pmashtz/ComeOutFighting.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Власть огня (2002).
+http://m.cdntv.online/f/je3pmashtz/ReignofFire.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Внутри (2022)
+http://m.cdntv.online/f/je3pmashtz/Inside2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Водоворот лжи (2022)
+http://m.cdntv.online/f/je3pmashtz/Letorrent2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Водопад (2023)
+http://m.cdntv.online/f/je3pmashtz/Cascade2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Воскрешение (2022)
+http://m.cdntv.online/f/je3pmashtz/Resurrection2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Время расплаты (2023)
+http://m.cdntv.online/f/je3pmashtz/ConfidentialInformant2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Девичник: Убойная ночь (2023)
+http://m.cdntv.online/f/je3pmashtz/FeartheNight2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Детектив Найт: Независимость (2023)
+http://m.cdntv.online/f/je3pmashtz/DetectiveKnightIndependence.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Децибел (2022).
+http://m.cdntv.online/f/je3pmashtz/Desibel.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Душа тишины (2005).
+http://m.cdntv.online/f/je3pmashtz/TheQuiet2005.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Жара (2022)
+http://m.cdntv.online/f/je3pmashtz/Heatwave2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",За гранью (2022)
+http://m.cdntv.online/f/je3pmashtz/Rimiteu2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Загадка оборотня (2022)
+http://m.cdntv.online/f/je3pmashtz/JackyCaillou.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Заговор дьявола (2022)
+http://m.cdntv.online/f/je3pmashtz/TheDevilConspiracy.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Змеиная топь (2023)
+http://m.cdntv.online/f/je3pmashtz/Quicksand.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Идеальное алиби (2022)
+http://m.cdntv.online/f/je3pmashtz/OutoftheBlue.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Иллюзия побега (2023).
+http://m.cdntv.online/f/je3pmashtz/Superposition.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Как жена (2022)
+http://m.cdntv.online/f/je3pmashtz/Wifelike.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Канал (2023)
+http://m.cdntv.online/f/je3pmashtz/TheChannel2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Остаться в живых (2006).
+http://m.cdntv.online/f/je3pmashtz/StayAlive.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Смерть в сети (2013).
+http://m.cdntv.online/f/je3pmashtz/TheDen.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мешок с костями (2011).
+http://m.cdntv.online/f/je3pmashtz/BagofBones.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Крик 6 (2023)
+http://m.cdntv.online/f/je3pmashtz/ScreamVI.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Крик 5 (2022)
+http://m.cdntv.online/f/je3pmashtz/Scream5.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Крик 4 (2011)
+http://m.cdntv.online/f/je3pmashtz/Scream4.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Крик 3 (2000)
+http://m.cdntv.online/f/je3pmashtz/Scream3.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Крик 2 (1997)
+http://m.cdntv.online/f/je3pmashtz/Scream2.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Крик (1996)
+http://m.cdntv.online/f/je3pmashtz/Scream1.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Бессмертные души (2001).
+http://m.cdntv.online/f/je3pmashtz/SoulSurvivors.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сотовый (2004).
+http://m.cdntv.online/f/je3pmashtz/Cellular.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Кровавый спорт (1988).
+http://m.cdntv.online/f/je3pmashtz/Bloodsport.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",В поисках приключений (1996)
+http://m.cdntv.online/f/je3pmashtz/TheQuest.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Специалист (1994).
+http://m.cdntv.online/f/je3pmashtz/TheSpecialist.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дом ночных призраков (1999).
+http://m.cdntv.online/f/je3pmashtz/HouseonHauntedHill.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Криминальный город: Разборки в Пусане (2023)
+http://m.cdntv.online/f/je3pmashtz/Beomjoedosi3.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Лимб (2023)
+http://m.cdntv.online/f/je3pmashtz/Limbo2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Лимб (2013)
+http://m.cdntv.online/f/je3pmashtz/Haunter2013.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Логово шпиона (2023)
+http://m.cdntv.online/f/je3pmashtz/SeuleLesdossiersSilvercloud.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Любовь - это идеальное преступление (2013)
+http://m.cdntv.online/f/je3pmashtz/Lamourestuncrimeparfait.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Маленький костяной домик (2023)
+http://m.cdntv.online/f/je3pmashtz/LittleBoneLodge.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",МаскЕрад (2023)..
+http://m.cdntv.online/f/je3pmashtz/Maskerad.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мегалодон (2023)
+http://m.cdntv.online/f/je3pmashtz/TheBlackDemon2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мисс Уиллоби и книжная лавка с привидениями (2021)
+http://m.cdntv.online/f/je3pmashtz/MissWilloughbyandtheHauntedBookshop.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Миссия ассасина (2023).
+http://m.cdntv.online/f/je3pmashtz/Assassin2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",На пределе (2021)
+http://m.cdntv.online/f/je3pmashtz/Nightride.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Нефариус (2023)
+http://m.cdntv.online/f/je3pmashtz/Nefarious.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ночная сова (2022)
+http://m.cdntv.online/f/je3pmashtz/Olppaemi.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Остров иллюзий (2022)
+http://m.cdntv.online/f/je3pmashtz/Influencer.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Невидимый (2007)
+http://m.cdntv.online/f/je3pmashtz/TheInvisible.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мыс страха (1991)
+http://m.cdntv.online/f/je3pmashtz/CapeFear.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Джиперс Криперс (2001).
+http://m.cdntv.online/f/je3pmashtz/JeepersCreepers.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Смертельный лабиринт (2004).
+http://m.cdntv.online/f/je3pmashtz/Houseof9.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пташка (2019)
+http://m.cdntv.online/f/je3pmashtz/Killbird2019.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Исповедь серийного убийцы (2022)
+http://m.cdntv.online/f/je3pmashtz/WhatRemains.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ты убиваешь меня (2023)..
+http://m.cdntv.online/f/je3pmashtz/YoureKillingMe.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Человек из Рима  (2022)
+http://m.cdntv.online/f/je3pmashtz/TheManfromRome.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Черная смерть (2010)
+http://m.cdntv.online/f/je3pmashtz/BlackDeath2010.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Техасская резня бензопилой: Начало (2006).
+http://m.cdntv.online/f/je3pmashtz/TheTexasChainsawMassacreTheBeginning.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Техасская резня бензопилой 3D (2013).
+http://m.cdntv.online/f/je3pmashtz/TexasChainsaw3D.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Техасская резня бензопилой: Кожаное лицо (2017).
+http://m.cdntv.online/f/je3pmashtz/TexasChainsawLeatherface.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Топор (2006).
+http://m.cdntv.online/f/je3pmashtz/Hatchet.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Спуск (2005).
+http://m.cdntv.online/f/je3pmashtz/TheDescent.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Спуск 2 (2009).
+http://m.cdntv.online/f/je3pmashtz/TheDescentPart2.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Миссия: невыполнима (1996).
+http://m.cdntv.online/f/je3pmashtz/MissionImpossible.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Миссия: невыполнима 2 (2000).
+http://m.cdntv.online/f/je3pmashtz/MissionImpossible2.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Миссия: невыполнима 3 (2006).
+http://m.cdntv.online/f/je3pmashtz/MissionImpossible3.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Миссия невыполнима: Протокол Фантом (2011).
+http://m.cdntv.online/f/je3pmashtz/MissionImpossibleGhostProtocol.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Миссия невыполнима: Племя изгоев (2015).
+http://m.cdntv.online/f/je3pmashtz/MissionImpossibleRogueNation.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Миссия невыполнима: Последствия (2018).
+http://m.cdntv.online/f/je3pmashtz/MissionImpossibleFallout.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ничего себе поездочка (2001).
+http://m.cdntv.online/f/je3pmashtz/JoyRide2001.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ничего себе поездочка 3 (2014).
+http://m.cdntv.online/f/je3pmashtz/JoyRide3RoadKill.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Хостел (2005).
+http://m.cdntv.online/f/je3pmashtz/Hostel.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Хостел 2 (2007).
+http://m.cdntv.online/f/je3pmashtz/HostelPart2.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Полицейский из Беверли-Хиллз (1984).
+http://m.cdntv.online/f/je3pmashtz/BeverlyHillsCop.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Полицейский из Беверли-Хиллз 2 (1987).
+http://m.cdntv.online/f/je3pmashtz/BeverlyHillsCop2.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Полицейский из Беверли-Хиллз 3 (1994).
+http://m.cdntv.online/f/je3pmashtz/BeverlyHillsCop3.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Охотники за разумом (2004).
+http://m.cdntv.online/f/je3pmashtz/Mindhunters2004.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",30 дней ночи (2007)..
+http://m.cdntv.online/f/je3pmashtz/30DaysOfNight2007.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Блэйд 2 (2002)..
+http://m.cdntv.online/f/je3pmashtz/Blade2.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Анаконда 3: Цена эксперимента (2008).
+http://m.cdntv.online/f/je3pmashtz/AnacondaOffspring.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мой кровавый Валентин 3D (2009).
+http://m.cdntv.online/f/je3pmashtz/MyBloodyValentine.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Хэллоуин: 20 лет спустя (1998).
+http://m.cdntv.online/f/je3pmashtz/Halloween20YearsLater.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Возмещение ущерба (2001).
+http://m.cdntv.online/f/je3pmashtz/CollateralDamage.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Смертельное оружие (1987).
+http://m.cdntv.online/f/je3pmashtz/LethalWeapon.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Смертельное оружие 2 (1989).
+http://m.cdntv.online/f/je3pmashtz/LethalWeapon2.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Смертельное оружие 3 (1992).
+http://m.cdntv.online/f/je3pmashtz/LethalWeapon3.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Смертельное оружие 4 (1998).
+http://m.cdntv.online/f/je3pmashtz/LethalWeapon4.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пятница 13-е (2009).
+http://m.cdntv.online/f/je3pmashtz/Fridaythe13th.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дориан Грей (2009)
+http://m.cdntv.online/f/je3pmashtz/DorianGray.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Факультет (1998).
+http://m.cdntv.online/f/je3pmashtz/TheFaculty.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Остров теней (2023)
+http://m.cdntv.online/f/je3pmashtz/ShadowIsland2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Он - это пуля (2023)
+http://m.cdntv.online/f/je3pmashtz/GodIsaBullet2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Один рейнджер (2023).
+http://m.cdntv.online/f/je3pmashtz/OneRanger2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Отчим (2009)
+http://m.cdntv.online/f/je3pmashtz/TheStepfather.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Улица страха. Часть 1: 1994 (2021)
+http://m.cdntv.online/f/je3pmashtz/FearStreetPartOne1994.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Улица страха. Часть 2: 1978 (2021)
+http://m.cdntv.online/f/je3pmashtz/FearStreetPartTwo1978.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Улица страха. Часть 3: 1666 (2021)
+http://m.cdntv.online/f/je3pmashtz/FearStreetPartThree1666.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Паранойя (2007)
+http://m.cdntv.online/f/je3pmashtz/Disturbia.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Проклятие Аннабель (2014).
+http://m.cdntv.online/f/je3pmashtz/Annabelle.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Охота (2022).
+http://m.cdntv.online/f/je3pmashtz/Heonteu.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пациенты (2022)
+http://m.cdntv.online/f/je3pmashtz/TheImmaculateRoom.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Полицейская история: В осаде (2013)
+http://m.cdntv.online/f/je3pmashtz/Jingchagushi2013.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Подкоп (2022)
+http://m.cdntv.online/f/je3pmashtz/Dig2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Последняя сделка (2023)
+http://m.cdntv.online/f/je3pmashtz/TheLastDeal2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Проникновение (2023).
+http://m.cdntv.online/f/je3pmashtz/PrivateProperty.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Приглашение к убийству (2022)
+http://m.cdntv.online/f/je3pmashtz/InvitationtoaMurder.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Синтез (2022)
+http://m.cdntv.online/f/je3pmashtz/TheAviary.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сквозь время (2022).
+http://m.cdntv.online/f/je3pmashtz/SkvozjVremya.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Скинфорд: Смертельный приговор (2023)
+http://m.cdntv.online/f/je3pmashtz/SkinfordDeathSentence.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Стоп-слово (2022)
+http://m.cdntv.online/f/je3pmashtz/Sanctuary.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Триггер (2020)
+http://m.cdntv.online/f/je3pmashtz/86MelroseAvenue.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Человек-невидимка. Возвращение легенды (2023)
+http://m.cdntv.online/f/je3pmashtz/FeartheInvisibleMan.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Щелкунчик убивает (2022).
+http://m.cdntv.online/f/je3pmashtz/NutcrackerMassacre.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Шрамы Парижа (2022)
+http://m.cdntv.online/f/je3pmashtz/Novembre2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Яростный волк (2023)
+http://m.cdntv.online/f/je3pmashtz/Loboferoz.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Операция «Фортуна»: Искусство побеждать (2023)
+http://m.cdntv.online/f/je3pmashtz/Operation_Fortune_Ruse_de_guerre_2023.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Марлоу (2022)
+http://m.cdntv.online/f/je3pmashtz/Marlowe_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Не дыши: Начало (2022)
+http://m.cdntv.online/f/je3pmashtz/Old_Man_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Достать ножи: Стеклянная луковица (2022)
+http://m.cdntv.online/f/je3pmashtz/Glass_Onion_A_Knives_Out_Mystery_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Викрам. (2022)
+http://m.cdntv.online/f/je3pmashtz/Vikram_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Вершина страха. (2022)
+http://m.cdntv.online/f/je3pmashtz/Summit_Fever_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Нитрам (2021)
+http://m.cdntv.online/f/je3pmashtz/Nitram_2021.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Целиком и полностью. (2022)
+http://m.cdntv.online/f/je3pmashtz/Bones_and_All_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Няня. (2022)
+http://m.cdntv.online/f/je3pmashtz/Nanny_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Убийца «Святой паук» (2022)
+http://m.cdntv.online/f/je3pmashtz/Holy_Spider_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Клетка разума (2022)
+http://m.cdntv.online/f/je3pmashtz/Mindcage_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Человек действия (2022)
+http://m.cdntv.online/f/je3pmashtz/A_Man_of_Action_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Голоса. (2021)
+http://m.cdntv.online/f/je3pmashtz/They_Talk_2021.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Один путь. (2022)
+http://m.cdntv.online/f/je3pmashtz/One_Way_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Кривые линии Бога (2022)
+http://m.cdntv.online/f/je3pmashtz/Los_renglones_torcidos_de_Dios_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Детектив Найт: Искупление. (2022)
+http://m.cdntv.online/f/je3pmashtz/Detective_Knight_Redemption_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Бандит. (2022)
+http://m.cdntv.online/f/je3pmashtz/Bandit_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Райский город (2022).
+http://m.cdntv.online/f/je3pmashtz/Paradise_City_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Не пойман — не вор (2006)
+http://m.cdntv.online/f/je3pmashtz/InsideMan.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Отпетые мошенники (2008).
+http://m.cdntv.online/f/je3pmashtz/CaSh.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Криминальный город 2. (2022)
+http://m.cdntv.online/f/je3pmashtz/The_Roundup_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Паранойя (2013)
+http://m.cdntv.online/f/je3pmashtz/Paranoia.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Городские легенды (1998).
+http://m.cdntv.online/f/je3pmashtz/UrbanLegend.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Городские легенды 2: Последний отрезок (2000).
+http://m.cdntv.online/f/je3pmashtz/UrbanLegendsFinalCut.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Городские легенды 3: Кровавая Мэри (2005).
+http://m.cdntv.online/f/je3pmashtz/UrbanLegendsBloodyMary.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дежавю. (2006)
+http://m.cdntv.online/f/je3pmashtz/Deja_Vu_2006.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Физфак. (2022)
+http://m.cdntv.online/f/je3pmashtz/Fizfak_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Приглашение. (2022)
+http://m.cdntv.online/f/je3pmashtz/The_Invitation_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Нет. (2022)
+http://m.cdntv.online/f/je3pmashtz/Net_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Воскрешение (2022)
+http://m.cdntv.online/f/je3pmashtz/Resurrection_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Перевозчик (2020)
+http://m.cdntv.online/f/je3pmashtz/Simmer_2020.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Вечное новое. (2021)
+http://m.cdntv.online/f/je3pmashtz/Vechnoe_Novoe_2021.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",F20. (2022)
+http://m.cdntv.online/f/je3pmashtz/F20_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Вечная дочь (2022)
+http://m.cdntv.online/f/je3pmashtz/The_Eternal_Daughter_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Незнакомец (2021)
+http://m.cdntv.online/f/je3pmashtz/The_Righteous_2021.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Гнев во спасение. (2022)
+http://m.cdntv.online/f/je3pmashtz/Savage_Salvation_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Тролль.. (2022)..
+http://m.cdntv.online/f/je3pmashtz/Troll_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Подстава (2022)
+http://m.cdntv.online/f/je3pmashtz/Blowback_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Помнить (2022)
+http://m.cdntv.online/f/je3pmashtz/Remember_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дурной глаз (2022)
+http://m.cdntv.online/f/je3pmashtz/Nocebo_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Незнакомцы (2020)
+http://m.cdntv.online/f/je3pmashtz/Neznakomtsyi_2020.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Однажды в Техасе (2021)
+http://m.cdntv.online/f/je3pmashtz/Odnazhdy_v_Tehase_2021.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Решение уйти (2022)
+http://m.cdntv.online/f/je3pmashtz/Reshenie_Uyti_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Вышка (2022)
+http://m.cdntv.online/f/je3pmashtz/Vyshka_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Энола Холмс (2020)
+http://m.cdntv.online/f/je3pmashtz/Enola_Holms_2020.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Энола Холмс 2 (2022)
+http://m.cdntv.online/f/je3pmashtz/Enola_Holms_2_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пламя (2022)
+http://m.cdntv.online/f/je3pmashtz/Blaze_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Человек-невидимка (2020)
+http://m.cdntv.online/f/je3pmashtz/chelovek_nevidimka_2020.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Дети тьмы (2021)
+http://m.cdntv.online/f/je3pmashtz/deti_tmy_2021.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Девушка в окне (2022)
+http://m.cdntv.online/f/je3pmashtz/devushka_v_okne_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Добрый медбрат (2022)
+http://m.cdntv.online/f/je3pmashtz/dobryj_medbrat_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Коллекторы: Противостояние (2021)
+http://m.cdntv.online/f/je3pmashtz/kollektory_protivostojanie_2021.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Нечего терять (2022)
+http://m.cdntv.online/f/je3pmashtz/nechego_terjat_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Невиновная (2020)
+http://m.cdntv.online/f/je3pmashtz/nevinovnaja_2020.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Остров фантазий (2020)
+http://m.cdntv.online/f/je3pmashtz/ostrov_fantazij_2020.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пленница (2020)
+http://m.cdntv.online/f/je3pmashtz/plennica_2020.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Последний клиент (2022)
+http://m.cdntv.online/f/je3pmashtz/poslednij_klient_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Разгневанная душа (2020)
+http://m.cdntv.online/f/je3pmashtz/razgnevannaja_dusha_2021.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сказка для старых (2021)
+http://m.cdntv.online/f/je3pmashtz/skazka_dlja_staryh_2021.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Умереть за доллар (2022)
+http://m.cdntv.online/f/je3pmashtz/umeret_za_dollar_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Тревожный звонок / В эфире (2022)
+http://m.cdntv.online/f/je3pmashtz/v_efire_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Варвары (2021)
+http://m.cdntv.online/f/je3pmashtz/Barbarians_2021.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Чёрная вдова (1987)
+http://m.cdntv.online/f/je3pmashtz/Black_Widow_1987.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Капкан.. (2019)
+http://m.cdntv.online/f/je3pmashtz/Crawl_2019.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Воспоминания. (2021)
+http://m.cdntv.online/f/je3pmashtz/Reminiscence_2021.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Криминальный город. (2017)
+http://m.cdntv.online/f/je3pmashtz/The_Outlaws_2017.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Стрела возмездия (2022)
+http://m.cdntv.online/f/je3pmashtz/Strela_Vozmezdiya_2022.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Кровавый алмаз (2006)
+http://m.cdntv.online/f/je3pmashtz/Blood_Diamond_2006.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Легенда (2015)
+http://m.cdntv.online/f/je3pmashtz/Legend_2015.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Малыш на драйве. (2017)
+http://m.cdntv.online/f/je3pmashtz/Baby_Driver_2017.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Убежище. (2008)
+http://m.cdntv.online/f/je3pmashtz/6_Souls_2010.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Иллюзионист (2006)
+http://m.cdntv.online/f/je3pmashtz/The_Illusionist_2006.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Коллекционер. (2009)
+http://m.cdntv.online/f/je3pmashtz/The_Collector_2009.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Олдбой (2003)
+http://m.cdntv.online/f/je3pmashtz/Oldeuboi_2003.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Исчезнувшая (2014)
+http://m.cdntv.online/f/je3pmashtz/Gone_Girl_2014.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пожары. (2010)
+http://m.cdntv.online/f/je3pmashtz/Incendies_2010.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Девушка с татуировкой дракона (2011)
+http://m.cdntv.online/f/je3pmashtz/The_Girl_with_the_Dragon_Tattoo_2011.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Джокер (2019)
+http://m.cdntv.online/f/je3pmashtz/Joker_2019.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Одиннадцать друзей Оушена (2001)
+http://m.cdntv.online/f/je3pmashtz/Odinnadcatj_druzej_Oushena_2001.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Двенадцать друзей Оушена (2004)
+http://m.cdntv.online/f/je3pmashtz/Dvenadcatj_druzej_Oushena_2004.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Тринадцать друзей Оушена (2007)
+http://m.cdntv.online/f/je3pmashtz/Trinadcatj_druzej_Oushena_2007.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Красный дракон (2002)
+http://m.cdntv.online/f/je3pmashtz/Red_Dragon_2002.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Гори гори ясно (2019)
+http://m.cdntv.online/f/je3pmashtz/Brightburn.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Опасная игра Слоун (2016)
+http://m.cdntv.online/f/je3pmashtz/Miss_Sloane_2016.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Предел риска (2011)
+http://m.cdntv.online/f/je3pmashtz/Predel_Riska_2011.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Три девятки (2016)
+http://m.cdntv.online/f/je3pmashtz/Triple_9_2016.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пассажиры. (2016)
+http://m.cdntv.online/f/je3pmashtz/Passengers_2016.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Клаустрофобы (2019)
+http://m.cdntv.online/f/je3pmashtz/Escape_Room_2019.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Клаустрофобы Квест в Москве (2020)
+http://m.cdntv.online/f/je3pmashtz/Follow_Me_2020.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Клаустрофобы 2∶ Лига выживших (2021)
+http://m.cdntv.online/f/je3pmashtz/Escape_Room_Tournament_Of_Champions_2021.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",2012. (2009)
+http://m.cdntv.online/f/je3pmashtz/2012_2009.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Погребённый заживо (2010)
+http://m.cdntv.online/f/je3pmashtz/Buried_2010.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Невидимый гость (2016)
+http://m.cdntv.online/f/je3pmashtz/The_Invisible_Guest_2016.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Неуправляемый (2014)
+http://m.cdntv.online/f/je3pmashtz/Rudderless_2014.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Обитель проклятых (2014)
+http://m.cdntv.online/f/je3pmashtz/Stonehearst_Asylum_2014.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Супер 8. (2011)
+http://m.cdntv.online/f/je3pmashtz/Super_8_2011.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Посвящённый. (2014)
+http://m.cdntv.online/f/je3pmashtz/The_Giver_2014.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Время первых.. (2017)
+http://m.cdntv.online/f/je3pmashtz/Vremya_Pervyh_2017.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Город тайн (2020)
+http://m.cdntv.online/f/je3pmashtz/The_Dry_2021.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Девятые врата (1999)
+http://m.cdntv.online/f/je3pmashtz/The_Ninth_Gate_1999.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Джон Уик. (2014)
+http://m.cdntv.online/f/je3pmashtz/John_Wick_2014.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Джон Уик 2. (2017)
+http://m.cdntv.online/f/je3pmashtz/John_Wick_Chapter_2_2017.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Джон Уик 3. (2019)
+http://m.cdntv.online/f/je3pmashtz/John_Wick_Chapter_3_Parabellum_2019.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Призрак (2010)
+http://m.cdntv.online/f/je3pmashtz/The_Ghost_Writer_2010.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Отель Мумбаи: Противостояние.. (2018)
+http://m.cdntv.online/f/je3pmashtz/Hotel_Mumbai_2018.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мама. (2013)
+http://m.cdntv.online/f/je3pmashtz/Mama_2013.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мама. (2017)
+http://m.cdntv.online/f/je3pmashtz/Mom_2017.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Шерлок: Безобразная невеста (2016)
+http://m.cdntv.online/f/je3pmashtz/Sherlock_The_Abominable_Bride_2015.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мег Монстр глубины. (2018)
+http://m.cdntv.online/f/je3pmashtz/The_Meg_2018.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пункт назначения (2000)
+http://m.cdntv.online/f/je3pmashtz/Final_Destination_2000.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пункт назначения 2 (2003)
+http://m.cdntv.online/f/je3pmashtz/Final_Destination_2_2003.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пункт назначения 3 (2006)
+http://m.cdntv.online/f/je3pmashtz/Final_Destination_3_2006.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пункт назначения 4 (2009)
+http://m.cdntv.online/f/je3pmashtz/Final_Destination_4_2009.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пункт назначения 5 (2011)
+http://m.cdntv.online/f/je3pmashtz/Final_Destination_5_2011.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Тёмные тайны (2015)
+http://m.cdntv.online/f/je3pmashtz/Dark_Places_2015.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Грязные миллионы (2021)
+http://m.cdntv.online/f/je3pmashtz/Boiseu_2021.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Игра. (1997)
+http://m.cdntv.online/f/je3pmashtz/The_Game_1997.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Превосходство. (2004)
+http://m.cdntv.online/f/je3pmashtz/Transcendence_2014.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Во власти стихии (2018)
+http://m.cdntv.online/f/je3pmashtz/Adrift_2018.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Доберман. (1997)
+http://m.cdntv.online/f/je3pmashtz/Dobermann_1997.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Харли Дэвидсон и Ковбой Мальборо. (1991)
+http://m.cdntv.online/f/je3pmashtz/Harley_Davidson_and_the_Marlboro_Man_1991.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Идентификация (2003)
+http://m.cdntv.online/f/je3pmashtz/Identity_2003.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Поиск (2012)
+http://m.cdntv.online/f/je3pmashtz/Talasa_2012.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Поиск (2018)
+http://m.cdntv.online/f/je3pmashtz/Searching_2018.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Послезавтра (2004)
+http://m.cdntv.online/f/je3pmashtz/The_Day_After_Tomorrow_2004.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Банды Нью-Йорка (2002).
+http://m.cdntv.online/f/je3pmashtz/Gangs_Of_New_York_2002.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Идентификация Борна. (2002)
+http://m.cdntv.online/f/je3pmashtz/The_Bourne_Identity_2002.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Превосходство Борна. (2004)
+http://m.cdntv.online/f/je3pmashtz/The_Bourne_Supremacy_2004.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ультиматум Борна. (2007)
+http://m.cdntv.online/f/je3pmashtz/The_Bourne_Ultimatum_2007.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Эволюция Борна. (2012)
+http://m.cdntv.online/f/je3pmashtz/The_Bourne_Legacy_2012.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Джейсон Борн. (2016)
+http://m.cdntv.online/f/je3pmashtz/Jason_Bourne_2016.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Меняющие реальность. (2011)
+http://m.cdntv.online/f/je3pmashtz/The_Adjustment_Bureau_2011.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пароль «Рыба-меч». (2001)
+http://m.cdntv.online/f/je3pmashtz/Swordfish_2001.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Простая просьба (2018)
+http://m.cdntv.online/f/je3pmashtz/A_Simple_Favor_2018.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Турист. (2010)
+http://m.cdntv.online/f/je3pmashtz/The_Tourist_2010.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Расплата. (1999)
+http://m.cdntv.online/f/je3pmashtz/Payback_1999.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Неизвестный (2011)
+http://m.cdntv.online/f/je3pmashtz/Unknown_2011.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Французский транзит (2014)
+http://m.cdntv.online/f/je3pmashtz/La_French_2014.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Расплата. (2016)
+http://m.cdntv.online/f/je3pmashtz/The_Accountant_2016.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Расплата (2010)
+http://m.cdntv.online/f/je3pmashtz/The_Debt_2010.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Великий уравнитель (2014)
+http://m.cdntv.online/f/je3pmashtz/The_Equalizer_2014.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Великий уравнитель 2 (2018)
+http://m.cdntv.online/f/je3pmashtz/The_Equalizer_2_2018.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Эверест. (2015)
+http://m.cdntv.online/f/je3pmashtz/Everest_2015.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Криминальное чтиво. (1994)
+http://m.cdntv.online/f/je3pmashtz/Pulp_Fiction_1994.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Пленницы. (2013)
+http://m.cdntv.online/f/je3pmashtz/Prisoners_2013.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Психо.. (1998)
+http://m.cdntv.online/f/je3pmashtz/Psycho_1998.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Таксист. (1976)
+http://m.cdntv.online/f/je3pmashtz/Taksist_1976.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",В случае убийства набирайте `М`. (1954)
+http://m.cdntv.online/f/je3pmashtz/V_Sluchae_Ubijstva_Nabiraite_M_1954.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Области тьмы. (2011)
+http://m.cdntv.online/f/je3pmashtz/Limitless_2011.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Джанго освобождённый. (2012)
+http://m.cdntv.online/f/je3pmashtz/Django_Unchained_2012.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Большой куш. (2000)
+http://m.cdntv.online/f/je3pmashtz/Snatch_2000.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Джентльмены. (2019)
+http://m.cdntv.online/f/je3pmashtz/The_Gentlemen_2020.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Бойцовский клуб. (1999)
+http://m.cdntv.online/f/je3pmashtz/Fight_Club_1999.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Леон. (1994)
+http://m.cdntv.online/f/je3pmashtz/Leon_1994.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Молчание ягнят. (1991)
+http://m.cdntv.online/f/je3pmashtz/The_Silence_of_the_Lambs_1991.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Омерзительная восьмёрка. (2015)
+http://m.cdntv.online/f/je3pmashtz/The_Hateful_Eight_2015.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Отступники. (2006)
+http://m.cdntv.online/f/je3pmashtz/The_Departed_2006.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Se7en. (1995)
+http://m.cdntv.online/f/je3pmashtz/Se7en_1995.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Остров проклятых. (2010)
+http://m.cdntv.online/f/je3pmashtz/Shutter_Island_2010.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Гангстер.. (2007)
+http://m.cdntv.online/f/je3pmashtz/American_Gangster_2007.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Достать ножи. (2019)
+http://m.cdntv.online/f/je3pmashtz/Knives_Out_2019.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Жизнь других. (2006)
+http://m.cdntv.online/f/je3pmashtz/The_Lives_of_Others_2006.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Паразиты. (2019)
+http://m.cdntv.online/f/je3pmashtz/Gisaengchung_2019.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Славные парни. (1990)
+http://m.cdntv.online/f/je3pmashtz/GoodFellas_1990.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Помни. (2000)
+http://m.cdntv.online/f/je3pmashtz/Memento_2000.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Старикам тут не место. (2007)
+http://m.cdntv.online/f/je3pmashtz/No_Country_for_Old_Men_2007.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Бешеные псы. (1992)
+http://m.cdntv.online/f/je3pmashtz/Reservoir_Dogs_1992.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Линкольн для адвоката. (2011)
+http://m.cdntv.online/f/je3pmashtz/The_Lincoln_Lawyer_2011.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Лучшее предложение. (2013)
+http://m.cdntv.online/f/je3pmashtz/La_Migliore_Offerta_2013.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Счастливое число Слевина. (2006)
+http://m.cdntv.online/f/je3pmashtz/Lucky_Number_Slevin_2006.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Жизнь Дэвида Гейла. (2003)
+http://m.cdntv.online/f/je3pmashtz/The_Life_of_David_Gale_2003.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",1408 (2007)
+http://m.cdntv.online/f/je3pmashtz/1408_2007.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Кто я. (2014)
+http://m.cdntv.online/f/je3pmashtz/Who_Am_I_2014.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Связь. (2013)
+http://m.cdntv.online/f/je3pmashtz/Coherence_2013.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Заложница. (2008)
+http://m.cdntv.online/f/je3pmashtz/Taken_2008.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Заложница 2. (2012)
+http://m.cdntv.online/f/je3pmashtz/Taken_2_2012.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Заложница 3. (2014)
+http://m.cdntv.online/f/je3pmashtz/Taken_3_2014.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ниндзя-убийца. (2009)
+http://m.cdntv.online/f/je3pmashtz/Nindzya_ubyica_2009.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Воздушный шар (2018)
+http://m.cdntv.online/f/je3pmashtz/Ballon_2018.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Воздушный маршал (2014)
+http://m.cdntv.online/f/je3pmashtz/Non_Stop_2014.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",127 часов (2010)
+http://m.cdntv.online/f/je3pmashtz/127_Hours_2010.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Красная шапочка (2011)
+http://m.cdntv.online/f/je3pmashtz/Red_Riding_Hood_2011.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Выстрел в пустоту (2015)
+http://m.cdntv.online/f/je3pmashtz/Shot_Caller_2017.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Призрак оперы (2004)
+http://m.cdntv.online/f/je3pmashtz/Prizrak_Opery_2004.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Отмель (2016)
+http://m.cdntv.online/f/je3pmashtz/The_Shallows_2016.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Порок на экспорт. (2007)
+http://m.cdntv.online/f/je3pmashtz/Eastern_Promises_2007.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Инферно. (2016)
+http://m.cdntv.online/f/je3pmashtz/Inferno_2016.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Сплит (2016)
+http://m.cdntv.online/f/je3pmashtz/Split_2016.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Я - Четвертый (2011)
+http://m.cdntv.online/f/je3pmashtz/I_Am_Number_Four_2011.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Оно. (2014)
+http://m.cdntv.online/f/je3pmashtz/It_Follows_2014.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Ветреная река (2017)
+http://m.cdntv.online/f/je3pmashtz/Wind_River_2017.m3u8
+#EXTINF:-1 group-title="Server_🇷🇺 kino 💻",Мышеловка (2019)
+http://m.cdntv.online/f/je3pmashtz/4x4_Welcome_Aboard_2019.m3u8
+
+
 
 
 
