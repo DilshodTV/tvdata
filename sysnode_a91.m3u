@@ -2498,8 +2498,38 @@ https://unbeaten-tcl.amagi.tv/playlist.m3u8
 https://master.tucableip.com/ftvhd/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",beIN Sports (Espanol)
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png",beIN Sports (Fransiya)
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png",beIN Sports 1 (Fransiya)
 http://aneqwvp.top:8080/vip2281787900896/9badd3a20791/373
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png",beIN Sports 2 (Fransiya)
+http://aneqwvp.top:8080/vip2281787900896/9badd3a20791/374
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png",beIN Sports 3 (Fransiya)
+http://aneqwvp.top:8080/vip2281787900896/9badd3a20791/375
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png",beIN Sports 4 (Fransiya)
+http://aneqwvp.top:8080/vip2281787900896/9badd3a20791/376
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png",beIN Sports 5 (Fransiya)
+http://aneqwvp.top:8080/vip2281787900896/9badd3a20791/377
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png",beIN Sports 6 (Fransiya)
+http://aneqwvp.top:8080/vip2281787900896/9badd3a20791/378
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png",beIN Sports 7 (Fransiya)
+http://aneqwvp.top:8080/vip2281787900896/9badd3a20791/379
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png",beIN Sports 8 (Fransiya)
+http://aneqwvp.top:8080/vip2281787900896/9badd3a20791/380
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png",beIN Sports 9 (Fransiya)
+http://aneqwvp.top:8080/vip2281787900896/9badd3a20791/381
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png",beIN Sports 10 (Fransiya)
+http://aneqwvp.top:8080/vip2281787900896/9badd3a20791/382
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png",LIGUE1+ 1 (Fransiya)
+http://aneqwvp.top:8080/vip2281787900896/9badd3a20791/142250
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png",LIGUE1+ 2 (Fransiya)
+http://aneqwvp.top:8080/vip2281787900896/9badd3a20791/142251
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png",LIGUE1+ 3 (Fransiya)
+http://aneqwvp.top:8080/vip2281787900896/9badd3a20791/142252
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png",LIGUE1+ 6 (Fransiya)
+http://aneqwvp.top:8080/vip2281787900896/9badd3a20791/142255
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png",LIGUE1+ 7 (Fransiya)
+http://aneqwvp.top:8080/vip2281787900896/9badd3a20791/142256
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://docdog.top/logo/countries/france/ligue1.png",LIGUE1+ 10 (Fransiya)
+http://aneqwvp.top:8080/vip2281787900896/9badd3a20791/142259
 #EXTINF:-1 group-title="Sport_TV 🏆",Bein EXTRAS (Amerika)
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Pac 12 Insider (Amerika)
