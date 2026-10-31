@@ -11128,8 +11128,6 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 https://stream.zeno.fm/gnsnxsq1znhvv
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",Oriat dono
 http://oriat.mediabay.uz/oriatdono.m3u8
-#EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",Oriat FM
-http://dono.rafail1982.uz:8000/fm
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/27//71c9d7b00e8732279f9b45b1906f746f-q-500x500.jpeg",O'zbegim taronasi (UZ) 
 https://fm101.uz:9943/fm101_low.aac
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://static10.tgstat.ru/channels/_0/db/dbd1a10d8c3a554f8dab628d73ba67c8.jpg",Vodiy sadosi (UZ)
@@ -11147,11 +11145,11 @@ https://stream.zeno.fm/f2aawo8h0qguv
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/08/26//9089e09bfe47782c76bf2c98f3e5c72d-q-500x500.jpeg", Biz FM (Radio UZ)
 https://fm.bizfm.uz:8443/128
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/08/25//f1307d5df1872ff847fc8591c56dda5c-q-500x500.jpeg", Grand FM (Radio UZ)
-https://str1.tvcom.uz/RADIO-GRAND/shoutcast
+
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",Khalifa FM (UZ) 
 https://stream.zeno.fm/y8gdyaatxhhvv 
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/08/28//1aeb7567f3f28c5442c6f39e810f8734-q-500x500.jpeg", Retro FM (UZ)
-https://classicfm.uz:8444/retrofm.ogg
+
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/08/28//e7d7d5d7fdc9003c3670e0d05022e420-q-500x500.jpeg", Classic FM (UZ)
 https://classicfm.uz:8444/classic.ogg
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="http://rafail1982.uz/logo/radio.png",RMPlay (UZ) 
@@ -11163,7 +11161,7 @@ https://c16.radioboss.fm:18234/stream
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://i.postimg.cc/SKkbNgk9/IMG-20260502-132127-245.jpg", Sevimli FM (UZ)
 https://st4.mediabay.uz/Poytaxt/PoytaxtUz/tracks-a1/mono.m3u8
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://cdn.iono.fm/files/p2932/logo_2932_20250905_204948_350.jpeg", Smile FM (UZ)
-http://smilefm.uz:8000/live
+
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/08/28//dd4e381c665b83becb781a4642ec795e-q-500x500.jpeg", Maxima FM (UZ) 
 https://classicfm.uz:8444/maxima.ogg 
 #EXTINF:-1 group-title="FM_Radio 🔌/📻" tvg-logo="https://fmcube.net/images/stations/65dd388dd6326.jpg",Timsol online (UZ) 
