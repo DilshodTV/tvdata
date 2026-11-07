@@ -85,7 +85,7 @@ https://s7.iptv-24.net/1291/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/09-2025/8855.jpg", Retro TV
 https://s7.iptv-24.net/1290/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/05/22//a5395b0b-1448-43da-a622-3a117c37ad78-q-500x500.jpeg", Farovon Yurt
-
+https://s7.iptv-24.net/1301/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/23//bfa00beb-dafa-447d-bcf7-ff2fa954bf61-q-500x500.jpeg", HAYOT TV
 https://s7.iptv-24.net/1064/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//91c58d573e4a8e351e68a0ebcbe724ab-q-500x500.jpeg", ITV Cinema HD
@@ -5337,6 +5337,8 @@ https://xmuzon.com/seriallar/Qashqirlar%20makoni%20543.mp4
 
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-03/1774480274_jekrana-2026-03-26-041312.jpg" group-title="Server_🇺🇿 kino 💻",Xudo asrasin 2 2026
+https://www.youtube.com/watch?v=cm_X2-qAaDE&t=452s
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-03/1774480274_jekrana-2026-03-26-041312.jpg" group-title="Server_🇺🇿 kino 💻",Toj-Mahal tarixi 2026
 https://s1.kxcdn.ru/Toj_Mahal_2026_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-03/1774640482_jekrana-2026-03-28-004344.jpg" group-title="Server_🇺🇿 kino 💻",Tavakkalchi 2026
