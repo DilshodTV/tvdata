@@ -193,7 +193,7 @@ https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://imservice.kz/wp-content/uploads/2025/01/WhatsApp-Image-2022-12-05-at-14.09.19-1-1.jpeg",Qazaqstan HD
-
+https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://imservice.kz/wp-content/uploads/2025/01/WhatsApp-Image-2022-12-05-at-14.09.19-1-1.jpeg",Qazaqstan International
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-id="xabar" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar.png",Хабар KZ
@@ -201,7 +201,7 @@ https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://epg.it999.ru/img/2578.png",Хабар 24
 https://s7.iptv-24.net/1408/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://astanatv.kz/cache/imagine/1200/uploads/article/2023/3/1/1677681984370.jpg",Astana TV
-
+https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://imservice.kz/wp-content/uploads/2025/01/LOGO_GREEN_WHITE-01-scaled-2.jpeg",Almaty TV
 https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://raw.githubusercontent.com/unixlinuxgeek/logos/main/iptv/MTRK.png",МТРК Петропавл
@@ -209,9 +209,9 @@ https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-id="atameken-business" tvg-logo="https://iptvx.one/picons/atameken-business.png",Atameken Business
 https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿"  tvg-logo="https://s9.vcdn.biz/static/f/2293960041/image.jpg",КТК KZ
-
+https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.mycdn.me/i?r=BDH3HfPpvmQZZI-uHXH_6LjV3_dv7sxqxMd2lMyWo_xtfkhokwdVFTTq0m4WSSJ6fvA",НТК
-
+https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://epg.it999.ru/img/2571.png",Первый канал Евразия
 http://ott.server-iptv.live/2110/video.m3u8?token=S76379DB41
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",Мир(Казахстан)
@@ -233,7 +233,7 @@ http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/5kanal-karaganda.png",5 канал (Караганда)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/458MPWD8UEBKE9/2221/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/7kanal-kz.png",7 канал KZ
-
+https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/31-kanal-kz.png",31 канал KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/77tv-kz.png",77 канал
