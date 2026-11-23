@@ -267,11 +267,11 @@ http://c611a561.tvclub.xyz/iptv/U8VGFNCKR4XDKSAHAQHEW37N/15238/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan Sport
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_5d385e7355153152ba34f5f2.png",Qazsport HD KZ
-https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS8xMTQzLm0zdTg.m3u8?k=12345
+http://cdntv.online/high/kf28bzwndi/1143.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_64507c71071b52869ab93ab3.png" catchup-days="0", Q League HD KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.postimg.cc/RVZGp3Yg/unnamed.jpg",Setanta Qazaqstan 
-https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS8xMTg3Lm0zdTg.m3u8?k=12345
+http://cdntv.online/high/kf28bzwndi/1187.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_5f9984549e0766c2417d4076.png",Setanta Sports 1 KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_5f9984649e0766c2417d4079.png" catchup-days="0", Setanta Sports 2 HD KZ
@@ -2061,7 +2061,7 @@ http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",История
 https://s7.iptv-24.net/1266/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="https://iptvx.one/picons/history.png",History HD
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/837/index.m3u8
+http://cdntv.online/high/kf28bzwndi/987.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎" tvg-logo="http://s06.wsbof.com:8080/streams/h2-hd.png",History 2 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/2033/index.m3u8
 #EXTINF:-1 group-title="Dunyo_TV 🌎",BOX Stories HD
@@ -2234,25 +2234,31 @@ https://s7.iptv-24.net/1430/tracks-v1a1/mono.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! HD
-https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS8zLm0zdTg.m3u8?k=12345
+http://cdntv.online/high/kf28bzwndi/48.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.one/img2/2051.png",Матч ТВ +2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6012/index.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.one/img2/2051.png",Матч ТВ +4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6023/index.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.one/img2/2051.png",Матч ТВ +8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6052/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Планета
 https://s7.iptv-24.net/1243/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Страна HD
-https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS81NC5tM3U4.m3u8?k=12345
+http://cdntv.online/high/kf28bzwndi/54.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/172/logo_256_1658736816.png",Матч! Арена HD
-https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS80OS5tM3U4.m3u8?k=12345
+http://cdntv.online/high/kf28bzwndi/47.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/174/logo_256_1658736842.png",Матч! Игра HD
-https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS81MS5tM3U4.m3u8?k=12345
+http://cdntv.online/high/kf28bzwndi/51.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/175/logo_256_1658736830.png" ,Матч! Боец HD
-https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS81MC5tM3U4.m3u8?k=12345
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://tricolor-38.ru/KANALY_4/Mathc_premjer.jpg", Матч! Премьер
-https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS81Mi5tM3U4.m3u8?k=12345
+http://cdntv.online/high/kf28bzwndi/50.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://tricolor-38.ru/KANALY_4/Mathc_premjer.jpg", Матч! Премьер HD
+http://cdntv.online/high/kf28bzwndi/53.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Футбол 1 HD
-https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS85ODEubTN1OA.m3u8?k=12345
+http://cdntv.online/high/kf28bzwndi/55.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Футбол 2 HD
-https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS85ODIubTN1OA.m3u8?k=12345
+http://cdntv.online/high/kf28bzwndi/56.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Футбол 3 HD
-https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS85ODMubTN1OA.m3u8?k=12345
+http://cdntv.online/high/kf28bzwndi/57.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 1 HD
 https://s7.iptv-24.net/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 2 HD
@@ -2280,7 +2286,7 @@ https://s7.iptv-24.net/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/1833.png?v1744706916", Окко.Прайм Спорт
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/okko-football.png", Окко Футбол HD
-
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6554/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/2037.png?v1773512349", Окко Чемпионат
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/okko-sport.png", Окко Спорт HD
@@ -2304,9 +2310,9 @@ https://s7.iptv-24.net/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/dynamo-kyiv-tv.png", Dynamo Kyiv TV
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.imgur.com/pEuaZVx.png",Футбол HD
-
-#EXTINF:-1 tvg-id="404" tvg-logo="http://tv.kubtel.ru/tv_icon/MyachHD.png" group-title="Sport_TV 🏆",Мяч
-
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/19244/index.m3u8
+#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="tvg-logo="http://epg.one/img2/4679.png".png" ,Мяч
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/10058/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",Realmadrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.pinimg.com/originals/1d/ed/56/1ded56de6c3762428deff37bfa0b3b28.jpg",Barcelona TV
@@ -2328,11 +2334,11 @@ https://s7.iptv-24.net/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg",A21 Network
 
 #EXTINF:-1 group-title="Sport_TV 🏆"  tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10151/logo_256_1658734245.png", Бокс ТВ
-
+http://cdntv.online/high/kf28bzwndi/44.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",MMA-TV
 https://s7.iptv-24.net/1226/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/ufc.png", UDAR HD
-http://5.188.159.128:8070/udar/index.m3u8
+http://cdntv.online/high/kf28bzwndi/381.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814", VIP Sport 1
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814", VIP Sport 2
@@ -2362,11 +2368,11 @@ http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-rec="7" timeshift="7",Equalympic
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/xokkejny.png",Хоккей ТВ
-
+http://cdntv.online/high/kf28bzwndi/1497.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.cdntv.online/img/45.png",КХЛ HD Хокей
 https://s7.iptv-24.net/1422/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/46.png" group-title="Sport_TV 🏆",KHL Prime
-http://bde.online24.pm/play/177/16419D145D0E706/video.m3u8
+http://cdntv.online/high/kf28bzwndi/46.m3u8
 #EXTINF:-1 tvg-logo="https://www.freevector.com/uploads/vector/preview/13819/FreeVector-Tennis-Vector.jpg" group-title="Sport_TV 🏆",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://pptt.fun/epglogo/nologo-2tv.png", Tennis+
@@ -2376,7 +2382,7 @@ http://bde.online24.pm/play/1889/16419D145D0E706/video.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/start-triumf.png", Старт Триумф HD
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/epg/icon/start.png", Старт HD
-
+http://cdntv.online/high/kf28bzwndi/58.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Trace Sport Stars
 https://s7.iptv-24.net/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Vital Drive
@@ -2586,8 +2592,22 @@ https://s7.iptv-24.net/1019/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://epg.cdntv.online/img/32.png",Россия 1 HD
 https://s7.iptv-24.net/1020/index.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://epg.cdntv.online/img/636.png", Россия 1 (+2)
+http://cdntv.online/high/kf28bzwndi/636.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://epg.cdntv.online/img/637.png", Россия 1 (+3)
+http://cdntv.online/high/kf28bzwndi/637.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://epg.cdntv.online/img/32.png", Россия 1 (+4)
 http://cdntv.online/high/kf28bzwndi/32.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://epg.cdntv.online/img/638.png", Россия 1 (+5)
+http://cdntv.online/high/kf28bzwndi/638.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://epg.cdntv.online/img/639.png", Россия 1 (+6)
+http://cdntv.online/high/kf28bzwndi/639.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://epg.cdntv.online/img/640.png", Россия 1 (+7)
+http://cdntv.online/high/kf28bzwndi/640.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://epg.cdntv.online/img/641.png", Россия 1 (+8)
+http://cdntv.online/high/kf28bzwndi/641.m3u8
+#EXTINF:-1 group-title="Rossiya_TV 🇷🇺" tvg-logo="http://epg.cdntv.online/img/642.png", Россия 1 (+9)
+http://cdntv.online/high/kf28bzwndi/642.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Россия Культура
 https://s7.iptv-24.net/1048/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rossiya_TV 🇷🇺",Россия РТР
@@ -9201,7 +9221,7 @@ http://m.cdntv.online/f/je3pmashtz/4x4_Welcome_Aboard_2019.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Kofe_TV ☕️" tvg-logo="https://img.razrisyika.ru/kart/20/1200/76229-eralash-32.jpg",Ералаш
 
 #EXTINF:-1 group-title="Kofe_TV ☕️",Анекдот ТВ
-
+http://cdntv.online/high/kf28bzwndi/469.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Kofe_TV ☕️" tvg-logo="https://s1.afisha.ru/mediastorage/d2/7a/14b61d47e0224a4e92c314b07ad2.jpg",Мистер Бин
 https://lbgo.bozztv.com/07/ushba45/index.m3u8
 #EXTINF:-1 group-title="Kofe_TV ☕️" tvg-logo="https://i.pinimg.com/736x/7b/24/2c/7b242c9dda311fc05c4ed1347003711c.jpg",Шоу Бенни Хилла
