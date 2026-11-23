@@ -81,7 +81,7 @@ https://s7.iptv-24.net/1206/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg",Ruxsor TV HD
 https://s7.iptv-24.net/4008/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://cdn.splay.uz/media/tv_channels/220.png" ,Qiziq TV
-https://s7.iptv-24.net/1291/tracks-v1a1/mono.m3u8
+https://stream12.itv.uz/t/cAZVkgE0gJY8E76vkT8ssQ/e/1795440544/1291/index.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/09-2025/8855.jpg", Retro TV
 https://s7.iptv-24.net/1290/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Uzbekistan_TV 🇺🇿" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/05/22//a5395b0b-1448-43da-a622-3a117c37ad78-q-500x500.jpeg", Farovon Yurt
@@ -235,7 +235,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/458MPWD8UEBKE9/2221/inde
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/7kanal-kz.png",7 канал KZ
 https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/31-kanal-kz.png",31 канал KZ
-
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS85MzYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/77tv-kz.png",77 канал
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://hls.gd/images/chIcons/3391.png",7 канал KG
@@ -263,17 +263,17 @@ http://c611a561.tvclub.xyz/iptv/U8VGFNCKR4XDKSAHAQHEW37N/15238/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/q-football-kz.png",Q Football HD 
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="http://epg.one/img2/5891.png",Q Arena
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/20061/index.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan Sport
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_5d385e7355153152ba34f5f2.png",Qazsport HD KZ
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/14032/index.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS8xMTQzLm0zdTg.m3u8?k=12345
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_64507c71071b52869ab93ab3.png" catchup-days="0", Q League HD KZ
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/20062/index.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.postimg.cc/RVZGp3Yg/unnamed.jpg",Setanta Qazaqstan 
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/2399/index.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS8xMTg3Lm0zdTg.m3u8?k=12345
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_5f9984549e0766c2417d4076.png",Setanta Sports 1 KZ
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/20065/index.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_5f9984649e0766c2417d4079.png" catchup-days="0", Setanta Sports 2 HD KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/08/11090848/Setanta-Sports-Boiler-Plate-Revised-Logo.jpg",Setanta Sport+KZ
@@ -351,7 +351,7 @@ http://80.72.179.162:8086/0.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://epg.pw/media/images/epg/2025/12/30/20251230021757407686_91.png", Кoктем KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://elarna.kz/images/Logo_ElArna.png",Ел Арна
-
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS85NDEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/abaitv.png",Abai TV
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/alautv.png",Алау ТВ
@@ -371,7 +371,7 @@ http://80.72.179.162:8086/0.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.ibb.co/P9V0532/Captura.png",Semei
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿"  tvg-logo="https://i.postimg.cc/5933R5YC/Jamb.jpg",Jambyl KZ
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/14232/index.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.imgur.com/pOR3FSR.png",Kókshe
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.imgur.com/9JfLseu.png",Mańǵystaý
@@ -415,7 +415,7 @@ https://qazaqstantv-stream.qazcdn.com/international/balapan/playlist.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.imgur.com/7l1WSDJ.png",Qyzyljar
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿"  tvg-logo="https://i.postimg.cc/sDTTvP3G/Qizil.jpg",Qyzylorda
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/14233/index.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/otyrar-tv.png",Otyrar KZ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿",TURKISTAN TV
@@ -431,7 +431,7 @@ http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/14233/index.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://toiduman.kz/images/logo.png",Той Туман ТВ
 
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://i.postimg.cc/mDdPQrkM/Aqsh.jpg",Aqsham TV KZ
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/14223/index.m3u8
+
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://iptvx.one/picons/silk-way-cinema.png" ,Silk Way Cinema HD
 https://stream.qazcdn.net/ex6r514/silkwaycinema/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Kazakistan_TV 🇰🇿" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakh-tv.png",Jibek Joly
@@ -2234,41 +2234,41 @@ https://s7.iptv-24.net/1430/tracks-v1a1/mono.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! HD
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/212/index.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS8zLm0zdTg.m3u8?k=12345
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Планета
 https://s7.iptv-24.net/1243/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Страна HD
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/19219/index.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS81NC5tM3U4.m3u8?k=12345
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/172/logo_256_1658736816.png",Матч! Арена HD
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/207/index.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS80OS5tM3U4.m3u8?k=12345
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/174/logo_256_1658736842.png",Матч! Игра HD
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/225/index.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS81MS5tM3U4.m3u8?k=12345
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/175/logo_256_1658736830.png" ,Матч! Боец HD
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/19221/index.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS81MC5tM3U4.m3u8?k=12345
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://tricolor-38.ru/KANALY_4/Mathc_premjer.jpg", Матч! Премьер
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/220/index.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS81Mi5tM3U4.m3u8?k=12345
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Футбол 1 HD
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/222/index.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS85ODEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Футбол 2 HD
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/211/index.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS85ODIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Футбол 3 HD
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/206/index.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3ZpcGwub25lL2hpZ2gvd2loNHNyeWVmbS85ODMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 1 HD
 https://s7.iptv-24.net/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Setanta Sports 2 HD
 https://s7.iptv-24.net/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/qMb6r3tT/feb5d74c-4901-4fef-b20e-f152bcdb9100.jpg",Setanta 1 Ukraina
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/272/index.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://i.postimg.cc/qMb6r3tT/feb5d74c-4901-4fef-b20e-f152bcdb9100.jpg",Setanta 2 Ukraina
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/6544/index.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://viasat.com.ua/uploads/images/setanta_plus_450x310.png",Setanta + Ukraine
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/31757/index.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-premium-ua-hd.png",Setanta Premium HD
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://setantasports.com/wp-content/uploads/2025/12/Pravila-Konkursa-RePlay-The-Year-1.png",Setanta Moldova HD
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/20074/index.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://s06.wsbof.com:8080/streams/megogo-sport-ua-hd.png",MEGOGO Спорт HD
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/31612/index.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆",Megogo Футбол 1 HD
 
 #EXTINF:-1 group-title="Sport_TV 🏆",Megogo Футбол 2 HD
@@ -2278,13 +2278,13 @@ http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/31612/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Megogo Гонг HD
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/1833.png?v1744706916", Окко.Прайм Спорт
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/20135/index.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/okko-football.png", Окко Футбол HD
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/6554/index.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/epg/2037.png?v1773512349", Окко Чемпионат
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/okko-sport.png", Окко Спорт HD
-http://b7224e95.cbilant.com/iptv/BAV3V5UU8DHH653GUHGFY4K4/20138/index.m3u8
+
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://static.tildacdn.pro/tild3733-6564-4336-a430-383533323231/_.jpg", Online TV
 
 #EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="https://ip-tv.dev/images/ico/upl.png", UPL.TV HD
