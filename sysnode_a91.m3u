@@ -3544,7 +3544,7 @@ https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mo
 #EXTINF:-1 group-title="KINO_TV 📺"  tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/60feca35006979.56e697726b80f.png",Кино ТВ HD
 http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 group-title="KINO_TV 📺",Еврокино
-http://vod.tuva.ru/eurokino/index.m3u8
+http://185.46.16.239:8000/Yevrokino
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="http://rafail1982.uz/logo/Cinema HD.png",Cinema
 https://s7.iptv-24.net/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO_TV 📺" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678907_10_16_2018-q-500x500.jpeg",Родное Кино
