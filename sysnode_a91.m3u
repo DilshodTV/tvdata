@@ -2228,19 +2228,9 @@ https://s7.iptv-24.net/1430/tracks-v1a1/mono.m3u8
 
 
 
-
-
-
-
 #EXTM3U
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! HD
 http://cdntv.online/high/kf28bzwndi/48.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.one/img2/2051.png",Матч ТВ +2
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6012/index.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.one/img2/2051.png",Матч ТВ +4
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6023/index.m3u8
-#EXTINF:-1 group-title="Sport_TV 🏆" tvg-logo="http://epg.one/img2/2051.png",Матч ТВ +8
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PN72TRC6UNHLF9/6052/index.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Планета
 https://s7.iptv-24.net/1243/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport_TV 🏆",Матч! Страна HD
